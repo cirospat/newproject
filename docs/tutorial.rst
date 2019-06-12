@@ -28,6 +28,15 @@ Tansignari, quando le cose spiegate in 2 minuti non si perdono
 
 |
 
+.. _h3b9431e3a511972f35d463f382d2:
+
+Definizione Standard per il paniere di dataset degli Enti Locali
+================================================================
+
+Dalla Regione Lombardia un \ |LINK5|\  (ringraziamenti a Daniele Crespi).
+
+|
+
 .. _h29f113a4f4d45f36e3f2041374d68:
 
 Tutorial: pubblicare documenti su 'Read the Docs' utilizzando Google doc e il componente aggiuntivo 'GGeditor'
@@ -36,7 +45,7 @@ Tutorial: pubblicare documenti su 'Read the Docs' utilizzando Google doc e il co
 
 |REPLACE3|
 
-\ |LINK5|\  per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il "commit" sul progetto Github direttamente da Google doc.
+\ |LINK6|\  per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il "commit" sul progetto Github direttamente da Google doc.
 
 |
 
@@ -48,7 +57,7 @@ Tutorial: dai fogli di GoogleDrive alle mappe openstreetmap di uMap
 
 |REPLACE4|
 
-\ |LINK6|\ . Il mio primo tutorial di sempre (grazie ad Andrea Borruso). 
+\ |LINK7|\ . Il mio primo tutorial di sempre (grazie ad Andrea Borruso). 
 
 |
 
@@ -60,7 +69,7 @@ Tutorial: realizzazione di un progetto a basso costo per il rilevamento dei dati
 
 |REPLACE5|
 
-\ |LINK7|\  cosa comprare (spendendo meno di 50 euro), come assemblare la componentistica e come connettere la propria stazione ad una rete mondiale di rilevamento delle polveri sottili, ottenendo la disponibilità dei dati in formato aperto (CSV, JSON) per attività di analisi.
+\ |LINK8|\  cosa comprare (spendendo meno di 50 euro), come assemblare la componentistica e come connettere la propria stazione ad una rete mondiale di rilevamento delle polveri sottili, ottenendo la disponibilità dei dati in formato aperto (CSV, JSON) per attività di analisi.
 
 |
 
@@ -72,13 +81,13 @@ Corsi online su 'competenze e servizi digitali'
 
 |REPLACE6|
 
-➽  \ |STYLE0|\  - Iniziativa promossa dal \ |STYLE1|\  nell’ambito del \ |LINK8|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione. Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi. \ |LINK9|\ .
+➽  \ |STYLE0|\  - Iniziativa promossa dal \ |STYLE1|\  nell’ambito del \ |LINK9|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione. Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi. \ |LINK10|\ .
 
-➽  \ |STYLE2|\  \ |LINK10|\  \ |STYLE3|\  (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
+➽  \ |STYLE2|\  \ |LINK11|\  \ |STYLE3|\  (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
 
-➽  \ |STYLE4|\  sui \ |LINK11|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale).
+➽  \ |STYLE4|\  sui \ |LINK12|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale).
 
-➽  \ |STYLE5|\ . \ |LINK12|\ . Posta elettronica certificata, PDF e firma digitale (Pades e Cades) - i formati dei files (doc, odt, xls, ods, docx, xlsx, jpg, bmp, pdf, xml, zip, 7z ecc....) e la loro gestione e conservazione - la creazione dei fascicoli elettronici e la denominazione di cartelle e files - i programmi open source e freeware più diffusi ed utili (libreoffice, 7z, gimp, ecc...) - ricerca di norme, sentenze e dottrina in rete - informatica giuridica (dall'analogico al digitale e viceversa, copie analogiche e copie digitali, conservazione degli atti) - ottimizzazione dei browser (preferiti, links ecc...).
+➽  \ |STYLE5|\ . \ |LINK13|\ . Posta elettronica certificata, PDF e firma digitale (Pades e Cades) - i formati dei files (doc, odt, xls, ods, docx, xlsx, jpg, bmp, pdf, xml, zip, 7z ecc....) e la loro gestione e conservazione - la creazione dei fascicoli elettronici e la denominazione di cartelle e files - i programmi open source e freeware più diffusi ed utili (libreoffice, 7z, gimp, ecc...) - ricerca di norme, sentenze e dottrina in rete - informatica giuridica (dall'analogico al digitale e viceversa, copie analogiche e copie digitali, conservazione degli atti) - ottimizzazione dei browser (preferiti, links ecc...).
 
 |
 
@@ -87,7 +96,7 @@ Corsi online su 'competenze e servizi digitali'
 Webinar sulla costruzione di un 'progetto europeo'
 ==================================================
 
-\ |STYLE6|\ . Un validissimo \ |LINK13|\  e \ |LINK14|\  a cura della Fondazione IFEL - ANCI.
+\ |STYLE6|\ . Un validissimo \ |LINK14|\  e \ |LINK15|\  a cura della Fondazione IFEL - ANCI.
 
 |
 
@@ -96,13 +105,13 @@ Webinar sulla costruzione di un 'progetto europeo'
 Manuali vari 
 =============
 
-➽ \ |LINK15|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
+➽ \ |LINK16|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
 
-➽ \ |LINK16|\  in uso al Comune di Palermo
+➽ \ |LINK17|\  in uso al Comune di Palermo
 
-➽ \ |LINK17|\  del comune di Palermo
+➽ \ |LINK18|\  del comune di Palermo
 
-➽ \ |LINK18|\  (\ |STYLE7|\ , \ |STYLE8|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK19|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK20|\ ]
+➽ \ |LINK19|\  (\ |STYLE7|\ , \ |STYLE8|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK20|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK21|\ ]
 
 
 |REPLACE7|
@@ -192,65 +201,69 @@ Manuali vari
 
 .. |LINK5| raw:: html
 
-    <a href="http://googledocs.readthedocs.io" target="_blank">Un componente aggiuntivo (GGeditor)</a>
+    <a href="https://definizione-standard-paniere-dataset-enti-locali.readthedocs.io" target="_blank">documento che definisce uno standard per il paniere di dataset da pubblicare da parte degli Enti Locali</a>
 
 .. |LINK6| raw:: html
 
-    <a href="http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html" target="_blank">Creare mappe su UMAP che si aggiornano automaticamente dai fogli spreadsheet di Google Drive</a>
+    <a href="http://googledocs.readthedocs.io" target="_blank">Un componente aggiuntivo (GGeditor)</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://medium.com/@cirospat/realizzazione-di-un-progetto-low-cost-per-il-rilevamento-dati-delle-polveri-sottili-dal-proprio-e85188d9ad0" target="_blank">Un tutorial che spiega nel dettaglio</a>
+    <a href="http://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html" target="_blank">Creare mappe su UMAP che si aggiornano automaticamente dai fogli spreadsheet di Google Drive</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://www.pongovernance1420.gov.it/" target="_blank">Programma Operativo Nazionale “Governance e Capacità Istituzionale 2014-2020"</a>
+    <a href="https://medium.com/@cirospat/realizzazione-di-un-progetto-low-cost-per-il-rilevamento-dati-delle-polveri-sottili-dal-proprio-e85188d9ad0" target="_blank">Un tutorial che spiega nel dettaglio</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://www.competenzedigitali.gov.it" target="_blank">Link alla piattaforma online per le "competenze digitali" a cura della Funzione Pubblica</a>
+    <a href="http://www.pongovernance1420.gov.it/" target="_blank">Programma Operativo Nazionale “Governance e Capacità Istituzionale 2014-2020"</a>
 
 .. |LINK10| raw:: html
 
-    <a href="http://formazione.formez.it/content/corsi-online-competenze-digitali" target="_blank">competenze digitali</a>
+    <a href="http://www.competenzedigitali.gov.it" target="_blank">Link alla piattaforma online per le "competenze digitali" a cura della Funzione Pubblica</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://eventipa.formez.it/progetto-formez-dettaglio-ms/17436" target="_blank">servizi digitali - Italia Login</a>
+    <a href="http://formazione.formez.it/content/corsi-online-competenze-digitali" target="_blank">competenze digitali</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://www.youtube.com/playlist?list=PLnc9N-ztTF5fxGBBYR1JDpd_VoAyJ_H2p" target="_blank">Link</a>
+    <a href="http://eventipa.formez.it/progetto-formez-dettaglio-ms/17436" target="_blank">servizi digitali - Italia Login</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9640-video-come-si-scrive-bene-un-progetto-europeo" target="_blank">Webinar</a>
+    <a href="https://www.youtube.com/playlist?list=PLnc9N-ztTF5fxGBBYR1JDpd_VoAyJ_H2p" target="_blank">Link</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9639-slide-come-si-scrive-bene-un-progetto-europeo" target="_blank">Materiali didattici</a>
+    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9640-video-come-si-scrive-bene-un-progetto-europeo" target="_blank">Webinar</a>
 
 .. |LINK15| raw:: html
 
-    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
+    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9639-slide-come-si-scrive-bene-un-progetto-europeo" target="_blank">Materiali didattici</a>
 
 .. |LINK16| raw:: html
 
-    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
 
 .. |LINK17| raw:: html
 
-    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
+    <a href="http://libro-firma.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
+    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
 
 .. |LINK20| raw:: html
+
+    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+
+.. |LINK21| raw:: html
 
     <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
 
