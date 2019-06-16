@@ -102,7 +102,9 @@ Ontologie Ministero Beni Culturali
 
 .. admonition:: Articoli concernenti ontologie, vocabolari controllati e linked open data
 
-    * \ |LINK20|\  - Turtle vs RDF/XML vs N-Triples vs JSON-LD (Angus Addlesee).
+    * Un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` ed i ``vocabolari controllati``: "\ |LINK20|\ ".
+    
+    * \ |LINK21|\  - Turtle vs RDF/XML vs N-Triples vs JSON-LD (Angus Addlesee).
     
 
 |
@@ -245,6 +247,10 @@ Ontologie Ministero Beni Culturali
     <a href="http://www.iccd.beniculturali.it/it/150/archivio-news/4618/" target="_blank">Slide illustrative del progetto ARCO e il catalogo dei beni culturali</a>
 
 .. |LINK20| raw:: html
+
+    <a href="http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/" target="_blank">Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana</a>
+
+.. |LINK21| raw:: html
 
     <a href="https://medium.com/wallscope/understanding-linked-data-formats-rdf-xml-vs-turtle-vs-n-triples-eb931dbe9827" target="_blank">Understanding Linked Data Formats</a>
 
