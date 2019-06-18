@@ -44,6 +44,8 @@ catalogo Read the Docs a cura di Ciro Spataro
 +------------------------------------------------------------------------------------------+
 |\ |LINK19|\                                                                               |
 +------------------------------------------------------------------------------------------+
+|\ |LINK20|\                                                                               |
++------------------------------------------------------------------------------------------+
 
 |
 
@@ -126,4 +128,8 @@ catalogo Read the Docs a cura di Ciro Spataro
 .. |LINK19| raw:: html
 
     <a href="https://manuale-gestione-protocollo-documento-informatico-palermo.readthedocs.io" target="_blank">Manuale di gestione del protocollo informatico, dei documenti e dell’archivio del Comune di Palermo</a>
+
+.. |LINK20| raw:: html
+
+    <a href="https://definizione-standard-paniere-dataset-enti-locali.readthedocs.io" target="_blank">Definizione Standard per il paniere di dataset degli Enti Locali</a>
 
