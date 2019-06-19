@@ -250,7 +250,7 @@ Il comune di Palermo è stato analizzato in una \ |LINK30|\ . L'indagine ha dato
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/io.jpg" width="600" />
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/io.jpg" width="900" />
 
 .. |LINK1| raw:: html
 
