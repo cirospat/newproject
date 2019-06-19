@@ -140,7 +140,7 @@ Approvazione del \ |STYLE25|\  (\ |LINK26|\ ).
 
 |
 
-Partecipazione all’area sperimentale della \ |STYLE26|\  (\ |LINK27|\ ) per l’accesso telematico ai servizi della Pubblica Amministrazione ai sensi dell’art. 64-bis del decreto legislativo 7 marzo 2005, n. 82 (20 luglio 2018).
+Partecipazione all’area sperimentale della \ |STYLE26|\  (\ |LINK27|\ ) per l’accesso telematico unico ai servizi della Pubblica Amministrazione, ai sensi dell’art. 64-bis del decreto legislativo 7 marzo 2005, n. 82 (20 luglio 2018).
 
 |REPLACE1|
 
