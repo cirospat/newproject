@@ -142,6 +142,8 @@ Approvazione del \ |STYLE25|\  (\ |LINK26|\ ).
 
 Partecipazione all’area sperimentale della \ |STYLE26|\  (\ |LINK27|\ ) per l’accesso telematico ai servizi della Pubblica Amministrazione ai sensi dell’art. 64-bis del decreto legislativo 7 marzo 2005, n. 82 (20 luglio 2018).
 
+|REPLACE1|
+
 |
 
 In fase di avvio, il servizio di rilascio della \ |STYLE27|\  da parte del comune di Palermo (\ |LINK28|\ ). Tale obiettivo si raggiunge in seguito alle attività di subentro dell'anagrafe comunale all'Anagrafe Nazionale della Popolazione Residente (ANPR).
@@ -245,6 +247,10 @@ Il comune di Palermo è stato analizzato in una \ |LINK30|\ . L'indagine ha dato
 
 .. |STYLE32| replace:: **fascia media per integrazione con le piattaforme abilitanti**
 
+
+.. |REPLACE1| raw:: html
+
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/io.jpg" width="600" />
 
 .. |LINK1| raw:: html
 
