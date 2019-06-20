@@ -106,12 +106,12 @@ Catalogo del software open source a disposizione della Pubblica Amministrazione 
 
 --------
 
-.. _h415f6f1026481e236e774c3c2651618:
+.. _h4f2b283f791554f48211e63417f4b19:
 
-Linee guida 2018 modello di interoperabilità nelle Pubbliche Amministrazioni
-****************************************************************************
+Linee guida modello di interoperabilità per la Pubblica Amministrazione
+***********************************************************************
 
-\ |LINK11|\ 
+\ |LINK11|\  (in consultazione pubblica dal 16/05/2019 al 14/06/2019)
 
 --------
 
