@@ -95,6 +95,8 @@ Linee Guida su acquisizione e riuso di software per le Pubbliche Amministrazioni
 
 \ |LINK9|\ 
 
+|REPLACE2|
+
 .. _h1d3cf51276d62b5e694c532f3b7f24:
 
 Catalogo del software open source a disposizione della Pubblica Amministrazione (AgID + Team Trasformazione Digitale)
@@ -295,7 +297,7 @@ Sicurezza Cibernetica: iniziative e azioni per amministrazioni più sicure (webi
 *******************************************************************************************************
 
 
-|REPLACE2|
+|REPLACE3|
 
 \ |LINK40|\ .
 
@@ -393,7 +395,7 @@ Competenze digitali per la PA
 *****************************
 
 
-|REPLACE3|
+|REPLACE4|
 
 Iniziativa promossa dal Dipartimento della funzione pubblica nell’ambito del \ |LINK59|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione.
 
@@ -404,7 +406,7 @@ Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente d
 --------
 
 
-|REPLACE4|
+|REPLACE5|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -437,12 +439,15 @@ Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente d
     <img src="https://img.shields.io/badge/fondamentali-amministrazione_digitale-blue.svg?style=popout&logo=Read%20the%20Docs" />
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="500" src="https://www.youtube.com/embed/j1PGeUthii0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    <span class="footer_small">Misure minime di sicurezza ICT (AgID) e ruolo del CERT-PA, Computer Emergency Response Team Pubblica Amministrazione, che opera all’interno di AgID e ha il compito di supportare le amministrazioni nella prevenzione e nella risposta agli incidenti di sicurezza informatica.</span>
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/riuso.jpg" width= 900 />
 .. |REPLACE3| raw:: html
 
-    <img src="http://www.competenzedigitali.gov.it/typo3conf/ext/competenze/Resources/Public/Images/template/logo-competenze-digitali-pa.svg" width= 300 />
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/j1PGeUthii0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <span class="footer_small">Misure minime di sicurezza ICT (AgID) e ruolo del CERT-PA, Computer Emergency Response Team Pubblica Amministrazione, che opera all’interno di AgID e ha il compito di supportare le amministrazioni nella prevenzione e nella risposta agli incidenti di sicurezza informatica.</span>
 .. |REPLACE4| raw:: html
+
+    <img src="http://www.competenzedigitali.gov.it/typo3conf/ext/competenze/Resources/Public/Images/template/logo-competenze-digitali-pa.svg" width= 300 />
+.. |REPLACE5| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
