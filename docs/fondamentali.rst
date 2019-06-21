@@ -97,6 +97,8 @@ Linee Guida su acquisizione e riuso di software per le Pubbliche Amministrazioni
 
 |REPLACE2|
 
+|
+
 .. _h1d3cf51276d62b5e694c532f3b7f24:
 
 Catalogo del software open source a disposizione della Pubblica Amministrazione (AgID + Team Trasformazione Digitale)
