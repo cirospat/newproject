@@ -59,9 +59,9 @@ Curriculum Vitae
 
 .. |REPLACE2| raw:: html
 
-    <img alt="undefined" src="https://img.shields.io/badge/CV_di_Ciro_Spataro-aggiornato_al_31_gennaio_2019-blue.svg" />
+    <img alt="undefined" src="https://img.shields.io/badge/CV_di_Ciro_Spataro-aggiornato_al_21_giugno_2019-blue.svg" />
     </br>
-    <img alt="undefined" src="https://img.shields.io/badge/CV_of_Ciro_Spataro-updated_to_january_31_2019-blue.svg" />
+    <img alt="undefined" src="https://img.shields.io/badge/CV_of_Ciro_Spataro-updated_to_giugno_21_2019-blue.svg" />
 
 .. |LINK1| raw:: html
 
