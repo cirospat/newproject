@@ -129,7 +129,7 @@ catalogo Read the Docs a cura di Ciro Spataro
 
 .. |LINK19| raw:: html
 
-    <a href="https://palermo-sostenibile.readthedocs.io" target="_blank">https://palermo-sostenibile.readthedocs.io</a>
+    <a href="https://palermo-sostenibile.readthedocs.io" target="_blank">Palermo sostenibile</a>
 
 .. |LINK20| raw:: html
 
