@@ -2474,6 +2474,9 @@ Su richiesta da parte di un cittadino si è provveduto a pubblicare il dataset "
 
 68-
 
+
+24 maggio 2019
+
 .. _h4956414410462c2733f7d660371b5f:
 
 Area delle Relazioni Istituzionali Sviluppo e Risorse Umane
@@ -2504,6 +2507,23 @@ Su richiesta da parte di cittadini in collaborazione con il dott. D'Anneo dell'U
 #. \ |LINK196|\ 
 
 #. \ |LINK197|\ 
+
+--------
+
+69-
+
+28 giugno 2019
+
+.. _h3279616a6b6bc422b22292c4f1f223f:
+
+Area Servizi alla città - Sportello Unico Attività Produttive
+=============================================================
+
+Su richiesta di un cittadino il personale dello Sportello Unico Attività Produttive (SUAP) ha generato un dataset sull'elenco degli eventi programmati alla Fiera del Mediterraneo per l'anno 2019, come richiesti dai soggetti esterni al Comune di Palermo.
+
+I referenti open data Neglia e Passavia del SUAP in un incontro del 28 giugno 2019 hanno provvduto a rendere disponibile un dataset in formato CSV che è stato adeguatamente metadatato e pubblicato al seguente \ |LINK198|\ .
+
+--------
 
 
 .. bottom of content
@@ -3443,4 +3463,8 @@ Su richiesta da parte di cittadini in collaborazione con il dott. D'Anneo dell'U
 .. |LINK197| raw:: html
 
     <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1211" target="_blank">https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1211</a>
+
+.. |LINK198| raw:: html
+
+    <a href="https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1248" target="_blank">link</a>
 
