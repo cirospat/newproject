@@ -28,23 +28,25 @@ catalogo Read the Docs a cura di Ciro Spataro
 +------------------------------------------------------------------------------------------+
 |\ |LINK11|\                                                                               |
 +------------------------------------------------------------------------------------------+
-|\ |LINK12|\  in collaborazione con Marina Galluzzo (Comune di Udine)                      |
+|\ |LINK12|\                                                                               |
 +------------------------------------------------------------------------------------------+
-|\ |LINK13|\  - un piccolo supporto a Matteo Troia                                         |
+|\ |LINK13|\  in collaborazione con Marina Galluzzo (Comune di Udine)                      |
 +------------------------------------------------------------------------------------------+
-|\ |LINK14|\                                                                               |
+|\ |LINK14|\  - un piccolo supporto a Matteo Troia                                         |
 +------------------------------------------------------------------------------------------+
-|\ |LINK15|\  - un supporto a FPA                                                          |
+|\ |LINK15|\                                                                               |
 +------------------------------------------------------------------------------------------+
-|\ |LINK16|\                                                                               |
+|\ |LINK16|\  - un supporto a FPA                                                          |
 +------------------------------------------------------------------------------------------+
-|\ |LINK17|\  traduzione italiana del documento inglese                                    |
+|\ |LINK17|\                                                                               |
 +------------------------------------------------------------------------------------------+
-|\ |LINK18|\                                                                               |
+|\ |LINK18|\  traduzione italiana del documento inglese                                    |
 +------------------------------------------------------------------------------------------+
 |\ |LINK19|\                                                                               |
 +------------------------------------------------------------------------------------------+
 |\ |LINK20|\                                                                               |
++------------------------------------------------------------------------------------------+
+|\ |LINK21|\                                                                               |
 +------------------------------------------------------------------------------------------+
 
 |
@@ -95,41 +97,45 @@ catalogo Read the Docs a cura di Ciro Spataro
 
 .. |LINK11| raw:: html
 
-    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella Pubblica Amministrazione</a>
+    <a href="https://manuale-libro-firma-2-0.readthedocs.io" target="_blank">Manuale d’uso della Procedura Digitale Libro Firma, versione 2.0</a>
 
 .. |LINK12| raw:: html
 
-    <a href="http://carta-servizi-civici-musei-comune-udine.readthedocs.io" target="_blank">Carta Servizi Civici dei Musei del Comune di Udine</a>
+    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella Pubblica Amministrazione</a>
 
 .. |LINK13| raw:: html
 
-    <a href="http://casarsa-2017-2022.readthedocs.io" target="_blank">Programma di Casarsa della Delizia 2017-2022</a>
+    <a href="http://carta-servizi-civici-musei-comune-udine.readthedocs.io" target="_blank">Carta Servizi Civici dei Musei del Comune di Udine</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://palermo-smarter-city-challenge-2017-ibm.readthedocs.io" target="_blank">Report Palermo Smarter City Challenge 2017 by IBM</a>
+    <a href="http://casarsa-2017-2022.readthedocs.io" target="_blank">Programma di Casarsa della Delizia 2017-2022</a>
 
 .. |LINK15| raw:: html
 
-    <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">Libro bianco innovazione ForumPA 2018</a>
+    <a href="https://palermo-smarter-city-challenge-2017-ibm.readthedocs.io" target="_blank">Report Palermo Smarter City Challenge 2017 by IBM</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://formati-accessibili-comune-palermo.readthedocs.io/it/latest/" target="_blank">Formati accessibili dei documenti del comune di Palermo</a>
+    <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">Libro bianco innovazione ForumPA 2018</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Profilo di applicazione del vocabolario dei servizi pubblici 2.2</a>
+    <a href="https://formati-accessibili-comune-palermo.readthedocs.io/it/latest/" target="_blank">Formati accessibili dei documenti del comune di Palermo</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://palermo-sostenibile.readthedocs.io" target="_blank">https://palermo-sostenibile.readthedocs.io</a>
+    <a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Profilo di applicazione del vocabolario dei servizi pubblici 2.2</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://manuale-gestione-protocollo-documento-informatico-palermo.readthedocs.io" target="_blank">Manuale di gestione del protocollo informatico, dei documenti e dell’archivio del Comune di Palermo</a>
+    <a href="https://palermo-sostenibile.readthedocs.io" target="_blank">https://palermo-sostenibile.readthedocs.io</a>
 
 .. |LINK20| raw:: html
+
+    <a href="https://manuale-gestione-protocollo-documento-informatico-palermo.readthedocs.io" target="_blank">Manuale di gestione del protocollo informatico, dei documenti e dell’archivio del Comune di Palermo</a>
+
+.. |LINK21| raw:: html
 
     <a href="https://definizione-standard-paniere-dataset-enti-locali.readthedocs.io" target="_blank">Definizione Standard per il paniere di dataset degli Enti Locali</a>
 
