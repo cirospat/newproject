@@ -32,7 +32,7 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 * le ``competenze digitali`` dei dirigenti e dipendenti pubblici; 
 
-* la ``cultura digitale``.
+* la ``cultura digitale`` e la ``cittadinanza digitale``.
 
 Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali, utili nell'ambiente di lavoro al comune di Palermo.
 
