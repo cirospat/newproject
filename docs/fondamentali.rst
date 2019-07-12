@@ -34,10 +34,10 @@ Forum sui servizi pubblici digitali della Pubblica Amministrazione italiana
 
 --------
 
-.. _h30c8061751c43e6795b7f6b7a336f:
+.. _h1d15616125c21352b1d4b61f735d55:
 
-DAF - Data Analytics Framework
-******************************
+Piattaforma Digitale Nazionale Dati, ex DAF Data Analytics Framework
+********************************************************************
 
 Pannello di visualizzazione dei dati delle Pubbliche Amministrazioni italiane - \ |LINK3|\ 
 
@@ -479,7 +479,7 @@ Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente d
 
 .. |LINK3| raw:: html
 
-    <a href="https://dataportal.daf.teamdigitale.it/dataset/search" target="_blank">DAF</a>
+    <a href="https://dataportal.daf.teamdigitale.it/dataset/search" target="_blank">Piattaforma Digitale Nazionale Dati</a>
 
 .. |LINK4| raw:: html
 
