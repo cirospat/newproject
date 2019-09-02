@@ -177,6 +177,40 @@ Il comune di Palermo è stato analizzato in una \ |LINK30|\ . L'indagine ha dato
 
 |
 
+\ |STYLE33|\  \ |LINK31|\  al comune di Palermo. Su input della Corte dei Conti, le PA sono state invitate a compilare un questionario online per comprendere il livello di attuazione del Piano triennale per l'informatica.
+
+A questo \ |LINK32|\  sono riportati i dati della compilazione per l'anno 2019 riferiti alle azioni svolte fino al 2018 dal comune di Palermo.
+
+.. admonition:: Schema del questionario della Corte dei Conti
+
+    A- Gestione del Cambiamento: contiene la richiesta di informazioni relative all’organizzazione interna dell’ICT dell’Ente;
+    
+    B- Infrastrutture fisiche - Connettività: contiene la richiesta di informazioni relative alle utenze attive e alla tipologia di connessione alla rete Internet; 
+    
+    C- Infrastrutture fisiche - "Cloud e Data Center" - Mappatura dei servizi e degli applicativi: contiene la richiesta di informazioni relative al patrimonio applicativo dell’Ente;
+    
+    D- Infrastrutture fisiche - "Cloud e Data Center" - Percezione del Cloud: contiene la richiesta di informazioni relative alla valutazione dei servizi di Cloud Computing; 
+    
+    E- Infrastrutture fisiche - "Cloud e Data Center" - Programma di abilitazione al Cloud: contiene la richiesta di informazioni e valutazioni relative all’eventuale utilizzo dei servizi Cloud; 
+    
+    F- Infrastrutture fisiche - "Cloud e Data Center" - Mappatura competenze del Team ICT: contiene la richiesta di informazioni relative al livello di competenza del Team ICT;
+    
+    G- Infrastrutture immateriali - Piattaforme abilitanti: contiene informazioni relative all’accesso ai servizi tramite SPID, al rilascio di documenti di identità, al subentro in ANPR, all’utilizzo di servizi per le PA; 
+    
+    H- Infrastrutture immateriali - Open data, basi dati di interesse nazionale: contiene informazioni relative all’utilizzo di basi di dati di interesse nazionale e al rilascio di open data; 
+    
+    I- Infrastrutture immateriali - Riuso del Software: contiene informazioni relative all’utilizzo e allo sviluppo di programmi informatici; 
+    
+    J- Offerta di servizi online: contiene informazioni relative ai servizi online resi disponibili dall’Ente; 
+    
+    K- Mobile Government: contiene informazioni relative ai punti di accesso wifi, alle applicazioni per smartphone e tablet, ai servizi di monitoraggio; 
+    
+    L- Formazione dei dipendenti: contiene informazioni relative alla formazione acquisita dai dipendenti in merito all’ICT, ai processi di eGovernment e allo svolgimento delle funzioni ad essi collegate; 
+    
+    M- Servizi di assistenza: contiene informazioni relative all'organizzazione e all'erogazione di servizi di assistenza, hardware e software, forniti dall'Ente.
+
+|
+
 
 .. bottom of content
 
@@ -246,6 +280,8 @@ Il comune di Palermo è stato analizzato in una \ |LINK30|\ . L'indagine ha dato
 .. |STYLE31| replace:: **fascia media per quanto riguarda servizi online**
 
 .. |STYLE32| replace:: **fascia media per integrazione con le piattaforme abilitanti**
+
+.. |STYLE33| replace:: **Monitoraggio dell'attuazione del**
 
 
 .. |REPLACE1| raw:: html
@@ -371,4 +407,12 @@ Il comune di Palermo è stato analizzato in una \ |LINK30|\ . L'indagine ha dato
 .. |LINK30| raw:: html
 
     <a href="https://www.forumpa.it/pa-digitale/servizi-piattaforme-e-openness-tre-dimensioni-per-scoprire-quanto-sono-digitali-i-comuni-italiani/" target="_blank">indagine nazionale di FPA sulla maturità dei servizi digitali</a>
+
+.. |LINK31| raw:: html
+
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/" target="_blank">Piano triennale per l'informatica</a>
+
+.. |LINK32| raw:: html
+
+    <a href="https://pianotriennaleict-palermo-monitoraggio2019.readthedocs.io" target="_blank">link</a>
 
