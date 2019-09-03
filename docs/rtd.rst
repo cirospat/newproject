@@ -48,6 +48,8 @@ catalogo Read the Docs a cura di Ciro Spataro
 +------------------------------------------------------------------------------------------+
 |\ |LINK21|\                                                                               |
 +------------------------------------------------------------------------------------------+
+|\ |LINK22|\                                                                               |
++------------------------------------------------------------------------------------------+
 
 |
 
@@ -138,4 +140,8 @@ catalogo Read the Docs a cura di Ciro Spataro
 .. |LINK21| raw:: html
 
     <a href="https://definizione-standard-paniere-dataset-enti-locali.readthedocs.io" target="_blank">Definizione Standard per il paniere di dataset degli Enti Locali</a>
+
+.. |LINK22| raw:: html
+
+    <a href="https://pianotriennaleict-palermo-monitoraggio2019.readthedocs.io" target="_blank">Monitoraggio attuazione Piano triennale ICT comune di Palermo - versione 2019</a>
 
