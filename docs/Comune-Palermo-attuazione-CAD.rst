@@ -211,6 +211,8 @@ A questo \ |LINK32|\  sono riportati i dati della compilazione per l'anno 2019 r
 
 |
 
+Il 14 settembre 2019 il comune di Palermo è subentarato all'\ |STYLE34|\  \ |LINK33|\ . \ |STYLE35|\  Il passo immediatamente successivo è l'emissione,  a partire dallo stesso settembre 2019, della \ |LINK34|\ .
+
 
 .. bottom of content
 
@@ -282,6 +284,10 @@ A questo \ |LINK32|\  sono riportati i dati della compilazione per l'anno 2019 r
 .. |STYLE32| replace:: **fascia media per integrazione con le piattaforme abilitanti**
 
 .. |STYLE33| replace:: **Monitoraggio dell'attuazione del**
+
+.. |STYLE34| replace:: **ANPR, Anagrafe Nazionale della Popolazione Residente**
+
+.. |STYLE35| replace:: *Con ANPR le amministrazioni potranno dialogare in maniera efficiente tra di loro avendo una fonte unica e certa per i dati dei cittadini. Anche oggi però ANPR consente ai cittadini di ottenere vantaggi immediati quali la richiesta di certificati anagrafici in tutti i comuni, cambio di residenza più semplice ed immediato ed a breve la possibilità di ottenere certificati da un portale unico.*
 
 
 .. |REPLACE1| raw:: html
@@ -415,4 +421,12 @@ A questo \ |LINK32|\  sono riportati i dati della compilazione per l'anno 2019 r
 .. |LINK32| raw:: html
 
     <a href="https://pianotriennaleict-palermo-monitoraggio2019.readthedocs.io" target="_blank">link</a>
+
+.. |LINK33| raw:: html
+
+    <a href="https://teamdigitale.governo.it/it/projects/anpr.htm" target="_blank">https://teamdigitale.governo.it/it/projects/anpr.htm</a>
+
+.. |LINK34| raw:: html
+
+    <a href="https://www.cartaidentita.interno.gov.it/" target="_blank">Carta d'Identità Elettronica</a>
 
