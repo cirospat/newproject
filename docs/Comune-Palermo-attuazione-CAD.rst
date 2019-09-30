@@ -144,9 +144,6 @@ Partecipazione all’area sperimentale della \ |STYLE26|\  (\ |LINK27|\ ) per l�
 
 |REPLACE1|
 
-
-|REPLACE2|
-
 |
 
 In fase di avvio, il servizio di rilascio della \ |STYLE27|\  da parte del comune di Palermo (\ |LINK28|\ ). Tale obiettivo si raggiunge in seguito alle attività di subentro dell'anagrafe comunale all'Anagrafe Nazionale della Popolazione Residente (ANPR).
@@ -294,9 +291,6 @@ Il 14 settembre 2019 il comune di Palermo è subentarato all'\ |STYLE34|\  \ |LI
 
 
 .. |REPLACE1| raw:: html
-
-    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/io.jpg" width="900" />
-.. |REPLACE2| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/zrKOS2LiWTU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
