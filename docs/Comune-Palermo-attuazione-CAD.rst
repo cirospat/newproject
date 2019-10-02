@@ -140,21 +140,19 @@ Approvazione del \ |STYLE25|\  (\ |LINK26|\ ).
 
 |
 
-Partecipazione all’area sperimentale della \ |STYLE26|\  (\ |LINK27|\ ) per l’accesso telematico unico ai servizi della Pubblica Amministrazione, ai sensi dell’art. 64-bis del decreto legislativo 7 marzo 2005, n. 82 (20 luglio 2018).
-
-|REPLACE1|
+Nel luglio 2018 viene avviata la partecipazione del comune all’area sperimentale della \ |STYLE26|\  (\ |LINK27|\ ) per l’accesso telematico unico ai servizi della Pubblica Amministrazione, ai sensi dell’\ |LINK28|\ . L'app IO è curata dal \ |LINK29|\  che opera alle dirette dipendenza della Presidenza del Consiglio dei Ministri.
 
 |
 
-In fase di avvio, il servizio di rilascio della \ |STYLE27|\  da parte del comune di Palermo (\ |LINK28|\ ). Tale obiettivo si raggiunge in seguito alle attività di subentro dell'anagrafe comunale all'Anagrafe Nazionale della Popolazione Residente (ANPR).
+Nell'ottobre 2018 è in fase di avvio, il subentro dell'anagrafe comunale all'\ |LINK30|\ . Il subentro è necessario per il successivo passo del rilascio della \ |STYLE27|\  da parte del comune di Palermo (\ |LINK31|\ ). 
 
 |
 
-Novembre 2018, avvio della formazione per l'utilizzo dell'\ |STYLE28|\ , con il supporto formativo della società SISPI. Gestione documentale.
+Nel novembre 2018 si avvia della formazione per l'utilizzo dell'\ |STYLE28|\ , con il supporto formativo della società SISPI. Gestione documentale.
 
     |
 
-Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettua una \ |LINK29|\  sul \ |STYLE29|\  anche in relazione alle piattaforme ICT del PON METRO Palermo, Asse 1 (Agenda Digitale). Sessione formativa ai Dirigenti per l'utilizzo dell'applicativo informatico per la gestione delle Determinazioni Dirigenziali.
+Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettua una \ |LINK32|\  sul \ |STYLE29|\  anche in relazione alle piattaforme ICT del PON METRO Palermo, Asse 1 (Agenda Digitale). Sessione formativa ai Dirigenti per l'utilizzo dell'applicativo informatico per la gestione delle Determinazioni Dirigenziali.
 
     |
 
@@ -167,7 +165,7 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 2019
 ----
 
-Il comune di Palermo è stato analizzato in una \ |LINK30|\ . L'indagine ha dato vita ad una classifica che raggruppa le città capoluogo in 3 aree e Palermo si è classificata tra le migliori. Nel report sono descritte le variabili analizzate per ciascuna delle tre dimensioni considerate e la metodologia utilizzata per attribuire punteggi e livelli di maturità. Palermo si colloca tra le città con maturità alta, e in particolare tra quelle "omogenee" (almeno una dimensione a livello alto e nessuna a livello basso). Nel dettaglio:
+Il comune di Palermo è stato analizzato in una \ |LINK33|\ . L'indagine ha dato vita ad una classifica che raggruppa le città capoluogo in 3 aree e Palermo si è classificata tra le migliori. Nel report sono descritte le variabili analizzate per ciascuna delle tre dimensioni considerate e la metodologia utilizzata per attribuire punteggi e livelli di maturità. Palermo si colloca tra le città con maturità alta, e in particolare tra quelle "omogenee" (almeno una dimensione a livello alto e nessuna a livello basso). Nel dettaglio:
 
 * \ |STYLE30|\  (addirittura tra le prime 5 città in assoluto)
 
@@ -177,9 +175,9 @@ Il comune di Palermo è stato analizzato in una \ |LINK30|\ . L'indagine ha dato
 
 |
 
-\ |STYLE33|\  \ |LINK31|\  al comune di Palermo. Su input della Corte dei Conti, le PA sono state invitate a compilare un questionario online per comprendere il livello di attuazione del Piano triennale per l'informatica.
+\ |STYLE33|\  \ |LINK34|\  al comune di Palermo. Su input della Corte dei Conti, le PA sono state invitate a compilare un questionario online per comprendere il livello di attuazione del Piano triennale per l'informatica.
 
-A questo \ |LINK32|\  sono riportati i dati della compilazione per l'anno 2019 riferiti alle azioni svolte fino al 2018 dal comune di Palermo.
+A questo \ |LINK35|\  sono riportati i dati della compilazione per l'anno 2019 riferiti alle azioni svolte fino al 2018 dal comune di Palermo.
 
 .. admonition:: Schema del questionario della Corte dei Conti
 
@@ -211,7 +209,15 @@ A questo \ |LINK32|\  sono riportati i dati della compilazione per l'anno 2019 r
 
 |
 
-Il 14 settembre 2019 il comune di Palermo è subentarato all'\ |STYLE34|\  \ |LINK33|\ . \ |STYLE35|\  Il passo immediatamente successivo è l'emissione,  a partire dallo stesso settembre 2019, della \ |LINK34|\ .
+Il 14 settembre 2019 il comune di Palermo è subentarato all'\ |STYLE34|\  \ |LINK36|\ . \ |STYLE35|\  Il passo immediatamente successivo è l'emissione,  a partire dallo stesso settembre 2019, della \ |LINK37|\ .
+
+|
+
+Il 3 ottobre 2019 il comune di Palermo diventa operativo nella sperimentazione dell'\ |STYLE36|\  \ |LINK38|\ , permettendo ai cittadini dotati di identità digitale SPID di avviare l'uso dell'applicazione per dispositivi mobili. Al \ |LINK39|\  è possibile consultare l'elenco dei servizi comunali di Palermo agganciati all'app nazionale IO. 
+
+|REPLACE1|
+
+|
 
 
 .. bottom of content
@@ -271,7 +277,7 @@ Il 14 settembre 2019 il comune di Palermo è subentarato all'\ |STYLE34|\  \ |LI
 
 .. |STYLE26| replace:: **piattaforma Cittadinanza Digitale**
 
-.. |STYLE27| replace:: **Carta di Identità Elettronica**
+.. |STYLE27| replace:: **Carta d'Identità Elettronica**
 
 .. |STYLE28| replace:: **applicativo informatico per la gestione digitale delle Determinazioni Dirigenziali**
 
@@ -288,6 +294,8 @@ Il 14 settembre 2019 il comune di Palermo è subentarato all'\ |STYLE34|\  \ |LI
 .. |STYLE34| replace:: **ANPR, Anagrafe Nazionale della Popolazione Residente**
 
 .. |STYLE35| replace:: *Con ANPR le amministrazioni potranno dialogare in maniera efficiente tra di loro avendo una fonte unica e certa per i dati dei cittadini. Anche oggi però ANPR consente ai cittadini di ottenere vantaggi immediati quali la richiesta di certificati anagrafici in tutti i comuni, cambio di residenza più semplice ed immediato ed a breve la possibilità di ottenere certificati da un portale unico.*
+
+.. |STYLE36| replace:: **app nazionale**
 
 
 .. |REPLACE1| raw:: html
@@ -404,29 +412,49 @@ Il 14 settembre 2019 il comune di Palermo è subentarato all'\ |STYLE34|\  \ |LI
 
 .. |LINK28| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=19984" target="_blank">comunicato stampa del 16 ottobre 2018</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione3_art64-bis.html" target="_blank">art. 64-bis del decreto legislativo 7 marzo 2005, n. 82</a>
 
 .. |LINK29| raw:: html
 
-    <a href="http://bit.ly/infoday-cad-3-4-5-dic-2018" target="_blank">seconda sessione di sensibilizzazione ai Dirigenti</a>
+    <a href="https://teamdigitale.governo.it/" target="_blank">Team Trasformazione Digitale</a>
 
 .. |LINK30| raw:: html
 
-    <a href="https://www.forumpa.it/pa-digitale/servizi-piattaforme-e-openness-tre-dimensioni-per-scoprire-quanto-sono-digitali-i-comuni-italiani/" target="_blank">indagine nazionale di FPA sulla maturità dei servizi digitali</a>
+    <a href="https://teamdigitale.governo.it/it/projects/anpr.htm" target="_blank">Anagrafe Nazionale della Popolazione Residente (ANPR)</a>
 
 .. |LINK31| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/" target="_blank">Piano triennale per l'informatica</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=19984" target="_blank">comunicato stampa del 16 ottobre 2018</a>
 
 .. |LINK32| raw:: html
 
-    <a href="https://pianotriennaleict-palermo-monitoraggio2019.readthedocs.io" target="_blank">link</a>
+    <a href="http://bit.ly/infoday-cad-3-4-5-dic-2018" target="_blank">seconda sessione di sensibilizzazione ai Dirigenti</a>
 
 .. |LINK33| raw:: html
 
-    <a href="https://teamdigitale.governo.it/it/projects/anpr.htm" target="_blank">https://teamdigitale.governo.it/it/projects/anpr.htm</a>
+    <a href="https://www.forumpa.it/pa-digitale/servizi-piattaforme-e-openness-tre-dimensioni-per-scoprire-quanto-sono-digitali-i-comuni-italiani/" target="_blank">indagine nazionale di FPA sulla maturità dei servizi digitali</a>
 
 .. |LINK34| raw:: html
 
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/" target="_blank">Piano triennale per l'informatica</a>
+
+.. |LINK35| raw:: html
+
+    <a href="https://pianotriennaleict-palermo-monitoraggio2019.readthedocs.io" target="_blank">link</a>
+
+.. |LINK36| raw:: html
+
+    <a href="https://teamdigitale.governo.it/it/projects/anpr.htm" target="_blank">https://teamdigitale.governo.it/it/projects/anpr.htm</a>
+
+.. |LINK37| raw:: html
+
     <a href="https://www.cartaidentita.interno.gov.it/" target="_blank">Carta d'Identità Elettronica</a>
+
+.. |LINK38| raw:: html
+
+    <a href="https://io.italia.it/" target="_blank">IO</a>
+
+.. |LINK39| raw:: html
+
+    <a href="https://io.italia.it/ente/comune-di-palermo.html" target="_blank">link</a>
 
