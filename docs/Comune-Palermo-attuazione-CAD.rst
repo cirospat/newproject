@@ -175,9 +175,7 @@ Il comune di Palermo è stato analizzato in una \ |LINK33|\ . L'indagine ha dato
 
 |
 
-\ |STYLE33|\  \ |LINK34|\  al comune di Palermo. Su input della Corte dei Conti, le PA sono state invitate a compilare un questionario online per comprendere il livello di attuazione del Piano triennale per l'informatica.
-
-A questo \ |LINK35|\  sono riportati i dati della compilazione per l'anno 2019 riferiti alle azioni svolte fino al 2018 dal comune di Palermo.
+\ |STYLE33|\  \ |LINK34|\  al comune di Palermo. Su input della Corte dei Conti, le PA sono state invitate a compilare un questionario online per comprendere il livello di attuazione del Piano triennale per l'informatica. A questo \ |LINK35|\  sono riportati i dati della compilazione per l'anno 2019 riferiti alle azioni svolte fino al 2018 dal comune di Palermo.
 
 .. admonition:: Schema del questionario della Corte dei Conti
 
