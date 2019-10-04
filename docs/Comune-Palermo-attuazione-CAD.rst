@@ -211,7 +211,7 @@ Il 14 settembre 2019 il comune di Palermo è subentarato all'\ |STYLE34|\  \ |LI
 
 |
 
-Il 3 ottobre 2019 il comune di Palermo diventa operativo nella sperimentazione dell'\ |STYLE36|\  \ |LINK39|\ , permettendo ai cittadini dotati di identità digitale SPID di avviare l'uso dell'applicazione per dispositivi mobili. IO rappresenta a livello nazionale il punto di accesso unico ai servizi digitali della Pubblica Amministrazione, ai sensi dell’\ |LINK40|\  \ |LINK41|\ . Al \ |LINK42|\  è possibile consultare l'elenco dei servizi comunali di Palermo agganciati all'app nazionale IO. 
+Il \ |LINK39|\  il comune di Palermo diventa operativo nella sperimentazione dell'\ |STYLE36|\  \ |LINK40|\ , permettendo ai cittadini dotati di identità digitale SPID di avviare l'uso dell'applicazione per dispositivi mobili. IO rappresenta a livello nazionale il punto di accesso unico ai servizi digitali della Pubblica Amministrazione, ai sensi dell’\ |LINK41|\  \ |LINK42|\ . Al \ |LINK43|\  è possibile consultare l'elenco dei servizi comunali di Palermo agganciati all'app nazionale IO.  A questo \ |LINK44|\  è possibile candidarsi per essere \ |LINK45|\  a Palermo. \ |LINK46|\  e dell'utilità dell'applicazione.
 
 |REPLACE1|
 
@@ -454,17 +454,33 @@ Il 3 ottobre 2019 il comune di Palermo diventa operativo nella sperimentazione d
 
 .. |LINK39| raw:: html
 
-    <a href="https://io.italia.it/" target="_blank">IO</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=24853" target="_blank">4 ottobre 2019</a>
 
 .. |LINK40| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione3_art64-bis.html" target="_blank">art. 64-bis del decreto legislativo 7.03.2005, n. 82</a>
+    <a href="https://io.italia.it/" target="_blank">IO</a>
 
 .. |LINK41| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione3_art64-bis.html" target="_blank">(Codice dell'Amministrazione Digitale)</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione3_art64-bis.html" target="_blank">art. 64-bis del decreto legislativo 7.03.2005, n. 82</a>
 
 .. |LINK42| raw:: html
 
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione3_art64-bis.html" target="_blank">(Codice dell'Amministrazione Digitale)</a>
+
+.. |LINK43| raw:: html
+
     <a href="https://io.italia.it/ente/comune-di-palermo.html" target="_blank">link</a>
+
+.. |LINK44| raw:: html
+
+    <a href="https://www.comune.palermo.it/io-app.php" target="_blank">link</a>
+
+.. |LINK45| raw:: html
+
+    <a href="https://www.comune.palermo.it/io-app.php" target="_blank">beta tester dell'app</a>
+
+.. |LINK46| raw:: html
+
+    <a href="https://medium.com/@cirospat/palermo-%C3%A8-arrivata-io-86a63f9662e8" target="_blank">Qui un racconto dell'adesione</a>
 
