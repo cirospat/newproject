@@ -77,7 +77,9 @@ Vocabolario controllato dei servizi pubblici
 
 |REPLACE4|
 
-Guarda anche "\ |LINK16|\ ".
+Guarda anche il "\ |LINK16|\ ".
+
+|REPLACE5|
 
 |
 
@@ -96,7 +98,7 @@ Ontologie e vocabolari controllati del Data & Analytics Framework - AGID (OntoPi
 **********************************************************************************
 
 
-|REPLACE5|
+|REPLACE6|
 
 Un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` ed i ``vocabolari controllati``: "\ |LINK20|\ ".
 
@@ -155,7 +157,7 @@ Ontologie Ministero Beni Culturali
 |
 
 
-|REPLACE6|
+|REPLACE7|
 
 
 .. bottom of content
@@ -192,15 +194,19 @@ Ontologie Ministero Beni Culturali
 .. |REPLACE4| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/IE2UJCV2ggI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    The Catalogue of Services Action of the European Commission's ISA² Programme supports public administrations that create and exchange information on public service descriptions. To do so, it has created a common vocabulary for describing public services, the Core Public Service Vocabulary Application Profile (CPSV-AP), and provides interoperable tools to support local implementations. The CPSV-AP is a data model for harmonising the way public services are described on eGovernment portals. <br></br>
+    The Catalogue of Services Action of the European Commission's ISA² Programme supports public administrations that create and exchange information on public service descriptions. To do so, it has created a common vocabulary for describing public services, the Core Public Service Vocabulary Application Profile (CPSV-AP), and provides interoperable tools to support local implementations. The CPSV-AP is a data model for harmonising the way public services are described on eGovernment portals. 
     <a href="https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/about#what" target="_blank">More about the Catalogue of Services</a>
 .. |REPLACE5| raw:: html
+
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/Znkoz0-P3sc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <span class="footer_small">Istituzione e gestione di uno sportello digitale unico per offrire ai cittadini e alle imprese un facile accesso a informazioni di alta qualità, a procedure efficienti e a servizi di assistenza e di risoluzione dei problemi efficaci in relazione alle norme dell'Unione e nazionali applicabili ai cittadini e alle imprese che esercitano o che intendono esercitare i loro diritti derivanti dal diritto dell'Unione nell'ambito del mercato interno ai sensi dell'articolo 26, paragrafo 2, TFUE.</span>
+.. |REPLACE6| raw:: html
 
     <img src="http://giovanni.pirrotta.it/images/ontopia/ontopia-tecnico.png" /> 
     </br>
     <span class="footer_small">
     <a href="http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/" target="_blank">Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana</a> (immagine tratta dall'articolo di Giovanni Pirrotta).</span>
-.. |REPLACE6| raw:: html
+.. |REPLACE7| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
