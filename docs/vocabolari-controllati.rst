@@ -70,6 +70,8 @@ Vocabolario controllato dei servizi pubblici
     * creazione di linee guida e pratiche per la gestione di cataloghi di servizi pubblici.
     Da tempo il Consorzio dei Comuni Trentini sta lavorando a questo tema, in collaborazione con la Provincia autonoma di Trento, cercando di ideare metodologie e tecnologie semplici per consentire a tutti i propri soci di assolvere a questo obbligo, in linea peraltro con quanto previsto dal cap. 5.1.1.2 "\ |LINK11|\ " del Piano Triennale dell'Informatica 2019-2021. (\ |LINK12|\ ).
     
+    ---
+    
     The Autonomous Province of Trento is also using the CPSV-AP to describe public services through a distributed Content Management System (CMS), called \ |LINK13|\ , which is used by several local authorities. The CMS shares \ |LINK14|\  that includes the CPSV-AP. (\ |LINK15|\ ).
 
 
