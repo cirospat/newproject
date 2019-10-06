@@ -77,6 +77,8 @@ Vocabolario controllato dei servizi pubblici
 
 |REPLACE4|
 
+Guarda anche "\ |LINK16|\ ".
+
 |
 
 .. _h192d432c5d202a6ee7c1f7d847646a:
@@ -84,7 +86,7 @@ Vocabolario controllato dei servizi pubblici
 Vocabolario controllato degli atti che sono pubblicati nell'Albo Pretorio dei comuni
 ************************************************************************************
 
-Un lavoro condiviso ed in progress che nasce dall'\ |LINK16|\ . A \ |LINK17|\  l'inizio della strutturazione delle definizioni/tassonomie degli atti amministrativi che confluiscono nella sezione "Albo Pretorio" dei portali web dei comuni. \ |LINK18|\  (issue di GitHub) in cui si condivide il processo che porta alla strutturazione condivisa del "vocabolario controllato" degli atti pubblicati negli albi pretori.
+Un lavoro condiviso ed in progress che nasce dall'\ |LINK17|\ . A \ |LINK18|\  l'inizio della strutturazione delle definizioni/tassonomie degli atti amministrativi che confluiscono nella sezione "Albo Pretorio" dei portali web dei comuni. \ |LINK19|\  (issue di GitHub) in cui si condivide il processo che porta alla strutturazione condivisa del "vocabolario controllato" degli atti pubblicati negli albi pretori.
 
 |
 
@@ -96,15 +98,15 @@ Ontologie e vocabolari controllati del Data & Analytics Framework - AGID (OntoPi
 
 |REPLACE5|
 
-Un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` ed i ``vocabolari controllati``: "\ |LINK19|\ ".
+Un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` ed i ``vocabolari controllati``: "\ |LINK20|\ ".
 
  
 
-\ |LINK20|\  sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l_\ |LINK21|\ . A cura di Giorgia Lodi, AGID.
-
-\ |LINK22|\ . AGID.
+\ |LINK21|\  sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l_\ |LINK22|\ . A cura di Giorgia Lodi, AGID.
 
 \ |LINK23|\ . AGID.
+
+\ |LINK24|\ . AGID.
 
 |
 
@@ -113,7 +115,7 @@ Un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` e
 Classi di contenuto
 *******************
 
-\ |LINK24|\ . Vedi anche \ |LINK25|\ . Comunweb.
+\ |LINK25|\ . Vedi anche \ |LINK26|\ . Comunweb.
 
 |
 
@@ -122,7 +124,7 @@ Classi di contenuto
 Ontologie ISTAT
 ***************
 
-\ |LINK26|\ . ISTAT.
+\ |LINK27|\ . ISTAT.
 
 |
 
@@ -131,23 +133,23 @@ Ontologie ISTAT
 Ontologie Ministero Beni Culturali
 **********************************
 
-\ |LINK27|\  (quali ad esempio \ |LINK28|\ , con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura), MIBACT.
+\ |LINK28|\  (quali ad esempio \ |LINK29|\ , con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura), MIBACT.
 
 |
 
 
 .. admonition:: Presentazioni concernenti ontologie e vocabolari controllati
 
-    * \ |LINK29|\ .
+    * \ |LINK30|\ .
     
-    * Ontologie e vocabolari controllati del \ |STYLE5|\ . \ |LINK30|\  (Carriero - Lodi - Mancinelli/Veninata - Nuzzolese - Presutti).
+    * Ontologie e vocabolari controllati del \ |STYLE5|\ . \ |LINK31|\  (Carriero - Lodi - Mancinelli/Veninata - Nuzzolese - Presutti).
 
 
 .. admonition:: Articoli concernenti ontologie, vocabolari controllati e linked open data
 
-    * Un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` ed i ``vocabolari controllati``: "\ |LINK31|\ ".
+    * Un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` ed i ``vocabolari controllati``: "\ |LINK32|\ ".
     
-    * \ |LINK32|\  - Turtle vs RDF/XML vs N-Triples vs JSON-LD (Angus Addlesee).
+    * \ |LINK33|\  - Turtle vs RDF/XML vs N-Triples vs JSON-LD (Angus Addlesee).
     
 
 |
@@ -286,69 +288,73 @@ Ontologie Ministero Beni Culturali
 
 .. |LINK16| raw:: html
 
-    <a href="https://www.anci.fvg.it/HackFVG/LA-DUE-GIORNI-DI-HACKFVG" target="_blank">hackathon di Udine del 15 giugno 2019</a>
+    <a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io/it/latest/regolamento-ue-sportello-digitale-unico.html#" target="_blank">Regolamento del Parlamento EU e del Consiglio che istituisce uno sportello digitale unico per l’accesso a informazioni, procedure e servizi di assistenza e di risoluzione dei problemi</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1KbBZguoxhFRkcas4Nhe8xN_TMGqRoSfcJmac4wiyFck/edit#gid=0" target="_blank">questo link</a>
+    <a href="https://www.anci.fvg.it/HackFVG/LA-DUE-GIORNI-DI-HACKFVG" target="_blank">hackathon di Udine del 15 giugno 2019</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati/issues/66" target="_blank">Questo è lo spazio</a>
+    <a href="https://docs.google.com/spreadsheets/d/1KbBZguoxhFRkcas4Nhe8xN_TMGqRoSfcJmac4wiyFck/edit#gid=0" target="_blank">questo link</a>
 
 .. |LINK19| raw:: html
 
-    <a href="http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/" target="_blank">Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana</a>
+    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati/issues/66" target="_blank">Questo è lo spazio</a>
 
 .. |LINK20| raw:: html
 
-    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati" target="_blank">Repository GitHub delle ontologie e dei vocabolari controllati</a>
+    <a href="http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/" target="_blank">Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana</a>
 
 .. |LINK21| raw:: html
 
-    <a href="http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/" target="_blank">elenco delle basi di dati chiave</a>
+    <a href="https://github.com/italia/daf-ontologie-vocabolari-controllati" target="_blank">Repository GitHub delle ontologie e dei vocabolari controllati</a>
 
 .. |LINK22| raw:: html
 
-    <a href="https://dataportal.daf.teamdigitale.it/dataset/search#/ontologies" target="_blank">Ontologie dal Data & Analytics Framework Italia</a>
+    <a href="http://elenco-basi-di-dati-chiave.readthedocs.io/it/latest/" target="_blank">elenco delle basi di dati chiave</a>
 
 .. |LINK23| raw:: html
 
-    <a href="https://dataportal.daf.teamdigitale.it/dataset/search#/vocabularies" target="_blank">Vocabolari controllati dal Data & Analytics Framework Italia</a>
+    <a href="https://dataportal.daf.teamdigitale.it/dataset/search#/ontologies" target="_blank">Ontologie dal Data & Analytics Framework Italia</a>
 
 .. |LINK24| raw:: html
 
-    <a href="https://www.comunweb.it/openpa/classes" target="_blank">Strutturazione delle classi dei contenuti e relazioni tra le stesse classi</a>
+    <a href="https://dataportal.daf.teamdigitale.it/dataset/search#/vocabularies" target="_blank">Vocabolari controllati dal Data & Analytics Framework Italia</a>
 
 .. |LINK25| raw:: html
 
-    <a href="http://ontopa.opencontent.it/openpa/classes" target="_blank">http://ontopa.opencontent.it/openpa/classes</a>
+    <a href="https://www.comunweb.it/openpa/classes" target="_blank">Strutturazione delle classi dei contenuti e relazioni tra le stesse classi</a>
 
 .. |LINK26| raw:: html
 
-    <a href="http://datiopen.istat.it/ontologie.php" target="_blank">Ontologie dei Musei, del Territorio e delle Variabili Censuarie</a>
+    <a href="http://ontopa.opencontent.it/openpa/classes" target="_blank">http://ontopa.opencontent.it/openpa/classes</a>
 
 .. |LINK27| raw:: html
 
-    <a href="http://dati.beniculturali.it/le-ontologie/" target="_blank">Ontologie del Ministero dei Beni Culturali</a>
+    <a href="http://datiopen.istat.it/ontologie.php" target="_blank">Ontologie dei Musei, del Territorio e delle Variabili Censuarie</a>
 
 .. |LINK28| raw:: html
 
-    <a href="http://dati.beniculturali.it/cultural_on/" target="_blank">Cultural ONtology</a>
+    <a href="http://dati.beniculturali.it/le-ontologie/" target="_blank">Ontologie del Ministero dei Beni Culturali</a>
 
 .. |LINK29| raw:: html
 
-    <a href="https://speakerdeck.com/pietercolpaert/an-introduction-to-open-data" target="_blank">Open Data - Sharing data for maximum reuse. Consuming data on Web-Scale (Pieter Colpaert)</a>
+    <a href="http://dati.beniculturali.it/cultural_on/" target="_blank">Cultural ONtology</a>
 
 .. |LINK30| raw:: html
 
-    <a href="http://www.iccd.beniculturali.it/it/150/archivio-news/4618/" target="_blank">Slide illustrative del progetto ARCO e il catalogo dei beni culturali</a>
+    <a href="https://speakerdeck.com/pietercolpaert/an-introduction-to-open-data" target="_blank">Open Data - Sharing data for maximum reuse. Consuming data on Web-Scale (Pieter Colpaert)</a>
 
 .. |LINK31| raw:: html
 
-    <a href="http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/" target="_blank">Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana</a>
+    <a href="http://www.iccd.beniculturali.it/it/150/archivio-news/4618/" target="_blank">Slide illustrative del progetto ARCO e il catalogo dei beni culturali</a>
 
 .. |LINK32| raw:: html
+
+    <a href="http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/" target="_blank">Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana</a>
+
+.. |LINK33| raw:: html
 
     <a href="https://medium.com/wallscope/understanding-linked-data-formats-rdf-xml-vs-turtle-vs-n-triples-eb931dbe9827" target="_blank">Understanding Linked Data Formats</a>
 
