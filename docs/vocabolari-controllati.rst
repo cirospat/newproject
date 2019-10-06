@@ -90,7 +90,7 @@ Un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` e
 Classi di contenuto
 *******************
 
-\ |LINK19|\ . Comunweb
+\ |LINK19|\ . Vedi anche \ |LINK20|\ . Comunweb.
 
 |
 
@@ -99,7 +99,7 @@ Classi di contenuto
 Ontologie ISTAT
 ***************
 
-\ |LINK20|\ . ISTAT.
+\ |LINK21|\ . ISTAT.
 
 |
 
@@ -108,23 +108,23 @@ Ontologie ISTAT
 Ontologie Ministero Beni Culturali
 **********************************
 
-\ |LINK21|\  (quali ad esempio \ |LINK22|\ , con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura), MIBACT.
+\ |LINK22|\  (quali ad esempio \ |LINK23|\ , con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura), MIBACT.
 
 |
 
 
 .. admonition:: Presentazioni concernenti ontologie e vocabolari controllati
 
-    * \ |LINK23|\ .
+    * \ |LINK24|\ .
     
-    * Ontologie e vocabolari controllati del \ |STYLE2|\ . \ |LINK24|\  (Carriero - Lodi - Mancinelli/Veninata - Nuzzolese - Presutti).
+    * Ontologie e vocabolari controllati del \ |STYLE2|\ . \ |LINK25|\  (Carriero - Lodi - Mancinelli/Veninata - Nuzzolese - Presutti).
 
 
 .. admonition:: Articoli concernenti ontologie, vocabolari controllati e linked open data
 
-    * Un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` ed i ``vocabolari controllati``: "\ |LINK25|\ ".
+    * Un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` ed i ``vocabolari controllati``: "\ |LINK26|\ ".
     
-    * \ |LINK26|\  - Turtle vs RDF/XML vs N-Triples vs JSON-LD (Angus Addlesee).
+    * \ |LINK27|\  - Turtle vs RDF/XML vs N-Triples vs JSON-LD (Angus Addlesee).
     
 
 |
@@ -268,29 +268,33 @@ Ontologie Ministero Beni Culturali
 
 .. |LINK20| raw:: html
 
-    <a href="http://datiopen.istat.it/ontologie.php" target="_blank">Ontologie dei Musei, del Territorio e delle Variabili Censuarie</a>
+    <a href="http://ontopa.opencontent.it/openpa/classes" target="_blank">http://ontopa.opencontent.it/openpa/classes</a>
 
 .. |LINK21| raw:: html
 
-    <a href="http://dati.beniculturali.it/le-ontologie/" target="_blank">Ontologie del Ministero dei Beni Culturali</a>
+    <a href="http://datiopen.istat.it/ontologie.php" target="_blank">Ontologie dei Musei, del Territorio e delle Variabili Censuarie</a>
 
 .. |LINK22| raw:: html
 
-    <a href="http://dati.beniculturali.it/cultural_on/" target="_blank">Cultural ONtology</a>
+    <a href="http://dati.beniculturali.it/le-ontologie/" target="_blank">Ontologie del Ministero dei Beni Culturali</a>
 
 .. |LINK23| raw:: html
 
-    <a href="https://speakerdeck.com/pietercolpaert/an-introduction-to-open-data" target="_blank">Open Data - Sharing data for maximum reuse. Consuming data on Web-Scale (Pieter Colpaert)</a>
+    <a href="http://dati.beniculturali.it/cultural_on/" target="_blank">Cultural ONtology</a>
 
 .. |LINK24| raw:: html
 
-    <a href="http://www.iccd.beniculturali.it/it/150/archivio-news/4618/" target="_blank">Slide illustrative del progetto ARCO e il catalogo dei beni culturali</a>
+    <a href="https://speakerdeck.com/pietercolpaert/an-introduction-to-open-data" target="_blank">Open Data - Sharing data for maximum reuse. Consuming data on Web-Scale (Pieter Colpaert)</a>
 
 .. |LINK25| raw:: html
 
-    <a href="http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/" target="_blank">Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana</a>
+    <a href="http://www.iccd.beniculturali.it/it/150/archivio-news/4618/" target="_blank">Slide illustrative del progetto ARCO e il catalogo dei beni culturali</a>
 
 .. |LINK26| raw:: html
+
+    <a href="http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/" target="_blank">Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana</a>
+
+.. |LINK27| raw:: html
 
     <a href="https://medium.com/wallscope/understanding-linked-data-formats-rdf-xml-vs-turtle-vs-n-triples-eb931dbe9827" target="_blank">Understanding Linked Data Formats</a>
 
