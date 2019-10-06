@@ -190,8 +190,7 @@ Ontologie Ministero Beni Culturali
 .. |REPLACE4| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/IE2UJCV2ggI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    The Catalogue of Services Action of the European Commission's ISA² Programme supports public administrations that create and exchange information on public service descriptions. To do so, it has created a common vocabulary for describing public services, the Core Public Service Vocabulary Application Profile (CPSV-AP), and provides interoperable tools to support local implementations. The CPSV-AP is a data model for harmonising the way public services are described on eGovernment portals.
-    
+    The Catalogue of Services Action of the European Commission's ISA² Programme supports public administrations that create and exchange information on public service descriptions. To do so, it has created a common vocabulary for describing public services, the Core Public Service Vocabulary Application Profile (CPSV-AP), and provides interoperable tools to support local implementations. The CPSV-AP is a data model for harmonising the way public services are described on eGovernment portals. <br></br>
     <a href="https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/about#what" target="_blank">More about the Catalogue of Services</a>
 .. |REPLACE5| raw:: html
 
@@ -283,7 +282,7 @@ Ontologie Ministero Beni Culturali
 
 .. |LINK15| raw:: html
 
-    <a href="https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/about#what" target="_blank">Fonte</a>
+    <a href="https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/about#collaboration" target="_blank">Fonte</a>
 
 .. |LINK16| raw:: html
 
