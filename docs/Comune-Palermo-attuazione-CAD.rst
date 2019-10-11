@@ -217,51 +217,49 @@ Il \ |LINK39|\  il comune di Palermo diventa operativo nella sperimentazione del
 
 |
 
-Il 30 ottobre 2019 l'Amministrazione espone ai cittadini, in un evento pubblico comunicativo, i servizi digitali attivati ad oggi e l'adesione alle principali piattaforme digitali nazionali (PagoPA, SPID, ANPR, App IO) abilitanti all'erogazione dei servizi locali. L'evento si tiene ai Cantieri Culturali della Zisa, e rientra tra le attività del Responsabile della Transizione al Digitale del comune di Palermo. A questo link \ |LINK47|\  che è partner del convegno. Gli altri partner del progetto sono il Team Trasformazione Digitale (organismo che opera all'interno della Presidenza del Consiglio dei Ministri per l'attuazione del \ |LINK48|\  e del \ |LINK49|\ ) e  Open Fiber che ha realizzato la \ |LINK50|\ . L'agenda dei lavori è la seguente:
+Il 30 ottobre 2019 l'Amministrazione espone ai cittadini, in un evento pubblico comunicativo, i servizi digitali attivati ad oggi e l'adesione alle principali piattaforme digitali nazionali (PagoPA, SPID, ANPR, App IO) abilitanti all'erogazione dei servizi locali. L'evento si tiene ai Cantieri Culturali della Zisa, e rientra tra le attività del Responsabile della Transizione al Digitale del comune di Palermo. A questo link \ |LINK47|\  che è partner del convegno. Gli altri partner del progetto sono il \ |LINK48|\  (organismo che opera all'interno della Presidenza del Consiglio dei Ministri per l'attuazione del \ |LINK49|\  e del \ |LINK50|\ ) e  Open Fiber che ha realizzato la \ |LINK51|\ . 
 
-Ore 9.30 | Accredito
+.. admonition:: L'agenda dei lavori è la seguente
 
-Ore 10.00 | \ |STYLE37|\ 
+    Ore 9.30 | Accredito
+    Ore 10.00 | \ |STYLE37|\ 
+    
+    * Leoluca Orlando, Sindaco del Comune di Palermo
+    
+    * Fabio Giambrone - Assessore all’innovazione del Comune di Palermo
+    
+    * Il ruolo dell’Ente Locale nel processo di trasformazione digitale verso l’Amministrazione aperta - Antonio Le Donne, Segretario Generale e Direttore Generale del Comune di Palermo
+    Ore 10.30 | \ |STYLE38|\ 
+    
+    * Gianni Dominici, Direttore Generale – FPA
+    
+    * Luca Attias, Commissario straordinario – Team per la Trasformazione Digitale
+    
+    * Giuseppe Virgone, Amministratore Unico - PagoPA
+    Ore 11.30 | \ |STYLE39|\ 
+    
+    * App IO - cos’è e come funziona - Matteo De Santi, Team per la Trasformazione Digitale.
+    
+    * PagoPA - il sistema di pagamenti elettronici realizzato per rendere più semplice, sicuro e trasparente qualsiasi pagamento verso la Pubblica Amministrazione - Giuseppe Virgone, Amministratore Unico, PagoPA.
+    
+    * ANPR - l’Anagrafe Nazionale della Popolazione Residente, Mirko Calvaresi, Team per la Trasformazione Digitale.
+    
+    * Servizi Digitali nel Comune - Gabriele Marchese, Responsabile Transizione Digitale - Comune di Palermo.
+    
+    * I servizi digitali del comune di Palermo e l’Agenda digitale del PON METRO Asse 1 - Ing. Salvatore Morreale, Azienda comunale partecipata SISPI SpA per i servizi informatici del Comune di Palermo 
+    
+    * Ufficio Scolastico Regionale - i servizi digitali nella scuola. 
+    
+    * Open Fiber - la Fibra Ottica FTH a Palermo, essenziale per i servizi di agenda digitale.
+    Pausa dalla 13.00 alle 15.00
+    Ore 15.00 | \ |STYLE40|\ 
+    
+    * App IO (a cura di Matteo De Santi)
+    
+    * SPID (a cura di Ciro Spataro)
+    Ore 16.00 | Chiusura dei lavori
 
-* Leoluca Orlando, Sindaco del Comune di Palermo
-
-* Fabio Giambrone - Assessore all’innovazione del Comune di Palermo
-
-* Il ruolo dell’Ente Locale nel processo di trasformazione digitale verso l’Amministrazione aperta - Antonio Le Donne, Segretario Generale e Direttore Generale del Comune di Palermo
-
-Ore 10.30 | \ |STYLE38|\ 
-
-* Gianni Dominici, Direttore Generale – FPA
-
-* Luca Attias, Commissario straordinario – Team per la Trasformazione Digitale
-
-* Giuseppe Virgone, Amministratore Unico - PagoPA
-
-Ore 11.30 | \ |STYLE39|\ 
-
-* App IO - cos’è e come funziona - Matteo De Santi, Team per la Trasformazione Digitale.
-
-* PagoPA - il sistema di pagamenti elettronici realizzato per rendere più semplice, sicuro e trasparente qualsiasi pagamento verso la Pubblica Amministrazione - Giuseppe Virgone, Amministratore Unico, PagoPA.
-
-* ANPR - l’Anagrafe Nazionale della Popolazione Residente, Mirko Calvaresi, Team per la Trasformazione Digitale.
-
-* Servizi Digitali nel Comune - Gabriele Marchese, Responsabile Transizione Digitale - Comune di Palermo.
-
-* I servizi digitali del comune di Palermo e l’Agenda digitale del PON METRO Asse 1 - Ing. Salvatore Morreale, Azienda comunale partecipata SISPI SpA per i servizi informatici del Comune di Palermo 
-
-* Ufficio Scolastico Regionale - i servizi digitali nella scuola. 
-
-* Open Fiber - la Fibra Ottica FTH a Palermo, essenziale per i servizi di agenda digitale.
-
-Pausa dalla 13.00 alle 15.00
-
-Ore 15.00 | \ |STYLE40|\ 
-
-* App IO (a cura di Matteo De Santi)
-
-* SPID (a cura di Ciro Spataro)
-
-Ore 16.00 | Chiusura dei lavori
+|
 
 
 .. bottom of content
@@ -544,13 +542,17 @@ Ore 16.00 | Chiusura dei lavori
 
 .. |LINK48| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/" target="_blank">Piano Triennale per l'Informatica</a>
+    <a href="https://teamdigitale.governo.it/" target="_blank">Team Trasformazione Digitale</a>
 
 .. |LINK49| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/" target="_blank">Codice dell'Amministrazione Digitale</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/" target="_blank">Piano Triennale per l'Informatica</a>
 
 .. |LINK50| raw:: html
+
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/" target="_blank">Codice dell'Amministrazione Digitale</a>
+
+.. |LINK51| raw:: html
 
     <a href="http://bandaultralarga.italia.it/mappa-bul/regione/sicilia/19/comune/palermo/82053/" target="_blank">Banda Ultra Larga nel territorio comunale di Palermo</a>
 
