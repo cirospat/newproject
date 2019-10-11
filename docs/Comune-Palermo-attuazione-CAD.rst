@@ -238,25 +238,25 @@ Il 30 ottobre 2019 l'Amministrazione espone ai cittadini, in un evento pubblico 
     * \ |LINK58|\ , Amministratore Unico - PagoPA
     Ore 11.30 | \ |STYLE39|\ 
     
-    * \ |LINK59|\  - cos’è e come funziona - Matteo De Santi, Team per la Trasformazione Digitale.
+    * \ |LINK59|\  - cos’è e come funziona - \ |LINK60|\ , Team per la Trasformazione Digitale.
     
-    * \ |LINK60|\  - il sistema di pagamenti elettronici realizzato per rendere più semplice, sicuro e trasparente qualsiasi pagamento verso la Pubblica Amministrazione - Giuseppe Virgone, Amministratore Unico, PagoPA.
+    * \ |LINK61|\  - il sistema di pagamenti elettronici realizzato per rendere più semplice, sicuro e trasparente qualsiasi pagamento verso la Pubblica Amministrazione - Giuseppe Virgone, Amministratore Unico, PagoPA.
     
-    * \ |LINK61|\  - l’Anagrafe Nazionale della Popolazione Residente, Mirko Calvaresi, Team per la Trasformazione Digitale.
+    * \ |LINK62|\  - l’Anagrafe Nazionale della Popolazione Residente, \ |LINK63|\ , Team per la Trasformazione Digitale.
     
-    * Servizi Digitali nel Comune - Gabriele Marchese, \ |LINK62|\  - Comune di Palermo.
+    * Servizi Digitali nel Comune - Gabriele Marchese, \ |LINK64|\  - Comune di Palermo.
     
-    * I servizi digitali del comune di Palermo e l’Agenda digitale del \ |LINK63|\  Asse 1 - Ing. Salvatore Morreale, Azienda comunale partecipata SISPI SpA per i servizi informatici del Comune di Palermo 
+    * I servizi digitali del comune di Palermo e l’Agenda digitale del \ |LINK65|\  Asse 1 - Ing. Salvatore Morreale, Azienda comunale partecipata SISPI SpA per i servizi informatici del Comune di Palermo 
     
     * I servizi digitali nella scuola, Filippo Ciancio, Ufficio Scolastico Regionale
     
-    * Open Fiber - la \ |LINK64|\ , essenziale per i servizi di agenda digitale.
+    * Open Fiber - la \ |LINK66|\ , essenziale per i servizi di agenda digitale.
     Pausa dalla 13.00 alle 15.00
     Ore 15.00 | \ |STYLE40|\ 
     
-    * \ |LINK65|\  (a cura di Matteo De Santi)
+    * \ |LINK67|\  (a cura di Matteo De Santi)
     
-    * \ |LINK66|\  (a cura di Ciro Spataro)
+    * \ |LINK68|\  (a cura di Ciro Spataro)
     Ore 16.00 | Chiusura dei lavori
 
 |
@@ -590,29 +590,37 @@ Il 30 ottobre 2019 l'Amministrazione espone ai cittadini, in un evento pubblico 
 
 .. |LINK60| raw:: html
 
-    <a href="https://www.pagopa.gov.it/" target="_blank">PagoPA</a>
+    <a href="https://teamdigitale.governo.it/it/people/34-profile.htm" target="_blank">Matteo De Santi</a>
 
 .. |LINK61| raw:: html
 
-    <a href="https://www.agid.gov.it/it/piattaforme/anagrafe-nazionale-popolazione-residente" target="_blank">ANPR</a>
+    <a href="https://www.pagopa.gov.it/" target="_blank">PagoPA</a>
 
 .. |LINK62| raw:: html
 
-    <a href="https://www.indicepa.gov.it/ricerca/n-dettagliouffici.php?prg_ou=111151" target="_blank">Responsabile Transizione Digitale</a>
+    <a href="https://www.agid.gov.it/it/piattaforme/anagrafe-nazionale-popolazione-residente" target="_blank">ANPR</a>
 
 .. |LINK63| raw:: html
 
-    <a href="https://www.ponmetropalermo.it/" target="_blank">PON METRO</a>
+    <a href="https://teamdigitale.governo.it/it/people/26-profile.htm" target="_blank">Mirko Calvaresi</a>
 
 .. |LINK64| raw:: html
 
-    <a href="http://bandaultralarga.italia.it/mappa-bul/regione/sicilia/19/comune/palermo/82053/" target="_blank">Fibra Ottica FTH a Palermo</a>
+    <a href="https://www.indicepa.gov.it/ricerca/n-dettagliouffici.php?prg_ou=111151" target="_blank">Responsabile Transizione Digitale</a>
 
 .. |LINK65| raw:: html
 
-    <a href="https://io.italia.it" target="_blank">App IO</a>
+    <a href="https://www.ponmetropalermo.it/" target="_blank">PON METRO</a>
 
 .. |LINK66| raw:: html
+
+    <a href="http://bandaultralarga.italia.it/mappa-bul/regione/sicilia/19/comune/palermo/82053/" target="_blank">Fibra Ottica FTH a Palermo</a>
+
+.. |LINK67| raw:: html
+
+    <a href="https://io.italia.it" target="_blank">App IO</a>
+
+.. |LINK68| raw:: html
 
     <a href="https://www.spid.gov.it/" target="_blank">SPID</a>
 
