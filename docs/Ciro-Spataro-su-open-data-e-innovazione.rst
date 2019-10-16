@@ -857,6 +857,13 @@ Avvio dell'utilizzo del Risk Tool Assesment, dell'Agenzia per l'Italia Digitale.
 
 Utilizzo del web service \ |LINK177|\  per valutare i livelli di rischi a cui sono esposti i servizi digitali del comune di Palermo e per attivare eventuali azioni volte a mitigare o annullare i rischi individuati. Con la collaborazione della Società SISPI SpA. L'azione fa parte del \ |STYLE24|\ , \ |LINK178|\ .
 
+|
+
+
+..  Note:: 
+
+    Per la continuazione delle iniziative \ |LINK179|\ . 
+
 --------
 
 
@@ -1657,4 +1664,8 @@ Utilizzo del web service \ |LINK177|\  per valutare i livelli di rischi a cui so
 .. |LINK178| raw:: html
 
     <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2017-2019/doc/08_sicurezza.html?highlight=sicurezza" target="_blank">capitolo Sicurezza</a>
+
+.. |LINK179| raw:: html
+
+    <a href="https://cirospat.readthedocs.io/it/latest/Comune-Palermo-attuazione-CAD.html" target="_blank">vai a questa pagina</a>
 
