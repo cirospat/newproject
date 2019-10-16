@@ -215,7 +215,7 @@ Il \ |LINK39|\  il comune di Palermo diventa operativo nella sperimentazione del
 
 |REPLACE1|
 
-Il processo di digitalizzazione del comune di Palermo è \ |LINK48|\  (articolo di FPA a cura di Marina Bassi).
+Il processo di digitalizzazione del comune di Palermo è \ |LINK48|\  (articolo del 16 ottobre di FPA a cura di Marina Bassi).
 
 |
 
