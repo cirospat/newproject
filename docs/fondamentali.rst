@@ -404,6 +404,21 @@ Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente d
 
 --------
 
+.. _h362e426d783b79696e421b7c51c724e:
+
+Linee Guida sulla formazione, gestione e conservazione dei documenti informatici
+********************************************************************************
+
+\ |LINK61|\  (dal sito AgID). 
+
+Le \ |LINK62|\  (su Docs Italia) sono emanate secondo la procedura prevista dall’art. 71 “\ |LINK63|\ ” del Codice dell’Amministrazione digitale (CAD) e hanno il duplice scopo di:
+
+#. aggiornare le regole tecniche attualmente in vigore sulla formazione, protocollazione, gestione e conservazione dei documenti informatici precedentemente regolate nei DPCM del 2013 e 2014;
+
+#. fornire una cornice unica di regolazione sulla materia, in coerenza con la disciplina dei Beni culturali.
+
+--------
+
 
 |REPLACE4|
 
@@ -708,4 +723,16 @@ Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente d
 .. |LINK60| raw:: html
 
     <a href="http://www.competenzedigitali.gov.it" target="_blank">Link alla piattaforma online per le "competenze digitali" a cura della Funzione Pubblica</a>
+
+.. |LINK61| raw:: html
+
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/10/17/consultazione-linee-guida-sulla-formazione-gestione-conservazione-documenti" target="_blank">Strumento essenziale per la digitalizzazione delle pratiche amministrative</a>
+
+.. |LINK62| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs" target="_blank">Linee Guida</a>
+
+.. |LINK63| raw:: html
+
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo7_art71.html" target="_blank">Regole tecniche</a>
 
