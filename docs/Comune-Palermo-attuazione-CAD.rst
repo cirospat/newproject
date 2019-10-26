@@ -226,42 +226,42 @@ Il 30 ottobre 2019 l'Amministrazione espone ai cittadini, in un evento pubblico 
     Ore 9.30 | Accredito
     Ore 10.00 | \ |STYLE37|\ 
     
-    * \ |LINK54|\ , Sindaco del Comune di Palermo
+    * Leoluca Orlando, Sindaco del Comune di Palermo
     
-    * \ |LINK55|\  - Assessore all’innovazione del Comune di Palermo
+    * Fabio Giambrone - Assessore all’innovazione del Comune di Palermo
     
-    * Il ruolo dell’Ente Locale nel processo di trasformazione digitale verso l’Amministrazione aperta - Antonio Le Donne, \ |LINK56|\  e \ |LINK57|\  del Comune di Palermo
+    * Il ruolo dell’Ente Locale nel processo di trasformazione digitale verso l’Amministrazione aperta - Antonio Le Donne, Segretario Generale e Direttore Generale del Comune di Palermo
     Ore 10.30 | \ |STYLE38|\ 
     
-    * \ |LINK58|\ , Direttore Generale – FPA
+    * \ |LINK54|\ , Direttore Generale – FPA
     
-    * \ |LINK59|\ , Commissario straordinario – Team per la Trasformazione Digitale
+    * \ |LINK55|\ , Commissario straordinario – Team per la Trasformazione Digitale
     
-    * \ |LINK60|\ , Amministratore Unico - PagoPA
+    * \ |LINK56|\ , Amministratore Unico - PagoPA
     Ore 11.30 | \ |STYLE39|\ 
     
-    * \ |LINK61|\  - cos’è e come funziona - \ |LINK62|\ , Team per la Trasformazione Digitale.
+    * \ |LINK57|\  - cos’è e come funziona - \ |LINK58|\ , Team per la Trasformazione Digitale.
     
-    * \ |LINK63|\  - il sistema di pagamenti elettronici realizzato per rendere più semplice, sicuro e trasparente qualsiasi pagamento verso la Pubblica Amministrazione - Giuseppe Virgone, Amministratore Unico, PagoPA.
+    * \ |LINK59|\  - il sistema di pagamenti elettronici realizzato per rendere più semplice, sicuro e trasparente qualsiasi pagamento verso la Pubblica Amministrazione - Giuseppe Virgone, Amministratore Unico, PagoPA.
     
-    * \ |LINK64|\  - l’Anagrafe Nazionale della Popolazione Residente, \ |LINK65|\ , Team per la Trasformazione Digitale.
+    * \ |LINK60|\  - l’Anagrafe Nazionale della Popolazione Residente, \ |LINK61|\ , Team per la Trasformazione Digitale.
     
-    * Servizi Digitali nel Comune - Gabriele Marchese, \ |LINK66|\  - Comune di Palermo.
+    * Servizi Digitali nel Comune - Gabriele Marchese, \ |LINK62|\  - Comune di Palermo.
     
-    * I servizi digitali del comune di Palermo e l’Agenda digitale del \ |LINK67|\  Asse 1 - Ing. Salvatore Morreale, Azienda comunale partecipata SISPI SpA per i servizi informatici del Comune di Palermo 
+    * I servizi digitali del comune di Palermo e l’Agenda digitale del \ |LINK63|\  Asse 1 - Ing. Salvatore Morreale, Azienda comunale partecipata SISPI SpA per i servizi informatici del Comune di Palermo 
     
     * I servizi digitali nella scuola, Filippo Ciancio, Ufficio Scolastico Regionale
     
-    * Open Fiber - la \ |LINK68|\ , essenziale per i servizi di agenda digitale.
+    * Open Fiber - la \ |LINK64|\ , essenziale per i servizi di agenda digitale.
     Pausa dalla 13.00 alle 15.00
     Ore 15.00 | \ |STYLE40|\ 
     
-    * \ |LINK69|\  (a cura di Matteo De Santi)
+    * \ |LINK65|\  (a cura di Matteo De Santi)
     
-    * \ |LINK70|\  (a cura di Ciro Spataro)
+    * \ |LINK66|\  (a cura di Ciro Spataro)
     Ore 16.00 | Chiusura dei lavori
 
-Il sistema di inviti a partecipare è avvenuto nel mese di ottobre 2019 tramite email dal Responsabile Transizione al Digitale alle categorie/ordini professionali e associazioni portatrici di interessi.  A \ |LINK71|\  sul portale istituzionale per l'evento.
+Il sistema di inviti a partecipare è avvenuto nel mese di ottobre 2019 tramite email dal Responsabile Transizione al Digitale alle categorie/ordini professionali e associazioni portatrici di interessi.  A \ |LINK67|\  sul portale istituzionale per l'evento.
 
 |
 
@@ -570,73 +570,57 @@ Il sistema di inviti a partecipare è avvenuto nel mese di ottobre 2019 tramite 
 
 .. |LINK54| raw:: html
 
-    <a href="https://www.comune.palermo.it/sindaco.php?id=1" target="_blank">Leoluca Orlando</a>
+    <a href="https://www.forumpa.it/chi-siamo/" target="_blank">Gianni Dominici</a>
 
 .. |LINK55| raw:: html
 
-    <a href="https://www.comune.palermo.it/giunta.php?id=353" target="_blank">Fabio Giambrone</a>
+    <a href="https://teamdigitale.governo.it/it/people/luca-attias.htm" target="_blank">Luca Attias</a>
 
 .. |LINK56| raw:: html
 
-    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=4&asel=36&tipo=13&csel=555" target="_blank">Segretario Generale</a>
+    <a href="https://teamdigitale.governo.it/it/people/17-profile.htm" target="_blank">Giuseppe Virgone</a>
 
 .. |LINK57| raw:: html
 
-    <a href="https://www.comune.palermo.it/amministrazione_trasparente.php?sel=4&asel=36&tipo=13&csel=564" target="_blank">Direttore Generale</a>
+    <a href="https://io.italia.it" target="_blank">App IO</a>
 
 .. |LINK58| raw:: html
 
-    <a href="https://www.forumpa.it/chi-siamo/" target="_blank">Gianni Dominici</a>
+    <a href="https://teamdigitale.governo.it/it/people/34-profile.htm" target="_blank">Matteo De Santi</a>
 
 .. |LINK59| raw:: html
 
-    <a href="https://teamdigitale.governo.it/it/people/luca-attias.htm" target="_blank">Luca Attias</a>
+    <a href="https://www.pagopa.gov.it/" target="_blank">PagoPA</a>
 
 .. |LINK60| raw:: html
 
-    <a href="https://teamdigitale.governo.it/it/people/17-profile.htm" target="_blank">Giuseppe Virgone</a>
+    <a href="https://www.agid.gov.it/it/piattaforme/anagrafe-nazionale-popolazione-residente" target="_blank">ANPR</a>
 
 .. |LINK61| raw:: html
 
-    <a href="https://io.italia.it" target="_blank">App IO</a>
+    <a href="https://teamdigitale.governo.it/it/people/26-profile.htm" target="_blank">Mirko Calvaresi</a>
 
 .. |LINK62| raw:: html
 
-    <a href="https://teamdigitale.governo.it/it/people/34-profile.htm" target="_blank">Matteo De Santi</a>
+    <a href="https://www.indicepa.gov.it/ricerca/n-dettagliouffici.php?prg_ou=111151" target="_blank">Responsabile Transizione Digitale</a>
 
 .. |LINK63| raw:: html
 
-    <a href="https://www.pagopa.gov.it/" target="_blank">PagoPA</a>
+    <a href="https://www.ponmetropalermo.it/" target="_blank">PON METRO</a>
 
 .. |LINK64| raw:: html
 
-    <a href="https://www.agid.gov.it/it/piattaforme/anagrafe-nazionale-popolazione-residente" target="_blank">ANPR</a>
+    <a href="http://bandaultralarga.italia.it/mappa-bul/regione/sicilia/19/comune/palermo/82053/" target="_blank">Fibra Ottica FTH a Palermo</a>
 
 .. |LINK65| raw:: html
 
-    <a href="https://teamdigitale.governo.it/it/people/26-profile.htm" target="_blank">Mirko Calvaresi</a>
+    <a href="https://io.italia.it" target="_blank">App IO</a>
 
 .. |LINK66| raw:: html
 
-    <a href="https://www.indicepa.gov.it/ricerca/n-dettagliouffici.php?prg_ou=111151" target="_blank">Responsabile Transizione Digitale</a>
-
-.. |LINK67| raw:: html
-
-    <a href="https://www.ponmetropalermo.it/" target="_blank">PON METRO</a>
-
-.. |LINK68| raw:: html
-
-    <a href="http://bandaultralarga.italia.it/mappa-bul/regione/sicilia/19/comune/palermo/82053/" target="_blank">Fibra Ottica FTH a Palermo</a>
-
-.. |LINK69| raw:: html
-
-    <a href="https://io.italia.it" target="_blank">App IO</a>
-
-.. |LINK70| raw:: html
-
     <a href="https://www.spid.gov.it/" target="_blank">SPID</a>
 
-.. |LINK71| raw:: html
+.. |LINK67| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=25061" target="_blank">questo link il comunicato stampa</a>
 
