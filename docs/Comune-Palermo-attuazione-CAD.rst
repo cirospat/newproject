@@ -263,10 +263,11 @@ Il 30 ottobre 2019 l'Amministrazione espone ai cittadini, in un evento pubblico 
 
 Il sistema di inviti a partecipare è avvenuto nel mese di ottobre 2019 tramite email dal Responsabile Transizione al Digitale alle categorie/ordini professionali e associazioni portatrici di interessi.  A \ |LINK67|\  sul portale istituzionale per l'evento. 
 
-Rassegna stampa: \ |LINK68|\ , \ |LINK69|\ .
+Rassegna stampa: \ |LINK68|\ , \ |LINK69|\ , \ |LINK70|\ . 
 
 |
 
+Dalla prima settimana di novembre 2019 il comune di Palermo \ |LINK71|\ , a seguito del subentro dell'anagrafe locale a quella nazionale ANPR (Anagrafe Nazionale della Popolazione Residente). La Carta d'Identità Elettronica (CIE) ha anche la funzione di identificazione digitale del cittadino (al pari del sistema SPID) per l'accesso ai servizi online della Pubblica Amministrazione.
 
 .. bottom of content
 
@@ -633,4 +634,12 @@ Rassegna stampa: \ |LINK68|\ , \ |LINK69|\ .
 .. |LINK69| raw:: html
 
     <a href="https://www.palermotoday.it/attualita/servizi-pubblici-digitali-app-io-pagopa.html" target="_blank">Servizi pubblici digitali dall'app IO a PagoPA: ecco cosa cambia per i cittadini (PalermoToday)</a>
+
+.. |LINK70| raw:: html
+
+    <a href="https://groups.google.com/forum/#!topic/stampacomunepalermo/3nep8x-3fIc" target="_blank">comunicato stampa del comune di Palermo del 31 ottobre 2019</a>
+
+.. |LINK71| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=25193" target="_blank">avvia il rilascio della Carta d'Identità Elettronica</a>
 
