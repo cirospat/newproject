@@ -261,7 +261,9 @@ Il 30 ottobre 2019 l'Amministrazione espone ai cittadini, in un evento pubblico 
     * \ |LINK66|\  (a cura di Ciro Spataro)
     Ore 16.00 | Chiusura dei lavori
 
-Il sistema di inviti a partecipare è avvenuto nel mese di ottobre 2019 tramite email dal Responsabile Transizione al Digitale alle categorie/ordini professionali e associazioni portatrici di interessi.  A \ |LINK67|\  sul portale istituzionale per l'evento.
+Il sistema di inviti a partecipare è avvenuto nel mese di ottobre 2019 tramite email dal Responsabile Transizione al Digitale alle categorie/ordini professionali e associazioni portatrici di interessi.  A \ |LINK67|\  sul portale istituzionale per l'evento. 
+
+Rassegna stampa: \ |LINK68|\ , \ |LINK69|\ .
 
 |
 
@@ -623,4 +625,12 @@ Il sistema di inviti a partecipare è avvenuto nel mese di ottobre 2019 tramite 
 .. |LINK67| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=25061" target="_blank">questo link il comunicato stampa</a>
+
+.. |LINK68| raw:: html
+
+    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA</a>
+
+.. |LINK69| raw:: html
+
+    <a href="https://www.palermotoday.it/attualita/servizi-pubblici-digitali-app-io-pagopa.html" target="_blank">Servizi pubblici digitali dall'app IO a PagoPA: ecco cosa cambia per i cittadini (PalermoToday)</a>
 
