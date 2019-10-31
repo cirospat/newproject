@@ -261,9 +261,7 @@ Il 30 ottobre 2019 l'Amministrazione espone ai cittadini, in un evento pubblico 
     * \ |LINK66|\  (a cura di Ciro Spataro)
     Ore 16.00 | Chiusura dei lavori
 
-Il sistema di inviti a partecipare è avvenuto nel mese di ottobre 2019 tramite email dal Responsabile Transizione al Digitale alle categorie/ordini professionali e associazioni portatrici di interessi.  A \ |LINK67|\  sul portale istituzionale per l'evento. 
-
-Rassegna stampa: \ |LINK68|\ , \ |LINK69|\ , \ |LINK70|\ . 
+Il sistema di inviti a partecipare è avvenuto nel mese di ottobre 2019 tramite email dal Responsabile Transizione al Digitale alle categorie/ordini professionali e associazioni portatrici di interessi.  A \ |LINK67|\  sul portale istituzionale per l'evento.  Rassegna stampa: \ |LINK68|\ , \ |LINK69|\ , \ |LINK70|\ . 
 
 |
 
