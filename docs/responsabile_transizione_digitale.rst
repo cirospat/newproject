@@ -8,7 +8,7 @@ Il Responsabile per la Transizione al Digitale (RTD)  è previsto dall'\ |LINK1|
 
 Questo spazio fornisce utili informazioni per l'attività di questa figura all'interno delle pubbliche amministrazioni italiane. Con un particolare riferimento alla formazione.
 
-\ |LINK2|\  per confronti su temi/argomenti correlati anche alla figura dell'RTD.
+\ |LINK2|\  per confronti su temi/argomenti correlati anche alla figura dell'RTD. Sul Forum cerca ``Responsabile Transizione al Digitale`` o ``RTD``.
 
 .. _h80766e7d614e7f73315a2f567a51226:
 
