@@ -10,7 +10,21 @@ Questo spazio fornisce utili informazioni per l'attività di questa figura all'i
 
 \ |LINK2|\  per confronti su temi/argomenti correlati anche alla figura dell'RTD.
 
-\ |LINK3|\ .
+.. _h80766e7d614e7f73315a2f567a51226:
+
+Raduni RTD
+**********
+
+* \ |LINK3|\ 
+
+* \ |LINK4|\ 
+
+.. _h461c1261c547d2c6e47b40d6b6231:
+
+Formazione RTD
+**************
+
+\ |LINK5|\ .
 
 \ |STYLE0|\ 
 
@@ -22,7 +36,7 @@ Questo spazio fornisce utili informazioni per l'attività di questa figura all'i
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Video webinar su RTD**
+.. |STYLE0| replace:: **Video webinar su RTD anno 2019**
 
 
 .. |REPLACE1| raw:: html
@@ -41,5 +55,13 @@ Questo spazio fornisce utili informazioni per l'attività di questa figura all'i
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/responsabile-transizione-digitale/formazione-rtd" target="_blank">Formazione sull'RTD curata da AGID e FormezPA</a>
+    <a href="https://www.lapadigitale.it/programma-raduno-responsabili-la-transizione-al-digitale/" target="_blank">1 raduno La PA Digitale  a Bologna 2018</a>
+
+.. |LINK4| raw:: html
+
+    <a href="https://www.lapadigitale.it/programma-raduno-responsabili-per-la-transizione-al-digitale-2019/" target="_blank">2 raduno La PA Digitale a Bologna 2019</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://www.agid.gov.it/it/agenzia/responsabile-transizione-digitale/formazione-rtd" target="_blank">Formazione anno 2019 sull'RTD curata da AGID e FormezPA</a>
 
