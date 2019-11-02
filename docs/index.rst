@@ -93,6 +93,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     :caption: Amministrazione Digitale
 
     fondamentali
+    responsabile_transizione_digitale
     vocabolari-controllati
 
 
