@@ -1,8 +1,8 @@
 
-.. _h5143821121016673c251f35e581e1b:
+.. _hc5d6c4432791562116b1a153c21552c:
 
-Responsabile Transizione al Digitale
-####################################
+Responsabile Transizione al Digitale - RTD
+##########################################
 
 Il Responsabile per la Transizione al Digitale (RTD)  è previsto dall'\ |LINK1|\ .
 
