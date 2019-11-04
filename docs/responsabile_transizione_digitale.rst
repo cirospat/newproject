@@ -8,6 +8,31 @@ Il Responsabile per la Transizione al Digitale (RTD)  è previsto dall'\ |LINK1|
 
 Questo spazio fornisce utili informazioni per l'attività di questa figura all'interno delle pubbliche amministrazioni italiane. Con un particolare riferimento alla formazione.
 
+
+.. admonition:: Compiti dell'ufficio del RTD (art. 17 CAD)
+
+    a) coordinamento strategico dello sviluppo dei sistemi informativi, di telecomunicazione e fonia, in modo da assicurare anche la coerenza con gli standard tecnici e organizzativi comuni;
+    
+    b) indirizzo e coordinamento dello sviluppo dei servizi, sia interni che esterni, forniti dai sistemi informativi di telecomunicazione e fonia dell’amministrazione;
+    
+    c) indirizzo, pianificazione, coordinamento e monitoraggio della sicurezza informatica relativamente ai dati, ai sistemi e alle infrastrutture anche in relazione al sistema pubblico di connettività, nel rispetto delle regole tecniche di cui all’articolo 51, comma 1;
+    
+    d) accesso dei soggetti disabili agli strumenti informatici e promozione dell’accessibilità anche in attuazione di quanto previsto dalla legge 9 gennaio 2004, n. 4;
+    
+    e) analisi periodica della coerenza tra l’organizzazione dell’amministrazione e l’utilizzo delle tecnologie dell’informazione e della comunicazione, al fine di migliorare la soddisfazione dell’utenza e la qualità dei servizi nonché di ridurre i tempi e i costi dell’azione amministrativa;
+    
+    f) cooperazione alla revisione della riorganizzazione dell’amministrazione ai fini di cui alla lettera e);
+    
+    g) indirizzo, coordinamento e monitoraggio della pianificazione prevista per lo sviluppo e la gestione dei sistemi informativi di telecomunicazione e fonia;
+    
+    h) progettazione e coordinamento delle iniziative rilevanti ai fini di una più efficace erogazione di servizi in rete a cittadini e imprese mediante gli strumenti della cooperazione applicativa tra pubbliche amministrazioni, ivi inclusa la predisposizione e l’attuazione di accordi di servizio tra amministrazioni per la realizzazione e compartecipazione dei sistemi informativi cooperativi; 
+    
+    i) promozione delle iniziative attinenti l’attuazione delle direttive impartite dal Presidente del Consiglio dei Ministri o dal Ministro delegato per l’innovazione e le tecnologie;
+    
+    j) pianificazione e coordinamento del processo di diffusione, all’interno dell’amministrazione, dei sistemi di identità e domicilio digitale, posta elettronica, protocollo informatico, firma digitale o firma elettronica qualificata e mandato informatico, e delle norme in materia di accessibilità e fruibilità nonché del processo di integrazione e interoperabilità tra i sistemi e servizi dell’amministrazione e quello di cui all’articolo 64-bis;
+    
+    j-bis) pianificazione e coordinamento degli acquisti di soluzioni e sistemi informatici, telematici e di telecomunicazione al fine di garantirne la compatibilità con gli obiettivi di attuazione dell’agenda digitale e, in particolare, con quelli stabiliti nel piano triennale di cui all’articolo 16, comma 1, lettera b).
+
 \ |LINK2|\  per confronti su temi/argomenti correlati anche alla figura dell'RTD. Sul Forum cerca ``Responsabile Transizione al Digitale`` o ``RTD``.
 
 .. _h80766e7d614e7f73315a2f567a51226:
