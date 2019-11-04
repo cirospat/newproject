@@ -31,7 +31,7 @@ Questo spazio fornisce utili informazioni per l'attività di questa figura all'i
     
     j) pianificazione e coordinamento del processo di diffusione, all’interno dell’amministrazione, dei sistemi di identità e domicilio digitale, posta elettronica, protocollo informatico, firma digitale o firma elettronica qualificata e mandato informatico, e delle norme in materia di accessibilità e fruibilità nonché del processo di integrazione e interoperabilità tra i sistemi e servizi dell’amministrazione e quello di cui all’articolo 64-bis; 
     
-    j-bis) pianificazione e coordinamento degli acquisti di soluzioni e sistemi informatici, telematici e di telecomunicazione al fine di garantirne la compatibilità con gli obiettivi di attuazione dell’agenda digitale e, in particolare, con quelli stabiliti nel piano triennale di cui all’articolo 16, comma 1, lettera b).
+    k) pianificazione e coordinamento degli acquisti di soluzioni e sistemi informatici, telematici e di telecomunicazione al fine di garantirne la compatibilità con gli obiettivi di attuazione dell’agenda digitale e, in particolare, con quelli stabiliti nel piano triennale di cui all’articolo 16, comma 1, lettera b).
 
 \ |LINK2|\  per confronti su temi/argomenti correlati anche alla figura dell'RTD. Sul Forum cerca ``Responsabile Transizione al Digitale`` o ``RTD``.
 
