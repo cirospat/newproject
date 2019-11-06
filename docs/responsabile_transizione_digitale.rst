@@ -58,6 +58,8 @@ Formazione RTD
 
  
 
+|REPLACE2|
+
 .. _h4777144564346b74103369267965183:
 
 RTD Comune di Palermo - attività svolte
@@ -84,6 +86,10 @@ RTD Comune di Palermo - attività svolte
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/DaM3xLumHYU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small">Ruolo e funzione del Responsabile per la transizione al digitale nell’attuazione del Piano triennale (29 ottobre 2019)</span>
     
+.. |REPLACE2| raw:: html
+
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/MAZniwA-wSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <span class="footer_small"><a href="http://eventipa.formez.it/node/199190" target="_blank">Il documento amministrativo informatico (5 novembre 2019)</a></span>
 
 .. |LINK1| raw:: html
 
