@@ -109,7 +109,7 @@ RTD Comune di Palermo - attività svolte
 
 .. |LINK5| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/responsabile-transizione-digitale/formazione-rtd" target="_blank">Formazione anno 2019 sull'RTD curata da AGID e FormezPA</a>
+    <a href="https://www.agid.gov.it/it/agenzia/responsabile-transizione-digitale/formazione-rtd" target="_blank">Formazione anno 2019 sulla figura del RTD curata da AGID e FormezPA</a>
 
 .. |LINK6| raw:: html
 
