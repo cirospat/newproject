@@ -235,6 +235,8 @@ dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK53|\ .
 
 * \ |LINK65|\  API Mapquest per geocoding (cirospat - caneclaudia2volte)
 
+* \ |LINK66|\  location helper in versione demo di Mapbox
+
 --------
 
 .. _h4c5e472163e3f6a4060c6d5350255:
@@ -242,9 +244,9 @@ dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK53|\ .
 SENSORE POLVERI SOTTILI
 =======================
 
-* \ |LINK66|\  (tutorial) - 
+* \ |LINK67|\  (tutorial) - 
 
-* \ |LINK67|\  (mappa con grafici e dati su sensore mio)
+* \ |LINK68|\  (mappa con grafici e dati su sensore mio)
 
 --------
 
@@ -253,7 +255,7 @@ SENSORE POLVERI SOTTILI
 GIT GUIDE
 =========
 
-just a simple guide for getting started with git. \ |LINK68|\ 
+just a simple guide for getting started with git. \ |LINK69|\ 
 
 --------
 
@@ -262,9 +264,9 @@ just a simple guide for getting started with git. \ |LINK68|\
 REPOSITORY DATA CIRO
 ====================
 
-\ |LINK69|\  
-
 \ |LINK70|\  
+
+\ |LINK71|\  
 
 --------
 
@@ -273,7 +275,7 @@ REPOSITORY DATA CIRO
 MACHINE LEARNING E ARTIFICIAL INTELLIGENCE
 ==========================================
 
-\ |LINK71|\  
+\ |LINK72|\  
 
 --------
 
@@ -282,7 +284,7 @@ MACHINE LEARNING E ARTIFICIAL INTELLIGENCE
 RICHIESTA FOIA ONLINE
 =====================
 
-\ |LINK72|\  
+\ |LINK73|\  
 
 --------
 
@@ -291,9 +293,9 @@ RICHIESTA FOIA ONLINE
 CSV EDITOR
 ==========
 
-* \ |LINK73|\   download
+* \ |LINK74|\   download
 
-* \ |LINK74|\  online
+* \ |LINK75|\  online
 
 --------
 
@@ -302,15 +304,15 @@ CSV EDITOR
 EDITOR ONLINE PER LAVORI CONDIVISI
 ==================================
 
-* \ |LINK75|\  
-
-* \ |LINK76|\ 
+* \ |LINK76|\  
 
 * \ |LINK77|\ 
 
-* \ |LINK78|\  
+* \ |LINK78|\ 
 
 * \ |LINK79|\  
+
+* \ |LINK80|\  
 
 --------
 
@@ -325,13 +327,13 @@ cad= parola da cercare
 
 newscount= il numero delle news da visualizzare come output della query
 
-\ |LINK80|\ 
+\ |LINK81|\ 
 
 \ |STYLE1|\  
 
-* \ |LINK81|\  
+* \ |LINK82|\  
 
-* \ |LINK82|\  - \ |LINK83|\  per costruire Feed per gli eventi Feltrinelli di Palermo
+* \ |LINK83|\  - \ |LINK84|\  per costruire Feed per gli eventi Feltrinelli di Palermo
 
 --------
 
@@ -616,73 +618,77 @@ newscount= il numero delle news da visualizzare come output della query
 
 .. |LINK66| raw:: html
 
-    <a href="http://bit.ly/tutorialkitpolverisottili" target="_blank">http://bit.ly/tutorialkitpolverisottili</a>
+    <a href="https://demos.mapbox.com/location-helper/" target="_blank">https://demos.mapbox.com/location-helper/</a>
 
 .. |LINK67| raw:: html
 
-    <a href="http://bit.ly/pm10pa" target="_blank">http://bit.ly/pm10pa</a>
+    <a href="http://bit.ly/tutorialkitpolverisottili" target="_blank">http://bit.ly/tutorialkitpolverisottili</a>
 
 .. |LINK68| raw:: html
 
-    <a href="http://rogerdudler.github.io/git-guide/" target="_blank">http://rogerdudler.github.io/git-guide</a>
+    <a href="http://bit.ly/pm10pa" target="_blank">http://bit.ly/pm10pa</a>
 
 .. |LINK69| raw:: html
 
-    <a href="https://data.world/cirospat/" target="_blank">data.world/cirospat</a>
+    <a href="http://rogerdudler.github.io/git-guide/" target="_blank">http://rogerdudler.github.io/git-guide</a>
 
 .. |LINK70| raw:: html
 
-    <a href="https://archive.org/details/@ciro_spataro" target="_blank">archive.org/details/@ciro_spataro</a>
+    <a href="https://data.world/cirospat/" target="_blank">data.world/cirospat</a>
 
 .. |LINK71| raw:: html
 
-    <a href="https://google.qwiklabs.com/quests/32" target="_blank">https://google.qwiklabs.com/quests/32</a>
+    <a href="https://archive.org/details/@ciro_spataro" target="_blank">archive.org/details/@ciro_spataro</a>
 
 .. |LINK72| raw:: html
 
-    <a href="http://www.gpirrotta.tk/foiapop/" target="_blank">http://www.gpirrotta.tk/foiapop/</a>
+    <a href="https://google.qwiklabs.com/quests/32" target="_blank">https://google.qwiklabs.com/quests/32</a>
 
 .. |LINK73| raw:: html
 
-    <a href="http://comma-chameleon.io/" target="_blank">http://comma-chameleon.io/</a>
+    <a href="http://www.gpirrotta.tk/foiapop/" target="_blank">http://www.gpirrotta.tk/foiapop/</a>
 
 .. |LINK74| raw:: html
 
-    <a href="https://ethercalc.org/" target="_blank">https://ethercalc.org/</a>
+    <a href="http://comma-chameleon.io/" target="_blank">http://comma-chameleon.io/</a>
 
 .. |LINK75| raw:: html
 
-    <a href="https://htmlg.com/html-editor/" target="_blank">https://htmlg.com/html-editor/</a>
+    <a href="https://ethercalc.org/" target="_blank">https://ethercalc.org/</a>
 
 .. |LINK76| raw:: html
 
-    <a href="https://www.editpad.org/" target="_blank">https://www.editpad.org/</a>
+    <a href="https://htmlg.com/html-editor/" target="_blank">https://htmlg.com/html-editor/</a>
 
 .. |LINK77| raw:: html
 
-    <a href="https://html-online.com/editor/" target="_blank">https://html-online.com/editor/</a>
+    <a href="https://www.editpad.org/" target="_blank">https://www.editpad.org/</a>
 
 .. |LINK78| raw:: html
 
-    <a href="http://collabedit.com" target="_blank">http://collabedit.com</a>
+    <a href="https://html-online.com/editor/" target="_blank">https://html-online.com/editor/</a>
 
 .. |LINK79| raw:: html
 
-    <a href="https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both" target="_blank">https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both</a>
+    <a href="http://collabedit.com" target="_blank">http://collabedit.com</a>
 
 .. |LINK80| raw:: html
 
-    <a href="http://www.ilquotidianodellapa.it/_aree/feed_advanced.html" target="_blank">http://www.ilquotidianodellapa.it/_aree/feed_advanced.html</a>
+    <a href="https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both" target="_blank">https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both</a>
 
 .. |LINK81| raw:: html
 
-    <a href="https://feedburner.google.com/fb/a/myfeeds" target="_blank">https://feedburner.google.com/fb/a/myfeeds</a>
+    <a href="http://www.ilquotidianodellapa.it/_aree/feed_advanced.html" target="_blank">http://www.ilquotidianodellapa.it/_aree/feed_advanced.html</a>
 
 .. |LINK82| raw:: html
 
-    <a href="https://feed43.com/" target="_blank">Feed43</a>
+    <a href="https://feedburner.google.com/fb/a/myfeeds" target="_blank">https://feedburner.google.com/fb/a/myfeeds</a>
 
 .. |LINK83| raw:: html
+
+    <a href="https://feed43.com/" target="_blank">Feed43</a>
+
+.. |LINK84| raw:: html
 
     <a href="https://groups.google.com/forum/#!topic/opendatasicilia/mj4rOt3VUNg" target="_blank">vedi tutorial di Andrea Borruso</a>
 
