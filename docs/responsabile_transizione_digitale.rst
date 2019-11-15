@@ -35,21 +35,27 @@ Questo spazio fornisce utili informazioni per l'attività di questa figura all'i
 
 \ |LINK2|\  per confronti su temi/argomenti correlati anche alla figura dell'RTD. Sul Forum cerca ``Responsabile Transizione al Digitale`` o ``RTD``.
 
-.. _h80766e7d614e7f73315a2f567a51226:
+.. _h2042144e247e2661c452370702e462a:
 
-Raduni RTD
-**********
+Raduni RTD (AGID e La PA Digitale)
+**********************************
 
-* \ |LINK3|\ 
+Pagina dedicata alle \ |LINK3|\ .
 
-* \ |LINK4|\ 
+* \ |LINK4|\  (vedi i \ |LINK5|\ );
+
+* 1 incontro AGID Conferenza dei Responsabili per la Transizione al Digitale del 13 febbraio 2019 - \ |LINK6|\ ;
+
+* 2 incontro AGID Conferenza dei Responsabili per la Transizione al Digitale del 15 maggio 2019 - \ |LINK7|\ ;
+
+* \ |LINK8|\ .
 
 .. _h461c1261c547d2c6e47b40d6b6231:
 
 Formazione RTD
 **************
 
-\ |LINK5|\ .
+\ |LINK9|\ .
 
 \ |STYLE0|\ 
 
@@ -60,20 +66,23 @@ Formazione RTD
 
 |REPLACE2|
 
+
+|REPLACE3|
+
 .. _h4777144564346b74103369267965183:
 
 RTD Comune di Palermo - attività svolte
 ***************************************
 
-* \ |LINK6|\ 
+* \ |LINK10|\ 
 
-* \ |LINK7|\  in collaborazione con il Team Trasformazione Digitale. Guarda i resoconti video dell'evento: 
+* \ |LINK11|\  in collaborazione con il Team Trasformazione Digitale. Guarda i resoconti video dell'evento: 
 
-    * \ |LINK8|\  
+    * \ |LINK12|\  
 
-    * \ |LINK9|\  
+    * \ |LINK13|\  
 
-    * \ |LINK10|\ .
+    * \ |LINK14|\ .
 
 .. bottom of content
 
@@ -90,6 +99,10 @@ RTD Comune di Palermo - attività svolte
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/MAZniwA-wSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small"><a href="http://eventipa.formez.it/node/199190" target="_blank">Il documento amministrativo informatico (5 novembre 2019)</a></span>
+.. |REPLACE3| raw:: html
+
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/JFKaRAbnWnc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <span class="footer_small"><a href="http://eventipa.formez.it/node/200517" target="_blank">La riqualificazione della spesa ICT (12 novembre 2019)</a></span>
 
 .. |LINK1| raw:: html
 
@@ -101,33 +114,49 @@ RTD Comune di Palermo - attività svolte
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.lapadigitale.it/programma-raduno-responsabili-la-transizione-al-digitale/" target="_blank">1 raduno La PA Digitale  a Bologna 2018</a>
+    <a href="https://www.agid.gov.it/it/agenzia/responsabile-transizione-digitale/conferenza" target="_blank">conferenze organizzate dall'AGID sui Responsabili Transizione al Digitale</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://www.lapadigitale.it/programma-raduno-responsabili-per-la-transizione-al-digitale-2019/" target="_blank">2 raduno La PA Digitale a Bologna 2019</a>
+    <a href="https://www.lapadigitale.it/programma-raduno-responsabili-la-transizione-al-digitale/" target="_blank">1 raduno La PA Digitale a Bologna 28 novembre 2018</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/responsabile-transizione-digitale/formazione-rtd" target="_blank">Formazione anno 2019 sulla figura del RTD curata da AGID e FormezPA</a>
+    <a href="https://www.lapadigitale.it/materiale-raduno-responsabili-per-la-transizione-al-digitale/" target="_blank">video dei workshop</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/1PM18t1E8e79WERgwqwwQKPOKeVC3liNBpB0nwSZgA5o/edit?usp=sharing" target="_blank">giornata informativa/formativa ai dirigenti comunali (3-4-5 dicembre 2018)</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/conferenzartd130219-def_0.pdf" target="_blank">Agenda dei lavori e presentazione</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/1O0Cr2X6XUEBf9Oswl3eMaglAivu6u1f0q8WUZGKDTRc/edit?usp=sharing" target="_blank">evento pubblico (30 ottobre 2019) per la diffusione per la cultura e cittadinanza digitale</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/20190515conferenzartd-filemasterore10_0.pdf" target="_blank">Agenda dei lavori e presentazione</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA (video)</a>
+    <a href="https://www.lapadigitale.it/programma-raduno-responsabili-per-la-transizione-al-digitale-2019/" target="_blank">2 raduno La PA Digitale a Bologna 13 novembre 2019</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://www.palermotoday.it/attualita/servizi-pubblici-digitali-app-io-pagopa.html" target="_blank">Servizi pubblici digitali dall'app IO a PagoPA: ecco cosa cambia per i cittadini (video PalermoToday)</a>
+    <a href="https://www.agid.gov.it/it/agenzia/responsabile-transizione-digitale/formazione-rtd" target="_blank">Formazione anno 2019 sulla figura del RTD curata da AGID e FormezPA</a>
 
 .. |LINK10| raw:: html
+
+    <a href="https://docs.google.com/presentation/d/1PM18t1E8e79WERgwqwwQKPOKeVC3liNBpB0nwSZgA5o/edit?usp=sharing" target="_blank">giornata informativa/formativa ai dirigenti comunali (3-4-5 dicembre 2018)</a>
+
+.. |LINK11| raw:: html
+
+    <a href="https://docs.google.com/presentation/d/1O0Cr2X6XUEBf9Oswl3eMaglAivu6u1f0q8WUZGKDTRc/edit?usp=sharing" target="_blank">evento pubblico (30 ottobre 2019) per la diffusione per la cultura e cittadinanza digitale</a>
+
+.. |LINK12| raw:: html
+
+    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA (video)</a>
+
+.. |LINK13| raw:: html
+
+    <a href="https://www.palermotoday.it/attualita/servizi-pubblici-digitali-app-io-pagopa.html" target="_blank">Servizi pubblici digitali dall'app IO a PagoPA: ecco cosa cambia per i cittadini (video PalermoToday)</a>
+
+.. |LINK14| raw:: html
 
     <a href="https://www.blogsicilia.it/palermo/il-futuro-dei-servizi-pubblici-e-digitale-a-palermo-giornata-di-formazione-con-forum-pa-video/504185/" target="_blank">Il futuro dei servizi pubblici è digitale, a Palermo giornata di formazione con “Forum PA” (video Blog Sicilia)</a>
 
