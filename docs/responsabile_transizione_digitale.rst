@@ -33,6 +33,11 @@ Questo spazio fornisce utili informazioni per l'attività di questa figura all'i
     
     k) pianificazione e coordinamento degli acquisti di soluzioni e sistemi informatici, telematici e di telecomunicazione al fine di garantirne la compatibilità con gli obiettivi di attuazione dell’agenda digitale e, in particolare, con quelli stabiliti nel piano triennale di cui all’articolo 16, comma 1, lettera b).
 
+.. _h40772123c68613e73d775722d455a:
+
+Community sui RTD
+*****************
+
 \ |LINK2|\  per confronti su temi/argomenti correlati anche alla figura dell'RTD. 
 
 .. _h2042144e247e2661c452370702e462a:
