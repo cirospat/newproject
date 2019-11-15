@@ -98,7 +98,7 @@ RTD Comune di Palermo - attività svolte
 .. |REPLACE1| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/DaM3xLumHYU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    <span class="footer_small">Ruolo e funzione del Responsabile per la transizione al digitale nell’attuazione del Piano triennale (29 ottobre 2019)</span>
+    <span class="footer_small"><a href="http://eventipa.formez.it/node/197571" target="_blank">Ruolo e funzione del Responsabile per la transizione al digitale nell’attuazione del Piano triennale (29 ottobre 2019)</a></span>
     
 .. |REPLACE2| raw:: html
 
