@@ -33,7 +33,7 @@ Questo spazio fornisce utili informazioni per l'attività di questa figura all'i
     
     k) pianificazione e coordinamento degli acquisti di soluzioni e sistemi informatici, telematici e di telecomunicazione al fine di garantirne la compatibilità con gli obiettivi di attuazione dell’agenda digitale e, in particolare, con quelli stabiliti nel piano triennale di cui all’articolo 16, comma 1, lettera b).
 
-\ |LINK2|\  per confronti su temi/argomenti correlati anche alla figura dell'RTD. Sul Forum cerca ``Responsabile Transizione al Digitale`` o ``RTD``.
+\ |LINK2|\  per confronti su temi/argomenti correlati anche alla figura dell'RTD. 
 
 .. _h2042144e247e2661c452370702e462a:
 
@@ -110,7 +110,7 @@ RTD Comune di Palermo - attività svolte
 
 .. |LINK2| raw:: html
 
-    <a href="https://forum.italia.it/" target="_blank">Link a Forum Italia</a>
+    <a href="https://forum.italia.it/c/piano-triennale/RTD" target="_blank">Link a Forum Italia</a>
 
 .. |LINK3| raw:: html
 
