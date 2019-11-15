@@ -38,7 +38,7 @@ Questo spazio fornisce utili informazioni per l'attività di questa figura all'i
 Community sui RTD
 *****************
 
-\ |LINK2|\  per confronti su temi/argomenti correlati anche alla figura dell'RTD. 
+\ |LINK2|\  per confronti su temi/argomenti correlati specificatamente alla figura dell'RTD. 
 
 .. _h2042144e247e2661c452370702e462a:
 
@@ -115,7 +115,7 @@ RTD Comune di Palermo - attività svolte
 
 .. |LINK2| raw:: html
 
-    <a href="https://forum.italia.it/c/piano-triennale/RTD" target="_blank">Link a Forum Italia</a>
+    <a href="https://forum.italia.it/c/piano-triennale/RTD" target="_blank">Link alla sezione del Forum Italia</a>
 
 .. |LINK3| raw:: html
 
