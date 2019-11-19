@@ -93,13 +93,13 @@ RTD Comune di Palermo - attività svolte
 
 * \ |LINK15|\ ;
 
-* \ |LINK16|\  in collaborazione con il Team Trasformazione Digitale. Vai alla presentazione di Luca Attias "\ |LINK17|\ ". Guarda i resoconti video dell'evento: 
+* \ |LINK16|\  in collaborazione con il Team Trasformazione Digitale. Guarda i resoconti video dell'evento: 
+
+    * \ |LINK17|\  
 
     * \ |LINK18|\  
 
-    * \ |LINK19|\  
-
-    * \ |LINK20|\ .
+    * \ |LINK19|\ .
 
 .. bottom of content
 
@@ -187,17 +187,13 @@ RTD Comune di Palermo - attività svolte
 
 .. |LINK17| raw:: html
 
-    <a href="https://github.com/cirospat/newproject/blob/master/docs/evento-servizi-digitali-Palermo-30_10_2019/2019.10.30_Servizi%20pubblici%20digitali%20per%20tutti_v0.5%20-%20Attias.pdf" target="_blank">La trasformazione digitale del paese. Lo stato dell'arte</a>
+    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA (video di Gianni Dominici)</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA (video di Gianni Dominici)</a>
-
-.. |LINK19| raw:: html
-
     <a href="https://www.palermotoday.it/attualita/servizi-pubblici-digitali-app-io-pagopa.html" target="_blank">Servizi pubblici digitali dall'app IO a PagoPA: ecco cosa cambia per i cittadini (video di PalermoToday)</a>
 
-.. |LINK20| raw:: html
+.. |LINK19| raw:: html
 
     <a href="https://www.blogsicilia.it/palermo/il-futuro-dei-servizi-pubblici-e-digitale-a-palermo-giornata-di-formazione-con-forum-pa-video/504185/" target="_blank">Il futuro dei servizi pubblici è digitale, a Palermo giornata di formazione con “Forum PA” (video di Blog Sicilia)</a>
 
