@@ -100,9 +100,9 @@ Ontologie e vocabolari controllati del Data & Analytics Framework - AGID (OntoPi
 
 |REPLACE6|
 
-Un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` ed i ``vocabolari controllati``: "\ |LINK20|\ ".
-
  
+
+"\ |LINK20|\ ", un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` ed i ``vocabolari controllati``.
 
 \ |LINK21|\  sviluppati nell'ambito delle azioni previste dal piano triennale per l'informatica nella PA, e a supporto del lavoro da svolgere per l_\ |LINK22|\ . A cura di Giorgia Lodi, AGID.
 
