@@ -149,10 +149,11 @@ Ontologie Ministero Beni Culturali
 
 .. admonition:: Articoli concernenti ontologie, vocabolari controllati e linked open data
 
-    * Un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` ed i ``vocabolari controllati``: "\ |LINK32|\ ".
+    * "\ |LINK32|\ ", un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` ed i ``vocabolari controllati``.
     
     * \ |LINK33|\  - Turtle vs RDF/XML vs N-Triples vs JSON-LD (Angus Addlesee).
     
+    * "\ |LINK34|\ " un articolo di Giovanni Pirrotta (come il web semantico può combattere le false notizie).
 
 |
 
@@ -363,4 +364,8 @@ Ontologie Ministero Beni Culturali
 .. |LINK33| raw:: html
 
     <a href="https://medium.com/wallscope/understanding-linked-data-formats-rdf-xml-vs-turtle-vs-n-triples-eb931dbe9827" target="_blank">Understanding Linked Data Formats</a>
+
+.. |LINK34| raw:: html
+
+    <a href="https://medium.com/@gpirrotta/generazione-e-verifica-di-notizie-di-qualit%C3%A0-attraverso-il-web-semantico-la-storia-di-liliana-6cd81f05e9fe" target="_blank">Generazione e verifica di notizie di qualità attraverso il Web Semantico: la storia di Liliana Segre</a>
 
