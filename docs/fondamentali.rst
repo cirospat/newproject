@@ -428,6 +428,17 @@ Le \ |LINK63|\  (su Docs Italia) sono emanate secondo la procedura prevista dall
 
 --------
 
+.. _h766477a121e4866161d3c536824759:
+
+Regole Tecniche per la sottoscrizione elettronica di documenti ai sensi dell’art. 20 del CAD
+********************************************************************************************
+
+Regolano le modalità atte a garantire la sicurezza, integrità e immodificabilità del documento e, in maniera manifesta e inequivoca, la sua riconducibilità all’autore.
+
+\ |LINK65|\ 
+
+--------
+
 
 |REPLACE4|
 
@@ -748,4 +759,8 @@ Le \ |LINK63|\  (su Docs Italia) sono emanate secondo la procedura prevista dall
 .. |LINK64| raw:: html
 
     <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo7_art71.html" target="_blank">Regole tecniche</a>
+
+.. |LINK65| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-spid-firma-docs/it/stabile/" target="_blank">Regole Tecniche circa la sottoscrizione elettronica di documenti tramite SPID</a>
 
