@@ -86,6 +86,9 @@ Formazione RTD
 
 |REPLACE3|
 
+
+|REPLACE4|
+
 .. _h4777144564346b74103369267965183:
 
 RTD Comune di Palermo - attività svolte
@@ -120,6 +123,10 @@ RTD Comune di Palermo - attività svolte
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/JFKaRAbnWnc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small"><a href="http://eventipa.formez.it/node/200517" target="_blank">La riqualificazione della spesa ICT (12 novembre 2019)</a></span>
+.. |REPLACE4| raw:: html
+
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/AfzZUCwwejU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <span class="footer_small"><a href="http://eventipa.formez.it/node/202136" target="_blank">L'usabilità dei servizi digitali (19 novembre 2019)</a></span>
 
 .. |LINK1| raw:: html
 
