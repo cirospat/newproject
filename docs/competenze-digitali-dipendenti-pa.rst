@@ -34,29 +34,31 @@ Syllabus delle competenze digitali per i dipendenti della PA
 
 #. Servizi online
 
-#. Trasformazione digitale.
+#. .. _bookmark-id-47un7y5pdypp:
+#. 
+#. Trasformazione digitale
 
 |
 
 \ |STYLE3|\  
 
-#. livello padronanza BASE, 
+#. livello padronanza BASE 
 
-#. livello padronanza INTERMEDIO, 
+#. livello padronanza INTERMEDIO 
 
-#. livello padronanza AVANZATO.
+#. livello padronanza AVANZATO
 
 |
 
 \ |STYLE4|\  \ |STYLE5|\ 
 
-#. Area di competenza che delimita ciascun ambito tematico che concorre alla definizione della competenza digitale nel suo complesso;
+#. Area di competenza che delimita ciascun ambito tematico che concorre alla definizione della competenza digitale nel suo complesso
 
-#. Descrittore delle competenze presenti in ciascuna area;
+#. Descrittore delle competenze presenti in ciascuna area
 
-#. Livello di padronanza per ciascuna competenza (Base, Intermedio, Avanzato);
+#. Livello di padronanza per ciascuna competenza (Base, Intermedio, Avanzato)
 
-#. Descrittore delle conoscenze e/o delle abilità che caratterizzano una competenza per ciascun livello di padronanza.
+#. Descrittore delle conoscenze e/o delle abilità che caratterizzano una competenza per ciascun livello di padronanza
 
 |
 
@@ -265,8 +267,6 @@ Conoscere i princìpi che guidano l’erogazione dei servizi on-line, tra cui il
 --------
 
 |
-
-.. _bookmark-id-47un7y5pdypp:
 
 .. _h71741f4375b485b3e491c374c14677b:
 
