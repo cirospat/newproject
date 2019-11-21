@@ -40,13 +40,13 @@ Il Syllabus si basa su quattro dimensioni:
 
 \ |LINK5|\    
 
-\ |LINK6|\      
+\ |LINK6|\   
 
 \ |LINK7|\  
 
 \ |LINK8|\  
 
-.. _bookmark-id-o64pl747r9wv:
+.. _bookmark-id-47un7y5pdypp:
 
 \ |LINK9|\ 
 
@@ -469,5 +469,5 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 
 .. |LINK9| raw:: html
 
-    <a href="#bookmark-id-o64pl747r9wv">Trasformazione digitale</a>
+    <a href="#bookmark-id-47un7y5pdypp">Trasformazione digitale</a>
 
