@@ -1,8 +1,8 @@
 
-.. _h78395164980b1d373c70243424641:
+.. _h2527347e1c1a7d2f194729754c7141:
 
-Syllabus delle competenze digitali per i dipendenti della PA
-############################################################
+Competenze digitali per i dipendenti della PA
+#############################################
 
 
 .. admonition:: Fonte dei contenuti
