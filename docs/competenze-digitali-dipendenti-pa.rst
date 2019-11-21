@@ -34,8 +34,6 @@ Syllabus delle competenze digitali per i dipendenti della PA
 
 #. Servizi online
 
-#. .. _bookmark-id-47un7y5pdypp:
-#. 
 #. Trasformazione digitale
 
 |
@@ -67,8 +65,6 @@ La realizzazione del Syllabus è stata curata dall'Ufficio per l'innovazione e l
 --------
 
 |
-
-.. _bookmark-id-kx721dh6m9hl:
 
 .. _h14371c4b27b1f11c39232ce786455:
 
@@ -119,8 +115,6 @@ Conoscere le caratteristiche degli Open Data. Sapere quali obiettivi si possono 
 
 |
 
-.. _bookmark-id-u9i081bp988z:
-
 .. _h6f4e63a312943e6d3271c47a286f:
 
 Comunicazione e condivisione
@@ -170,8 +164,6 @@ Sapere cos’è il domicilio digitale dei cittadini, dei professionisti e delle 
 
 |
 
-.. _bookmark-id-i8rtv7ths9j0:
-
 .. _h4b5f28914379326e632c43542e50:
 
 Sicurezza
@@ -218,8 +210,6 @@ Conoscere la normativa vigente sulla protezione dei dati personali e saperla app
 --------
 
 |
-
-.. _bookmark-id-j12njb5lf9cs:
 
 .. _h5c7222d16183411e22404136737467:
 
