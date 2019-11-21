@@ -5,7 +5,7 @@ Syllabus delle competenze digitali per i dipendenti della PA
 ############################################################
 
 
-.. admonition:: Fonti dei contenuti
+.. admonition:: Fonte dei contenuti
 
     I contenuti di questa pagina sono estratti da "\ |LINK1|\ ", \ |STYLE0|\ , a cura del Dipartimento della Funzione Pubblica - Ufficio per l'innovazione e la digitalizzazione. \ |LINK2|\ 
 
