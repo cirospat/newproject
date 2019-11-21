@@ -38,25 +38,21 @@ Il Syllabus si basa su quattro dimensioni:
 
 \ |STYLE6|\ 
 
-* .. _bookmark-id-kx721dh6m9hl:
-* 
-* \ |LINK5|\ 
+* \ |LINK5|\    
 
-* \ |LINK6|\   
+* \ |LINK6|\      
 
-* .. _bookmark-id-i8rtv7ths9j0:
-* 
-* \ |LINK7|\ 
+* \ |LINK7|\  
 
-* .. _bookmark-id-j12njb5lf9cs:
-* 
-* \ |LINK8|\ 
+* \ |LINK8|\   
 
 * .. _bookmark-id-o64pl747r9wv:
 * 
 * \ |LINK9|\ 
 
 --------
+
+.. _bookmark-id-kx721dh6m9hl:
 
 .. _h14371c4b27b1f11c39232ce786455:
 
@@ -302,6 +298,8 @@ Sapere cos’è il domicilio digitale dei cittadini, dei professionisti e delle 
 
 --------
 
+.. _bookmark-id-i8rtv7ths9j0:
+
 .. _h4b5f28914379326e632c43542e50:
 
 Sicurezza
@@ -380,6 +378,8 @@ Conoscere la normativa vigente sulla protezione dei dati personali e saperla app
 * Saper declinare gli adempimenti connessi alla tutela dei dati personali nell'ambito delle attività di una pubblica amministrazione.
 
 --------
+
+.. _bookmark-id-j12njb5lf9cs:
 
 .. _h5c7222d16183411e22404136737467:
 
