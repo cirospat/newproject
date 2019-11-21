@@ -4,7 +4,10 @@
 Syllabus delle competenze digitali per i dipendenti della PA
 ############################################################
 
-.. _bookmark-kix-psj5csrpnl9l:
+
+.. admonition:: Fonti dei contenuti
+
+    I contenuti di questa pagina sono estratti da "\ |LINK1|\ ", \ |STYLE0|\ , a cura del Dipartimento della Funzione Pubblica - Ufficio per l'innovazione e la digitalizzazione. \ |LINK2|\ 
 
 
 .. toctree::  
@@ -13,36 +16,37 @@ Syllabus delle competenze digitali per i dipendenti della PA
 
     competenze-digitali-dipendenti-pa
 
+\ |STYLE1|\  è il documento che descrive l’insieme minimo delle conoscenze e abilità che ogni dipendente pubblico, non specialista IT, dovrebbe possedere per partecipare attivamente alla trasformazione digitale della pubblica amministrazione. Rappresenta lo strumento di riferimento sia per l’attività di autoverifica delle competenze digitali che per la definizione di corsi volti a indirizzare i fabbisogni formativi rilevati.
 
-.. admonition:: Fonti dei contenuti
+\ |STYLE2|\  
 
-    I contenuti di questa pagina sono estratti da "\ |LINK1|\ ", \ |STYLE0|\ , a cura del Dipartimento della Funzione Pubblica - Ufficio per l'innovazione e la digitalizzazione. \ |LINK2|\ 
+#. Dati, informazioni e documenti informatici 
 
-\ |STYLE1|\ 
+#. Comunicazione e condivisione 
 
-È il documento che descrive l’insieme minimo delle conoscenze e abilità che ogni dipendente pubblico, non specialista IT, dovrebbe possedere per partecipare attivamente alla trasformazione digitale della pubblica amministrazione.
+#. Sicurezza  
 
-Organizzato in \ |STYLE2|\  e \ |STYLE3|\  il Syllabus rappresenta lo strumento di riferimento sia per l’attività di autoverifica delle competenze digitali che per la definizione di corsi volti a indirizzare i fabbisogni formativi rilevati.
+#. Servizi online
 
-\ |STYLE4|\ 
+#. Trasformazione digitale.
 
-Dati, informazioni e documenti informatici - Comunicazione e condivisione - Sicurezza  - Servizi online - Trasformazione digitale.
+\ |STYLE3|\  
 
-\ |STYLE5|\ 
+#. livello padronanza BASE, 
 
-Livello padronanza BASE, livello padronanza INTERMEDIO, livello padronanza AVANZATO.
+#. livello padronanza INTERMEDIO, 
 
-\ |STYLE6|\ 
+#. livello padronanza AVANZATO.
 
-Il Syllabus si basa su quattro dimensioni:
+\ |STYLE4|\  \ |STYLE5|\ 
 
-* Area di competenza che delimita ciascun ambito tematico che concorre alla definizione della competenza digitale nel suo complesso;
+#. Area di competenza che delimita ciascun ambito tematico che concorre alla definizione della competenza digitale nel suo complesso;
 
-* Descrittore delle competenze presenti in ciascuna area;
+#. Descrittore delle competenze presenti in ciascuna area;
 
-* Livello di padronanza per ciascuna competenza (Base, Intermedio, Avanzato);
+#. Livello di padronanza per ciascuna competenza (Base, Intermedio, Avanzato);
 
-* Descrittore delle conoscenze e/o delle abilità che caratterizzano una competenza per ciascun livello di padronanza.
+#. Descrittore delle conoscenze e/o delle abilità che caratterizzano una competenza per ciascun livello di padronanza.
 
 La realizzazione del Syllabus è stata curata dall'Ufficio per l'innovazione e la digitalizzazione del Dipartimento della Funzione Pubblica. E' stato, inoltre, oggetto di una \ |LINK3|\  (2019) che ha consentito di raccogliere numerosi contributi e proposte utili alla stesura finale del documento (\ |LINK4|\ ).
 
@@ -59,9 +63,9 @@ Dati, informazioni e documenti informatici
 
 Nel proprio lavoro quotidiano il dipendente pubblico raccoglie, elabora e utilizza dati, informazioni e documenti. Per fare ciò deve saper ricorrere in modo appropriato sia a strumenti standard a disposizione di qualsiasi cittadino (internet per la ricerca di informazioni, gli strumenti di automazione d’ufficio per la produzione e la catalogazione di documenti, etc.), sia a strumenti peculiari dell’amministrazione di appartenenza. Inoltre deve avere consapevolezza del valore dei dati e delle modalità più efficaci di gestirli, anche attraverso tecnologie avanzate, a supporto dei processi operativi e decisionali.
 
-La normativa definisce il significato di \ |STYLE7|\  o \ |STYLE8|\  e introduce regole per la formazione, gestione, conservazione e trasmissione di documenti con strumenti informatici a cui ogni amministrazione è tenuta ad adeguare la propria gestione documentale. Ad ogni dipendente è richiesta, pertanto, la conoscenza di queste regole e la capacità di applicarle ai fini della corretta produzione, gestione e valutazione del documento informatico nonché di un uso consapevole di strumenti quali le firme elettroniche o le marche temporali e delle modalità di fascicolazione e gestione archivistica.
+La normativa definisce il significato di \ |STYLE6|\  o \ |STYLE7|\  e introduce regole per la formazione, gestione, conservazione e trasmissione di documenti con strumenti informatici a cui ogni amministrazione è tenuta ad adeguare la propria gestione documentale. Ad ogni dipendente è richiesta, pertanto, la conoscenza di queste regole e la capacità di applicarle ai fini della corretta produzione, gestione e valutazione del documento informatico nonché di un uso consapevole di strumenti quali le firme elettroniche o le marche temporali e delle modalità di fascicolazione e gestione archivistica.
 
-Infine, in presenza di un’attenzione crescente alla trasparenza e al potenziale di sviluppo insito nei dati, il dipendente pubblico è chiamato ad acquisire ed applicare i principi di \ |STYLE9|\ , in quanto liberamente usabile, riutilizzabile e ridistribuibile da parte di chiunque e per qualunque scopo, così come definito dal paradigma degli \ |STYLE10|\ .
+Infine, in presenza di un’attenzione crescente alla trasparenza e al potenziale di sviluppo insito nei dati, il dipendente pubblico è chiamato ad acquisire ed applicare i principi di \ |STYLE8|\ , in quanto liberamente usabile, riutilizzabile e ridistribuibile da parte di chiunque e per qualunque scopo, così come definito dal paradigma degli \ |STYLE9|\ .
 
 .. _h54776f4f7f2b1647431469692232282c:
 
@@ -112,9 +116,9 @@ Il dipendente pubblico nel suo lavoro quotidiano è chiamato a interagire con di
 
 All’interno della propria amministrazione il dipendente pubblico può ricorrere ad un ventaglio di strumenti tecnologici, più o meno ampio ed istituzionalizzato, per gestire la comunicazione e la condivisione di documenti e informazioni nei propri processi di lavoro. Tale insieme di strumenti include la posta elettronica ordinaria, la intranet istituzionale e le cartelle condivise in rete, ma anche sistemi sempre più evoluti quali le applicazioni di instant messaging o di audio video conferencing, i forum interni e le soluzioni di condivisione e sincronizzazione di file. Di conseguenza, il dipendente pubblico è chiamato a conoscere tali strumenti e le loro caratteristiche principali e soprattutto a sviluppare la capacità di scegliere e utilizzare in ogni occasione lo strumento più appropriato in funzione di diversi fattori, incluso la natura e la complessità del contenuto da veicolare, nonché il grado di formalità richiesto e la presenza di eventuali vincoli normativi da rispettare.
 
-Il dipendente pubblico è inserito nel più ampio sistema di comunicazione della propria amministrazione con i suoi principali \ |STYLE11|\  esterni, tra cui spiccano i cittadini, le imprese e le altre amministrazioni. Tale sistema è oggetto negli ultimi anni di un profondo cambiamento dovuto, da un lato, ad un’attenzione crescente alla partecipazione e alla necessità di rafforzare la percezione condivisa di trasparenza e di efficienza e, dall’altro, all’ingresso anche nel mondo della pubblica amministrazione di strumenti evoluti di comunicazione, inclusi i social media, che si affiancano a strumenti tradizionali quali il sito web istituzionale o la posta elettronica certificata.
+Il dipendente pubblico è inserito nel più ampio sistema di comunicazione della propria amministrazione con i suoi principali \ |STYLE10|\  esterni, tra cui spiccano i cittadini, le imprese e le altre amministrazioni. Tale sistema è oggetto negli ultimi anni di un profondo cambiamento dovuto, da un lato, ad un’attenzione crescente alla partecipazione e alla necessità di rafforzare la percezione condivisa di trasparenza e di efficienza e, dall’altro, all’ingresso anche nel mondo della pubblica amministrazione di strumenti evoluti di comunicazione, inclusi i social media, che si affiancano a strumenti tradizionali quali il sito web istituzionale o la posta elettronica certificata.
 
-La comunicazione deve poi tenere conto dell’evoluzione normativa. Gli strumenti e i sistemi telematici e digitali stanno, infatti, determinando una rivisitazione profonda dei diritti di cittadinanza che devono essere sempre assicurati e garantiti. In particolare la recente introduzione del \ |STYLE12|\  cambia le modalità di comunicazione tra l’amministrazione e il cittadino.
+La comunicazione deve poi tenere conto dell’evoluzione normativa. Gli strumenti e i sistemi telematici e digitali stanno, infatti, determinando una rivisitazione profonda dei diritti di cittadinanza che devono essere sempre assicurati e garantiti. In particolare la recente introduzione del \ |STYLE11|\  cambia le modalità di comunicazione tra l’amministrazione e il cittadino.
 
 In questo scenario il dipendente pubblico ha, pertanto, la necessità di conoscere gli strumenti di comunicazione esterna e di saper applicare le modalità di interazione più adatte a seconda del soggetto e della circostanza, nel costante rispetto delle disposizioni normative.
 
@@ -171,7 +175,7 @@ L’impatto delle tecnologie digitali sul trattamento dell’informazione ha avu
 
 Dal 25 maggio 2018 è operativo e obbligatorio il nuovo regolamento europeo sulla protezione dei dati e la loro libera circolazione (Regolamento Europeo 2016/679). Il nuovo regolamento presenta un insieme di regole in grado di disciplinare gran parte degli aspetti di una protezione dei dati personali che sia attenta al digitale.
 
-La pubblica amministrazione, alla stregua di qualunque impresa o organizzazione che gestisce informazioni, deve conoscere i contenuti della nuova normativa sulla Privacy nota anche con il termine \ |STYLE13|\ , saperli applicare e prevedere competenze e ruoli adatti ad assicurarne il pieno rispetto nei processi di trattamento dei dati.
+La pubblica amministrazione, alla stregua di qualunque impresa o organizzazione che gestisce informazioni, deve conoscere i contenuti della nuova normativa sulla Privacy nota anche con il termine \ |STYLE12|\ , saperli applicare e prevedere competenze e ruoli adatti ad assicurarne il pieno rispetto nei processi di trattamento dei dati.
 
 |
 
@@ -214,7 +218,7 @@ La pubblica amministrazione, nel tempo, ha fornito sempre più servizi tramite i
 
 Al fine di stimolare lo sviluppo di sempre nuovi servizi on-line e, al contempo, di assicurarne coerenza e integrazione superando il tradizionale approccio a “silos”, particolare attenzione è stata prestata negli ultimi anni allo sviluppo di “piattaforme abilitanti”, una serie di servizi infrastrutturali volti, da un lato, ad agevolare e ridurre i costi di nuovi servizi specifici per le varie amministrazioni e, dall’altro, a uniformare gli strumenti utilizzati dagli utenti finali durante la loro interazione con la pubblica amministrazione.
 
-Alcune di queste piattaforme abilitanti si rivolgono specificatamente ai cittadini e alle imprese quali i servizi di identificazione, fatturazione e pagamento. L’introduzione di \ |STYLE14|\ , per esempio, ha offerto la possibilità al cittadino di avere un’unica modalità di autenticazione per tutti i servizi della pubblica amministrazione. Sul tema dei pagamenti digitali, invece, \ |STYLE15|\  ha reso più semplice, sicuro e trasparente qualsiasi pagamento verso la pubblica amministrazione.
+Alcune di queste piattaforme abilitanti si rivolgono specificatamente ai cittadini e alle imprese quali i servizi di identificazione, fatturazione e pagamento. L’introduzione di \ |STYLE13|\ , per esempio, ha offerto la possibilità al cittadino di avere un’unica modalità di autenticazione per tutti i servizi della pubblica amministrazione. Sul tema dei pagamenti digitali, invece, \ |STYLE14|\  ha reso più semplice, sicuro e trasparente qualsiasi pagamento verso la pubblica amministrazione.
 
 Il dipendente pubblico è chiamato, pertanto, a conoscere e garantire il diritto alla fruizione dei servizi on-line, nonché a conoscere le principali piattaforme abilitanti a supporto dell’erogazione di tali servizi da parte delle pubbliche amministrazioni in favore di cittadini e imprese.
 
@@ -257,13 +261,13 @@ Conoscere i princìpi che guidano l’erogazione dei servizi on-line, tra cui il
 Trasformazione digitale
 ***********************
 
-Nell'epoca del “\ |STYLE16|\ ”, da un lato il cittadino richiede sempre più interazione digitale anziché fisica con le amministrazioni, dall’altro le tecnologie digitali offrono molteplici opportunità per semplificare, ottimizzare, velocizzare, rendere più trasparenti i processi della pubblica amministrazione e, quindi, migliorare la qualità e l’efficienza dei servizi erogati.
+Nell'epoca del “\ |STYLE15|\ ”, da un lato il cittadino richiede sempre più interazione digitale anziché fisica con le amministrazioni, dall’altro le tecnologie digitali offrono molteplici opportunità per semplificare, ottimizzare, velocizzare, rendere più trasparenti i processi della pubblica amministrazione e, quindi, migliorare la qualità e l’efficienza dei servizi erogati.
 
 Il Codice dell'amministrazione digitale (d. lgs. n. 82/2005) accompagna le amministrazioni nella fase di transizione dal cartaceo al digitale mentre il Piano Triennale per l’Informatica nella Pubblica amministrazione 2019-2021 contiene una serie di iniziative e strumenti per supportare l’innovazione della pubblica amministrazione grazie al ricorso alle tecnologie digitali.
 
-È necessario per il dipendente pubblico coinvolto nei processi e nei servizi conoscere gli obiettivi che caratterizzano la strategia nazionale per la trasformazione digitale della pubblica amministrazione e come è strutturata la \ |STYLE17|\  del digitale in Italia.
+È necessario per il dipendente pubblico coinvolto nei processi e nei servizi conoscere gli obiettivi che caratterizzano la strategia nazionale per la trasformazione digitale della pubblica amministrazione e come è strutturata la \ |STYLE16|\  del digitale in Italia.
 
-È altresì necessario che il dipendente pubblico possegga una “\ |STYLE18|\ ” di base relativamente ai trend e alle tecnologie che si stanno sviluppando in questo momento, e sia in grado di riconoscerne le potenzialità applicative anche in ambito pubblico.
+È altresì necessario che il dipendente pubblico possegga una “\ |STYLE17|\ ” di base relativamente ai trend e alle tecnologie che si stanno sviluppando in questo momento, e sia in grado di riconoscerne le potenzialità applicative anche in ambito pubblico.
 
 
 |
@@ -296,41 +300,39 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 
 .. |STYLE0| replace:: **Competenze digitali per la PA**
 
-.. |STYLE1| replace:: **Cos'è il Syllabus  delle “Competenze digitali per la PA”**
+.. |STYLE1| replace:: **Cos'è il Syllabus delle “Competenze digitali per la PA”:**
 
-.. |STYLE2| replace:: **5 aree tematiche**
+.. |STYLE2| replace:: **Le 5 Aree tematiche di competenza del Syllabus:**
 
-.. |STYLE3| replace:: **3 livelli di padronanza**
+.. |STYLE3| replace:: **I 3 Livelli di competenza del Syllabus:**
 
-.. |STYLE4| replace:: **Le 5 Aree tematiche di competenza del Syllabus**
+.. |STYLE4| replace:: **La struttura del Syllabus**
 
-.. |STYLE5| replace:: **I 3 Livelli di competenza del Syllabus**
+.. |STYLE5| replace:: **si basa su 4 dimensioni:**
 
-.. |STYLE6| replace:: **La struttura del Syllabus**
+.. |STYLE6| replace:: **documento informatico**
 
-.. |STYLE7| replace:: **documento informatico**
+.. |STYLE7| replace:: **documento elettronico**
 
-.. |STYLE8| replace:: **documento elettronico**
+.. |STYLE8| replace:: **valorizzazione del patrimonio informativo della pubblica amministrazione**
 
-.. |STYLE9| replace:: **valorizzazione del patrimonio informativo della pubblica amministrazione**
+.. |STYLE9| replace:: **Open Data**
 
-.. |STYLE10| replace:: **Open Data**
+.. |STYLE10| replace:: **stakeholder**
 
-.. |STYLE11| replace:: **stakeholder**
+.. |STYLE11| replace:: **domicilio digitale**
 
-.. |STYLE12| replace:: **domicilio digitale**
+.. |STYLE12| replace:: **GDPR (General Data Protection Regulation)**
 
-.. |STYLE13| replace:: **GDPR (General Data Protection Regulation)**
+.. |STYLE13| replace:: **SPID (Sistema pubblico di identità digitale)**
 
-.. |STYLE14| replace:: **SPID (Sistema pubblico di identità digitale)**
+.. |STYLE14| replace:: **pagoPA**
 
-.. |STYLE15| replace:: **pagoPA**
+.. |STYLE15| replace:: **digital first**
 
-.. |STYLE16| replace:: **digital first**
+.. |STYLE16| replace:: **governance**
 
-.. |STYLE17| replace:: **governance**
-
-.. |STYLE18| replace:: **cultura digitale**
+.. |STYLE17| replace:: **cultura digitale**
 
 
 .. |REPLACE1| raw:: html
