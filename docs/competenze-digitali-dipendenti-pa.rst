@@ -16,6 +16,8 @@ Syllabus delle competenze digitali per i dipendenti della PA
 
     competenze-digitali-dipendenti-pa
 
+|
+
 \ |STYLE1|\  
 
 è il documento che descrive l’insieme minimo delle conoscenze e abilità che ogni dipendente pubblico, non specialista IT, dovrebbe possedere per partecipare attivamente alla trasformazione digitale della pubblica amministrazione. Rappresenta lo strumento di riferimento sia per l’attività di autoverifica delle competenze digitali che per la definizione di corsi volti a indirizzare i fabbisogni formativi rilevati.
