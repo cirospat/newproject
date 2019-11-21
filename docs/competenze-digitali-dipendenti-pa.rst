@@ -38,17 +38,17 @@ Il Syllabus si basa su quattro dimensioni:
 
 \ |STYLE6|\ 
 
-* \ |LINK5|\    
+#. \ |LINK5|\    
 
-* \ |LINK6|\      
+#. \ |LINK6|\      
 
-* \ |LINK7|\  
+#. \ |LINK7|\  
 
-* \ |LINK8|\   
+#. \ |LINK8|\   
 
-* .. _bookmark-id-o64pl747r9wv:
-* 
-* \ |LINK9|\ 
+#. .. _bookmark-id-o64pl747r9wv:
+#. 
+#. \ |LINK9|\ 
 
 --------
 
