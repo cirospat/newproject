@@ -18,6 +18,9 @@ Competenze digitali per i dipendenti della PA
 
 |
 
+
+|REPLACE1|
+
 \ |STYLE1|\  
 
 è il documento che descrive l’insieme minimo delle conoscenze e abilità che ogni dipendente pubblico, non specialista IT, dovrebbe possedere per partecipare attivamente alla trasformazione digitale della pubblica amministrazione. Rappresenta lo strumento di riferimento sia per l’attività di autoverifica delle competenze digitali che per la definizione di corsi volti a indirizzare i fabbisogni formativi rilevati.
@@ -87,7 +90,7 @@ Gestire dati, informazioni e contenuti digitali
 Conoscere la differenza tra dato e informazione. Saper raccogliere i dati e le informazioni di interesse da internet e saperli organizzare e archiviare in maniera efficiente e funzionale.
 
 
-|REPLACE1|
+|REPLACE2|
 
 |
 
@@ -99,7 +102,7 @@ Produrre, valutare e gestire documenti informatici
 Produrre e riconoscere la validità di un documento informatico. Acquisire, gestire e conservare appropriatamente documenti informatici.
 
 
-|REPLACE2|
+|REPLACE3|
 
 |
 
@@ -111,7 +114,7 @@ Conoscere gli open data
 Conoscere le caratteristiche degli Open Data. Sapere quali obiettivi si possono soddisfare con la messa a disposizione di Open Data comprendendone i vantaggi per le amministrazioni, i cittadini e le imprese.
 
 
-|REPLACE3|
+|REPLACE4|
 
 --------
 
@@ -144,7 +147,7 @@ Conoscere tutti gli strumenti tecnologici a disposizione per interagire quotidia
 Saper selezionare le modalità di comunicazione e condivisione digitale più opportune anche in funzione della natura e dei contenuti da veicolare e del grado di formalità richiesto.
 
 
-|REPLACE4|
+|REPLACE5|
 
 |
 
@@ -160,7 +163,7 @@ Riconoscere il valore attribuito alle comunicazioni trasmesse a mezzo PEC nei co
 Sapere cos’è il domicilio digitale dei cittadini, dei professionisti e delle imprese e conoscere le implicazioni della sua elezione.
 
 
-|REPLACE5|
+|REPLACE6|
 
 --------
 
@@ -195,7 +198,7 @@ Proteggere i dispositivi
 Conoscere l’esistenza degli attacchi informatici e dei rischi ad essi associati e saperli prevenire attraverso l’adozione di appropriate precauzioni a partire dalle più semplici, come una corretta impostazione della password. Saper riconoscere, valutare e affrontare un attacco informatico al proprio dispositivo personale.
 
 
-|REPLACE6|
+|REPLACE7|
 
 |
 
@@ -207,7 +210,7 @@ Proteggere i dati personali e la Privacy
 Conoscere la normativa vigente sulla protezione dei dati personali e saperla applicare in modo appropriato.
 
 
-|REPLACE7|
+|REPLACE8|
 
 --------
 
@@ -238,7 +241,7 @@ Conoscere l'identità digitale
 Conoscere il concetto di identità digitale e le relative implicazioni nell’accesso ai servizi on-line offerti dalle amministrazioni. Conoscere il funzionamento di SPID  (Sistema pubblico di identità digitale) e le sue caratteristiche principali.
 
 
-|REPLACE8|
+|REPLACE9|
 
 |
 
@@ -254,7 +257,7 @@ Conoscere il diritto dei cittadini a effettuare pagamenti nei confronti dell’a
 Conoscere i princìpi che guidano l’erogazione dei servizi on-line, tra cui il concetto di interoperabilità.
 
 
-|REPLACE9|
+|REPLACE10|
 
 --------
 
@@ -284,7 +287,7 @@ Conoscere gli obiettivi di trasformazione digitale
 Conoscere le strategie di crescita digitale del Paese e le principali modalità attuative. Conoscere i diversi attori istituzionali coinvolti nel governo e nell’attuazione della trasformazione digitale della pubblica amministrazione italiana. 
 
 
-|REPLACE10|
+|REPLACE11|
 
 |
 
@@ -296,7 +299,7 @@ Conoscere le tecnologie emergenti per la trasformazione digitale
 Riconoscere le principali tecnologie emergenti e come possono o potranno essere utilizzate per la trasformazione digitale della pubblica amministrazione.
 
 
-|REPLACE11|
+|REPLACE12|
 
 
 .. bottom of content
@@ -341,6 +344,9 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 
 .. |REPLACE1| raw:: html
 
+    <img src="https://www.competenzedigitali.gov.it/typo3conf/ext/competenze/Resources/Public/Images/template/flusso-1-test.svg" width= 250 />
+.. |REPLACE2| raw:: html
+
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
     <tr><td style="background-color:#ff0000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza BASE</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere la differenza tra dato e informazione;</li><li style="list-style:inherit;list-style-image:inherit">Saper utilizzare internet per la ricerca di dati e informazioni.</li></ul></td></tr>
@@ -348,7 +354,7 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
     <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Comprendere le potenzialità dell’analisi dei dati e degli strumenti di supporto alle decisioni;</li><li style="list-style:inherit;list-style-image:inherit">Saper utilizzare le principali fonti pubbliche (es. Istat, OCSE) per la raccolta di dati e informazioni utili ad attività di approfondimento, analisi e confronto, anche a supporto dei processi decisionali. </li></ul></td></tr>
     </tbody></table>
 
-.. |REPLACE2| raw:: html
+.. |REPLACE3| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
@@ -357,7 +363,7 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
     <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere il tema della classificazione, della fascicolazione e dell’utilizzo dei metadati in relazione ai documenti e ai fascicoli informatici;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere le caratteristiche principali e le implicazioni derivanti dalla corretta gestione archivistica e successiva conservazione dei documenti informatici;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere l’obbligo di consentire l’accesso ai documenti informatici da parte dei soggetti interessati.</li></ul></td></tr>
     </tbody></table>
 
-.. |REPLACE3| raw:: html
+.. |REPLACE4| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
@@ -366,7 +372,7 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
     <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Saper valutare la qualità del dato;</li><li style="list-style:inherit;list-style-image:inherit">Saper valutare le implicazioni organizzative e gli interventi necessari ad abilitare la generazione automatica di Open Data nell’ambito dei processi interni di una amministrazione;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere i modelli per i dati e per i metadati proposti a livello nazionale e internazionale;</li><li style="list-style:inherit;list-style-image:inherit">Comprendere il significato di Linked Open Data.</li></ul></td></tr>
     </tbody></table>
 
-.. |REPLACE4| raw:: html
+.. |REPLACE5| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
@@ -375,7 +381,7 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
     <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Saper utilizzare gli strumenti avanzati di comunicazione (forum, instant messaging, audio video conferencing);</li><li style="list-style:inherit;list-style-image:inherit">Saper scegliere gli strumenti di comunicazione più appropriati in funzione delle caratteristiche del messaggio, incluso natura, complessità e grado di formalità del contenuto;</li><li style="list-style:inherit;list-style-image:inherit">Saper utilizzare gli strumenti avanzati di condivisione on-line di informazioni e documenti valutandone vantaggi e rischi.</li></ul></td></tr>
     </tbody></table>
 
-.. |REPLACE5| raw:: html
+.. |REPLACE6| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
@@ -384,7 +390,7 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
     <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere la possibilità di invio di notifiche push a cittadini e imprese;</li><li style="list-style:inherit;list-style-image:inherit">Saper utilizzare gli strumenti avanzati di comunicazione (forum, instant messaging, audio video conferencing, social media);</li><li style="list-style:inherit;list-style-image:inherit">Saper scegliere gli strumenti di comunicazione digitale più appropriati per l’interazione con cittadini e imprese in funzione della natura, complessità e grado di formalità del contenuto da veicolare;</li><li style="list-style:inherit;list-style-image:inherit">Saper scegliere il registro linguistico appropriato a seconda del destinatario e dello strumento utilizzato.</li></ul></td></tr>
     </tbody></table>
 
-.. |REPLACE6| raw:: html
+.. |REPLACE7| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
@@ -393,7 +399,7 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
     <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Sapere quali contromisure adottare per prevenire e difendersi dagli attacchi informatici;</li><li style="list-style:inherit;list-style-image:inherit">Saper riconoscere quando il dispositivo è soggetto ad attacchi informatici.</li></ul></td></tr>
     </tbody></table>
 
-.. |REPLACE7| raw:: html
+.. |REPLACE8| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
@@ -402,7 +408,7 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
     <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Saper valutare i rischi e applicare le contromisure appropriate;</li><li style="list-style:inherit;list-style-image:inherit">Saper declinare gli adempimenti connessi alla tutela dei dati personali nell'ambito delle attività di una pubblica amministrazione.</li></ul></td></tr>
     </tbody></table>
 
-.. |REPLACE8| raw:: html
+.. |REPLACE9| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
@@ -411,7 +417,7 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
     <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere le implicazioni dell’utilizzo di SPID come modalità di autenticazione;</li><li style="list-style:inherit;list-style-image:inherit">Saper distinguere i vari livelli di autenticazione offerti dal sistema SPID;</li><li style="list-style:inherit;list-style-image:inherit">Saper applicare le possibilità offerte da SPID  per la firma dei documenti;</li><li style="list-style:inherit;list-style-image:inherit">Comprendere la valenza di SPID all’interno dell’Unione Europea le sue possibilità di utilizzo.</li></ul></td></tr>
     </tbody></table>
 
-.. |REPLACE9| raw:: html
+.. |REPLACE10| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
@@ -420,7 +426,7 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
     <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Comprendere il significato di “mobile-first”;</li><li style="list-style:inherit;list-style-image:inherit">Comprendere il significato di “digital first”;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere il principio “once only” e le sue conseguenze nell’erogazione dei servizi on-line;</li><li style="list-style:inherit;list-style-image:inherit">Riconoscere i vari livelli di erogazione di un servizio on-line, dal livello base (pubblicazione di informazioni e modulistica) al livello più avanzato (completa erogazione del servizio in digitale);</li><li style="list-style:inherit;list-style-image:inherit">Capire le conseguenze giuridiche di violazione dell’obbligo di erogazione del servizio in modalità digitale.</li></ul></td></tr>
     </tbody></table>
 
-.. |REPLACE10| raw:: html
+.. |REPLACE11| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
@@ -429,7 +435,7 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
     <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Riconoscere gli attori preposti alla governance del digitale e i rispettivi ruoli;</li><li style="list-style:inherit;list-style-image:inherit">Comprendere gli obiettivi della strategia digitale italiana e come influenzano l'attività dell’amministrazione;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere come il Responsabile per la transizione digitale si relaziona con gli altri uffici di una amministrazione;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere il modello strategico di evoluzione del sistema informativo della pubblica amministrazione.</li></ul></td></tr>
     </tbody></table>
 
-.. |REPLACE11| raw:: html
+.. |REPLACE12| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
