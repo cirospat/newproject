@@ -16,7 +16,11 @@ Syllabus delle competenze digitali per i dipendenti della PA
 
     competenze-digitali-dipendenti-pa
 
-\ |STYLE1|\  è il documento che descrive l’insieme minimo delle conoscenze e abilità che ogni dipendente pubblico, non specialista IT, dovrebbe possedere per partecipare attivamente alla trasformazione digitale della pubblica amministrazione. Rappresenta lo strumento di riferimento sia per l’attività di autoverifica delle competenze digitali che per la definizione di corsi volti a indirizzare i fabbisogni formativi rilevati.
+\ |STYLE1|\  
+
+è il documento che descrive l’insieme minimo delle conoscenze e abilità che ogni dipendente pubblico, non specialista IT, dovrebbe possedere per partecipare attivamente alla trasformazione digitale della pubblica amministrazione. Rappresenta lo strumento di riferimento sia per l’attività di autoverifica delle competenze digitali che per la definizione di corsi volti a indirizzare i fabbisogni formativi rilevati.
+
+|
 
 \ |STYLE2|\  
 
@@ -30,6 +34,8 @@ Syllabus delle competenze digitali per i dipendenti della PA
 
 #. Trasformazione digitale.
 
+|
+
 \ |STYLE3|\  
 
 #. livello padronanza BASE, 
@@ -37,6 +43,8 @@ Syllabus delle competenze digitali per i dipendenti della PA
 #. livello padronanza INTERMEDIO, 
 
 #. livello padronanza AVANZATO.
+
+|
 
 \ |STYLE4|\  \ |STYLE5|\ 
 
@@ -47,6 +55,8 @@ Syllabus delle competenze digitali per i dipendenti della PA
 #. Livello di padronanza per ciascuna competenza (Base, Intermedio, Avanzato);
 
 #. Descrittore delle conoscenze e/o delle abilità che caratterizzano una competenza per ciascun livello di padronanza.
+
+|
 
 La realizzazione del Syllabus è stata curata dall'Ufficio per l'innovazione e la digitalizzazione del Dipartimento della Funzione Pubblica. E' stato, inoltre, oggetto di una \ |LINK3|\  (2019) che ha consentito di raccogliere numerosi contributi e proposte utili alla stesura finale del documento (\ |LINK4|\ ).
 
