@@ -22,6 +22,8 @@ Competenze digitali per i dipendenti della PA
 
 è il documento che descrive l’insieme minimo delle conoscenze e abilità che ogni dipendente pubblico, non specialista IT, dovrebbe possedere per partecipare attivamente alla trasformazione digitale della pubblica amministrazione. Rappresenta lo strumento di riferimento sia per l’attività di autoverifica delle competenze digitali che per la definizione di corsi volti a indirizzare i fabbisogni formativi rilevati.
 
+L’obiettivo generale del Syllabus [\ |LINK3|\ ]  è fare in modo che tutti i dipendenti pubblici siano in grado di operare attivamente in modo sicuro, consapevole, collaborativo e orientato al risultato all’interno di una pubblica amministrazione sempre più digitale. Il Syllabus si concentra esclusivamente [\ |LINK4|\ ] sugli aspetti pertinenti alle competenze digitali complementari richieste ad un dipendente pubblico che lavora in ambienti digitali. 
+
 |
 
 \ |STYLE2|\  
@@ -60,7 +62,7 @@ Competenze digitali per i dipendenti della PA
 
 |
 
-La realizzazione del Syllabus è stata curata dall'Ufficio per l'innovazione e la digitalizzazione del Dipartimento della Funzione Pubblica. E' stato, inoltre, oggetto di una \ |LINK3|\  (2019) che ha consentito di raccogliere numerosi contributi e proposte utili alla stesura finale del documento (\ |LINK4|\ ).
+La realizzazione del Syllabus è stata curata dall'Ufficio per l'innovazione e la digitalizzazione del Dipartimento della Funzione Pubblica. E' stato, inoltre, oggetto di una \ |LINK5|\  (2019) che ha consentito di raccogliere numerosi contributi e proposte utili alla stesura finale del documento (\ |LINK6|\ ).
 
 --------
 
@@ -447,9 +449,17 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 
 .. |LINK3| raw:: html
 
-    <a href="https://commenta.formez.it/ch/syllabus" target="_blank">consultazione pubblica</a>
+    <a href="https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-dfp-uid-maggio-2019.pdf" target="_blank">vedi pag.11 del documento</a>
 
 .. |LINK4| raw:: html
+
+    <a href="https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-dfp-uid-maggio-2019.pdf" target="_blank">vedi pag.12 del documento</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://commenta.formez.it/ch/syllabus" target="_blank">consultazione pubblica</a>
+
+.. |LINK6| raw:: html
 
     <a href="https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-report-consultazione-pubblica-dfp-uid-maggio-2019.pdf" target="_blank">vai agli esiti della consultazione pubblica</a>
 
