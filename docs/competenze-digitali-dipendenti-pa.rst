@@ -8,7 +8,7 @@ Syllabus delle competenze digitali per i dipendenti della PA
 
 
 .. toctree::  
-    :maxdepth: 3
+    :maxdepth: 2
     :caption: indice competenze digitali dipendenti PA 
 
     competenze-digitali-dipendenti-pa
@@ -24,10 +24,7 @@ Organizzato in \ |STYLE3|\  e \ |STYLE4|\  il Syllabus rappresenta lo strumento 
 
 La realizzazione del Syllabus è stata curata dall'Ufficio per l'innovazione e la digitalizzazione del Dipartimento della Funzione Pubblica. E' stato, inoltre, oggetto di una \ |LINK3|\  che ha consentito di raccogliere numerosi contributi e proposte utili alla stesura finale del documento (\ |LINK4|\ ).
 
-.. _h61754025f2341e246a3f2c14585830:
-
-La struttura del Syllabus
-=========================
+\ |STYLE5|\ 
 
 Il Syllabus si basa su quattro dimensioni:
 
@@ -39,10 +36,7 @@ Il Syllabus si basa su quattro dimensioni:
 
 * Descrittore delle conoscenze e/o delle abilità che caratterizzano una competenza per ciascun livello di padronanza.
 
-.. _ha282e4058647b706b7a23c74457e63:
-
-Area di competenza del Syllabus
-===============================
+\ |STYLE6|\ 
 
 .. _bookmark-id-kx721dh6m9hl:
 
@@ -71,9 +65,9 @@ Dati, informazioni e documenti informatici
 
 Nel proprio lavoro quotidiano il dipendente pubblico raccoglie, elabora e utilizza dati, informazioni e documenti. Per fare ciò deve saper ricorrere in modo appropriato sia a strumenti standard a disposizione di qualsiasi cittadino (internet per la ricerca di informazioni, gli strumenti di automazione d’ufficio per la produzione e la catalogazione di documenti, etc.), sia a strumenti peculiari dell’amministrazione di appartenenza. Inoltre deve avere consapevolezza del valore dei dati e delle modalità più efficaci di gestirli, anche attraverso tecnologie avanzate, a supporto dei processi operativi e decisionali.
 
-La normativa definisce il significato di \ |STYLE5|\  o \ |STYLE6|\  e introduce regole per la formazione, gestione, conservazione e trasmissione di documenti con strumenti informatici a cui ogni amministrazione è tenuta ad adeguare la propria gestione documentale. Ad ogni dipendente è richiesta, pertanto, la conoscenza di queste regole e la capacità di applicarle ai fini della corretta produzione, gestione e valutazione del documento informatico nonché di un uso consapevole di strumenti quali le firme elettroniche o le marche temporali e delle modalità di fascicolazione e gestione archivistica.
+La normativa definisce il significato di \ |STYLE7|\  o \ |STYLE8|\  e introduce regole per la formazione, gestione, conservazione e trasmissione di documenti con strumenti informatici a cui ogni amministrazione è tenuta ad adeguare la propria gestione documentale. Ad ogni dipendente è richiesta, pertanto, la conoscenza di queste regole e la capacità di applicarle ai fini della corretta produzione, gestione e valutazione del documento informatico nonché di un uso consapevole di strumenti quali le firme elettroniche o le marche temporali e delle modalità di fascicolazione e gestione archivistica.
 
-Infine, in presenza di un’attenzione crescente alla trasparenza e al potenziale di sviluppo insito nei dati, il dipendente pubblico è chiamato ad acquisire ed applicare i principi di \ |STYLE7|\ , in quanto liberamente usabile, riutilizzabile e ridistribuibile da parte di chiunque e per qualunque scopo, così come definito dal paradigma degli \ |STYLE8|\ .
+Infine, in presenza di un’attenzione crescente alla trasparenza e al potenziale di sviluppo insito nei dati, il dipendente pubblico è chiamato ad acquisire ed applicare i principi di \ |STYLE9|\ , in quanto liberamente usabile, riutilizzabile e ridistribuibile da parte di chiunque e per qualunque scopo, così come definito dal paradigma degli \ |STYLE10|\ .
 
 .. _h54776f4f7f2b1647431469692232282c:
 
@@ -82,13 +76,13 @@ Gestire dati, informazioni e contenuti digitali
 
 Conoscere la differenza tra dato e informazione. Saper raccogliere i dati e le informazioni di interesse da internet e saperli organizzare e archiviare in maniera efficiente e funzionale.
 
-\ |STYLE9|\ 
+\ |STYLE11|\ 
 
 * Conoscere la differenza tra dato e informazione;
 
 * Saper utilizzare internet per la ricerca di dati e informazioni.
 
-\ |STYLE10|\ 
+\ |STYLE12|\ 
 
 * Saper valutare l’affidabilità delle informazioni e dei dati rilevati su internet;
 
@@ -96,11 +90,13 @@ Conoscere la differenza tra dato e informazione. Saper raccogliere i dati e le i
 
 * Saper organizzare informazioni, dati e contenuti digitali affinché possano essere archiviati e gestiti in maniera efficiente e funzionale.
 
-\ |STYLE11|\ 
+\ |STYLE13|\ 
 
 * Comprendere le potenzialità dell’analisi dei dati e degli strumenti di supporto alle decisioni;
 
 * Saper utilizzare le principali fonti pubbliche (es. Istat, OCSE) per la raccolta di dati e informazioni utili ad attività di approfondimento, analisi e confronto, anche a supporto dei processi decisionali. 
+
+\ |STYLE14|\ 
 
 .. _h117c4155496d3d492b2c1f4537b4c11:
 
@@ -109,7 +105,7 @@ Produrre, valutare e gestire documenti informatici
 
 Produrre e riconoscere la validità di un documento informatico. Acquisire, gestire e conservare appropriatamente documenti informatici.
 
-\ |STYLE12|\ 
+\ |STYLE15|\ 
 
 * Conoscere il significato di documento informatico e di documento elettronico; conoscere le diverse modalità di formazione del documento informatico e le sue caratteristiche;
 
@@ -119,7 +115,7 @@ Produrre e riconoscere la validità di un documento informatico. Acquisire, gest
 
 * Conoscere l’esistenza e le funzionalità principali dei sistemi di protocollo informatico.
 
-\ |STYLE13|\ 
+\ |STYLE16|\ 
 
 * Riconoscere i formati accettati per un documento informatico;
 
@@ -137,13 +133,15 @@ Produrre e riconoscere la validità di un documento informatico. Acquisire, gest
 
 * Conoscere il significato e il valore legale del sigillo elettronico.
 
-\ |STYLE14|\ 
+\ |STYLE17|\ 
 
 * Conoscere il tema della classificazione, della fascicolazione e dell’utilizzo dei metadati in relazione ai documenti e ai fascicoli informatici;
 
 * Conoscere le caratteristiche principali e le implicazioni derivanti dalla corretta gestione archivistica e successiva conservazione dei documenti informatici;
 
 * Conoscere l’obbligo di consentire l’accesso ai documenti informatici da parte dei soggetti interessati.
+
+\ |STYLE18|\ 
 
 .. _h2a302474c21706b53325146632b1d4b:
 
@@ -152,13 +150,13 @@ Conoscere gli open data
 
 Conoscere le caratteristiche degli Open Data. Sapere quali obiettivi si possono soddisfare con la messa a disposizione di Open Data comprendendone i vantaggi per le amministrazioni, i cittadini e le imprese.
 
-\ |STYLE15|\ 
+\ |STYLE19|\ 
 
 * Conoscere il significato di Open Data inclusa la differenza tra dato aperto e dato pubblico;
 
 * Conoscere la definizione di formato aperto e i principali formati aperti per i dati.
 
-\ |STYLE16|\ 
+\ |STYLE20|\ 
 
 * Comprendere l’utilità degli Open Data per imprese, cittadini e società civile;
 
@@ -168,7 +166,7 @@ Conoscere le caratteristiche degli Open Data. Sapere quali obiettivi si possono 
 
 * Conoscere le principali azioni da svolgere per la pubblicazione di dati aperti.
 
-\ |STYLE17|\ 
+\ |STYLE21|\ 
 
 * Saper valutare la qualità del dato;
 
@@ -191,11 +189,13 @@ Il dipendente pubblico nel suo lavoro quotidiano è chiamato a interagire con di
 
 All’interno della propria amministrazione il dipendente pubblico può ricorrere ad un ventaglio di strumenti tecnologici, più o meno ampio ed istituzionalizzato, per gestire la comunicazione e la condivisione di documenti e informazioni nei propri processi di lavoro. Tale insieme di strumenti include la posta elettronica ordinaria, la intranet istituzionale e le cartelle condivise in rete, ma anche sistemi sempre più evoluti quali le applicazioni di instant messaging o di audio video conferencing, i forum interni e le soluzioni di condivisione e sincronizzazione di file. Di conseguenza, il dipendente pubblico è chiamato a conoscere tali strumenti e le loro caratteristiche principali e soprattutto a sviluppare la capacità di scegliere e utilizzare in ogni occasione lo strumento più appropriato in funzione di diversi fattori, incluso la natura e la complessità del contenuto da veicolare, nonché il grado di formalità richiesto e la presenza di eventuali vincoli normativi da rispettare.
 
-Il dipendente pubblico è inserito nel più ampio sistema di comunicazione della propria amministrazione con i suoi principali \ |STYLE18|\  esterni, tra cui spiccano i cittadini, le imprese e le altre amministrazioni. Tale sistema è oggetto negli ultimi anni di un profondo cambiamento dovuto, da un lato, ad un’attenzione crescente alla partecipazione e alla necessità di rafforzare la percezione condivisa di trasparenza e di efficienza e, dall’altro, all’ingresso anche nel mondo della pubblica amministrazione di strumenti evoluti di comunicazione, inclusi i social media, che si affiancano a strumenti tradizionali quali il sito web istituzionale o la posta elettronica certificata.
+Il dipendente pubblico è inserito nel più ampio sistema di comunicazione della propria amministrazione con i suoi principali \ |STYLE22|\  esterni, tra cui spiccano i cittadini, le imprese e le altre amministrazioni. Tale sistema è oggetto negli ultimi anni di un profondo cambiamento dovuto, da un lato, ad un’attenzione crescente alla partecipazione e alla necessità di rafforzare la percezione condivisa di trasparenza e di efficienza e, dall’altro, all’ingresso anche nel mondo della pubblica amministrazione di strumenti evoluti di comunicazione, inclusi i social media, che si affiancano a strumenti tradizionali quali il sito web istituzionale o la posta elettronica certificata.
 
-La comunicazione deve poi tenere conto dell’evoluzione normativa. Gli strumenti e i sistemi telematici e digitali stanno, infatti, determinando una rivisitazione profonda dei diritti di cittadinanza che devono essere sempre assicurati e garantiti. In particolare la recente introduzione del \ |STYLE19|\  cambia le modalità di comunicazione tra l’amministrazione e il cittadino.
+La comunicazione deve poi tenere conto dell’evoluzione normativa. Gli strumenti e i sistemi telematici e digitali stanno, infatti, determinando una rivisitazione profonda dei diritti di cittadinanza che devono essere sempre assicurati e garantiti. In particolare la recente introduzione del \ |STYLE23|\  cambia le modalità di comunicazione tra l’amministrazione e il cittadino.
 
 In questo scenario il dipendente pubblico ha, pertanto, la necessità di conoscere gli strumenti di comunicazione esterna e di saper applicare le modalità di interazione più adatte a seconda del soggetto e della circostanza, nel costante rispetto delle disposizioni normative.
+
+|
 
 .. _h182b3b572d785fe5222767f42753f19:
 
@@ -206,7 +206,7 @@ Conoscere tutti gli strumenti tecnologici a disposizione per interagire quotidia
 
 Saper selezionare le modalità di comunicazione e condivisione digitale più opportune anche in funzione della natura e dei contenuti da veicolare e del grado di formalità richiesto.
 
-\ |STYLE20|\ 
+\ |STYLE24|\ 
 
 * Saper utilizzare la posta elettronica in quanto strumento principale di comunicazione all’interno della stessa amministrazione;
 
@@ -214,19 +214,21 @@ Saper selezionare le modalità di comunicazione e condivisione digitale più opp
 
 * Saper utilizzare gli strumenti elementari di condivisione dei documenti (es. cartelle condivise) e saper riconoscere i vantaggi che possono apportare.
 
-\ |STYLE21|\ 
+\ |STYLE25|\ 
 
 * Conoscere i diversi tipi di strumenti di comunicazione evoluti (es. applicazioni di instant messaging e audio video conferencing, forum interni…) e le loro caratteristiche principali;
 
 * Conoscere le caratteristiche principali degli strumenti avanzati di condivisione on-line  di informazioni e documenti.
 
-\ |STYLE22|\ 
+\ |STYLE26|\ 
 
 * Saper utilizzare gli strumenti avanzati di comunicazione (forum, instant messaging, audio video conferencing);
 
 * Saper scegliere gli strumenti di comunicazione più appropriati in funzione delle caratteristiche del messaggio, incluso natura, complessità e grado di formalità del contenuto;
 
 * Saper utilizzare gli strumenti avanzati di condivisione on-line di informazioni e documenti valutandone vantaggi e rischi.
+
+|
 
 .. _h1e5e4431821948558114e725f6b:
 
@@ -239,7 +241,7 @@ Riconoscere il valore attribuito alle comunicazioni trasmesse a mezzo PEC nei co
 
 Sapere cos’è il domicilio digitale dei cittadini, dei professionisti e delle imprese e conoscere le implicazioni della sua elezione.
 
-\ |STYLE23|\ 
+\ |STYLE27|\ 
 
 * Conoscere cos’è e quali sono le caratteristiche della Posta Elettronica Certificata (PEC);
 
@@ -255,7 +257,7 @@ Sapere cos’è il domicilio digitale dei cittadini, dei professionisti e delle 
 
 * Conoscere gli strumenti elementari per la comunicazione e diffusione di informazioni in favore di cittadini e imprese (es. siti web istituzionali, FAQ, avvisi).
 
-\ |STYLE24|\ 
+\ |STYLE28|\ 
 
 * Saper utilizzare la PEC come strumento di comunicazione tra amministrazioni;
 
@@ -271,7 +273,7 @@ Sapere cos’è il domicilio digitale dei cittadini, dei professionisti e delle 
 
 * Saper individuare i dati presenti in banche dati di altre pubbliche amministrazioni necessari allo svolgimento di compiti istituzionali.
 
-\ |STYLE25|\ 
+\ |STYLE29|\ 
 
 * Conoscere la possibilità di invio di notifiche push a cittadini e imprese;
 
@@ -300,14 +302,16 @@ L’impatto delle tecnologie digitali sul trattamento dell’informazione ha avu
 
 Dal 25 maggio 2018 è operativo e obbligatorio il nuovo regolamento europeo sulla protezione dei dati e la loro libera circolazione (Regolamento Europeo 2016/679). Il nuovo regolamento presenta un insieme di regole in grado di disciplinare gran parte degli aspetti di una protezione dei dati personali che sia attenta al digitale.
 
-La pubblica amministrazione, alla stregua di qualunque impresa o organizzazione che gestisce informazioni, deve conoscere i contenuti della nuova normativa sulla Privacy nota anche con il termine \ |STYLE26|\ , saperli applicare e prevedere competenze e ruoli adatti ad assicurarne il pieno rispetto nei processi di trattamento dei dati.
+La pubblica amministrazione, alla stregua di qualunque impresa o organizzazione che gestisce informazioni, deve conoscere i contenuti della nuova normativa sulla Privacy nota anche con il termine \ |STYLE30|\ , saperli applicare e prevedere competenze e ruoli adatti ad assicurarne il pieno rispetto nei processi di trattamento dei dati.
+
+|
 
 .. _h1b7c66152142077441a6c334053186c:
 
 Proteggere i dispositivi
 ========================
 
-\ |STYLE27|\ 
+\ |STYLE31|\ 
 
 * Conoscere l’esistenza di rischi e minacce negli ambienti digitali;
 
@@ -315,7 +319,7 @@ Proteggere i dispositivi
 
 * Saper definire e gestire le password in modo consapevole e protetto.
 
-\ |STYLE28|\ 
+\ |STYLE32|\ 
 
 * Saper valutare i principali rischi per il dispositivo se soggetto ad attacchi informatici;
 
@@ -323,11 +327,13 @@ Proteggere i dispositivi
 
 * Conoscere i principali tipi di attacco informatico, Virus, Trojan, Denial of Service (DoS), Distributed Denial of Service (DDoS).
 
-\ |STYLE29|\ 
+\ |STYLE33|\ 
 
 * Sapere quali contromisure adottare per prevenire e difendersi dagli attacchi informatici;
 
 * Saper riconoscere quando il dispositivo è soggetto ad attacchi informatici.
+
+|
 
 .. _h6c7f183a436b3a61555b6d3f37316a55:
 
@@ -336,13 +342,13 @@ Proteggere i dati personali e la Privacy
 
 Conoscere la normativa vigente sulla protezione dei dati personali e saperla applicare in modo appropriato.
 
-\ |STYLE30|\ 
+\ |STYLE34|\ 
 
 * Conoscere i concetti di riservatezza, integrità e non ripudio dei dati;
 
 * Conoscere cos’è il regolamento europeo sulla protezione dei dati personali.
 
-\ |STYLE31|\ 
+\ |STYLE35|\ 
 
 * Sapere come proteggere i dati personali negli ambienti digitali;
 
@@ -350,7 +356,7 @@ Conoscere la normativa vigente sulla protezione dei dati personali e saperla app
 
 * Conoscere i principi generali definiti nel regolamento europeo sulla protezione dei dati personali.
 
-\ |STYLE32|\ 
+\ |STYLE36|\ 
 
 * Saper valutare i rischi e applicare le contromisure appropriate;
 
@@ -369,9 +375,11 @@ La pubblica amministrazione, nel tempo, ha fornito sempre più servizi tramite i
 
 Al fine di stimolare lo sviluppo di sempre nuovi servizi on-line e, al contempo, di assicurarne coerenza e integrazione superando il tradizionale approccio a “silos”, particolare attenzione è stata prestata negli ultimi anni allo sviluppo di “piattaforme abilitanti”, una serie di servizi infrastrutturali volti, da un lato, ad agevolare e ridurre i costi di nuovi servizi specifici per le varie amministrazioni e, dall’altro, a uniformare gli strumenti utilizzati dagli utenti finali durante la loro interazione con la pubblica amministrazione.
 
-Alcune di queste piattaforme abilitanti si rivolgono specificatamente ai cittadini e alle imprese quali i servizi di identificazione, fatturazione e pagamento. L’introduzione di \ |STYLE33|\ , per esempio, ha offerto la possibilità al cittadino di avere un’unica modalità di autenticazione per tutti i servizi della pubblica amministrazione. Sul tema dei pagamenti digitali, invece, \ |STYLE34|\  ha reso più semplice, sicuro e trasparente qualsiasi pagamento verso la pubblica amministrazione.
+Alcune di queste piattaforme abilitanti si rivolgono specificatamente ai cittadini e alle imprese quali i servizi di identificazione, fatturazione e pagamento. L’introduzione di \ |STYLE37|\ , per esempio, ha offerto la possibilità al cittadino di avere un’unica modalità di autenticazione per tutti i servizi della pubblica amministrazione. Sul tema dei pagamenti digitali, invece, \ |STYLE38|\  ha reso più semplice, sicuro e trasparente qualsiasi pagamento verso la pubblica amministrazione.
 
 Il dipendente pubblico è chiamato, pertanto, a conoscere e garantire il diritto alla fruizione dei servizi on-line, nonché a conoscere le principali piattaforme abilitanti a supporto dell’erogazione di tali servizi da parte delle pubbliche amministrazioni in favore di cittadini e imprese.
+
+|
 
 .. _h2c6d4c331d235a4031b67383574121:
 
@@ -380,19 +388,19 @@ Conoscere l'identità digitale
 
 Conoscere il concetto di identità digitale e le relative implicazioni nell’accesso ai servizi on-line offerti dalle amministrazioni. Conoscere il funzionamento di SPID  (Sistema pubblico di identità digitale) e le sue caratteristiche principali.
 
-\ |STYLE35|\ 
+\ |STYLE39|\ 
 
 * Conoscere il concetto di identità digitale e l’esistenza di SPID;
 
 * Conoscere il ruolo di CIE e CNS nell’ambito dei servizi on-line erogati dalle pubbliche amministrazioni.
 
-\ |STYLE36|\ 
+\ |STYLE40|\ 
 
 * Conoscere le caratteristiche principali di SPID;
 
 * Conoscere le modalità di ottenimento dell’identità digitale di SPID utilizzando CIE, CNS e firma digitale.
 
-\ |STYLE37|\ 
+\ |STYLE41|\ 
 
 * Conoscere le implicazioni dell’utilizzo di SPID come modalità di autenticazione;
 
@@ -401,6 +409,8 @@ Conoscere il concetto di identità digitale e le relative implicazioni nell’ac
 * Saper applicare le possibilità offerte da SPID  per la firma dei documenti;
 
 * Comprendere la valenza di SPID all’interno dell’Unione Europea le sue possibilità di utilizzo.
+
+|
 
 .. _h722c4f635a22737707512611185364:
 
@@ -413,7 +423,7 @@ Conoscere il diritto dei cittadini a effettuare pagamenti nei confronti dell’a
 
 Conoscere i princìpi che guidano l’erogazione dei servizi on-line, tra cui il concetto di interoperabilità.
 
-\ |STYLE38|\ 
+\ |STYLE42|\ 
 
 * Conoscere il diritto di cittadini e imprese di accedere ai servizi in modalità digitale;
 
@@ -423,7 +433,7 @@ Conoscere i princìpi che guidano l’erogazione dei servizi on-line, tra cui il
 
 * Conoscere princìpi e obblighi connessi alla fatturazione elettronica.
 
-\ |STYLE39|\ 
+\ |STYLE43|\ 
 
 * Conoscere le linee guida AgID per l’erogazione dei servizi on-line e le caratteristiche necessarie per l’erogazione di un servizio online (efficacia, economicità, utilità, fruibilità, accessibilità, tempestività);
 
@@ -431,7 +441,7 @@ Conoscere i princìpi che guidano l’erogazione dei servizi on-line, tra cui il
 
 * Conoscere le caratteristiche principali di pagoPA.
 
-\ |STYLE40|\ 
+\ |STYLE44|\ 
 
 * Comprendere il significato di “mobile-first”;
 
@@ -450,13 +460,16 @@ Conoscere i princìpi che guidano l’erogazione dei servizi on-line, tra cui il
 Trasformazione digitale
 ***********************
 
-Nell'epoca del “\ |STYLE41|\ ”, da un lato il cittadino richiede sempre più interazione digitale anziché fisica con le amministrazioni, dall’altro le tecnologie digitali offrono molteplici opportunità per semplificare, ottimizzare, velocizzare, rendere più trasparenti i processi della pubblica amministrazione e, quindi, migliorare la qualità e l’efficienza dei servizi erogati.
+Nell'epoca del “\ |STYLE45|\ ”, da un lato il cittadino richiede sempre più interazione digitale anziché fisica con le amministrazioni, dall’altro le tecnologie digitali offrono molteplici opportunità per semplificare, ottimizzare, velocizzare, rendere più trasparenti i processi della pubblica amministrazione e, quindi, migliorare la qualità e l’efficienza dei servizi erogati.
 
 Il Codice dell'amministrazione digitale (d. lgs. n. 82/2005) accompagna le amministrazioni nella fase di transizione dal cartaceo al digitale mentre il Piano Triennale per l’Informatica nella Pubblica amministrazione 2019-2021 contiene una serie di iniziative e strumenti per supportare l’innovazione della pubblica amministrazione grazie al ricorso alle tecnologie digitali.
 
-È necessario per il dipendente pubblico coinvolto nei processi e nei servizi conoscere gli obiettivi che caratterizzano la strategia nazionale per la trasformazione digitale della pubblica amministrazione e come è strutturata la \ |STYLE42|\  del digitale in Italia.
+È necessario per il dipendente pubblico coinvolto nei processi e nei servizi conoscere gli obiettivi che caratterizzano la strategia nazionale per la trasformazione digitale della pubblica amministrazione e come è strutturata la \ |STYLE46|\  del digitale in Italia.
 
-È altresì necessario che il dipendente pubblico possegga una “\ |STYLE43|\ ” di base relativamente ai trend e alle tecnologie che si stanno sviluppando in questo momento, e sia in grado di riconoscerne le potenzialità applicative anche in ambito pubblico.
+È altresì necessario che il dipendente pubblico possegga una “\ |STYLE47|\ ” di base relativamente ai trend e alle tecnologie che si stanno sviluppando in questo momento, e sia in grado di riconoscerne le potenzialità applicative anche in ambito pubblico.
+
+
+|
 
 .. _h3d5696531b968510291f42643853:
 
@@ -465,13 +478,13 @@ Conoscere gli obiettivi di trasformazione digitale
 
 Conoscere le strategie di crescita digitale del Paese e le principali modalità attuative. Conoscere i diversi attori istituzionali coinvolti nel governo e nell’attuazione della trasformazione digitale della pubblica amministrazione italiana. 
 
-\ |STYLE44|\ 
+\ |STYLE48|\ 
 
 * Conoscere i principali diritti di cittadinanza digitale;
 
 * Conoscere la figura del Responsabile per la transizione al digitale.
 
-\ |STYLE45|\ 
+\ |STYLE49|\ 
 
 * Conoscere le linee generali di programmazione della strategia digitale italiana;
 
@@ -479,7 +492,7 @@ Conoscere le strategie di crescita digitale del Paese e le principali modalità 
 
 * Conoscere i compiti del Responsabile per la transizione al digitale.
 
-\ |STYLE46|\ 
+\ |STYLE50|\ 
 
 * Riconoscere gli attori preposti alla governance del digitale e i rispettivi ruoli;
 
@@ -489,6 +502,8 @@ Conoscere le strategie di crescita digitale del Paese e le principali modalità 
 
 * Conoscere il modello strategico di evoluzione del sistema informativo della pubblica amministrazione.
 
+|
+
 .. _h782f6e44673d5e23231f332244d4a4c:
 
 Conoscere le tecnologie emergenti per la trasformazione digitale
@@ -496,13 +511,13 @@ Conoscere le tecnologie emergenti per la trasformazione digitale
 
 Riconoscere le principali tecnologie emergenti e come possono o potranno essere utilizzate per la trasformazione digitale della pubblica amministrazione.
 
-\ |STYLE47|\ 
+\ |STYLE51|\ 
 
 * Conoscere gli strumenti tecnologici maggiormente diffusi nella vita quotidiana;
 
 * Conoscere le applicazioni degli strumenti tecnologici maggiormente diffusi nella vita quotidiana.
 
-\ |STYLE48|\ 
+\ |STYLE52|\ 
 
 * Conoscere le caratteristiche principali del Cloud computing;
 
@@ -512,7 +527,7 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 
 * Conoscere le caratteristiche principali dell’IoT - Internet delle Cose.
 
-\ |STYLE49|\ 
+\ |STYLE53|\ 
 
 * Riconoscere  i principali ambiti di applicazione del Cloud computing;
 
@@ -538,25 +553,25 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 
 .. |STYLE4| replace:: **3 livelli di padronanza**
 
-.. |STYLE5| replace:: **documento informatico**
+.. |STYLE5| replace:: **La struttura del Syllabus**
 
-.. |STYLE6| replace:: **documento elettronico**
+.. |STYLE6| replace:: **Area di competenza del Syllabus**
 
-.. |STYLE7| replace:: **valorizzazione del patrimonio informativo della pubblica amministrazione**
+.. |STYLE7| replace:: **documento informatico**
 
-.. |STYLE8| replace:: **Open Data**
+.. |STYLE8| replace:: **documento elettronico**
 
-.. |STYLE9| replace:: **Livello di padronanza BASE**
+.. |STYLE9| replace:: **valorizzazione del patrimonio informativo della pubblica amministrazione**
 
-.. |STYLE10| replace:: **Livello di padronanza INTERMEDIO**
+.. |STYLE10| replace:: **Open Data**
 
-.. |STYLE11| replace:: **Livello di padronanza  AVANZATO**
+.. |STYLE11| replace:: **Livello di padronanza BASE**
 
-.. |STYLE12| replace:: **Livello di padronanza BASE**
+.. |STYLE12| replace:: **Livello di padronanza INTERMEDIO**
 
-.. |STYLE13| replace:: **Livello di padronanza INTERMEDIO**
+.. |STYLE13| replace:: **Livello di padronanza  AVANZATO**
 
-.. |STYLE14| replace:: **Livello di padronanza  AVANZATO**
+.. |STYLE14| replace:: **|**
 
 .. |STYLE15| replace:: **Livello di padronanza BASE**
 
@@ -564,23 +579,23 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 
 .. |STYLE17| replace:: **Livello di padronanza  AVANZATO**
 
-.. |STYLE18| replace:: **stakeholder**
+.. |STYLE18| replace:: **|**
 
-.. |STYLE19| replace:: **domicilio digitale**
+.. |STYLE19| replace:: **Livello di padronanza BASE**
 
-.. |STYLE20| replace:: **Livello di padronanza BASE**
+.. |STYLE20| replace:: **Livello di padronanza INTERMEDIO**
 
-.. |STYLE21| replace:: **Livello di padronanza INTERMEDIO**
+.. |STYLE21| replace:: **Livello di padronanza  AVANZATO**
 
-.. |STYLE22| replace:: **Livello di padronanza  AVANZATO**
+.. |STYLE22| replace:: **stakeholder**
 
-.. |STYLE23| replace:: **Livello di padronanza BASE**
+.. |STYLE23| replace:: **domicilio digitale**
 
-.. |STYLE24| replace:: **Livello di padronanza INTERMEDIO**
+.. |STYLE24| replace:: **Livello di padronanza BASE**
 
-.. |STYLE25| replace:: **Livello di padronanza  AVANZATO**
+.. |STYLE25| replace:: **Livello di padronanza INTERMEDIO**
 
-.. |STYLE26| replace:: **GDPR (General Data Protection Regulation)**
+.. |STYLE26| replace:: **Livello di padronanza  AVANZATO**
 
 .. |STYLE27| replace:: **Livello di padronanza BASE**
 
@@ -588,45 +603,53 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 
 .. |STYLE29| replace:: **Livello di padronanza  AVANZATO**
 
-.. |STYLE30| replace:: **Livello di padronanza BASE**
+.. |STYLE30| replace:: **GDPR (General Data Protection Regulation)**
 
-.. |STYLE31| replace:: **Livello di padronanza INTERMEDIO**
+.. |STYLE31| replace:: **Livello di padronanza BASE**
 
-.. |STYLE32| replace:: **Livello di padronanza  AVANZATO**
+.. |STYLE32| replace:: **Livello di padronanza INTERMEDIO**
 
-.. |STYLE33| replace:: **SPID (Sistema pubblico di identità digitale)**
+.. |STYLE33| replace:: **Livello di padronanza  AVANZATO**
 
-.. |STYLE34| replace:: **pagoPA**
+.. |STYLE34| replace:: **Livello di padronanza BASE**
 
-.. |STYLE35| replace:: **Livello di padronanza BASE**
+.. |STYLE35| replace:: **Livello di padronanza INTERMEDIO**
 
-.. |STYLE36| replace:: **Livello di padronanza INTERMEDIO**
+.. |STYLE36| replace:: **Livello di padronanza  AVANZATO**
 
-.. |STYLE37| replace:: **Livello di padronanza  AVANZATO**
+.. |STYLE37| replace:: **SPID (Sistema pubblico di identità digitale)**
 
-.. |STYLE38| replace:: **Livello di padronanza BASE**
+.. |STYLE38| replace:: **pagoPA**
 
-.. |STYLE39| replace:: **Livello di padronanza INTERMEDIO**
+.. |STYLE39| replace:: **Livello di padronanza BASE**
 
-.. |STYLE40| replace:: **Livello di padronanza  AVANZATO**
+.. |STYLE40| replace:: **Livello di padronanza INTERMEDIO**
 
-.. |STYLE41| replace:: **digital first**
+.. |STYLE41| replace:: **Livello di padronanza  AVANZATO**
 
-.. |STYLE42| replace:: **governance**
+.. |STYLE42| replace:: **Livello di padronanza BASE**
 
-.. |STYLE43| replace:: **cultura digitale**
+.. |STYLE43| replace:: **Livello di padronanza INTERMEDIO**
 
-.. |STYLE44| replace:: **Livello di padronanza BASE**
+.. |STYLE44| replace:: **Livello di padronanza  AVANZATO**
 
-.. |STYLE45| replace:: **Livello di padronanza INTERMEDIO**
+.. |STYLE45| replace:: **digital first**
 
-.. |STYLE46| replace:: **Livello di padronanza  AVANZATO**
+.. |STYLE46| replace:: **governance**
 
-.. |STYLE47| replace:: **Livello di padronanza BASE**
+.. |STYLE47| replace:: **cultura digitale**
 
-.. |STYLE48| replace:: **Livello di padronanza INTERMEDIO**
+.. |STYLE48| replace:: **Livello di padronanza BASE**
 
-.. |STYLE49| replace:: **Livello di padronanza  AVANZATO**
+.. |STYLE49| replace:: **Livello di padronanza INTERMEDIO**
+
+.. |STYLE50| replace:: **Livello di padronanza  AVANZATO**
+
+.. |STYLE51| replace:: **Livello di padronanza BASE**
+
+.. |STYLE52| replace:: **Livello di padronanza INTERMEDIO**
+
+.. |STYLE53| replace:: **Livello di padronanza  AVANZATO**
 
 
 .. |LINK1| raw:: html
