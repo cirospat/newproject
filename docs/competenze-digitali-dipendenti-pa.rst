@@ -38,17 +38,17 @@ Il Syllabus si basa su quattro dimensioni:
 
 \ |STYLE6|\ 
 
-\ |LINK5|\    
+* \ |LINK5|\    
 
-\ |LINK6|\      
+* \ |LINK6|\      
 
-\ |LINK7|\  
+* \ |LINK7|\  
 
-\ |LINK8|\   
+* \ |LINK8|\   
 
-.. _bookmark-id-o64pl747r9wv:
-
-\ |LINK9|\ 
+* .. _bookmark-id-o64pl747r9wv:
+* 
+* \ |LINK9|\ 
 
 --------
 
@@ -75,27 +75,7 @@ Conoscere la differenza tra dato e informazione. Saper raccogliere i dati e le i
 
 |REPLACE1|
 
-\ |STYLE11|\ 
-
-* Conoscere la differenza tra dato e informazione;
-
-* Saper utilizzare internet per la ricerca di dati e informazioni.
-
-\ |STYLE12|\ 
-
-* Saper valutare l’affidabilità delle informazioni e dei dati rilevati su internet;
-
-* Saper utilizzare le principali banche dati pubbliche a supporto dello svolgimento di compiti istituzionali;
-
-* Saper organizzare informazioni, dati e contenuti digitali affinché possano essere archiviati e gestiti in maniera efficiente e funzionale.
-
-\ |STYLE13|\ 
-
-* Comprendere le potenzialità dell’analisi dei dati e degli strumenti di supporto alle decisioni;
-
-* Saper utilizzare le principali fonti pubbliche (es. Istat, OCSE) per la raccolta di dati e informazioni utili ad attività di approfondimento, analisi e confronto, anche a supporto dei processi decisionali. 
-
-\ |STYLE14|\ 
+|
 
 .. _h117c4155496d3d492b2c1f4537b4c11:
 
@@ -104,41 +84,8 @@ Produrre, valutare e gestire documenti informatici
 
 Produrre e riconoscere la validità di un documento informatico. Acquisire, gestire e conservare appropriatamente documenti informatici.
 
-\ |STYLE15|\ 
 
-* Conoscere il significato di documento informatico e di documento elettronico; conoscere le diverse modalità di formazione del documento informatico e le sue caratteristiche;
-
-* Conoscere il valore legale del documento informatico;
-
-* Conoscere il valore legale della firma digitale e del timbro digitale; 
-
-* Conoscere l’esistenza e le funzionalità principali dei sistemi di protocollo informatico.
-
-\ |STYLE16|\ 
-
-* Riconoscere i formati accettati per un documento informatico;
-
-* Conoscere i diversi tipi di firme elettroniche e il diverso valore giuridico e probatorio che caratterizza il documento informatico a cui possono essere associate;
-
-* Conoscere le funzionalità principali dei sistemi di gestione documentale;
-
-* Conoscere il significato di valore temporale del documento informatico, l’esistenza delle marche temporali e di altri riferimenti temporali, opponibili a terzi;
-
-* Conoscere le caratteristiche della validazione temporale di un documento informatico;
-
-* Conoscere i fondamenti della conservazione digitale;
-
-* Saper scegliere i formati documentali le cui caratteristiche tecniche garantiscono l’accessibilità dei documenti pubblicati on line sui siti web istituzionali delle amministrazioni;
-
-* Conoscere il significato e il valore legale del sigillo elettronico.
-
-\ |STYLE17|\ 
-
-* Conoscere il tema della classificazione, della fascicolazione e dell’utilizzo dei metadati in relazione ai documenti e ai fascicoli informatici;
-
-* Conoscere le caratteristiche principali e le implicazioni derivanti dalla corretta gestione archivistica e successiva conservazione dei documenti informatici;
-
-* Conoscere l’obbligo di consentire l’accesso ai documenti informatici da parte dei soggetti interessati.
+|REPLACE2|
 
 |
 
@@ -149,31 +96,8 @@ Conoscere gli open data
 
 Conoscere le caratteristiche degli Open Data. Sapere quali obiettivi si possono soddisfare con la messa a disposizione di Open Data comprendendone i vantaggi per le amministrazioni, i cittadini e le imprese.
 
-\ |STYLE18|\ 
 
-* Conoscere il significato di Open Data inclusa la differenza tra dato aperto e dato pubblico;
-
-* Conoscere la definizione di formato aperto e i principali formati aperti per i dati.
-
-\ |STYLE19|\ 
-
-* Comprendere l’utilità degli Open Data per imprese, cittadini e società civile;
-
-* Conoscere le caratteristiche principali degli Open Data;
-
-* Comprendere il principio dell’Open Data by default e i suoi limiti;
-
-* Conoscere le principali azioni da svolgere per la pubblicazione di dati aperti.
-
-\ |STYLE20|\ 
-
-* Saper valutare la qualità del dato;
-
-* Saper valutare le implicazioni organizzative e gli interventi necessari ad abilitare la generazione automatica di Open Data nell’ambito dei processi interni di una amministrazione;
-
-* Conoscere i modelli per i dati e per i metadati proposti a livello nazionale e internazionale;
-
-* Comprendere il significato di Linked Open Data.
+|REPLACE3|
 
 --------
 
@@ -188,9 +112,9 @@ Il dipendente pubblico nel suo lavoro quotidiano è chiamato a interagire con di
 
 All’interno della propria amministrazione il dipendente pubblico può ricorrere ad un ventaglio di strumenti tecnologici, più o meno ampio ed istituzionalizzato, per gestire la comunicazione e la condivisione di documenti e informazioni nei propri processi di lavoro. Tale insieme di strumenti include la posta elettronica ordinaria, la intranet istituzionale e le cartelle condivise in rete, ma anche sistemi sempre più evoluti quali le applicazioni di instant messaging o di audio video conferencing, i forum interni e le soluzioni di condivisione e sincronizzazione di file. Di conseguenza, il dipendente pubblico è chiamato a conoscere tali strumenti e le loro caratteristiche principali e soprattutto a sviluppare la capacità di scegliere e utilizzare in ogni occasione lo strumento più appropriato in funzione di diversi fattori, incluso la natura e la complessità del contenuto da veicolare, nonché il grado di formalità richiesto e la presenza di eventuali vincoli normativi da rispettare.
 
-Il dipendente pubblico è inserito nel più ampio sistema di comunicazione della propria amministrazione con i suoi principali \ |STYLE21|\  esterni, tra cui spiccano i cittadini, le imprese e le altre amministrazioni. Tale sistema è oggetto negli ultimi anni di un profondo cambiamento dovuto, da un lato, ad un’attenzione crescente alla partecipazione e alla necessità di rafforzare la percezione condivisa di trasparenza e di efficienza e, dall’altro, all’ingresso anche nel mondo della pubblica amministrazione di strumenti evoluti di comunicazione, inclusi i social media, che si affiancano a strumenti tradizionali quali il sito web istituzionale o la posta elettronica certificata.
+Il dipendente pubblico è inserito nel più ampio sistema di comunicazione della propria amministrazione con i suoi principali \ |STYLE11|\  esterni, tra cui spiccano i cittadini, le imprese e le altre amministrazioni. Tale sistema è oggetto negli ultimi anni di un profondo cambiamento dovuto, da un lato, ad un’attenzione crescente alla partecipazione e alla necessità di rafforzare la percezione condivisa di trasparenza e di efficienza e, dall’altro, all’ingresso anche nel mondo della pubblica amministrazione di strumenti evoluti di comunicazione, inclusi i social media, che si affiancano a strumenti tradizionali quali il sito web istituzionale o la posta elettronica certificata.
 
-La comunicazione deve poi tenere conto dell’evoluzione normativa. Gli strumenti e i sistemi telematici e digitali stanno, infatti, determinando una rivisitazione profonda dei diritti di cittadinanza che devono essere sempre assicurati e garantiti. In particolare la recente introduzione del \ |STYLE22|\  cambia le modalità di comunicazione tra l’amministrazione e il cittadino.
+La comunicazione deve poi tenere conto dell’evoluzione normativa. Gli strumenti e i sistemi telematici e digitali stanno, infatti, determinando una rivisitazione profonda dei diritti di cittadinanza che devono essere sempre assicurati e garantiti. In particolare la recente introduzione del \ |STYLE12|\  cambia le modalità di comunicazione tra l’amministrazione e il cittadino.
 
 In questo scenario il dipendente pubblico ha, pertanto, la necessità di conoscere gli strumenti di comunicazione esterna e di saper applicare le modalità di interazione più adatte a seconda del soggetto e della circostanza, nel costante rispetto delle disposizioni normative.
 
@@ -205,27 +129,8 @@ Conoscere tutti gli strumenti tecnologici a disposizione per interagire quotidia
 
 Saper selezionare le modalità di comunicazione e condivisione digitale più opportune anche in funzione della natura e dei contenuti da veicolare e del grado di formalità richiesto.
 
-\ |STYLE23|\ 
 
-* Saper utilizzare la posta elettronica in quanto strumento principale di comunicazione all’interno della stessa amministrazione;
-
-* Conoscere l’intranet quale strumento di comunicazione e condivisione interno all’amministrazione e comprenderne le caratteristiche principali;
-
-* Saper utilizzare gli strumenti elementari di condivisione dei documenti (es. cartelle condivise) e saper riconoscere i vantaggi che possono apportare.
-
-\ |STYLE24|\ 
-
-* Conoscere i diversi tipi di strumenti di comunicazione evoluti (es. applicazioni di instant messaging e audio video conferencing, forum interni…) e le loro caratteristiche principali;
-
-* Conoscere le caratteristiche principali degli strumenti avanzati di condivisione on-line  di informazioni e documenti.
-
-\ |STYLE25|\ 
-
-* Saper utilizzare gli strumenti avanzati di comunicazione (forum, instant messaging, audio video conferencing);
-
-* Saper scegliere gli strumenti di comunicazione più appropriati in funzione delle caratteristiche del messaggio, incluso natura, complessità e grado di formalità del contenuto;
-
-* Saper utilizzare gli strumenti avanzati di condivisione on-line di informazioni e documenti valutandone vantaggi e rischi.
+|REPLACE4|
 
 |
 
@@ -240,47 +145,8 @@ Riconoscere il valore attribuito alle comunicazioni trasmesse a mezzo PEC nei co
 
 Sapere cos’è il domicilio digitale dei cittadini, dei professionisti e delle imprese e conoscere le implicazioni della sua elezione.
 
-\ |STYLE26|\ 
 
-* Conoscere cos’è e quali sono le caratteristiche della Posta Elettronica Certificata (PEC);
-
-* Conoscere il ruolo della PEC quale strumento di comunicazione tra pubbliche amministrazioni; 
-
-* Conoscere il ruolo della PEC quale strumento di comunicazione con il cittadino e le imprese;
-
-* Conoscere l’obbligo di acquisire d’ufficio le informazioni già in possesso di altre amministrazioni;
-
-* Conoscere quali sono le modalità individuate dalla normativa di riferimento per inoltrare validamente istanze e dichiarazioni a pubbliche amministrazioni per via telematica;
-
-* Conoscere il concetto di domicilio digitale;
-
-* Conoscere gli strumenti elementari per la comunicazione e diffusione di informazioni in favore di cittadini e imprese (es. siti web istituzionali, FAQ, avvisi).
-
-\ |STYLE27|\ 
-
-* Saper utilizzare la PEC come strumento di comunicazione tra amministrazioni;
-
-* Saper utilizzare la PEC come strumento di comunicazione con i cittadini e le imprese;
-
-* Comprendere le implicazioni del domicilio digitale quale unico indirizzo per le comunicazioni dell’amministrazione al cittadino;
-
-* Conoscere quali sono gli strumenti evoluti di comunicazione e partecipazione in favore di cittadini, imprese e degli altri stakeholder di una pubblica amministrazione (es. forum, social media);
-
-* Conoscere l’esistenza di diversi registri linguistici a seconda del destinatario e dello strumento utilizzato;
-
-* Saper utilizzare la PEC in maniera integrata con il protocollo informatico e il sistema di gestione documentale quale strumento di comunicazione con cittadini, imprese e altre amministrazioni;
-
-* Saper individuare i dati presenti in banche dati di altre pubbliche amministrazioni necessari allo svolgimento di compiti istituzionali.
-
-\ |STYLE28|\ 
-
-* Conoscere la possibilità di invio di notifiche push a cittadini e imprese;
-
-* Saper utilizzare gli strumenti avanzati di comunicazione (forum, instant messaging, audio video conferencing, social media);
-
-* Saper scegliere gli strumenti di comunicazione digitale più appropriati per l’interazione con cittadini e imprese in funzione della natura, complessità e grado di formalità del contenuto da veicolare;
-
-* Saper scegliere il registro linguistico appropriato a seconda del destinatario e dello strumento utilizzato.
+|REPLACE5|
 
 --------
 
@@ -303,7 +169,7 @@ L’impatto delle tecnologie digitali sul trattamento dell’informazione ha avu
 
 Dal 25 maggio 2018 è operativo e obbligatorio il nuovo regolamento europeo sulla protezione dei dati e la loro libera circolazione (Regolamento Europeo 2016/679). Il nuovo regolamento presenta un insieme di regole in grado di disciplinare gran parte degli aspetti di una protezione dei dati personali che sia attenta al digitale.
 
-La pubblica amministrazione, alla stregua di qualunque impresa o organizzazione che gestisce informazioni, deve conoscere i contenuti della nuova normativa sulla Privacy nota anche con il termine \ |STYLE29|\ , saperli applicare e prevedere competenze e ruoli adatti ad assicurarne il pieno rispetto nei processi di trattamento dei dati.
+La pubblica amministrazione, alla stregua di qualunque impresa o organizzazione che gestisce informazioni, deve conoscere i contenuti della nuova normativa sulla Privacy nota anche con il termine \ |STYLE13|\ , saperli applicare e prevedere competenze e ruoli adatti ad assicurarne il pieno rispetto nei processi di trattamento dei dati.
 
 |
 
@@ -312,27 +178,10 @@ La pubblica amministrazione, alla stregua di qualunque impresa o organizzazione 
 Proteggere i dispositivi
 ========================
 
-\ |STYLE30|\ 
+Conoscere l’esistenza degli attacchi informatici e dei rischi ad essi associati e saperli prevenire attraverso l’adozione di appropriate precauzioni a partire dalle più semplici, come una corretta impostazione della password. Saper riconoscere, valutare e affrontare un attacco informatico al proprio dispositivo personale.
 
-* Conoscere l’esistenza di rischi e minacce negli ambienti digitali;
 
-* Saper adottare le misure base di sicurezza per proteggere i dispositivi;
-
-* Saper definire e gestire le password in modo consapevole e protetto.
-
-\ |STYLE31|\ 
-
-* Saper valutare i principali rischi per il dispositivo se soggetto ad attacchi informatici;
-
-* Conoscere l’esistenza delle misure minime di sicurezza ICT per le pubbliche amministrazioni;
-
-* Conoscere i principali tipi di attacco informatico, Virus, Trojan, Denial of Service (DoS), Distributed Denial of Service (DDoS).
-
-\ |STYLE32|\ 
-
-* Sapere quali contromisure adottare per prevenire e difendersi dagli attacchi informatici;
-
-* Saper riconoscere quando il dispositivo è soggetto ad attacchi informatici.
+|REPLACE6|
 
 |
 
@@ -343,25 +192,8 @@ Proteggere i dati personali e la Privacy
 
 Conoscere la normativa vigente sulla protezione dei dati personali e saperla applicare in modo appropriato.
 
-\ |STYLE33|\ 
 
-* Conoscere i concetti di riservatezza, integrità e non ripudio dei dati;
-
-* Conoscere cos’è il regolamento europeo sulla protezione dei dati personali.
-
-\ |STYLE34|\ 
-
-* Sapere come proteggere i dati personali negli ambienti digitali;
-
-* Saper valutare la differenza tra dato personale, dato sensibile e dato giudiziario;
-
-* Conoscere i principi generali definiti nel regolamento europeo sulla protezione dei dati personali.
-
-\ |STYLE35|\ 
-
-* Saper valutare i rischi e applicare le contromisure appropriate;
-
-* Saper declinare gli adempimenti connessi alla tutela dei dati personali nell'ambito delle attività di una pubblica amministrazione.
+|REPLACE7|
 
 --------
 
@@ -378,7 +210,7 @@ La pubblica amministrazione, nel tempo, ha fornito sempre più servizi tramite i
 
 Al fine di stimolare lo sviluppo di sempre nuovi servizi on-line e, al contempo, di assicurarne coerenza e integrazione superando il tradizionale approccio a “silos”, particolare attenzione è stata prestata negli ultimi anni allo sviluppo di “piattaforme abilitanti”, una serie di servizi infrastrutturali volti, da un lato, ad agevolare e ridurre i costi di nuovi servizi specifici per le varie amministrazioni e, dall’altro, a uniformare gli strumenti utilizzati dagli utenti finali durante la loro interazione con la pubblica amministrazione.
 
-Alcune di queste piattaforme abilitanti si rivolgono specificatamente ai cittadini e alle imprese quali i servizi di identificazione, fatturazione e pagamento. L’introduzione di \ |STYLE36|\ , per esempio, ha offerto la possibilità al cittadino di avere un’unica modalità di autenticazione per tutti i servizi della pubblica amministrazione. Sul tema dei pagamenti digitali, invece, \ |STYLE37|\  ha reso più semplice, sicuro e trasparente qualsiasi pagamento verso la pubblica amministrazione.
+Alcune di queste piattaforme abilitanti si rivolgono specificatamente ai cittadini e alle imprese quali i servizi di identificazione, fatturazione e pagamento. L’introduzione di \ |STYLE14|\ , per esempio, ha offerto la possibilità al cittadino di avere un’unica modalità di autenticazione per tutti i servizi della pubblica amministrazione. Sul tema dei pagamenti digitali, invece, \ |STYLE15|\  ha reso più semplice, sicuro e trasparente qualsiasi pagamento verso la pubblica amministrazione.
 
 Il dipendente pubblico è chiamato, pertanto, a conoscere e garantire il diritto alla fruizione dei servizi on-line, nonché a conoscere le principali piattaforme abilitanti a supporto dell’erogazione di tali servizi da parte delle pubbliche amministrazioni in favore di cittadini e imprese.
 
@@ -391,27 +223,8 @@ Conoscere l'identità digitale
 
 Conoscere il concetto di identità digitale e le relative implicazioni nell’accesso ai servizi on-line offerti dalle amministrazioni. Conoscere il funzionamento di SPID  (Sistema pubblico di identità digitale) e le sue caratteristiche principali.
 
-\ |STYLE38|\ 
 
-* Conoscere il concetto di identità digitale e l’esistenza di SPID;
-
-* Conoscere il ruolo di CIE e CNS nell’ambito dei servizi on-line erogati dalle pubbliche amministrazioni.
-
-\ |STYLE39|\ 
-
-* Conoscere le caratteristiche principali di SPID;
-
-* Conoscere le modalità di ottenimento dell’identità digitale di SPID utilizzando CIE, CNS e firma digitale.
-
-\ |STYLE40|\ 
-
-* Conoscere le implicazioni dell’utilizzo di SPID come modalità di autenticazione;
-
-* Saper distinguere i vari livelli di autenticazione offerti dal sistema SPID;
-
-* Saper applicare le possibilità offerte da SPID  per la firma dei documenti;
-
-* Comprendere la valenza di SPID all’interno dell’Unione Europea le sue possibilità di utilizzo.
+|REPLACE8|
 
 |
 
@@ -426,35 +239,8 @@ Conoscere il diritto dei cittadini a effettuare pagamenti nei confronti dell’a
 
 Conoscere i princìpi che guidano l’erogazione dei servizi on-line, tra cui il concetto di interoperabilità.
 
-\ |STYLE41|\ 
 
-* Conoscere il diritto di cittadini e imprese di accedere ai servizi in modalità digitale;
-
-* Conoscere l’obbligo per l’amministrazione di pubblicare on-line tutti i moduli e i formulari adottati per l’erogazione dei servizi;
-
-* Conoscere il diritto dei cittadini di effettuare pagamenti con modalità informatiche e l’esistenza di pagoPA come nodo dei pagamenti; 
-
-* Conoscere princìpi e obblighi connessi alla fatturazione elettronica.
-
-\ |STYLE42|\ 
-
-* Conoscere le linee guida AgID per l’erogazione dei servizi on-line e le caratteristiche necessarie per l’erogazione di un servizio online (efficacia, economicità, utilità, fruibilità, accessibilità, tempestività);
-
-* Comprendere l’obbligo di misurare il grado di soddisfazione dei destinatari delle attività e dei servizi anche attraverso modalità interattive;
-
-* Conoscere le caratteristiche principali di pagoPA.
-
-\ |STYLE43|\ 
-
-* Comprendere il significato di “mobile-first”;
-
-* Comprendere il significato di “digital first”;
-
-* Conoscere il principio “once only” e le sue conseguenze nell’erogazione dei servizi on-line;
-
-* Riconoscere i vari livelli di erogazione di un servizio on-line, dal livello base (pubblicazione di informazioni e modulistica) al livello più avanzato (completa erogazione del servizio in digitale);
-
-* Capire le conseguenze giuridiche di violazione dell’obbligo di erogazione del servizio in modalità digitale.
+|REPLACE9|
 
 --------
 
@@ -463,13 +249,13 @@ Conoscere i princìpi che guidano l’erogazione dei servizi on-line, tra cui il
 Trasformazione digitale
 ***********************
 
-Nell'epoca del “\ |STYLE44|\ ”, da un lato il cittadino richiede sempre più interazione digitale anziché fisica con le amministrazioni, dall’altro le tecnologie digitali offrono molteplici opportunità per semplificare, ottimizzare, velocizzare, rendere più trasparenti i processi della pubblica amministrazione e, quindi, migliorare la qualità e l’efficienza dei servizi erogati.
+Nell'epoca del “\ |STYLE16|\ ”, da un lato il cittadino richiede sempre più interazione digitale anziché fisica con le amministrazioni, dall’altro le tecnologie digitali offrono molteplici opportunità per semplificare, ottimizzare, velocizzare, rendere più trasparenti i processi della pubblica amministrazione e, quindi, migliorare la qualità e l’efficienza dei servizi erogati.
 
 Il Codice dell'amministrazione digitale (d. lgs. n. 82/2005) accompagna le amministrazioni nella fase di transizione dal cartaceo al digitale mentre il Piano Triennale per l’Informatica nella Pubblica amministrazione 2019-2021 contiene una serie di iniziative e strumenti per supportare l’innovazione della pubblica amministrazione grazie al ricorso alle tecnologie digitali.
 
-È necessario per il dipendente pubblico coinvolto nei processi e nei servizi conoscere gli obiettivi che caratterizzano la strategia nazionale per la trasformazione digitale della pubblica amministrazione e come è strutturata la \ |STYLE45|\  del digitale in Italia.
+È necessario per il dipendente pubblico coinvolto nei processi e nei servizi conoscere gli obiettivi che caratterizzano la strategia nazionale per la trasformazione digitale della pubblica amministrazione e come è strutturata la \ |STYLE17|\  del digitale in Italia.
 
-È altresì necessario che il dipendente pubblico possegga una “\ |STYLE46|\ ” di base relativamente ai trend e alle tecnologie che si stanno sviluppando in questo momento, e sia in grado di riconoscerne le potenzialità applicative anche in ambito pubblico.
+È altresì necessario che il dipendente pubblico possegga una “\ |STYLE18|\ ” di base relativamente ai trend e alle tecnologie che si stanno sviluppando in questo momento, e sia in grado di riconoscerne le potenzialità applicative anche in ambito pubblico.
 
 
 |
@@ -481,29 +267,8 @@ Conoscere gli obiettivi di trasformazione digitale
 
 Conoscere le strategie di crescita digitale del Paese e le principali modalità attuative. Conoscere i diversi attori istituzionali coinvolti nel governo e nell’attuazione della trasformazione digitale della pubblica amministrazione italiana. 
 
-\ |STYLE47|\ 
 
-* Conoscere i principali diritti di cittadinanza digitale;
-
-* Conoscere la figura del Responsabile per la transizione al digitale.
-
-\ |STYLE48|\ 
-
-* Conoscere le linee generali di programmazione della strategia digitale italiana;
-
-* Conoscere le competenze chiave richieste ai dirigenti, agli specialisti IT e ai dipendenti di una amministrazione per favorire la transizione digitale;
-
-* Conoscere i compiti del Responsabile per la transizione al digitale.
-
-\ |STYLE49|\ 
-
-* Riconoscere gli attori preposti alla governance del digitale e i rispettivi ruoli;
-
-* Comprendere gli obiettivi della strategia digitale italiana e come influenzano l'attività dell’amministrazione;
-
-* Conoscere come il Responsabile per la transizione digitale si relaziona con gli altri uffici di una amministrazione;
-
-* Conoscere il modello strategico di evoluzione del sistema informativo della pubblica amministrazione.
+|REPLACE10|
 
 |
 
@@ -514,33 +279,8 @@ Conoscere le tecnologie emergenti per la trasformazione digitale
 
 Riconoscere le principali tecnologie emergenti e come possono o potranno essere utilizzate per la trasformazione digitale della pubblica amministrazione.
 
-\ |STYLE50|\ 
 
-* Conoscere gli strumenti tecnologici maggiormente diffusi nella vita quotidiana;
-
-* Conoscere le applicazioni degli strumenti tecnologici maggiormente diffusi nella vita quotidiana.
-
-\ |STYLE51|\ 
-
-* Conoscere le caratteristiche principali del Cloud computing;
-
-* Conoscere le caratteristiche principali dei Big data e del Data analytics;
-
-* Conoscere le caratteristiche principali dell’Intelligenza artificiale;
-
-* Conoscere le caratteristiche principali dell’IoT - Internet delle Cose.
-
-\ |STYLE52|\ 
-
-* Riconoscere  i principali ambiti di applicazione del Cloud computing;
-
-* Riconoscere  i principali ambiti di applicazione dei Big data e del Data analytics;
-
-* Riconoscere  i principali ambiti di applicazione dell’Intelligenza artificiale;
-
-* Riconoscere  i principali ambiti di applicazione dell’IoT - Internet delle Cose;
-
-* Conoscere i principali ambiti di applicazione della Blockchain.
+|REPLACE11|
 
 
 .. bottom of content
@@ -568,89 +308,21 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 
 .. |STYLE10| replace:: **Open Data**
 
-.. |STYLE11| replace:: **Livello di padronanza BASE**
+.. |STYLE11| replace:: **stakeholder**
 
-.. |STYLE12| replace:: **Livello di padronanza INTERMEDIO**
+.. |STYLE12| replace:: **domicilio digitale**
 
-.. |STYLE13| replace:: **Livello di padronanza  AVANZATO**
+.. |STYLE13| replace:: **GDPR (General Data Protection Regulation)**
 
-.. |STYLE14| replace:: **|**
+.. |STYLE14| replace:: **SPID (Sistema pubblico di identità digitale)**
 
-.. |STYLE15| replace:: **Livello di padronanza BASE**
+.. |STYLE15| replace:: **pagoPA**
 
-.. |STYLE16| replace:: **Livello di padronanza INTERMEDIO**
+.. |STYLE16| replace:: **digital first**
 
-.. |STYLE17| replace:: **Livello di padronanza  AVANZATO**
+.. |STYLE17| replace:: **governance**
 
-.. |STYLE18| replace:: **Livello di padronanza BASE**
-
-.. |STYLE19| replace:: **Livello di padronanza INTERMEDIO**
-
-.. |STYLE20| replace:: **Livello di padronanza  AVANZATO**
-
-.. |STYLE21| replace:: **stakeholder**
-
-.. |STYLE22| replace:: **domicilio digitale**
-
-.. |STYLE23| replace:: **Livello di padronanza BASE**
-
-.. |STYLE24| replace:: **Livello di padronanza INTERMEDIO**
-
-.. |STYLE25| replace:: **Livello di padronanza  AVANZATO**
-
-.. |STYLE26| replace:: **Livello di padronanza BASE**
-
-.. |STYLE27| replace:: **Livello di padronanza INTERMEDIO**
-
-.. |STYLE28| replace:: **Livello di padronanza  AVANZATO**
-
-.. |STYLE29| replace:: **GDPR (General Data Protection Regulation)**
-
-.. |STYLE30| replace:: **Livello di padronanza BASE**
-
-.. |STYLE31| replace:: **Livello di padronanza INTERMEDIO**
-
-.. |STYLE32| replace:: **Livello di padronanza  AVANZATO**
-
-.. |STYLE33| replace:: **Livello di padronanza BASE**
-
-.. |STYLE34| replace:: **Livello di padronanza INTERMEDIO**
-
-.. |STYLE35| replace:: **Livello di padronanza  AVANZATO**
-
-.. |STYLE36| replace:: **SPID (Sistema pubblico di identità digitale)**
-
-.. |STYLE37| replace:: **pagoPA**
-
-.. |STYLE38| replace:: **Livello di padronanza BASE**
-
-.. |STYLE39| replace:: **Livello di padronanza INTERMEDIO**
-
-.. |STYLE40| replace:: **Livello di padronanza  AVANZATO**
-
-.. |STYLE41| replace:: **Livello di padronanza BASE**
-
-.. |STYLE42| replace:: **Livello di padronanza INTERMEDIO**
-
-.. |STYLE43| replace:: **Livello di padronanza  AVANZATO**
-
-.. |STYLE44| replace:: **digital first**
-
-.. |STYLE45| replace:: **governance**
-
-.. |STYLE46| replace:: **cultura digitale**
-
-.. |STYLE47| replace:: **Livello di padronanza BASE**
-
-.. |STYLE48| replace:: **Livello di padronanza INTERMEDIO**
-
-.. |STYLE49| replace:: **Livello di padronanza  AVANZATO**
-
-.. |STYLE50| replace:: **Livello di padronanza BASE**
-
-.. |STYLE51| replace:: **Livello di padronanza INTERMEDIO**
-
-.. |STYLE52| replace:: **Livello di padronanza  AVANZATO**
+.. |STYLE18| replace:: **cultura digitale**
 
 
 .. |REPLACE1| raw:: html
@@ -660,6 +332,96 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
     <tr><td style="background-color:#ff0000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza BASE</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere la differenza tra dato e informazione;</li><li style="list-style:inherit;list-style-image:inherit">Saper utilizzare internet per la ricerca di dati e informazioni.</li></ul></td></tr>
     <tr><td style="background-color:#ffff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza INTERMEDIO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Saper valutare l’affidabilità delle informazioni e dei dati rilevati su internet;</li><li style="list-style:inherit;list-style-image:inherit">Saper utilizzare le principali banche dati pubbliche a supporto dello svolgimento di compiti istituzionali;</li><li style="list-style:inherit;list-style-image:inherit">Saper organizzare informazioni, dati e contenuti digitali affinché possano essere archiviati e gestiti in maniera efficiente e funzionale.</li></ul></td></tr>
     <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Comprendere le potenzialità dell’analisi dei dati e degli strumenti di supporto alle decisioni;</li><li style="list-style:inherit;list-style-image:inherit">Saper utilizzare le principali fonti pubbliche (es. Istat, OCSE) per la raccolta di dati e informazioni utili ad attività di approfondimento, analisi e confronto, anche a supporto dei processi decisionali. </li></ul></td></tr>
+    </tbody></table>
+
+.. |REPLACE2| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#ff0000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza BASE</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere il significato di documento informatico e di documento elettronico; conoscere le diverse modalità di formazione del documento informatico e le sue caratteristiche;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere il valore legale del documento informatico;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere il valore legale della firma digitale e del timbro digitale; </li><li style="list-style:inherit;list-style-image:inherit">Conoscere l’esistenza e le funzionalità principali dei sistemi di protocollo informatico.</li></ul><p></td></tr>
+    <tr><td style="background-color:#ffff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza INTERMEDIO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Riconoscere i formati accettati per un documento informatico;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere i diversi tipi di firme elettroniche e il diverso valore giuridico e probatorio che caratterizza il documento informatico a cui possono essere associate;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere le funzionalità principali dei sistemi di gestione documentale;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere il significato di valore temporale del documento informatico, l’esistenza delle marche temporali e di altri riferimenti temporali, opponibili a terzi;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere le caratteristiche della validazione temporale di un documento informatico;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere i fondamenti della conservazione digitale;</li><li style="list-style:inherit;list-style-image:inherit">Saper scegliere i formati documentali le cui caratteristiche tecniche garantiscono l’accessibilità dei documenti pubblicati on line sui siti web istituzionali delle amministrazioni;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere il significato e il valore legale del sigillo elettronico.</li></ul></td></tr>
+    <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere il tema della classificazione, della fascicolazione e dell’utilizzo dei metadati in relazione ai documenti e ai fascicoli informatici;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere le caratteristiche principali e le implicazioni derivanti dalla corretta gestione archivistica e successiva conservazione dei documenti informatici;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere l’obbligo di consentire l’accesso ai documenti informatici da parte dei soggetti interessati.</li></ul></td></tr>
+    </tbody></table>
+
+.. |REPLACE3| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#ff0000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza BASE</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere il significato di Open Data inclusa la differenza tra dato aperto e dato pubblico;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere la definizione di formato aperto e i principali formati aperti per i dati.</li></ul></td></tr>
+    <tr><td style="background-color:#ffff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza INTERMEDIO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Comprendere l’utilità degli Open Data per imprese, cittadini e società civile;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere le caratteristiche principali degli Open Data;</li><li style="list-style:inherit;list-style-image:inherit">Comprendere il principio dell’Open Data by default e i suoi limiti;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere le principali azioni da svolgere per la pubblicazione di dati aperti.</li></ul></td></tr>
+    <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Saper valutare la qualità del dato;</li><li style="list-style:inherit;list-style-image:inherit">Saper valutare le implicazioni organizzative e gli interventi necessari ad abilitare la generazione automatica di Open Data nell’ambito dei processi interni di una amministrazione;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere i modelli per i dati e per i metadati proposti a livello nazionale e internazionale;</li><li style="list-style:inherit;list-style-image:inherit">Comprendere il significato di Linked Open Data.</li></ul></td></tr>
+    </tbody></table>
+
+.. |REPLACE4| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#ff0000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza BASE</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Saper utilizzare la posta elettronica in quanto strumento principale di comunicazione all’interno della stessa amministrazione;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere l’intranet quale strumento di comunicazione e condivisione interno all’amministrazione e comprenderne le caratteristiche principali;</li><li style="list-style:inherit;list-style-image:inherit">Saper utilizzare gli strumenti elementari di condivisione dei documenti (es. cartelle condivise) e saper riconoscere i vantaggi che possono apportare.</li></ul></td></tr>
+    <tr><td style="background-color:#ffff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza INTERMEDIO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere i diversi tipi di strumenti di comunicazione evoluti (es. applicazioni di instant messaging e audio video conferencing, forum interni…) e le loro caratteristiche principali;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere le caratteristiche principali degli strumenti avanzati di condivisione on-line  di informazioni e documenti.</li></ul></td></tr>
+    <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Saper utilizzare gli strumenti avanzati di comunicazione (forum, instant messaging, audio video conferencing);</li><li style="list-style:inherit;list-style-image:inherit">Saper scegliere gli strumenti di comunicazione più appropriati in funzione delle caratteristiche del messaggio, incluso natura, complessità e grado di formalità del contenuto;</li><li style="list-style:inherit;list-style-image:inherit">Saper utilizzare gli strumenti avanzati di condivisione on-line di informazioni e documenti valutandone vantaggi e rischi.</li></ul></td></tr>
+    </tbody></table>
+
+.. |REPLACE5| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#ff0000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza BASE</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere cos’è e quali sono le caratteristiche della Posta Elettronica Certificata (PEC);</li><li style="list-style:inherit;list-style-image:inherit">Conoscere il ruolo della PEC quale strumento di comunicazione tra pubbliche amministrazioni; </li><li style="list-style:inherit;list-style-image:inherit">Conoscere il ruolo della PEC quale strumento di comunicazione con il cittadino e le imprese;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere l’obbligo di acquisire d’ufficio le informazioni già in possesso di altre amministrazioni;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere quali sono le modalità individuate dalla normativa di riferimento per inoltrare validamente istanze e dichiarazioni a pubbliche amministrazioni per via telematica;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere il concetto di domicilio digitale;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere gli strumenti elementari per la comunicazione e diffusione di informazioni in favore di cittadini e imprese (es. siti web istituzionali, FAQ, avvisi).</li></ul></td></tr>
+    <tr><td style="background-color:#ffff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza INTERMEDIO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Saper utilizzare la PEC come strumento di comunicazione tra amministrazioni;</li><li style="list-style:inherit;list-style-image:inherit">Saper utilizzare la PEC come strumento di comunicazione con i cittadini e le imprese;</li><li style="list-style:inherit;list-style-image:inherit">Comprendere le implicazioni del domicilio digitale quale unico indirizzo per le comunicazioni dell’amministrazione al cittadino;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere quali sono gli strumenti evoluti di comunicazione e partecipazione in favore di cittadini, imprese e degli altri stakeholder di una pubblica amministrazione (es. forum, social media);</li><li style="list-style:inherit;list-style-image:inherit">Conoscere l’esistenza di diversi registri linguistici a seconda del destinatario e dello strumento utilizzato;</li><li style="list-style:inherit;list-style-image:inherit">Saper utilizzare la PEC in maniera integrata con il protocollo informatico e il sistema di gestione documentale quale strumento di comunicazione con cittadini, imprese e altre amministrazioni;</li><li style="list-style:inherit;list-style-image:inherit">Saper individuare i dati presenti in banche dati di altre pubbliche amministrazioni necessari allo svolgimento di compiti istituzionali.</li></ul></td></tr>
+    <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere la possibilità di invio di notifiche push a cittadini e imprese;</li><li style="list-style:inherit;list-style-image:inherit">Saper utilizzare gli strumenti avanzati di comunicazione (forum, instant messaging, audio video conferencing, social media);</li><li style="list-style:inherit;list-style-image:inherit">Saper scegliere gli strumenti di comunicazione digitale più appropriati per l’interazione con cittadini e imprese in funzione della natura, complessità e grado di formalità del contenuto da veicolare;</li><li style="list-style:inherit;list-style-image:inherit">Saper scegliere il registro linguistico appropriato a seconda del destinatario e dello strumento utilizzato.</li></ul></td></tr>
+    </tbody></table>
+
+.. |REPLACE6| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#ff0000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza BASE</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere l’esistenza di rischi e minacce negli ambienti digitali;</li><li style="list-style:inherit;list-style-image:inherit">Saper adottare le misure base di sicurezza per proteggere i dispositivi;</li><li style="list-style:inherit;list-style-image:inherit">Saper definire e gestire le password in modo consapevole e protetto.</li></ul></td></tr>
+    <tr><td style="background-color:#ffff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza INTERMEDIO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Saper valutare i principali rischi per il dispositivo se soggetto ad attacchi informatici;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere l’esistenza delle misure minime di sicurezza ICT per le pubbliche amministrazioni;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere i principali tipi di attacco informatico, Virus, Trojan, Denial of Service (DoS), Distributed Denial of Service (DDoS).</li></ul></td></tr>
+    <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Sapere quali contromisure adottare per prevenire e difendersi dagli attacchi informatici;</li><li style="list-style:inherit;list-style-image:inherit">Saper riconoscere quando il dispositivo è soggetto ad attacchi informatici.</li></ul></td></tr>
+    </tbody></table>
+
+.. |REPLACE7| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#ff0000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza BASE</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere i concetti di riservatezza, integrità e non ripudio dei dati;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere cos’è il regolamento europeo sulla protezione dei dati personali.</li></ul></td></tr>
+    <tr><td style="background-color:#ffff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza INTERMEDIO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Sapere come proteggere i dati personali negli ambienti digitali;</li><li style="list-style:inherit;list-style-image:inherit">Saper valutare la differenza tra dato personale, dato sensibile e dato giudiziario;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere i principi generali definiti nel regolamento europeo sulla protezione dei dati personali.</li></ul></td></tr>
+    <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Saper valutare i rischi e applicare le contromisure appropriate;</li><li style="list-style:inherit;list-style-image:inherit">Saper declinare gli adempimenti connessi alla tutela dei dati personali nell'ambito delle attività di una pubblica amministrazione.</li></ul></td></tr>
+    </tbody></table>
+
+.. |REPLACE8| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#ff0000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza BASE</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere il concetto di identità digitale e l’esistenza di SPID;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere il ruolo di CIE e CNS nell’ambito dei servizi on-line erogati dalle pubbliche amministrazioni.</li></ul></td></tr>
+    <tr><td style="background-color:#ffff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza INTERMEDIO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere le caratteristiche principali di SPID;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere le modalità di ottenimento dell’identità digitale di SPID utilizzando CIE, CNS e firma digitale.</li></ul></td></tr>
+    <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere le implicazioni dell’utilizzo di SPID come modalità di autenticazione;</li><li style="list-style:inherit;list-style-image:inherit">Saper distinguere i vari livelli di autenticazione offerti dal sistema SPID;</li><li style="list-style:inherit;list-style-image:inherit">Saper applicare le possibilità offerte da SPID  per la firma dei documenti;</li><li style="list-style:inherit;list-style-image:inherit">Comprendere la valenza di SPID all’interno dell’Unione Europea le sue possibilità di utilizzo.</li></ul></td></tr>
+    </tbody></table>
+
+.. |REPLACE9| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#ff0000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza BASE</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere il diritto di cittadini e imprese di accedere ai servizi in modalità digitale;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere l’obbligo per l’amministrazione di pubblicare on-line tutti i moduli e i formulari adottati per l’erogazione dei servizi;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere il diritto dei cittadini di effettuare pagamenti con modalità informatiche e l’esistenza di pagoPA come nodo dei pagamenti; </li><li style="list-style:inherit;list-style-image:inherit">Conoscere princìpi e obblighi connessi alla fatturazione elettronica.</li></ul></td></tr>
+    <tr><td style="background-color:#ffff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza INTERMEDIO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere le linee guida AgID per l’erogazione dei servizi on-line e le caratteristiche necessarie per l’erogazione di un servizio online (efficacia, economicità, utilità, fruibilità, accessibilità, tempestività);</li><li style="list-style:inherit;list-style-image:inherit">Comprendere l’obbligo di misurare il grado di soddisfazione dei destinatari delle attività e dei servizi anche attraverso modalità interattive;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere le caratteristiche principali di pagoPA.</li></ul></td></tr>
+    <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Comprendere il significato di “mobile-first”;</li><li style="list-style:inherit;list-style-image:inherit">Comprendere il significato di “digital first”;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere il principio “once only” e le sue conseguenze nell’erogazione dei servizi on-line;</li><li style="list-style:inherit;list-style-image:inherit">Riconoscere i vari livelli di erogazione di un servizio on-line, dal livello base (pubblicazione di informazioni e modulistica) al livello più avanzato (completa erogazione del servizio in digitale);</li><li style="list-style:inherit;list-style-image:inherit">Capire le conseguenze giuridiche di violazione dell’obbligo di erogazione del servizio in modalità digitale.</li></ul></td></tr>
+    </tbody></table>
+
+.. |REPLACE10| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#ff0000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza BASE</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere i principali diritti di cittadinanza digitale;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere la figura del Responsabile per la transizione al digitale.</li></ul></td></tr>
+    <tr><td style="background-color:#ffff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza INTERMEDIO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere le linee generali di programmazione della strategia digitale italiana;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere le competenze chiave richieste ai dirigenti, agli specialisti IT e ai dipendenti di una amministrazione per favorire la transizione digitale;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere i compiti del Responsabile per la transizione al digitale.</li></ul></td></tr>
+    <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Riconoscere gli attori preposti alla governance del digitale e i rispettivi ruoli;</li><li style="list-style:inherit;list-style-image:inherit">Comprendere gli obiettivi della strategia digitale italiana e come influenzano l'attività dell’amministrazione;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere come il Responsabile per la transizione digitale si relaziona con gli altri uffici di una amministrazione;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere il modello strategico di evoluzione del sistema informativo della pubblica amministrazione.</li></ul></td></tr>
+    </tbody></table>
+
+.. |REPLACE11| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#ff0000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza BASE</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere gli strumenti tecnologici maggiormente diffusi nella vita quotidiana;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere le applicazioni degli strumenti tecnologici maggiormente diffusi nella vita quotidiana.</li></ul></td></tr>
+    <tr><td style="background-color:#ffff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza INTERMEDIO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Conoscere le caratteristiche principali del Cloud computing;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere le caratteristiche principali dei Big data e del Data analytics;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere le caratteristiche principali dell’Intelligenza artificiale;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere le caratteristiche principali dell’IoT - Internet delle Cose.</li></ul></td></tr>
+    <tr><td style="background-color:#00ff00;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><span style="font-weight:bold">Livello di padronanza  AVANZATO</span></p></td><td colspan="2" style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">Riconoscere  i principali ambiti di applicazione del Cloud computing;</li><li style="list-style:inherit;list-style-image:inherit">Riconoscere  i principali ambiti di applicazione dei Big data e del Data analytics;</li><li style="list-style:inherit;list-style-image:inherit">Riconoscere  i principali ambiti di applicazione dell’Intelligenza artificiale;</li><li style="list-style:inherit;list-style-image:inherit">Riconoscere  i principali ambiti di applicazione dell’IoT - Internet delle Cose;</li><li style="list-style:inherit;list-style-image:inherit">Conoscere i principali ambiti di applicazione della Blockchain.</li></ul></td></tr>
     </tbody></table>
 
 
