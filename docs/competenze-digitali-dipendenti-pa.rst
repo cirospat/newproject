@@ -18,13 +18,21 @@ Syllabus delle competenze digitali per i dipendenti della PA
 
     I contenuti di questa pagina sono estratti da "\ |LINK1|\ ", \ |STYLE0|\ , a cura del Dipartimento della Funzione Pubblica - Ufficio per l'innovazione e la digitalizzazione. \ |LINK2|\ 
 
-Il Syllabus “\ |STYLE1|\ ” è il documento che descrive l’\ |STYLE2|\ .
+\ |STYLE1|\ 
 
-Organizzato in \ |STYLE3|\  e \ |STYLE4|\  il Syllabus rappresenta lo strumento di riferimento sia per l’attività di autoverifica delle competenze digitali che per la definizione di corsi volti a indirizzare i fabbisogni formativi rilevati.
+È il documento che descrive l’insieme minimo delle conoscenze e abilità che ogni dipendente pubblico, non specialista IT, dovrebbe possedere per partecipare attivamente alla trasformazione digitale della pubblica amministrazione.
 
-La realizzazione del Syllabus è stata curata dall'Ufficio per l'innovazione e la digitalizzazione del Dipartimento della Funzione Pubblica. E' stato, inoltre, oggetto di una \ |LINK3|\  (2019) che ha consentito di raccogliere numerosi contributi e proposte utili alla stesura finale del documento (\ |LINK4|\ ).
+Organizzato in \ |STYLE2|\  e \ |STYLE3|\  il Syllabus rappresenta lo strumento di riferimento sia per l’attività di autoverifica delle competenze digitali che per la definizione di corsi volti a indirizzare i fabbisogni formativi rilevati.
+
+\ |STYLE4|\ 
+
+Dati, informazioni e documenti informatici - Comunicazione e condivisione - Sicurezza  - Servizi online - Trasformazione digitale.
 
 \ |STYLE5|\ 
+
+Livello padronanza BASE, livello padronanza INTERMEDIO, livello padronanza AVANZATO.
+
+\ |STYLE6|\ 
 
 Il Syllabus si basa su quattro dimensioni:
 
@@ -36,19 +44,7 @@ Il Syllabus si basa su quattro dimensioni:
 
 * Descrittore delle conoscenze e/o delle abilità che caratterizzano una competenza per ciascun livello di padronanza.
 
-\ |STYLE6|\ 
-
-\ |LINK5|\    
-
-\ |LINK6|\   
-
-\ |LINK7|\  
-
-\ |LINK8|\  
-
-.. _bookmark-id-47un7y5pdypp:
-
-\ |LINK9|\ 
+La realizzazione del Syllabus è stata curata dall'Ufficio per l'innovazione e la digitalizzazione del Dipartimento della Funzione Pubblica. E' stato, inoltre, oggetto di una \ |LINK3|\  (2019) che ha consentito di raccogliere numerosi contributi e proposte utili alla stesura finale del documento (\ |LINK4|\ ).
 
 --------
 
@@ -254,6 +250,8 @@ Conoscere i princìpi che guidano l’erogazione dei servizi on-line, tra cui il
 
 |
 
+.. _bookmark-id-47un7y5pdypp:
+
 .. _h71741f4375b485b3e491c374c14677b:
 
 Trasformazione digitale
@@ -298,17 +296,17 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 
 .. |STYLE0| replace:: **Competenze digitali per la PA**
 
-.. |STYLE1| replace:: **Competenze digitali per la PA**
+.. |STYLE1| replace:: **Cos'è il Syllabus  delle “Competenze digitali per la PA”**
 
-.. |STYLE2| replace:: *insieme minimo delle conoscenze e abilità che ogni dipendente pubblico, non specialista IT, dovrebbe possedere per partecipare attivamente alla trasformazione digitale della pubblica amministrazione*
+.. |STYLE2| replace:: **5 aree tematiche**
 
-.. |STYLE3| replace:: **5 aree tematiche**
+.. |STYLE3| replace:: **3 livelli di padronanza**
 
-.. |STYLE4| replace:: **3 livelli di padronanza**
+.. |STYLE4| replace:: **Le 5 Aree tematiche di competenza del Syllabus**
 
-.. |STYLE5| replace:: **La struttura del Syllabus**
+.. |STYLE5| replace:: **I 3 Livelli di competenza del Syllabus**
 
-.. |STYLE6| replace:: **Area di competenza del Syllabus**
+.. |STYLE6| replace:: **La struttura del Syllabus**
 
 .. |STYLE7| replace:: **documento informatico**
 
@@ -450,24 +448,4 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 .. |LINK4| raw:: html
 
     <a href="https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-report-consultazione-pubblica-dfp-uid-maggio-2019.pdf" target="_blank">vai agli esiti della consultazione pubblica</a>
-
-.. |LINK5| raw:: html
-
-    <a href="#bookmark-id-kx721dh6m9hl">Dati, informazioni e documenti informatici</a>
-
-.. |LINK6| raw:: html
-
-    <a href="#bookmark-id-u9i081bp988z">Comunicazione e condivisione</a>
-
-.. |LINK7| raw:: html
-
-    <a href="#bookmark-id-i8rtv7ths9j0">Sicurezza</a>
-
-.. |LINK8| raw:: html
-
-    <a href="#bookmark-id-j12njb5lf9cs">Servizi on-line</a>
-
-.. |LINK9| raw:: html
-
-    <a href="#bookmark-id-47un7y5pdypp">Trasformazione digitale</a>
 
