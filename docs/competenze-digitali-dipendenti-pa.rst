@@ -9,7 +9,7 @@ Syllabus delle competenze digitali per i dipendenti della PA
 
 .. toctree::  
     :maxdepth: 2
-    :caption: indice competenze digitali dipendenti PA 
+    :caption: indice 
 
     competenze-digitali-dipendenti-pa
 
