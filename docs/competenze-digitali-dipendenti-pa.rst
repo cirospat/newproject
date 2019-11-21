@@ -449,11 +449,11 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-dfp-uid-maggio-2019.pdf" target="_blank">vedi pag.11 del documento</a>
+    <a href="https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-dfp-uid-maggio-2019.pdf#page=11" target="_blank">vedi pag.11 del documento</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-dfp-uid-maggio-2019.pdf" target="_blank">vedi pag.12 del documento</a>
+    <a href="https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-dfp-uid-maggio-2019.pdf#page=12" target="_blank">vedi pag.12 del documento</a>
 
 .. |LINK5| raw:: html
 
