@@ -52,6 +52,8 @@ Il Syllabus si basa su quattro dimensioni:
 
 --------
 
+|
+
 .. _bookmark-id-kx721dh6m9hl:
 
 .. _h14371c4b27b1f11c39232ce786455:
@@ -100,6 +102,8 @@ Conoscere le caratteristiche degli Open Data. Sapere quali obiettivi si possono 
 |REPLACE3|
 
 --------
+
+|
 
 .. _bookmark-id-u9i081bp988z:
 
@@ -150,6 +154,8 @@ Sapere cos’è il domicilio digitale dei cittadini, dei professionisti e delle 
 
 --------
 
+|
+
 .. _bookmark-id-i8rtv7ths9j0:
 
 .. _h4b5f28914379326e632c43542e50:
@@ -197,6 +203,8 @@ Conoscere la normativa vigente sulla protezione dei dati personali e saperla app
 
 --------
 
+|
+
 .. _bookmark-id-j12njb5lf9cs:
 
 .. _h5c7222d16183411e22404136737467:
@@ -243,6 +251,8 @@ Conoscere i princìpi che guidano l’erogazione dei servizi on-line, tra cui il
 |REPLACE9|
 
 --------
+
+|
 
 .. _h71741f4375b485b3e491c374c14677b:
 
