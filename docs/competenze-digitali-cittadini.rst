@@ -6,7 +6,7 @@ Cittadinanza digitale e competenze digitali dei cittadini
 
 
 .. toctree::  
-    :maxdepth: 4
+    :maxdepth: 5
     :caption: indice
 
     competenze-digitali-cittadini
