@@ -138,7 +138,12 @@ I livelli di padronanza delle competenze digitali dei cittadini relativi alle 5 
 
 |REPLACE1|
 
-fonte: \ |LINK4|\ 
+
+.. admonition:: Fonte
+
+    \ |LINK4|\ 
+    
+    \ |LINK5|\ 
 
 .. _h292472525a665127192c761e6658122:
 
@@ -866,5 +871,9 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
 
 .. |LINK4| raw:: html
 
-    <a href="https://competenze-digitali-docs.readthedocs.io/" target="_blank">https://competenze-digitali-docs.readthedocs.io/</a>
+    <a href="https://competenze-digitali-docs.readthedocs.io/" target="_blank">competenze-digitali-docs.readthedocs.io</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://docs.italia.it/italia/designers-italia/lg-competenzedigitali-docs/it/stabile/index.html" target="_blank">docs.italia.it/italia/designers-italia/lg-competenzedigitali-docs</a>
 
