@@ -95,6 +95,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     fondamentali
     responsabile_transizione_digitale
     competenze-digitali-dipendenti-pa
+    competenze-digitali-cittadini
     vocabolari-controllati
 
 
