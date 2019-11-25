@@ -111,6 +111,8 @@ Un modello europeo per comprendere le competenze digitali dei cittadini
 
 E’ stato creato un modello a livello europeo per definire le competenze digitali dei cittadini che si chiama \ |LINK3|\ , organizzato in 5 aree di competenza, 21 competenze, 8 livelli di padronanza.
 
+|
+
 .. _h7a3c0671c6b625d2b397a75f164f:
 
 Le aree di competenza digitale dei cittadini
@@ -137,6 +139,8 @@ Parole chiave che contraddistinguono gli 8 livelli di padronanza delle competenz
 
 
 |REPLACE1|
+
+|
 
 .. _h5c5d53452679254f1d386b3a1a6b208:
 
@@ -204,6 +208,8 @@ Risoluzione di problemi
     \ |LINK4|\ 
     
     \ |LINK5|\ 
+
+|
 
 .. _h292472525a665127192c761e6658122:
 
