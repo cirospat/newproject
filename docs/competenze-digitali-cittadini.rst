@@ -130,13 +130,73 @@ Le 5 aree di competenza sono:
 
 |
 
-.. _h352231e1f4f5c452d361d293d5c713c:
+.. _h177e42283a637754c2c691b121f2242:
 
-I livelli di padronanza delle competenze digitali dei cittadini relativi alle 5 aree
-====================================================================================
+Parole chiave che contraddistinguono gli 8 livelli di padronanza delle competenze digitali dei cittadini
+========================================================================================================
 
 
 |REPLACE1|
+
+.. _h5c5d53452679254f1d386b3a1a6b208:
+
+Gli 8 livelli di padronanza delle 21 competenze digitali dei cittadini suddivisi in 5 aree
+==========================================================================================
+
+Elaborazione delle informazioni
+
+* 1.1 Navigare, ricercare e filtrare dati, informazioni e contenuti digitali
+
+* 1.2 Valutare dati, informazioni e contenuti digitali
+
+* 1.3 Gestire dati, informazioni e contenuti digitali
+
+Comunicazione e collaborazione
+
+* 2.1 Interagire con le tecnologie digitali
+
+* 2.2 Condividere con le tecnologie digitali
+
+* 2.3 Impegnarsi nella cittadinanza con le tecnologie digitali
+
+* 2.4 Collaborare attraverso le tecnologie digitali
+
+* 2.5 Netiquette
+
+* 2.6 Gestire l’identità digitale
+
+Creazione di Contenuti
+
+* 3.1 Sviluppare contenuti digitali
+
+* 3.2 Integrare e rielaborare contenuti digitali
+
+* 3.3 Copyright (diritti d’autore) e licenze
+
+* 3.4 Programmazione
+
+Sicurezza
+
+* 4.1 Proteggere i dispositivi
+
+* 4.2 Proteggere i dati personali e la privacy
+
+* 4.3 Tutelare la salute e il benessere
+
+* 4.4 Tutelare l’ambiente
+
+Risoluzione di problemi
+
+* 5.1 Risolvere i problemi tecnici
+
+* 5.2 Identificare i bisogni e le risposte tecnologiche
+
+* 5.3 Utilizzare creativamente le tecnologie digitali
+
+* 5.4 Identificare i gap di competenza digitale
+
+
+|REPLACE2|
 
 
 .. admonition:: Fonte
@@ -157,7 +217,7 @@ I livelli di padronanza delle competenze digitali dei cittadini relativi alle 5 
 
 Articolare i fabbisogni informativi, ricercare i dati, le informazioni e i contenuti in ambienti digitali, accedervi e navigare al loro interno. Creare e aggiornare strategie di ricerca personali.
 
-|REPLACE2|
+|REPLACE3|
 
 |
 
@@ -168,7 +228,7 @@ Articolare i fabbisogni informativi, ricercare i dati, le informazioni e i conte
 
 Analizzare, confrontare e valutare in maniera critica la credibilità e l’affidabilità delle fonti dei dati, delle informazioni e dei contenuti digitali. Analizzare, interpretare e valutare in maniera critica dati, informazioni e contenuti digitali.
 
-|REPLACE3|
+|REPLACE4|
 
 |
 
@@ -179,7 +239,7 @@ Analizzare, confrontare e valutare in maniera critica la credibilità e l’affi
 
 Organizzare, archiviare e recuperare dati, informazioni e contenuti negli ambienti digitali. Organizzarli ed elaborarli in un ambiente strutturato.
 
-|REPLACE4|
+|REPLACE5|
 
 |
 
@@ -196,7 +256,7 @@ Organizzare, archiviare e recuperare dati, informazioni e contenuti negli ambien
 Interagire attraverso diverse tecnologie digitali e capire quali sono gli strumenti di comunicazione più appropriati in un determinato contesto.
 
 
-|REPLACE5|
+|REPLACE6|
 
 |
 
@@ -208,7 +268,7 @@ Interagire attraverso diverse tecnologie digitali e capire quali sono gli strume
 Condividere dati, informazioni e contenuti digitali con altri attraverso tecnologie digitali appropriate. Agire da intermediari, conoscendo le prassi adeguate per la citazione delle fonti e attribuzione di titolarità.
 
 
-|REPLACE6|
+|REPLACE7|
 
 |
 
@@ -220,7 +280,7 @@ Condividere dati, informazioni e contenuti digitali con altri attraverso tecnolo
 Partecipare alla vita sociale attraverso l’utilizzo di servizi digitali pubblici e privati. Trovare opportunità di self-empowerment e cittadinanza partecipativa attraverso le tecnologie digitali più appropriate.
 
 
-|REPLACE7|
+|REPLACE8|
 
 |
 
@@ -232,7 +292,7 @@ Partecipare alla vita sociale attraverso l’utilizzo di servizi digitali pubbli
 Utilizzare gli strumenti e le tecnologie per i processi collaborativi e per la co-costruzione e la co-creazione di dati, risorse e know-how.
 
 
-|REPLACE8|
+|REPLACE9|
 
 |
 
@@ -244,7 +304,7 @@ Utilizzare gli strumenti e le tecnologie per i processi collaborativi e per la c
 Essere al corrente delle norme comportamentali e del know-how per l’utilizzo delle tecnologie digitali e l’interazione con gli ambienti digitali. Adeguare le strategie di comunicazione al pubblico specifico e tenere conto delle differenze culturali e generazionali negli ambienti digitali.
 
 
-|REPLACE9|
+|REPLACE10|
 
 |
 
@@ -256,7 +316,7 @@ Essere al corrente delle norme comportamentali e del know-how per l’utilizzo d
 Creare e gestire una o più identità digitali, essere in grado di proteggere la propria reputazione, gestire i dati che uno ha prodotto, utilizzando diversi strumenti, ambienti e servizi digitali.
 
 
-|REPLACE10|
+|REPLACE11|
 
 |
 
@@ -273,7 +333,7 @@ Creare e gestire una o più identità digitali, essere in grado di proteggere la
 Creare e modificare contenuti digitali in diversi formati, esprimersi attraverso mezzi digitali.
 
 
-|REPLACE11|
+|REPLACE12|
 
 |
 
@@ -285,7 +345,7 @@ Creare e modificare contenuti digitali in diversi formati, esprimersi attraverso
 Modificare, affinare, migliorare e integrare informazioni e contenuti all’interno di un corpus di conoscenze esistente per creare conoscenze e contenuti nuovi, originali e rilevanti.
 
 
-|REPLACE12|
+|REPLACE13|
 
 .. _h2628437725215d5154631fd6f654d3b:
 
@@ -295,7 +355,7 @@ Modificare, affinare, migliorare e integrare informazioni e contenuti all’inte
 Capire come il copyright e le licenze si applicano ai dati, alle informazioni e ai contenuti digitali.
 
 
-|REPLACE13|
+|REPLACE14|
 
 |
 
@@ -307,7 +367,7 @@ Capire come il copyright e le licenze si applicano ai dati, alle informazioni e 
 Pianificare e sviluppare una sequenza di istruzioni comprensibili da parte di un sistema informatico per risolvere un determinato problema o svolgere un compito specifico.
 
 
-|REPLACE14|
+|REPLACE15|
 
 .. _h551837376126655c2824a6c68624515:
 
@@ -322,7 +382,7 @@ Pianificare e sviluppare una sequenza di istruzioni comprensibili da parte di un
 Proteggere i dispositivi e i contenuti digitali e comprendere i rischi e le minacce presenti negli ambienti digitali. Conoscere le misure di sicurezza e protezione e tenere in debita considerazione l’affidabilità e la privacy.
 
 
-|REPLACE15|
+|REPLACE16|
 
 |
 
@@ -334,7 +394,7 @@ Proteggere i dispositivi e i contenuti digitali e comprendere i rischi e le mina
 Proteggere i dati personali e la privacy negli ambienti digitali. Capire come utilizzare e condividere informazioni personali proteggendo sé stessi e gli altri dai danni. Comprendere che i servizi digitali hanno un “regolamento sulla privacy” per informare gli utenti sull’utilizzo dei dati personali raccolti.
 
 
-|REPLACE16|
+|REPLACE17|
 
 |
 
@@ -346,7 +406,7 @@ Proteggere i dati personali e la privacy negli ambienti digitali. Capire come ut
 Essere in grado di evitare rischi per la salute e minacce al benessere psico-fisico quando si utilizzano le tecnologie digitali. Essere in grado di proteggere sé stessi e gli altri da possibili pericoli negli ambienti digitali (ad es. cyberbullismo). Essere a conoscenza delle tecnologie digitali per il benessere e l’inclusione sociale.
 
 
-|REPLACE17|
+|REPLACE18|
 
 |
 
@@ -358,7 +418,7 @@ Essere in grado di evitare rischi per la salute e minacce al benessere psico-fis
 Essere consapevoli dell’impatto ambientale delle tecnologie digitali e del loro utilizzo.
 
 
-|REPLACE18|
+|REPLACE19|
 
 |
 
@@ -375,7 +435,7 @@ Essere consapevoli dell’impatto ambientale delle tecnologie digitali e del lor
 Individuare problemi tecnici nell’utilizzo dei dispositivi e degli ambienti digitali e risolverli (dalla ricerca e risoluzione di piccoli problemi all’eliminazione di problemi più complessi).
 
 
-|REPLACE19|
+|REPLACE20|
 
 |
 
@@ -386,7 +446,7 @@ Individuare problemi tecnici nell’utilizzo dei dispositivi e degli ambienti di
 
 Valutare le esigenze e individuare, valutare, scegliere e utilizzare gli strumenti digitali e le possibili risposte tecnologiche per risolverli. Adeguare e personalizzare gli ambienti digitali in base alle esigenze personali (ad es. accessibilità).
 
-|REPLACE20|
+|REPLACE21|
 
 |
 
@@ -397,7 +457,7 @@ Valutare le esigenze e individuare, valutare, scegliere e utilizzare gli strumen
 
 Utilizzare gli strumenti e le tecnologie digitali per creare conoscenza e innovare processi e prodotti. Partecipare individualmente e collettivamente ai processi cognitivi per comprendere e risolvere problemi concettuali e situazioni problematiche negli ambienti digitali.
 
-|REPLACE21|
+|REPLACE22|
 
 |
 
@@ -408,17 +468,9 @@ Utilizzare gli strumenti e le tecnologie digitali per creare conoscenza e innova
 
 Capire dove occorre migliorare o aggiornare i propri fabbisogni di competenze digitali. Essere in grado di supportare gli altri nello sviluppo delle proprie competenze digitali. Ricercare opportunità di crescita personale e tenersi al passo con l’evoluzione digitale.
 
-|REPLACE22|
+|REPLACE23|
 
 |
-
-.. _h57532f3e78662625565f45777447c5f:
-
-Parole chiave che contraddistinguono i livelli di padronanza delle competenze digitali dei cittadini
-----------------------------------------------------------------------------------------------------
-
-
-|REPLACE23|
 
 
 .. bottom of content
@@ -503,8 +555,24 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/oceano_digitale.png" width= 900 />
+    <table cellspacing="0" cellpadding="0" style="width:99%">
+    <thead>
+    <tr><th style="width:25%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>Livello di competenza DigComp 2.1</p></th><th style="width:23%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>Complessità del compito</p></th><th style="width:26%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>Autonomia</p></th><th style="width:26%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>Dominio cognitivo</p></th></tr>
+    </thead><tbody>
+    <tr><th style="background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>1- base</p></th><td style="background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>compiti semplici</p></td><td style="background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>con guida</p></td><td style="background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>ricordo</p></td></tr>
+    <tr><td style="background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p><span style="font-weight:bold">2- base</span></p></td><td style="background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>compiti semplici</p></td><td style="background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>Autonomia e guida in caso di necessità</p></td><td style="background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>ricordo</p></td></tr>
+    <tr><td style="background-color:#ffd966;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p><span style="font-weight:bold">3- intermedio</span></p></td><td style="background-color:#ffd966;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>compiti ben definiti e sistematici, problemi diretti</p></td><td style="background-color:#ffd966;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>In autonomia</p></td><td style="background-color:#ffd966;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>comprensione</p></td></tr>
+    <tr><td style="background-color:#ffd966;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p><span style="font-weight:bold">4- intermedio</span></p><p></td><td style="background-color:#ffd966;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>Compiti e problemi ben definiti e non sistematici</p></td><td style="background-color:#ffd966;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>in modo indipendente e secondo le mie necessità</p></td><td style="background-color:#ffd966;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>comprensione</p></td></tr>
+    <tr><td style="background-color:#f1c232;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p><span style="font-weight:bold">5- avanzato</span></p></td><td style="background-color:#f1c232;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>compiti e problemi diversi</p></td><td style="background-color:#f1c232;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>guidando altri</p></td><td style="background-color:#f1c232;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>applicazione</p></td></tr>
+    <tr><td style="background-color:#f1c232;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p><span style="font-weight:bold">6- avanzato</span></p></td><td style="background-color:#f1c232;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>compiti specifici</p></td><td style="background-color:#f1c232;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>abile ad adattarsi ad altri in un contesto complesso</p></td><td style="background-color:#f1c232;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>valutazione</p></td></tr>
+    <tr><td style="background-color:#bf9000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p><span style="font-weight:bold">7- altamente specializzato</span></p></td><td style="background-color:#bf9000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>risoluzione di problemi complessi con soluzioni limitate</p></td><td style="background-color:#bf9000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>in grado di integrarsi per contribuire alla pratica professionale e guidare altri</p></td><td style="background-color:#bf9000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>creazione</p></td></tr>
+    <tr><td style="background-color:#bf9000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p><span style="font-weight:bold">8- altamente specializzato</span></p></td><td style="background-color:#bf9000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>problemi complessi con diversi fattori di interazione</p></td><td style="background-color:#bf9000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>proposta di nuove idee e processi nell’ambito specifico</p></td><td style="background-color:#bf9000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>creazione</p></td></tr>
+    </tbody></table>
+
 .. |REPLACE2| raw:: html
+
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/oceano_digitale.png" width= 900 />
+.. |REPLACE3| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -520,7 +588,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per risolvere problemi complessi con molti fattori di interazione inerenti la navigazione, la ricerca e l’applicazione di filtri a dati, informazioni e contenuti digitali,</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE3| raw:: html
+.. |REPLACE4| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -536,7 +604,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per problemi complessi con molti fattori di interazione inerenti l’analisi e la valutazione di fonti credibili e affidabili di dati, informazioni e contenuti in ambienti digitali,</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul><p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE4| raw:: html
+.. |REPLACE5| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -552,7 +620,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per risolvere problemi complessi con molti fattori di interazione inerenti la gestione dei dati, delle informazioni e dei contenuti, affinché vengano organizzati, archiviati e recuperati in un ambiente digitale strutturato.</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul><p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE5| raw:: html
+.. |REPLACE6| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -568,7 +636,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per risolvere problemi complessi con molti fattori di interazione inerenti il modo di interagire con gli altri attraverso le tecnologie e i mezzi di comunicazione digitali,</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE6| raw:: html
+.. |REPLACE7| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -584,7 +652,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per risolvere problemi complessi con molti fattori di interazione inerenti la condivisione di informazioni attraverso le tecnologie digitali.</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE7| raw:: html
+.. |REPLACE8| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -600,7 +668,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per risolvere problemi complessi con molti fattori di interazione inerenti l’esercizio della cittadinanza attraverso le tecnologie digitali.</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE8| raw:: html
+.. |REPLACE9| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -616,7 +684,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per risolvere problemi complessi con molti fattori di interazione inerenti l’utilizzo di processi collaborativi e la co-costruzione e co-creazione di dati, risorse e know-how attraverso gli strumenti e le tecnologie digitali.</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE9| raw:: html
+.. |REPLACE10| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -632,7 +700,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per risolvere problemi complessi con molti fattori di interazione inerenti il galateo digitale, rispettose dei diversi pubblici e delle differenze culturali e generazionali.</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE10| raw:: html
+.. |REPLACE11| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -648,7 +716,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per risolvere problemi complessi con molti fattori di interazione inerenti la gestione delle identità digitali e della protezione della reputazione online delle persone.</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>01 – Scenario di occupazione: Organizzare un evento</p><p>Sono in grado di proporre al mio capo una nuova procedura per i social media che eviti azioni che potrebbero danneggiare la reputazione digitale della nostra azienda (ad es. spam) nella promozione degli eventi aziendali.</p><p><p>02 – Scenario di apprendimento: Preparare un lavoro di gruppo con i compagni di classe</p><p>Sono in grado di proporre una nuova procedura alla mia scuola che eviti la pubblicazione di contenuti digitali (testi, immagini, video), che possono danneggiare la reputazione degli studenti.</p></td></tr>
     </tbody></table>
 
-.. |REPLACE11| raw:: html
+.. |REPLACE12| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -664,7 +732,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">trovare soluzioni per risolvere problemi con molti fattori di interazione inerenti la creazione e la modifica dei contenuti in formati diversi ed espressione personale attraverso strumenti digitali.</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE12| raw:: html
+.. |REPLACE13| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -680,7 +748,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per problemi complessi con molti fattori di interazione inerenti la modifica, l’affinamento, il miglioramento e l’integrazione di contenuti e informazioni nuovi nel know-how esistente per crearne di nuovi e originali.</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE13| raw:: html
+.. |REPLACE14| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -696,7 +764,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per risolvere problemi complessi con molti fattori di interazione inerenti l’applicazione di copyright e licenze a dati, informazioni digitali e contenuti.</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE14| raw:: html
+.. |REPLACE15| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -712,7 +780,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per risolvere problemi complessi con molti fattori di interazione inerenti la pianificazione e lo sviluppo di istruzioni per un sistema informatico, oltre che l’esecuzione di un compito mediante un sistema informatico.</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE15| raw:: html
+.. |REPLACE16| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -728,7 +796,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni a problemi complessi con molti fattori di interazione inerenti la protezione dei dispositivi e dei contenuti digitali, la gestione dei rischi e delle minacce, l’applicazione di misure di sicurezza, l’affidabilità e la privacy negli ambienti digitali.</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE16| raw:: html
+.. |REPLACE17| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -744,7 +812,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni a problemi complessi con molti fattori di interazione inerenti la protezione dei dati personali e della privacy negli ambienti digitali, l’utilizzo e la condivisione di informazioni personali tutelando se stessi e gli altri da pericoli e le politiche sulla privacy per l’utilizzo dei miei dati personali.</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE17| raw:: html
+.. |REPLACE18| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -760,7 +828,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni a problemi complessi con molti fattori di interazione finalizzate a evitare i rischi per la salute e le minacce al benessere quando si utilizzano le tecnologie digitali, proteggere sé stessi e gli altri da pericoli negli ambienti digitali e utilizzare le tecnologie digitali per il benessere sociale e l’inclusione sociale.</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE18| raw:: html
+.. |REPLACE19| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -776,7 +844,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per risolvere problemi complessi con molti fattori di interazione inerenti la protezione dell’ambiente dall’impatto delle tecnologie digitali e del loro utilizzo.</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>01 – Scenario di occupazione: Utilizzo di un account Twitter per condividere informazioni sulla mia azienda</p><p><p>Sono in grado di creare un video illustrato che risponde a domande sull’utilizzo sostenibile dei dispositivi digitali nelle aziende del mio settore, da condividere su Twitter, destinato allo staff e ad altri professionisti del settore.</p><p><p>02 – Scenario di apprendimento: Utilizzo della piattaforma di apprendimento digitale della scuola per condividere informazioni su argomenti interessanti</p><p>Sono in grado di creare un nuovo eBook per rispondere alle domande sull’utilizzo sostenibile dei dispositivi digitali a scuola e a casa, e condividerlo sulla piattaforma di apprendimento digitale della mia scuola affinché possa essere utilizzato dai miei compagni e dalle loro famiglie.</p></td></tr>
     </tbody></table>
 
-.. |REPLACE19| raw:: html
+.. |REPLACE20| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -792,7 +860,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per risolvere problemi complessi con molti fattori di interazione finalizzate a eliminare anomalie tecniche che si verificano quando si utilizzano i dispositivi e gli ambienti digitali,</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE20| raw:: html
+.. |REPLACE21| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -808,7 +876,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per problemi complessi con definizione limitata utilizzando strumenti digitali e possibili risposte tecnologiche, adattando e personalizzando gli ambienti digitali alle esigenze personali,</li><li style="list-style:inherit;list-style-image:inherit">integrare le mie conoscenze per fornire un contributo alle prassi e alle conoscenze professionali e fornire supporto ad altri nell’individuare esigenze e risposte tecnologiche.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE21| raw:: html
+.. |REPLACE22| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -824,7 +892,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per risolvere problemi complessi con molti fattori di interazione utilizzando strumenti e tecnologie digitali.</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE22| raw:: html
+.. |REPLACE23| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:99%">
     <thead>
@@ -840,22 +908,6 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
     <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p>8 – Altamente specializzato</p><p><p>A un livello avanzatissimo e super specializzato, sono in grado di:</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><ul style="list-style:disc;list-style-image:inherit;padding:0px 40px;margin:initial"><li style="list-style:inherit;list-style-image:inherit">creare soluzioni per problemi complessi con molti fattori di interazione inerenti il migliorare le competenze digitali e trovare opportunità di crescita personale, per rimanere al passo con l’evoluzione digitale.</li><li style="list-style:inherit;list-style-image:inherit">proporre nuove idee e processi nell’ambito specifico.</li></ul></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #666666"><p></td></tr>
     </tbody></table>
 
-.. |REPLACE23| raw:: html
-
-    <table cellspacing="0" cellpadding="0" style="width:99%">
-    <thead>
-    <tr><th style="width:25%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>Livello di competenza DigComp 2.1</p></th><th style="width:23%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>Complessità del compito</p></th><th style="width:26%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>Autonomia</p></th><th style="width:26%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>Dominio cognitivo</p></th></tr>
-    </thead><tbody>
-    <tr><th style="background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>1- base</p></th><td style="background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>compiti semplici</p></td><td style="background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>con guida</p></td><td style="background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>conoscere</p></td></tr>
-    <tr><td style="background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p><span style="font-weight:bold">2- base</span></p></td><td style="background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>compiti semplici</p></td><td style="background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>in autonomia e con guida dove necessario</p></td><td style="background-color:#fff2cc;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>conoscere</p></td></tr>
-    <tr><td style="background-color:#ffd966;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p><span style="font-weight:bold">3- intermedio</span></p></td><td style="background-color:#ffd966;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>compiti ben definiti e di routine e semplici problemi</p></td><td style="background-color:#ffd966;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>da solo/a</p></td><td style="background-color:#ffd966;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>comprendere</p></td></tr>
-    <tr><td style="background-color:#ffd966;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p><span style="font-weight:bold">4- intermedio</span></p><p></td><td style="background-color:#ffd966;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>compiti e problemi ben definiti e non routinari</p></td><td style="background-color:#ffd966;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>in modo indipendente e secondo i miei bisogni</p></td><td style="background-color:#ffd966;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>comprendere</p></td></tr>
-    <tr><td style="background-color:#f1c232;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p><span style="font-weight:bold">5- avanzato</span></p></td><td style="background-color:#f1c232;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>differenti compiti e problemi</p></td><td style="background-color:#f1c232;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>guidando altri</p></td><td style="background-color:#f1c232;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>applicare</p></td></tr>
-    <tr><td style="background-color:#f1c232;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p><span style="font-weight:bold">6- avanzato</span></p></td><td style="background-color:#f1c232;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>compiti specifici</p></td><td style="background-color:#f1c232;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>abile ad adattarsi ad altri in un contesto complesso</p></td><td style="background-color:#f1c232;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>valutare</p></td></tr>
-    <tr><td style="background-color:#bf9000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p><span style="font-weight:bold">7- altamente specializzato</span></p></td><td style="background-color:#bf9000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>problemi complessi con soluzioni limitate</p></td><td style="background-color:#bf9000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>in grado di integrarsi per contribuire alla pratica professionale e guidare altri</p></td><td style="background-color:#bf9000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>creare </p></td></tr>
-    <tr><td style="background-color:#bf9000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p><span style="font-weight:bold">8- altamente specializzato</span></p></td><td style="background-color:#bf9000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>problemi complessi con diversi fattori di interazione</p></td><td style="background-color:#bf9000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>in grado di proporre nuove idee e processi nel settore</p></td><td style="background-color:#bf9000;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.5px #990000"><p>creare </p></td></tr>
-    </tbody></table>
-
 
 .. |LINK1| raw:: html
 
@@ -863,7 +915,7 @@ Parole chiave che contraddistinguono i livelli di padronanza delle competenze di
 
 .. |LINK2| raw:: html
 
-    <a href="www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124!vig=2019-11-22">Art. 1 legge 7 agosto 2015, n. 124 Deleghe al Governo in materia di riorganizzazione delle amministrazioni pubbliche</a>
+    <a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-08-07;124" target="_blank">Art. 1 legge 7 agosto 2015, n. 124 Deleghe al Governo in materia di riorganizzazione delle amministrazioni pubbliche</a>
 
 .. |LINK3| raw:: html
 
