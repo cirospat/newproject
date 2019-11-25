@@ -147,7 +147,7 @@ Parole chiave che contraddistinguono gli 8 livelli di padronanza delle competenz
 Gli 8 livelli di padronanza delle 21 competenze digitali dei cittadini suddivisi in 5 aree
 ==========================================================================================
 
-Elaborazione delle informazioni
+\ |STYLE38|\ 
 
 * 1.1 Navigare, ricercare e filtrare dati, informazioni e contenuti digitali
 
@@ -155,7 +155,7 @@ Elaborazione delle informazioni
 
 * 1.3 Gestire dati, informazioni e contenuti digitali
 
-Comunicazione e collaborazione
+\ |STYLE39|\ 
 
 * 2.1 Interagire con le tecnologie digitali
 
@@ -169,7 +169,7 @@ Comunicazione e collaborazione
 
 * 2.6 Gestire l’identità digitale
 
-Creazione di Contenuti
+\ |STYLE40|\ 
 
 * 3.1 Sviluppare contenuti digitali
 
@@ -179,7 +179,7 @@ Creazione di Contenuti
 
 * 3.4 Programmazione
 
-Sicurezza
+\ |STYLE41|\ 
 
 * 4.1 Proteggere i dispositivi
 
@@ -189,7 +189,7 @@ Sicurezza
 
 * 4.4 Tutelare l’ambiente
 
-Risoluzione di problemi
+\ |STYLE42|\ 
 
 * 5.1 Risolvere i problemi tecnici
 
@@ -557,6 +557,16 @@ Capire dove occorre migliorare o aggiornare i propri fabbisogni di competenze di
 .. |STYLE36| replace:: **Sicurezza**
 
 .. |STYLE37| replace:: **Risolvere Problemi**
+
+.. |STYLE38| replace:: **Elaborazione delle informazioni**
+
+.. |STYLE39| replace:: **Comunicazione e collaborazione**
+
+.. |STYLE40| replace:: **Creazione di Contenuti**
+
+.. |STYLE41| replace:: **Sicurezza**
+
+.. |STYLE42| replace:: **Risoluzione di problemi**
 
 
 .. |REPLACE1| raw:: html
