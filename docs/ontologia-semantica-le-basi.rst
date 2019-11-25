@@ -222,6 +222,13 @@ Un ecosistema aziendale è una serie di sistemi interconnessi in continua evoluz
 
 * Migliore comprensione dei sistemi di interblocco che influenzano la salute dell'ecosistema aziendale.
 
+|
+
+
++-------------------------------+
+|Ritorna alla pagina \ |LINK3|\ |
++-------------------------------+
+
 
 .. bottom of content
 
@@ -242,4 +249,8 @@ Un ecosistema aziendale è una serie di sistemi interconnessi in continua evoluz
 .. |LINK2| raw:: html
 
     <a href="https://www.facebook.com/groups/opendatasicilia/permalink/2491670394284934/" target="_blank">www.facebook.com/groups/opendatasicilia/permalink/2491670394284934</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://cirospat.readthedocs.io/it/latest/vocabolari-controllati.html" target="_blank">Vocabolari controllati e ontologie per l’interoperabilità semantica</a>
 
