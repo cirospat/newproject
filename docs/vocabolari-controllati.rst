@@ -10,9 +10,9 @@ Vocabolari controllati e ontologie per l'interoperabilità semantica
 |
 
 
-+----------------------------------------------------------------------------------+
-|\ |LINK1|\  un documento per comprendere facilmente ``ontologia`` e ``semantica``.|
-+----------------------------------------------------------------------------------+
++------------------------------------------------------------------------------------+
+|\ |LINK1|\  = un documento per comprendere facilmente ``ontologia`` e ``semantica``.|
++------------------------------------------------------------------------------------+
 
 |
 
