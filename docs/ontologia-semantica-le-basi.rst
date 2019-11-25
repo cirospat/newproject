@@ -225,9 +225,9 @@ Un ecosistema aziendale è una serie di sistemi interconnessi in continua evoluz
 |
 
 
-+-------------------------------+
-|Ritorna alla pagina \ |LINK3|\ |
-+-------------------------------+
++---------------------------------+
+|➽ Ritorna alla pagina \ |LINK3|\ |
++---------------------------------+
 
 
 .. bottom of content
