@@ -430,6 +430,8 @@ Le \ |LINK66|\  (su Docs Italia) sono emanate secondo la procedura prevista dall
 
 #. fornire una cornice unica di regolazione sulla materia, in coerenza con la disciplina dei Beni culturali.
 
+(\ |STYLE9|\ ).
+
 --------
 
 .. _h766477a121e4866161d3c536824759:
@@ -472,6 +474,8 @@ Regolano le modalità atte a garantire la sicurezza, integrità e immodificabili
 .. |STYLE7| replace:: **Cloud First**
 
 .. |STYLE8| replace:: *(Adriano Avenia, AgID).*
+
+.. |STYLE9| replace:: *A queste linee guida dovranno riferirsi gli enti pubblici per la redazione/aggiornamento dei manuali di formazione, gestione e conservazione del documento informatico*
 
 
 .. |REPLACE1| raw:: html
