@@ -370,7 +370,7 @@ Dalla prima settimana di novembre 2019 il comune di Palermo \ |LINK74|\ , a segu
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://www.sicurezzait.gov.it/cyber/wp-content/uploads/2019/09/001-hacker-150x150.png" />  <span class="footer_small">Risk Tool Assesment</span>
+    <img src="https://www.sicurezzait.gov.it/cyber/wp-content/uploads/2019/09/001-hacker-150x150.png" width=100 />  <span class="footer_small">Risk Tool Assesment</span>
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/zrKOS2LiWTU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
