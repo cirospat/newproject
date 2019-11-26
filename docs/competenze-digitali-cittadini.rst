@@ -51,9 +51,9 @@ L’\ |STYLE13|\  e il  \ |STYLE14|\  sono gli organi istituzionali dello Stato 
 
 L’\ |STYLE17|\  \ |STYLE18|\  individua 7 ambiti di azione principali:
 
-#. creare un mercato unico digitale (digital single market)
+#. \ |LINK3|\ 
 
-#. migliorare il contesto per l’interoperabilità tra prodotti e servizi delle Tecnologie dell’Informazione e della Comunicazione (ICT)
+#. migliorare il contesto per \ |LINK4|\  delle Tecnologie dell’Informazione e della Comunicazione (ICT)
 
 #. stimolare la fiducia in internet e la sicurezza online
 
@@ -109,7 +109,7 @@ Le persone, per esercitare al meglio i diritti di cittadinanza digitale, dovrebb
 Un modello europeo per comprendere le competenze digitali dei cittadini
 =======================================================================
 
-E’ stato creato un modello a livello europeo per definire le competenze digitali dei cittadini che si chiama \ |LINK3|\ , organizzato in 5 aree di competenza, 21 competenze, 8 livelli di padronanza.
+E’ stato creato un modello a livello europeo per definire le competenze digitali dei cittadini che si chiama \ |LINK5|\ , organizzato in 5 aree di competenza, 21 competenze, 8 livelli di padronanza.
 
 |
 
@@ -205,9 +205,9 @@ Gli 8 livelli di padronanza delle 21 competenze digitali dei cittadini suddivisi
 
 .. admonition:: Fonte
 
-    \ |LINK4|\ 
+    \ |LINK6|\ 
     
-    \ |LINK5|\ 
+    \ |LINK7|\ 
 
 |
 
@@ -935,13 +935,21 @@ Capire dove occorre migliorare o aggiornare i propri fabbisogni di competenze di
 
 .. |LINK3| raw:: html
 
-    <a href="http://www.cittadinanzadigitale.eu/wp-content/uploads/2017/11/DigComp%202.1_Sandra%20Troia.pdf" target="_blank">DIGCOMP</a>
+    <a href="https://youtu.be/Znkoz0-P3sc" target="_blank">creare un mercato unico digitale (digital single market)</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://competenze-digitali-docs.readthedocs.io/" target="_blank">competenze-digitali-docs.readthedocs.io</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/master/" target="_blank">l’interoperabilità tra prodotti e servizi</a>
 
 .. |LINK5| raw:: html
+
+    <a href="http://www.cittadinanzadigitale.eu/wp-content/uploads/2017/11/DigComp%202.1_Sandra%20Troia.pdf" target="_blank">DIGCOMP</a>
+
+.. |LINK6| raw:: html
+
+    <a href="https://competenze-digitali-docs.readthedocs.io/" target="_blank">competenze-digitali-docs.readthedocs.io</a>
+
+.. |LINK7| raw:: html
 
     <a href="https://docs.italia.it/italia/designers-italia/lg-competenzedigitali-docs/it/stabile/index.html" target="_blank">docs.italia.it/italia/designers-italia/lg-competenzedigitali-docs</a>
 
