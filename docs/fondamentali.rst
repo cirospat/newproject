@@ -309,12 +309,21 @@ Sicurezza Cibernetica: iniziative e azioni per amministrazioni più sicure (webi
 
 --------
 
+.. _h6a94c325865135e210131462116f21:
+
+Risk Tool Assesment (AgID). Supporto alle PA per comprendere e affrontare iniziative e rischi legati alla sicurezza informatica.
+********************************************************************************************************************************
+
+Web service \ |LINK43|\  per valutare i livelli di rischi a cui sono esposti i servizi digitali delle PA e per attivare eventuali azioni volte a mitigare o annullare i rischi individuati. L'azione fa parte del \ |STYLE6|\ , \ |LINK44|\ .
+
+--------
+
 .. _h95f3b143f9312b21717141464705e:
 
 Linee guida dell’indice dei domicili digitali delle pubbliche amministrazioni e dei gestori di pubblici servizi (IPA)
 *********************************************************************************************************************
 
-\ |LINK43|\ 
+\ |LINK45|\ 
 
 --------
 
@@ -323,9 +332,9 @@ Linee guida dell’indice dei domicili digitali delle pubbliche amministrazioni 
 Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1
 ************************************************************
 
-\ |LINK44|\  / Coordinator of the translation: Roberto Scano - \ |LINK45|\  (\ |LINK46|\ ). 
+\ |LINK46|\  / Coordinator of the translation: Roberto Scano - \ |LINK47|\  (\ |LINK48|\ ). 
 
-\ |LINK47|\ : gratuita la \ |LINK48|\ .
+\ |LINK49|\ : gratuita la \ |LINK50|\ .
 
 --------
 
@@ -334,7 +343,7 @@ Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1
 Bootstrap Italia, tema per lo sviluppo di applicazioni web per la pubblica amministrazione
 ******************************************************************************************
 
-\ |LINK49|\ , a cura del Team Trasformazione Digitale + AgID.
+\ |LINK51|\ , a cura del Team Trasformazione Digitale + AgID.
 
 --------
 
@@ -343,7 +352,7 @@ Bootstrap Italia, tema per lo sviluppo di applicazioni web per la pubblica ammin
 Guida per attivare il Login eIDAS per le PA (a cura di AgID), che consente l’interoperabilità transfrontaliera delle identità digitali (eID).
 *********************************************************************************************************************************************
 
-La sua implementazione permette la circolarità delle eID italiane fra gli stati membri dell’UE. \ |LINK50|\  a cura dell'AgID. [#SPID identità digitale]
+La sua implementazione permette la circolarità delle eID italiane fra gli stati membri dell’UE. \ |LINK52|\  a cura dell'AgID. [#SPID identità digitale]
 
 --------
 
@@ -352,7 +361,7 @@ La sua implementazione permette la circolarità delle eID italiane fra gli stati
 Conoscere i fabbisogni, le consultazioni di mercato, gli appalti innovativi delle Pubbliche Amministrazioni  e proporre le tue soluzioni
 ****************************************************************************************************************************************
 
-\ |LINK51|\ .
+\ |LINK53|\ .
 
 --------
 
@@ -361,7 +370,7 @@ Conoscere i fabbisogni, le consultazioni di mercato, gli appalti innovativi dell
 Linee guida per l’erogazione del servizio pubblico wifi free
 ************************************************************
 
-\ |LINK52|\  a cura dell'AgID.
+\ |LINK54|\  a cura dell'AgID.
 
 --------
 
@@ -370,15 +379,15 @@ Linee guida per l’erogazione del servizio pubblico wifi free
 Linee guida Agid per lo sviluppo del software sicuro nella PA
 *************************************************************
 
-\ |LINK53|\  si compongono di \ |LINK54|\  e 4 allegati:
-
-* \ |LINK55|\ 
-
-* \ |LINK56|\ 
+\ |LINK55|\  si compongono di \ |LINK56|\  e 4 allegati:
 
 * \ |LINK57|\ 
 
 * \ |LINK58|\ 
+
+* \ |LINK59|\ 
+
+* \ |LINK60|\ 
 
 --------
 
@@ -387,11 +396,11 @@ Linee guida Agid per lo sviluppo del software sicuro nella PA
 Il modello Cloud della PA: come acquisire servizi cloud qualificati
 *******************************************************************
 
-\ |LINK59|\  del 19 marzo 2019 e materiali.
+\ |LINK61|\  del 19 marzo 2019 e materiali.
 
-\ |STYLE6|\  - Per Cloud First si intende la valutazione prioritaria sulla possibilità di ricorrere a strumenti e tecnologie di tipo cloud, nelle sue diverse articolazioni in modelli di servizio IaaS, PaaS e SaaS, nel momento in cui le pubbliche amministrazioni intendono acquisire sul mercato nuove soluzioni e servizi ICT per la realizzazione di un nuovo progetto o nuovi servizi destinati a cittadini, imprese o utenti interni alla PA. Per  sfruttare in pieno i vantaggi del cloud , è opportuno che le amministrazioni valutino in prima istanza la presenza di servizi SaaS (principio SaaS First) nel Catalogo dei servizi cloud qualificati per la PA che rispondono alle proprie esigenze e, solo in seconda istanza, prendere in considerazione soluzioni PaaS e infine IaaS. \ |STYLE7|\ 
+\ |STYLE7|\  - Per Cloud First si intende la valutazione prioritaria sulla possibilità di ricorrere a strumenti e tecnologie di tipo cloud, nelle sue diverse articolazioni in modelli di servizio IaaS, PaaS e SaaS, nel momento in cui le pubbliche amministrazioni intendono acquisire sul mercato nuove soluzioni e servizi ICT per la realizzazione di un nuovo progetto o nuovi servizi destinati a cittadini, imprese o utenti interni alla PA. Per  sfruttare in pieno i vantaggi del cloud , è opportuno che le amministrazioni valutino in prima istanza la presenza di servizi SaaS (principio SaaS First) nel Catalogo dei servizi cloud qualificati per la PA che rispondono alle proprie esigenze e, solo in seconda istanza, prendere in considerazione soluzioni PaaS e infine IaaS. \ |STYLE8|\ 
 
-\ |LINK60|\ . 
+\ |LINK62|\ . 
 
 --------
 
@@ -400,11 +409,11 @@ Il modello Cloud della PA: come acquisire servizi cloud qualificati
 Competenze digitali per la PA
 *****************************
 
-Iniziativa promossa dal Dipartimento della funzione pubblica nell’ambito del \ |LINK61|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione.
+Iniziativa promossa dal Dipartimento della funzione pubblica nell’ambito del \ |LINK63|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione.
 
 Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi.
 
-\ |LINK62|\ .
+\ |LINK64|\ .
 
 --------
 
@@ -413,9 +422,9 @@ Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente d
 Linee Guida sulla formazione, gestione e conservazione dei documenti informatici
 ********************************************************************************
 
-\ |LINK63|\  (dal sito AgID). 
+\ |LINK65|\  (dal sito AgID). 
 
-Le \ |LINK64|\  (su Docs Italia) sono emanate secondo la procedura prevista dall’art. 71 “\ |LINK65|\ ” del Codice dell’Amministrazione digitale (CAD) e hanno il duplice scopo di:
+Le \ |LINK66|\  (su Docs Italia) sono emanate secondo la procedura prevista dall’art. 71 “\ |LINK67|\ ” del Codice dell’Amministrazione digitale (CAD) e hanno il duplice scopo di:
 
 #. aggiornare le regole tecniche attualmente in vigore sulla formazione, protocollazione, gestione e conservazione dei documenti informatici precedentemente regolate nei DPCM del 2013 e 2014;
 
@@ -430,7 +439,7 @@ Regole Tecniche per la sottoscrizione elettronica di documenti ai sensi dell’a
 
 Regolano le modalità atte a garantire la sicurezza, integrità e immodificabilità del documento e, in maniera manifesta e inequivoca, la sua riconducibilità all’autore.
 
-\ |LINK66|\ 
+\ |LINK68|\ 
 
 --------
 
@@ -458,9 +467,11 @@ Regolano le modalità atte a garantire la sicurezza, integrità e immodificabili
 
 .. |STYLE5| replace:: **utenza master**
 
-.. |STYLE6| replace:: **Cloud First**
+.. |STYLE6| replace:: **Piano Triennale per l'Informatica nella Pubblica Amministrazione 2019-2021**
 
-.. |STYLE7| replace:: *(Adriano Avenia, AgID).*
+.. |STYLE7| replace:: **Cloud First**
+
+.. |STYLE8| replace:: *(Adriano Avenia, AgID).*
 
 
 .. |REPLACE1| raw:: html
@@ -669,97 +680,105 @@ Regolano le modalità atte a garantire la sicurezza, integrità e immodificabili
 
 .. |LINK43| raw:: html
 
-    <a href="https://lineeguida-ipa.readthedocs.io/" target="_blank">Link alle linee guida</a>
+    <a href="https://www.sicurezzait.gov.it" target="_blank">Risk Tool Assesment</a>
 
 .. |LINK44| raw:: html
 
-    <a href="https://www.w3.org/Translations/WCAG21-it/" target="_blank">W3C Recommendation 05 giugno 2018</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2017-2019/doc/08_sicurezza.html?highlight=sicurezza" target="_blank">capitolo Sicurezza</a>
 
 .. |LINK45| raw:: html
 
-    <a href="http://www.iwa.it/" target="_blank">IWA Italy - International Web Association Italia</a>
+    <a href="https://lineeguida-ipa.readthedocs.io/" target="_blank">Link alle linee guida</a>
 
 .. |LINK46| raw:: html
 
-    <a href="mailto:rscano@iwa.it">rscano@iwa.it</a>
+    <a href="https://www.w3.org/Translations/WCAG21-it/" target="_blank">W3C Recommendation 05 giugno 2018</a>
 
 .. |LINK47| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2018/12/03/accessibilita-disponibile-forma-gratuita-norma-tecnica-en-sui-requisiti-prodotti" target="_blank">AGID</a>
+    <a href="http://www.iwa.it/" target="_blank">IWA Italy - International Web Association Italia</a>
 
 .. |LINK48| raw:: html
 
-    <a href="http://store.uni.com/catalogo/index.php/uni-en-301549-2018.html" target="_blank">norma tecnica Uni EN sui requisiti per prodotti e servizi online</a>
+    <a href="mailto:rscano@iwa.it">rscano@iwa.it</a>
 
 .. |LINK49| raw:: html
 
-    <a href="https://italia.github.io/bootstrap-italia/" target="_blank">Link</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2018/12/03/accessibilita-disponibile-forma-gratuita-norma-tecnica-en-sui-requisiti-prodotti" target="_blank">AGID</a>
 
 .. |LINK50| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/02/05/attivare-il-login-eidas-ecco-guida-pa-cura-agid" target="_blank">Link</a>
+    <a href="http://store.uni.com/catalogo/index.php/uni-en-301549-2018.html" target="_blank">norma tecnica Uni EN sui requisiti per prodotti e servizi online</a>
 
 .. |LINK51| raw:: html
 
-    <a href="https://appaltinnovativi.gov.it/" target="_blank">Link appalti innovativi</a>
+    <a href="https://italia.github.io/bootstrap-italia/" target="_blank">Link</a>
 
 .. |LINK52| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-pubblicowififree/it/bozza/" target="_blank">Linee Guida in consultazione</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/02/05/attivare-il-login-eidas-ecco-guida-pa-cura-agid" target="_blank">Link</a>
 
 .. |LINK53| raw:: html
 
-    <a href="https://www.agid.gov.it/it/sicurezza/cert-pa/linee-guida-sviluppo-del-software-sicuro" target="_blank">Le linee guida per lo sviluppo del software sicuro nella pubblica amministrazione</a>
+    <a href="https://appaltinnovativi.gov.it/" target="_blank">Link appalti innovativi</a>
 
 .. |LINK54| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione/lineeguidasicurezza-introduzione.pdf" target="_blank">un documento introduttivo</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-pubblicowififree/it/bozza/" target="_blank">Linee Guida in consultazione</a>
 
 .. |LINK55| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione/linee_guida_per_adozione_di_un_ciclo_di_sviluppo_di_software_sicurov1.0.pdf" target="_blank">Allegato 1- Linee Guida per l’adozione di un ciclo di sviluppo di software sicuro</a>
+    <a href="https://www.agid.gov.it/it/sicurezza/cert-pa/linee-guida-sviluppo-del-software-sicuro" target="_blank">Le linee guida per lo sviluppo del software sicuro nella pubblica amministrazione</a>
 
 .. |LINK56| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione/linee_guida_per_lo_sviluppo_sicuro_di_codice_v1.0.pdf" target="_blank">Allegato 2 - Linee Guida per lo sviluppo sicuro di codice</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione/lineeguidasicurezza-introduzione.pdf" target="_blank">un documento introduttivo</a>
 
 .. |LINK57| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione/linee_guida_per_la_configurazione_per_adeguare_la_sicurezza_del_software_v1.0.pdf" target="_blank">Allegato 3 - Linee Guida per la configurazione per adeguare la sicurezza del software di base</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione/linee_guida_per_adozione_di_un_ciclo_di_sviluppo_di_software_sicurov1.0.pdf" target="_blank">Allegato 1- Linee Guida per l’adozione di un ciclo di sviluppo di software sicuro</a>
 
 .. |LINK58| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione/linee_guida_modellazione_minacce_e_individuazione_azioni_di_mitigazionev1.0.pdf" target="_blank">Allegato 4 - Linee Guida per la modellazione delle minacce e individuazione delle azioni di mitigazione conformi ai principi del Secure/Privacy by Design</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione/linee_guida_per_lo_sviluppo_sicuro_di_codice_v1.0.pdf" target="_blank">Allegato 2 - Linee Guida per lo sviluppo sicuro di codice</a>
 
 .. |LINK59| raw:: html
 
-    <a href="http://eventipa.formez.it/node/187948" target="_blank">Webinar del FormezPA</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione/linee_guida_per_la_configurazione_per_adeguare_la_sicurezza_del_software_v1.0.pdf" target="_blank">Allegato 3 - Linee Guida per la configurazione per adeguare la sicurezza del software di base</a>
 
 .. |LINK60| raw:: html
 
-    <a href="https://cloud.italia.it/marketplace/supplier/market/index.html" target="_blank">Catalogo dei servizi Cloud per la PA qualificati</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documentazione/linee_guida_modellazione_minacce_e_individuazione_azioni_di_mitigazionev1.0.pdf" target="_blank">Allegato 4 - Linee Guida per la modellazione delle minacce e individuazione delle azioni di mitigazione conformi ai principi del Secure/Privacy by Design</a>
 
 .. |LINK61| raw:: html
 
-    <a href="http://www.pongovernance1420.gov.it/" target="_blank">Programma Operativo Nazionale “Governance e Capacità Istituzionale 2014-2020"</a>
+    <a href="http://eventipa.formez.it/node/187948" target="_blank">Webinar del FormezPA</a>
 
 .. |LINK62| raw:: html
 
-    <a href="http://www.competenzedigitali.gov.it" target="_blank">Link alla piattaforma online per le "competenze digitali" a cura della Funzione Pubblica</a>
+    <a href="https://cloud.italia.it/marketplace/supplier/market/index.html" target="_blank">Catalogo dei servizi Cloud per la PA qualificati</a>
 
 .. |LINK63| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/10/17/consultazione-linee-guida-sulla-formazione-gestione-conservazione-documenti" target="_blank">Strumento essenziale per la digitalizzazione delle pratiche amministrative</a>
+    <a href="http://www.pongovernance1420.gov.it/" target="_blank">Programma Operativo Nazionale “Governance e Capacità Istituzionale 2014-2020"</a>
 
 .. |LINK64| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs" target="_blank">Linee Guida</a>
+    <a href="http://www.competenzedigitali.gov.it" target="_blank">Link alla piattaforma online per le "competenze digitali" a cura della Funzione Pubblica</a>
 
 .. |LINK65| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo7_art71.html" target="_blank">Regole tecniche</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/10/17/consultazione-linee-guida-sulla-formazione-gestione-conservazione-documenti" target="_blank">Strumento essenziale per la digitalizzazione delle pratiche amministrative</a>
 
 .. |LINK66| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs" target="_blank">Linee Guida</a>
+
+.. |LINK67| raw:: html
+
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo7_art71.html" target="_blank">Regole tecniche</a>
+
+.. |LINK68| raw:: html
 
     <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-spid-firma-docs/it/stabile/" target="_blank">Regole Tecniche circa la sottoscrizione elettronica di documenti tramite SPID</a>
 
