@@ -165,9 +165,7 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 2019
 ----
 
-\ |STYLE30|\  
-
-Utilizzo del web service \ |LINK34|\  per valutare i livelli di rischi a cui sono esposti i servizi digitali del comune di Palermo e per attivare eventuali azioni volte a mitigare o annullare i rischi individuati. Con la collaborazione della Società SISPI SpA. L'azione fa parte del \ |STYLE31|\ , \ |LINK35|\ .
+\ |STYLE30|\  Utilizzo del web service \ |LINK34|\  per valutare i livelli di rischi a cui sono esposti i servizi digitali del comune di Palermo e per attivare eventuali azioni volte a mitigare o annullare i rischi individuati. Con la collaborazione della Società SISPI SpA. L'azione fa parte del \ |STYLE31|\ , \ |LINK35|\ .
 
 |
 
