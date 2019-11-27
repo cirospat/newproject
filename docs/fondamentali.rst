@@ -445,6 +445,15 @@ Regolano le modalità atte a garantire la sicurezza, integrità e immodificabili
 
 --------
 
+.. _h426d5e38373875507e22712b787a2d0:
+
+SPID: emanate le Linee Guida per l’identificazione degli utenti da parte delle PA (AgID)
+****************************************************************************************
+
+\ |LINK69|\   -  \ |LINK70|\ 
+
+--------
+
 
 |REPLACE4|
 
@@ -785,4 +794,12 @@ Regolano le modalità atte a garantire la sicurezza, integrità e immodificabili
 .. |LINK68| raw:: html
 
     <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-spid-firma-docs/it/stabile/" target="_blank">Regole Tecniche circa la sottoscrizione elettronica di documenti tramite SPID</a>
+
+.. |LINK69| raw:: html
+
+    <a href="https://trasparenza.agid.gov.it/index.php?id_oggetto=28&id_doc=122120&id_sez_ori=0&template_ori=1" target="_blank">Linee Guida</a>
+
+.. |LINK70| raw:: html
+
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/11/25/spid-emanate-linee-guida-lidentificazione-degli-utenti-parte-pa" target="_blank">Comunicato stampa</a>
 
