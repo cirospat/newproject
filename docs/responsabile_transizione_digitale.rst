@@ -89,6 +89,9 @@ Formazione RTD
 
 |REPLACE4|
 
+
+|REPLACE5|
+
 .. _h4777144564346b74103369267965183:
 
 RTD Comune di Palermo - attività svolte
@@ -127,6 +130,10 @@ RTD Comune di Palermo - attività svolte
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/AfzZUCwwejU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small"><a href="http://eventipa.formez.it/node/202136" target="_blank">L'usabilità dei servizi digitali (19 novembre 2019)</a></span>
+.. |REPLACE5| raw:: html
+
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/c0qlGIM_CXk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <span class="footer_small"><a href="https://www.ot11ot2.it/notizie/video-e-materiali-del-webinar-sistemi-informativi-e-servizi-digitali-per-i-tributi-locali-e" target="_blank">Sistemi informativi e servizi digitali per i tributi locali e pagamenti elettronici - <b>Catalogo delle esperienze OT2-T11</b> (27 novembre 2019)</a></span>
 
 .. |LINK1| raw:: html
 
