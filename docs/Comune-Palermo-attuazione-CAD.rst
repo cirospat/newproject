@@ -276,6 +276,12 @@ A \ |LINK69|\  sul portale istituzionale per l'evento.  Rassegna stampa: \ |LINK
 
 Dalla prima settimana di novembre 2019 il comune di Palermo \ |LINK74|\ , a seguito del subentro dell'anagrafe locale a quella nazionale ANPR (Anagrafe Nazionale della Popolazione Residente). La \ |LINK75|\  ha anche la funzione di identificazione digitale del cittadino (al pari del sistema SPID) per l'accesso ai servizi online della Pubblica Amministrazione.
 
+|
+
+Novembre 2019. Nella classifica ICity Rank 2019,  stilata da ForumPA (relativa alle smart city italiane tra 107 comuni capoluogo), \ |LINK76|\ .
+
+|
+
 .. bottom of content
 
 
@@ -674,4 +680,8 @@ Dalla prima settimana di novembre 2019 il comune di Palermo \ |LINK74|\ , a segu
 .. |LINK75| raw:: html
 
     <a href="https://drive.google.com/file/d/0B9q5qob_W3NiT2p0NjExWmtfWGpPSFUwTklZcTY2VXlxa0hZ/" target="_blank">Carta d'Identità Elettronica (CIE)</a>
+
+.. |LINK76| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=25615" target="_blank">Palermo si è classificata 24° in riferimento agli indicatori della trasformazione digitale</a>
 
