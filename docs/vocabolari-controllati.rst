@@ -157,15 +157,17 @@ Presentazioni e articoli su ontologie e vocabolari controllati
     * \ |LINK31|\ .
     
     * Ontologie e vocabolari controllati del \ |STYLE5|\ . \ |LINK32|\  (Carriero - Lodi - Mancinelli/Veninata - Nuzzolese - Presutti).
+    
+    * \ |LINK33|\  su ontologie, vocabolari controllati, e interoperabilità semantica.
 
 
 .. admonition:: Articoli concernenti ontologie, vocabolari controllati e linked open data
 
-    * "\ |LINK33|\ ", un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` ed i ``vocabolari controllati``.
+    * "\ |LINK34|\ ", un articolo di Giovanni Pirrotta che spiega in maniera chiara le ``ontologie`` ed i ``vocabolari controllati``.
     
-    * \ |LINK34|\  - Turtle vs RDF/XML vs N-Triples vs JSON-LD (Angus Addlesee).
+    * \ |LINK35|\  - Turtle vs RDF/XML vs N-Triples vs JSON-LD (Angus Addlesee).
     
-    * "\ |LINK35|\ " un articolo di Giovanni Pirrotta (come il web semantico può combattere le false notizie).
+    * "\ |LINK36|\ " un articolo di Giovanni Pirrotta (come il web semantico può combattere le false notizie).
 
 |
 
@@ -375,13 +377,17 @@ Presentazioni e articoli su ontologie e vocabolari controllati
 
 .. |LINK33| raw:: html
 
-    <a href="http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/" target="_blank">Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana</a>
+    <a href="https://www.slideshare.net/GiorgiaLodi" target="_blank">Presentazioni di Giorgia Lodi</a>
 
 .. |LINK34| raw:: html
 
-    <a href="https://medium.com/wallscope/understanding-linked-data-formats-rdf-xml-vs-turtle-vs-n-triples-eb931dbe9827" target="_blank">Understanding Linked Data Formats</a>
+    <a href="http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/" target="_blank">Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana</a>
 
 .. |LINK35| raw:: html
+
+    <a href="https://medium.com/wallscope/understanding-linked-data-formats-rdf-xml-vs-turtle-vs-n-triples-eb931dbe9827" target="_blank">Understanding Linked Data Formats</a>
+
+.. |LINK36| raw:: html
 
     <a href="https://medium.com/@gpirrotta/generazione-e-verifica-di-notizie-di-qualit%C3%A0-attraverso-il-web-semantico-la-storia-di-liliana-6cd81f05e9fe" target="_blank">Generazione e verifica di notizie di qualità attraverso il Web Semantico: la storia di Liliana Segre</a>
 
