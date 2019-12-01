@@ -1,12 +1,12 @@
 
-.. _h785f45512f714e722219392c2d3192b:
+.. _h30115744525876487d75432459593362:
 
-Informativa privacy estesa
-**************************
+Informativa privacy estesa - cookies
+************************************
 
-In linea con la legislazione Europea (GDPR), è fondamentale che ogni utente del sito web comprenda cosa sono i cookie e per quale motivo vengono utilizzati, in modo che gli utenti stessi possano decidere consapevolmente se accettarne l’utilizzo o no sui loro dispositivi.
+In linea con la legislazione Europea (\ |LINK1|\ ), è fondamentale che ogni utente del sito web comprenda cosa sono i cookie e per quale motivo vengono utilizzati, in modo che gli utenti stessi possano decidere consapevolmente se accettarne l’utilizzo o no sui loro dispositivi.
 
-\ |STYLE0|\ 
+\ |STYLE0|\  \ |LINK2|\  \ |STYLE1|\ 
 
 I cookie possono essere classificati in due categorie, in base alle loro funzionalità:
 
@@ -58,11 +58,11 @@ Questi cookie consentono al sito web di ricordare le scelte che avete effettuato
 Cookie di terze parti
 =====================
 
-\ |STYLE1|\ 
+\ |STYLE2|\ 
 
 Il Sito impiega Google Analytics. Si tratta di un servizio di analisi web fornito da Google Inc. (“Google”) che utilizza cookie depositati sul computer dell’utente per consentire analisi statistiche in forma aggregata in ordine all’utilizzo del sito web visitato.
 
-I dati generati da Google Analytics sono conservati da Google così come indicato nella Informativa reperibile al seguente link: \ |LINK1|\ .
+I dati generati da Google Analytics sono conservati da Google così come indicato nella Informativa reperibile al seguente link: \ |LINK3|\ .
 
 Per consultare l’informativa privacy della società Google Inc., titolare autonomo del trattamento dei dati relativi al servizio Google Analytics, si rinvia al sito Internet.
 
@@ -80,15 +80,15 @@ I widget dei social network sono quei particolari “pulsanti” o “blocchi”
 
 Per maggiori informazioni, anche sulla disattivazione di tali cookie, si consiglia di consultare i seguenti link:
 
-* \ |LINK2|\ 
-
-* \ |LINK3|\ 
-
 * \ |LINK4|\ 
 
 * \ |LINK5|\ 
 
 * \ |LINK6|\ 
+
+* \ |LINK7|\ 
+
+* \ |LINK8|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -102,10 +102,6 @@ Come disabilitare i cookie mediante configurazione del browser
 
 Fermo restando quanto sopra indicato in ordine ai cookie strettamente necessari alla navigazione, l’utente può eliminare gli altri cookie attraverso la funzionalità a tal fine messa a disposizione dal Titolare tramite la presente informativa oppure direttamente tramite il proprio browser. Ciascun browser presenta procedure diverse per la gestione delle impostazioni. L’utente può ottenere istruzioni specifiche attraverso i link sottostanti.
 
-* \ |LINK7|\ 
-
-* \ |LINK8|\ 
-
 * \ |LINK9|\ 
 
 * \ |LINK10|\ 
@@ -113,6 +109,10 @@ Fermo restando quanto sopra indicato in ordine ai cookie strettamente necessari 
 * \ |LINK11|\ 
 
 * \ |LINK12|\ 
+
+* \ |LINK13|\ 
+
+* \ |LINK14|\ 
 
 .. _h767a761832a3a432636247d7c26677a:
 
@@ -247,9 +247,11 @@ Per ulteriori informazioni su come cancellare e controllare i cookie archiviati 
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Un cookie è un piccolo file di testo contenente un numero di identificazione univoco che viene trasferito dal sito web sul disco rigido del vostro computer attraverso un codice anonimo in grado di identificare il computer ma non l’utente e di monitorare passivamente le vostre attività sul sito.**
+.. |STYLE0| replace:: **Un**
 
-.. |STYLE1| replace:: **Google Analytics**
+.. |STYLE1| replace:: **è un piccolo file di testo contenente un numero di identificazione univoco che viene trasferito dal sito web sul disco rigido del vostro computer attraverso un codice anonimo in grado di identificare il computer ma non l’utente e di monitorare passivamente le vostre attività sul sito.**
+
+.. |STYLE2| replace:: **Google Analytics**
 
 
 .. |REPLACE1| raw:: html
@@ -280,49 +282,57 @@ Per ulteriori informazioni su come cancellare e controllare i cookie archiviati 
 
 .. |LINK1| raw:: html
 
-    <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank">https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage</a>
+    <a href="https://www.garanteprivacy.it/il-testo-del-regolamento" target="_blank">GDPR</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://twitter.com/privacy" target="_blank">Twitter</a>
+    <a href="https://it.wikipedia.org/wiki/Cookie" target="_blank">cookie</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.facebook.com/help/cookies" target="_blank">Facebook</a>
+    <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank">https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://www.linkedin.com/legal/cookie_policy" target="_blank">LinkedIn</a>
+    <a href="http://twitter.com/privacy" target="_blank">Twitter</a>
 
 .. |LINK5| raw:: html
 
-    <a href="http://www.google.it/intl/it/policies/technologies/cookies/" target="_blank">Google Plus</a>
+    <a href="https://www.facebook.com/help/cookies" target="_blank">Facebook</a>
 
 .. |LINK6| raw:: html
 
-    <a href="http://www.addthis.com/privacy/privacy-policy" target="_blank">AddThis</a>
+    <a href="https://www.linkedin.com/legal/cookie_policy" target="_blank">LinkedIn</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://support.google.com/accounts/answer/61416?hl=en" target="_blank">Google Chrome</a>
+    <a href="http://www.google.it/intl/it/policies/technologies/cookies/" target="_blank">Google Plus</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences" target="_blank">Mozilla Firefox</a>
+    <a href="http://www.addthis.com/privacy/privacy-policy" target="_blank">AddThis</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://windows.microsoft.com/it-it/windows-vista/block-or-allow-cookies" target="_blank">Internet Explorer</a>
+    <a href="https://support.google.com/accounts/answer/61416?hl=en" target="_blank">Google Chrome</a>
 
 .. |LINK10| raw:: html
 
-    <a href="http://support.apple.com/kb/PH17191?viewlocale=it_IT&locale=it_IT" target="_blank">Safari</a>
+    <a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences" target="_blank">Mozilla Firefox</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://support.apple.com/kb/HT1677?utm_source=Agillic%20Dialogue" target="_blank">Safari IOs</a>
+    <a href="http://windows.microsoft.com/it-it/windows-vista/block-or-allow-cookies" target="_blank">Internet Explorer</a>
 
 .. |LINK12| raw:: html
+
+    <a href="http://support.apple.com/kb/PH17191?viewlocale=it_IT&locale=it_IT" target="_blank">Safari</a>
+
+.. |LINK13| raw:: html
+
+    <a href="http://support.apple.com/kb/HT1677?utm_source=Agillic%20Dialogue" target="_blank">Safari IOs</a>
+
+.. |LINK14| raw:: html
 
     <a href="http://help.opera.com/Windows/10.00/it/cookies.html" target="_blank">Opera</a>
 
