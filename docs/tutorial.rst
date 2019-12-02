@@ -12,6 +12,9 @@ Tutorial, manuali, corsi/webinar
 Accussì, catalogo di tutorial sul mondo dei dati curato dalla community di Opendatasicilia
 ==========================================================================================
 
+
+|REPLACE2|
+
 \ |LINK1|\ , perché i tutorial sono il sudore delle persone che condividono conoscenza ...
 
 |
@@ -22,7 +25,7 @@ Tansignari, quando le cose spiegate in 2 minuti non si perdono
 ==============================================================
 
 
-|REPLACE2|
+|REPLACE3|
 
 \ |LINK2|\  è un'idea di Andrea Borruso, ed è un patrimonio culturale della comunità opendatasicilia. Chiunque vuole conoscere come funziona qualcosa concernente qualsiasi cosa abbia relazione con lo sviluppo informatico, crea una \ |LINK3|\  su un repository di GitHub, così che una volta fornita la risposta (da parte di qualcuno che conosce la materia), si creano delle \ |LINK4|\  in un unico contenitore condiviso online che rappresentano la conoscenza.
 
@@ -34,7 +37,7 @@ Definizione Standard per il paniere di dataset degli Enti Locali
 ================================================================
 
 
-|REPLACE3|
+|REPLACE4|
 
 Dalla Regione Lombardia un \ |LINK5|\  (ringraziamenti a Daniele Crespi).
 
@@ -46,7 +49,7 @@ Tutorial: pubblicare documenti su 'Read the Docs' utilizzando Google doc e il co
 ==============================================================================================================
 
 
-|REPLACE4|
+|REPLACE5|
 
 \ |LINK6|\  per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il "commit" sul progetto Github direttamente da Google doc.
 
@@ -58,7 +61,7 @@ Tutorial: dai fogli di GoogleDrive alle mappe openstreetmap di uMap
 ===================================================================
 
 
-|REPLACE5|
+|REPLACE6|
 
 \ |LINK7|\ . Il mio primo tutorial di sempre (grazie ad Andrea Borruso). 
 
@@ -70,7 +73,7 @@ Tutorial: realizzazione di un progetto a basso costo per il rilevamento dei dati
 ==========================================================================================================================
 
 
-|REPLACE6|
+|REPLACE7|
 
 \ |LINK8|\  cosa comprare (spendendo meno di 50 euro), come assemblare la componentistica e come connettere la propria stazione ad una rete mondiale di rilevamento delle polveri sottili, ottenendo la disponibilità dei dati in formato aperto (CSV, JSON) per attività di analisi.
 
@@ -82,7 +85,7 @@ Corsi online su 'competenze e servizi digitali'
 ===============================================
 
 
-|REPLACE7|
+|REPLACE8|
 
 ➽ \ |STYLE0|\  - Iniziativa con \ |LINK9|\ .
 
@@ -119,7 +122,7 @@ Manuali vari
 ➽ \ |LINK20|\  (\ |STYLE8|\ , \ |STYLE9|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK21|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK22|\ ]
 
 
-|REPLACE8|
+|REPLACE9|
 
 
 .. bottom of content
@@ -151,23 +154,26 @@ Manuali vari
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/chiavepertubi.jpg" width= 250 />
 .. |REPLACE2| raw:: html
 
-    <img src="http://tansignari.opendatasicilia.it/it/latest/_static/logo_desk.jpg" width=300 />
+    <img src="http://accussi.opendatasicilia.it/img/accussi_favicon.png" />
 .. |REPLACE3| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/paniere-dataset-enti-locali/master/docs/img/opendatalombardia.JPG" />
+    <img src="http://tansignari.opendatasicilia.it/it/latest/_static/logo_desk.jpg" width=300 />
 .. |REPLACE4| raw:: html
 
-    <img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" width=350 />
+    <img src="https://raw.githubusercontent.com/cirospat/paniere-dataset-enti-locali/master/docs/img/opendatalombardia.JPG" />
 .. |REPLACE5| raw:: html
 
-    <img src="https://wiki.openstreetmap.org/w/images/8/8f/Umap_logo.svg" />
+    <img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" width=350 />
 .. |REPLACE6| raw:: html
 
-    <img src="https://cdn-images-1.medium.com/max/720/1*bHhhHgM6mW1EGze2X69BXg.png" width=300 />
+    <img src="https://wiki.openstreetmap.org/w/images/8/8f/Umap_logo.svg" />
 .. |REPLACE7| raw:: html
 
-    <p><a href="http://www.competenzedigitali.gov.it" target="_blank" rel="noopener" title="verifica delle competenze digitali"><img src="http://www.competenzedigitali.gov.it/typo3conf/ext/competenze/Resources/Public/Images/template/logo-competenze-digitali-pa.svg" width="180" /></a></p>
+    <img src="https://cdn-images-1.medium.com/max/720/1*bHhhHgM6mW1EGze2X69BXg.png" width=300 />
 .. |REPLACE8| raw:: html
+
+    <p><a href="http://www.competenzedigitali.gov.it" target="_blank" rel="noopener" title="verifica delle competenze digitali"><img src="http://www.competenzedigitali.gov.it/typo3conf/ext/competenze/Resources/Public/Images/template/logo-competenze-digitali-pa.svg" width="180" /></a></p>
+.. |REPLACE9| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
