@@ -33,6 +33,9 @@ Tansignari, quando le cose spiegate in 2 minuti non si perdono
 Definizione Standard per il paniere di dataset degli Enti Locali
 ================================================================
 
+
+|REPLACE3|
+
 Dalla Regione Lombardia un \ |LINK5|\  (ringraziamenti a Daniele Crespi).
 
 |
@@ -43,7 +46,7 @@ Tutorial: pubblicare documenti su 'Read the Docs' utilizzando Google doc e il co
 ==============================================================================================================
 
 
-|REPLACE3|
+|REPLACE4|
 
 \ |LINK6|\  per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il "commit" sul progetto Github direttamente da Google doc.
 
@@ -55,7 +58,7 @@ Tutorial: dai fogli di GoogleDrive alle mappe openstreetmap di uMap
 ===================================================================
 
 
-|REPLACE4|
+|REPLACE5|
 
 \ |LINK7|\ . Il mio primo tutorial di sempre (grazie ad Andrea Borruso). 
 
@@ -67,7 +70,7 @@ Tutorial: realizzazione di un progetto a basso costo per il rilevamento dei dati
 ==========================================================================================================================
 
 
-|REPLACE5|
+|REPLACE6|
 
 \ |LINK8|\  cosa comprare (spendendo meno di 50 euro), come assemblare la componentistica e come connettere la propria stazione ad una rete mondiale di rilevamento delle polveri sottili, ottenendo la disponibilità dei dati in formato aperto (CSV, JSON) per attività di analisi.
 
@@ -79,7 +82,7 @@ Corsi online su 'competenze e servizi digitali'
 ===============================================
 
 
-|REPLACE6|
+|REPLACE7|
 
 ➽ \ |STYLE0|\  - Iniziativa con \ |LINK9|\ .
 
@@ -116,7 +119,7 @@ Manuali vari
 ➽ \ |LINK20|\  (\ |STYLE8|\ , \ |STYLE9|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK21|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK22|\ ]
 
 
-|REPLACE7|
+|REPLACE8|
 
 
 .. bottom of content
@@ -151,17 +154,20 @@ Manuali vari
     <img src="http://tansignari.opendatasicilia.it/it/latest/_static/logo_desk.jpg" width=300 />
 .. |REPLACE3| raw:: html
 
-    <img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" width=350 />
+    <img src="https://raw.githubusercontent.com/cirospat/paniere-dataset-enti-locali/master/docs/img/opendatalombardia.JPG" />
 .. |REPLACE4| raw:: html
 
-    <img src="https://wiki.openstreetmap.org/w/images/8/8f/Umap_logo.svg" />
+    <img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" width=350 />
 .. |REPLACE5| raw:: html
 
-    <img src="https://cdn-images-1.medium.com/max/720/1*bHhhHgM6mW1EGze2X69BXg.png" width=300 />
+    <img src="https://wiki.openstreetmap.org/w/images/8/8f/Umap_logo.svg" />
 .. |REPLACE6| raw:: html
 
-    <p><a href="http://www.competenzedigitali.gov.it" target="_blank" rel="noopener" title="verifica delle competenze digitali"><img src="http://www.competenzedigitali.gov.it/typo3conf/ext/competenze/Resources/Public/Images/template/logo-competenze-digitali-pa.svg" width="180" /></a></p>
+    <img src="https://cdn-images-1.medium.com/max/720/1*bHhhHgM6mW1EGze2X69BXg.png" width=300 />
 .. |REPLACE7| raw:: html
+
+    <p><a href="http://www.competenzedigitali.gov.it" target="_blank" rel="noopener" title="verifica delle competenze digitali"><img src="http://www.competenzedigitali.gov.it/typo3conf/ext/competenze/Resources/Public/Images/template/logo-competenze-digitali-pa.svg" width="180" /></a></p>
+.. |REPLACE8| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
