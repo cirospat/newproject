@@ -81,9 +81,7 @@ Corsi online su 'competenze e servizi digitali'
 
 |REPLACE6|
 
-➽ \ |STYLE0|\ 
-
-Iniziativa con \ |LINK9|\ .
+➽ \ |STYLE0|\  - Iniziativa con \ |LINK9|\ .
 
 ➽  \ |STYLE1|\  - Iniziativa promossa dal \ |STYLE2|\  nell’ambito del \ |LINK10|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione. Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi. \ |LINK11|\ .
 
