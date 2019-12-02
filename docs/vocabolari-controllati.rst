@@ -201,7 +201,7 @@ Presentazioni e articoli su ontologie e vocabolari controllati
 .. |REPLACE2| raw:: html
 
     <iframe src="https://player.vimeo.com/video/49232562" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-    <p><a href="https://vimeo.com/49232562">Linked Open Data: che cosa sono?</a> 
+    <p><a href="https://vimeo.com/49232562">Linked Open Data: che cosa sono?</a></p>
 .. |REPLACE3| raw:: html
 
     <img src="http://www.openars.org/images/openars.jpg" /> 
