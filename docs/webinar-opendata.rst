@@ -14,10 +14,18 @@ Portale didattico open data
 
 \ |LINK1|\ 
 
---------
+.. _h333c2c744e47421e19553741b4b546d:
+
+Linked open data
+================
 
 
 |REPLACE2|
+
+--------
+
+
+|REPLACE3|
 
 
 .. bottom of content
@@ -27,6 +35,10 @@ Portale didattico open data
 
     <iframe width="100%" height="600px" frameBorder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTOW_zpOlpJh1mLc4vPIBm6Xq7GQNkRiicl4Gt39aU3lbVLhEOzn7x4Myg-m9yFU_RBHzrXIRBEQtBH/pubhtml"></iframe>
 .. |REPLACE2| raw:: html
+
+    <iframe src="https://player.vimeo.com/video/49232562" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+    <p><a href="https://vimeo.com/49232562">Linked Open Data: che cosa sono?</a> from <a href="https://vimeo.com/europeana">Europeana</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
