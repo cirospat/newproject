@@ -19,6 +19,7 @@ Portale didattico open data
 Linked open data
 ================
 
+che cosa sono?
 
 |REPLACE2|
 
