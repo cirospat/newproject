@@ -42,7 +42,7 @@ che cosa sono?
 .. |REPLACE2| raw:: html
 
     <iframe src="https://player.vimeo.com/video/49232562" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-    <p><a href="https://vimeo.com/49232562">Linked Open Data: che cosa sono?</a> from <a href="https://vimeo.com/europeana">Europeana</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+    <p><a href="https://vimeo.com/49232562">Linked Open Data: che cosa sono?</a></p>
 .. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
