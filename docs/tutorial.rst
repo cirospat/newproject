@@ -151,7 +151,7 @@ Manuali vari
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/chiavepertubi.jpg" width= 250 />
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/chiavepertubi.jpg" width= 150 />
 .. |REPLACE2| raw:: html
 
     <img src="http://accussi.opendatasicilia.it/img/accussi_favicon.png" />
