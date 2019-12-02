@@ -7,12 +7,16 @@ Catalogo webinar su open data
 
 |REPLACE1|
 
+|
+
 .. _h1018d60617e182946625e30734a555a:
 
 Portale didattico open data
 ===========================
 
 \ |LINK1|\ 
+
+|
 
 .. _h333c2c744e47421e19553741b4b546d:
 
