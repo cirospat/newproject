@@ -4,6 +4,9 @@
 Responsabile Transizione al Digitale - RTD
 ##########################################
 
+
+|REPLACE1|
+
 Questo spazio fornisce utili informazioni per l'attività di questa figura all'interno delle pubbliche amministrazioni italiane. Con particolari riferimento alla formazione, competenze, raduni, forum di confronto.
 
 .. _h60d63c7464c7313d62f3513ba:
@@ -77,12 +80,9 @@ Formazione RTD
 \ |STYLE0|\ 
 
 
-|REPLACE1|
-
- 
-
 |REPLACE2|
 
+ 
 
 |REPLACE3|
 
@@ -97,6 +97,9 @@ Formazione RTD
 
 
 |REPLACE7|
+
+
+|REPLACE8|
 
 |
 
@@ -123,30 +126,33 @@ RTD Comune di Palermo - attività svolte
 
 .. |REPLACE1| raw:: html
 
+    <img src="https://img.shields.io/badge/amministrazione_digitale-Responsabile_Transizione_Digitale-red.svg?style=popout&logo=Read%20the%20Docs" />
+.. |REPLACE2| raw:: html
+
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/DaM3xLumHYU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small"><a href="http://eventipa.formez.it/node/197571" target="_blank">Ruolo e funzione del Responsabile per la transizione al digitale nell’attuazione del Piano triennale (29 ottobre 2019)</a></span>
     
-.. |REPLACE2| raw:: html
+.. |REPLACE3| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/MAZniwA-wSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small"><a href="http://eventipa.formez.it/node/199190" target="_blank">Il documento amministrativo informatico (5 novembre 2019)</a></span>
-.. |REPLACE3| raw:: html
+.. |REPLACE4| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/JFKaRAbnWnc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small"><a href="http://eventipa.formez.it/node/200517" target="_blank">La riqualificazione della spesa ICT (12 novembre 2019)</a></span>
-.. |REPLACE4| raw:: html
+.. |REPLACE5| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/AfzZUCwwejU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small"><a href="http://eventipa.formez.it/node/202136" target="_blank">L'usabilità dei servizi digitali (19 novembre 2019)</a></span>
-.. |REPLACE5| raw:: html
+.. |REPLACE6| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/1RuK1f8H1ug" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small"><a href="http://eventipa.formez.it/node/204122" target="_blank">Conservazione documentale: esperienze e casi d’uso (26 novembre 2019)</a></span>
-.. |REPLACE6| raw:: html
+.. |REPLACE7| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/c0qlGIM_CXk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small"><a href="https://www.ot11ot2.it/notizie/video-e-materiali-del-webinar-sistemi-informativi-e-servizi-digitali-per-i-tributi-locali-e" target="_blank">Sistemi informativi e servizi digitali per i tributi locali e pagamenti elettronici - <b>Catalogo delle esperienze OT2-T11</b> (27 novembre 2019)</a></span>
-.. |REPLACE7| raw:: html
+.. |REPLACE8| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/IX4CiEBZZ98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small"><a href="http://eventipa.formez.it/node/204606" target="_blank">La comunicazione dei servizi digitali (28 novembre 2019)</a></span>
