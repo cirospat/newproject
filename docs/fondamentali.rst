@@ -445,6 +445,15 @@ SPID: emanate le Linee Guida per l’identificazione degli utenti da parte delle
 
 --------
 
+.. _hf211c77f2610461f65361d6f80167a:
+
+Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
+********************************************************************************
+
+\ |LINK70|\  include un ampio excursus relativo all’evoluzione dell’informatica pubblica nella direzione di un progresso verso il Digital Government, un'analisi incentrata principalmente su tre cardini: il CAD, ovvero il Codice dell’Amministrazione  Digitale,  l’Agenda  Digitale italiana  e  il  Piano  Triennale  per l’informatica.
+
+--------
+
 
 |REPLACE4|
 
@@ -789,4 +798,8 @@ SPID: emanate le Linee Guida per l’identificazione degli utenti da parte delle
 .. |LINK69| raw:: html
 
     <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/11/25/spid-emanate-linee-guida-lidentificazione-degli-utenti-parte-pa" target="_blank">Comunicato stampa</a>
+
+.. |LINK70| raw:: html
+
+    <a href="https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=01147fe7-0659-4be4-80c7-a226c3dbb98f" target="_blank">Il documento</a>
 
