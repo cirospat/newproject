@@ -278,7 +278,7 @@ Dalla prima settimana di novembre 2019 il comune di Palermo \ |LINK74|\ , a segu
 
 |
 
-Novembre 2019. Nella classifica ICity Rank 2019,  stilata da ForumPA (relativa alle smart city italiane tra 107 comuni capoluogo), \ |LINK76|\ .
+Novembre 2019. Nella classifica ICity Rank 2019,  stilata da ForumPA (relativa alle smart city italiane tra 107 comuni capoluogo), \ |LINK76|\ . Qui \ |LINK77|\  con la classifica nazionale della trasformazione digitale.
 
 |
 
@@ -684,4 +684,8 @@ Novembre 2019. Nella classifica ICity Rank 2019,  stilata da ForumPA (relativa a
 .. |LINK76| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=25615" target="_blank">Palermo si è classificata 24° in riferimento agli indicatori della trasformazione digitale</a>
+
+.. |LINK77| raw:: html
+
+    <a href="https://www.comune.palermo.it/js/server/uploads/_28112019120836.pdf#page=95" target="_blank">visualizzi la pagina</a>
 
