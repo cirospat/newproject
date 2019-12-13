@@ -9,6 +9,8 @@ Responsabile Transizione al Digitale - RTD
 
 Questo spazio fornisce utili informazioni per l'attività di questa figura all'interno delle pubbliche amministrazioni italiane. Con particolari riferimento alla formazione, competenze, raduni, forum di confronto.
 
+|
+
 .. _h60d63c7464c7313d62f3513ba:
 
 RTD dal Codice dell'Amministrazione Digitale
@@ -41,12 +43,16 @@ Il Responsabile per la Transizione al Digitale (RTD)  è previsto dall'\ |LINK1|
     
     k) pianificazione e coordinamento degli acquisti di soluzioni e sistemi informatici, telematici e di telecomunicazione al fine di garantirne la compatibilità con gli obiettivi di attuazione dell’agenda digitale e, in particolare, con quelli stabiliti nel piano triennale di cui all’articolo 16, comma 1, lettera b).
 
+|
+
 .. _h40772123c68613e73d775722d455a:
 
 Community sui RTD
 *****************
 
 \ |LINK2|\  per confronti su temi/argomenti correlati specificatamente alla figura dell'RTD. 
+
+|
 
 .. _h2042144e247e2661c452370702e462a:
 
@@ -63,12 +69,16 @@ Pagina dedicata alle \ |LINK3|\ .
 
 * \ |LINK9|\ ; vedi \ |LINK10|\ .
 
+|
+
 .. _h585553324318284d7c393f3a1e7a78:
 
 Competenze RTD
 **************
 
 \ |LINK11|\ , a cura di Roberto Scano (AgID), \ |LINK12|\  (18 novembre 2019). \ |LINK13|\  del Piano Triennale per l’informatica nella Pubblica amministrazione 2019-2021.
+
+|
 
 .. _h461c1261c547d2c6e47b40d6b6231:
 
@@ -101,6 +111,11 @@ Formazione RTD
 
 |REPLACE8|
 
+
+|REPLACE9|
+
+\ |LINK15|\ 
+
 |
 
 .. _h4777144564346b74103369267965183:
@@ -108,15 +123,15 @@ Formazione RTD
 RTD Comune di Palermo - attività svolte
 ***************************************
 
-* \ |LINK15|\ ;
+* \ |LINK16|\ ;
 
-* \ |LINK16|\  in collaborazione con il Team Trasformazione Digitale. Guarda i resoconti video dell'evento: 
-
-    * \ |LINK17|\  
+* \ |LINK17|\  in collaborazione con il Team Trasformazione Digitale. Guarda i resoconti video dell'evento: 
 
     * \ |LINK18|\  
 
-    * \ |LINK19|\ .
+    * \ |LINK19|\  
+
+    * \ |LINK20|\ .
 
 .. bottom of content
 
@@ -156,6 +171,10 @@ RTD Comune di Palermo - attività svolte
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/IX4CiEBZZ98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small"><a href="http://eventipa.formez.it/node/204606" target="_blank">La comunicazione dei servizi digitali (28 novembre 2019)</a></span>
+.. |REPLACE9| raw:: html
+
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/cHNngxMVkYk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <span class="footer_small"><a href="http://eventipa.formez.it/node/206230" target="_blank">Favorire il riuso del software: dalle linee guida alle attività di supporto alle PA (10 dicembre 2019)</a></span>
 
 .. |LINK1| raw:: html
 
@@ -215,21 +234,25 @@ RTD Comune di Palermo - attività svolte
 
 .. |LINK15| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/1PM18t1E8e79WERgwqwwQKPOKeVC3liNBpB0nwSZgA5o/edit?usp=sharing" target="_blank">giornata informativa/formativa ai dirigenti comunali (3-4-5 dicembre 2018)</a>
+    <a href="http://eventipa.formez.it/node/208262" target="_blank">L’accessibilità dei servizi digitali nel contesto normativo vigente e del regolamento Europeo Single Digital Gateway</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/1O0Cr2X6XUEBf9Oswl3eMaglAivu6u1f0q8WUZGKDTRc/edit?usp=sharing" target="_blank">evento pubblico del 30 ottobre 2019 per la diffusione per la cultura e cittadinanza digitale</a>
+    <a href="https://docs.google.com/presentation/d/1PM18t1E8e79WERgwqwwQKPOKeVC3liNBpB0nwSZgA5o/edit?usp=sharing" target="_blank">Giornata informativa/formativa ai dirigenti comunali (3-4-5 dicembre 2018)</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA (video di Gianni Dominici)</a>
+    <a href="https://docs.google.com/presentation/d/1O0Cr2X6XUEBf9Oswl3eMaglAivu6u1f0q8WUZGKDTRc/edit?usp=sharing" target="_blank">Evento pubblico del 30 ottobre 2019 per la diffusione per la cultura e cittadinanza digitale</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://www.palermotoday.it/attualita/servizi-pubblici-digitali-app-io-pagopa.html" target="_blank">Servizi pubblici digitali dall'app IO a PagoPA: ecco cosa cambia per i cittadini (video di PalermoToday)</a>
+    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA (video di Gianni Dominici)</a>
 
 .. |LINK19| raw:: html
+
+    <a href="https://www.palermotoday.it/attualita/servizi-pubblici-digitali-app-io-pagopa.html" target="_blank">Servizi pubblici digitali dall'app IO a PagoPA: ecco cosa cambia per i cittadini (video di PalermoToday)</a>
+
+.. |LINK20| raw:: html
 
     <a href="https://www.blogsicilia.it/palermo/il-futuro-dei-servizi-pubblici-e-digitale-a-palermo-giornata-di-formazione-con-forum-pa-video/504185/" target="_blank">Il futuro dei servizi pubblici è digitale, a Palermo giornata di formazione con “Forum PA” (video di Blog Sicilia)</a>
 
