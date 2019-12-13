@@ -319,7 +319,7 @@ MACHINE LEARNING E ARTIFICIAL INTELLIGENCE
 RICHIESTA FOIA ONLINE
 =====================
 
-\ |LINK76|\  
+\ |LINK76|\ 
 
 --------
 
@@ -697,7 +697,7 @@ newscount= il numero delle news da visualizzare come output della query
 
 .. |LINK76| raw:: html
 
-    <a href="http://www.gpirrotta.tk/foiapop/" target="_blank">http://www.gpirrotta.tk/foiapop/</a>
+    <a href="http://www.foiapop.it/" target="_blank">www.foiapop.it</a>
 
 .. |LINK77| raw:: html
 
