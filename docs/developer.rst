@@ -136,6 +136,10 @@ Substitute the TODAY() function into our formula:
 
     =QUERY(Data!$A$1:$H$136,"select C, B where B > date '"&TEXT(TODAY(),"yyyy-mm-dd")&"'",1)
 
+\ |STYLE1|\ 
+
+\ |LINK33|\ 
+
 .. _h5979383b6f422d6f1a3f404a4258253f:
 
 Query di Andrea Borruso
@@ -149,10 +153,6 @@ Query di Andrea Borruso
 +---+----------+----------------------------------------------+----------------------------------------------------------------------------------+
 |2  |05/12/2019|=if(A2="";"";TEXT(DATEVALUE(A2);"yyyy-mm-dd"))|=query("select \* where (B > date '"&text(TODAY();"yyyy-mm-dd")&"' OR R = '') ";1)|
 +---+----------+----------------------------------------------+----------------------------------------------------------------------------------+
-
-\ |STYLE1|\ 
-
-\ |LINK33|\ 
 
 --------
 
