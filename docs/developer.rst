@@ -115,6 +115,13 @@ The \ |LINK32|\  function converts it to the required format for the Query formu
 
     =TEXT(DATEVALUE("1/1/2000"),"yyyy-mm-dd")
 
+
+.. code:: 
+
+    = TEXT( NOW() , "hh:mm am/pm" )
+
+The formula: = TEXT( NOW() , "hh:mm am/pm" ) will output the time just fine!
+
 The output of this formula is a date in the desired format:
 
 .. code:: 
@@ -132,6 +139,19 @@ Substitute the TODAY() function into our formula:
 \ |STYLE1|\ 
 
 \ |LINK33|\ 
+
+--------
+
+.. _h386c10261440441c2374124f3d34445:
+
+IMMAGINI DENTRO GOOGLE DRIVE SPREADSHEET
+========================================
+
+Combine the IMAGE and HYPERLINK functions to create clickable images
+
+.. code:: 
+
+    =HYPERLINK( "https://www.google.com/" , IMAGE( "https://www.google.com/favicon.ico" ) )
 
 --------
 
@@ -387,7 +407,7 @@ newscount= il numero delle news da visualizzare come output della query
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=925&q=80" /> <a href="https://unsplash.com/photos/gKlnwCvghTU">Art by Lønfeldt</a>
+    <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=925&q=80" /> Art by Lønfeldt
 .. |REPLACE2| raw:: html
 
     <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
