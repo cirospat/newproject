@@ -146,13 +146,13 @@ Query di Andrea Borruso
 -----------------------
 
 
-+---+----------+--------------------------------------------------+-------------------------------------------------------------------------------------+
-|   |A         |B                                                 |C                                                                                    |
-+---+----------+--------------------------------------------------+-------------------------------------------------------------------------------------+
-|1  |data      |standardDate                                      |query per esporre le date da venire e le celle con valore "null"                     |
-+---+----------+--------------------------------------------------+-------------------------------------------------------------------------------------+
-|2  |05/12/2019|``=if(A2="";"";TEXT(DATEVALUE(A2);"yyyy-mm-dd"))``|``=query("select * where (B > date '"&text(TODAY();"yyyy-mm-dd")&"' OR R = '') ";1)``|
-+---+----------+--------------------------------------------------+-------------------------------------------------------------------------------------+
++---+------------+--------------------------------------------------+-------------------------------------------------------------------------------------+
+|   |A           |B                                                 |C                                                                                    |
++---+------------+--------------------------------------------------+-------------------------------------------------------------------------------------+
+|1  |\ |STYLE2|\ |\ |STYLE3|\                                       |\ |STYLE4|\                                                                          |
++---+------------+--------------------------------------------------+-------------------------------------------------------------------------------------+
+|2  |05/12/2019  |``=if(A2="";"";TEXT(DATEVALUE(A2);"yyyy-mm-dd"))``|``=query("select * where (B > date '"&text(TODAY();"yyyy-mm-dd")&"' OR R = '') ";1)``|
++---+------------+--------------------------------------------------+-------------------------------------------------------------------------------------+
 
 --------
 
@@ -237,7 +237,7 @@ DB x UMAP con output in csv =
 \ |LINK52|\  e \ |LINK53|\  UMAP AVVISI POLIZIA MUNICIPALE PA
 -------------------------------------------------------------
 
-\ |STYLE2|\ .
+\ |STYLE5|\ .
 
 =IMPORTXML("\ |LINK54|\ ") 
 
@@ -271,7 +271,7 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 
 ⇒ \ |LINK55|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
 
-\ |STYLE3|\  API che usa la seguente formula: 
+\ |STYLE6|\  API che usa la seguente formula: 
 
 .. code:: 
 
@@ -400,7 +400,7 @@ newscount= il numero delle news da visualizzare come output della query
 
 \ |LINK84|\ 
 
-\ |STYLE4|\  
+\ |STYLE7|\  
 
 * \ |LINK85|\  il mio genratore di feed RSS
 
@@ -416,11 +416,17 @@ newscount= il numero delle news da visualizzare come output della query
 
 .. |STYLE1| replace:: **Vedi anche le Query**
 
-.. |STYLE2| replace:: **Da un foglio Google ad una mappa uMap in cui vengono visualizzati solo gli avvisi della data odierna**
+.. |STYLE2| replace:: **data**
 
-.. |STYLE3| replace:: **⇒ Nominatim Openstreetmap**
+.. |STYLE3| replace:: **standardDate**
 
-.. |STYLE4| replace:: **Generatore di Feed:**
+.. |STYLE4| replace:: **query per esporre le celle con date ancora da venire e le celle con valore "null" (celle vuote senza valori)**
+
+.. |STYLE5| replace:: **Da un foglio Google ad una mappa uMap in cui vengono visualizzati solo gli avvisi della data odierna**
+
+.. |STYLE6| replace:: **⇒ Nominatim Openstreetmap**
+
+.. |STYLE7| replace:: **Generatore di Feed:**
 
 
 .. |REPLACE1| raw:: html
