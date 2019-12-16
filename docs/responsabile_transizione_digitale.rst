@@ -67,7 +67,7 @@ Pagina dedicata alle \ |LINK3|\ .
 
 * 2 incontro AGID Conferenza dei Responsabili per la Transizione al Digitale del 15 maggio 2019 - \ |LINK8|\ ;
 
-* \ |LINK9|\ ; vedi \ |LINK10|\ .
+* \ |LINK9|\ ; vedi i \ |LINK10|\ ; leggi \ |LINK11|\ .
 
 |
 
@@ -76,7 +76,7 @@ Pagina dedicata alle \ |LINK3|\ .
 Competenze RTD
 **************
 
-\ |LINK11|\ , a cura di Roberto Scano (AgID), \ |LINK12|\  (18 novembre 2019). \ |LINK13|\  del Piano Triennale per l’informatica nella Pubblica amministrazione 2019-2021.
+\ |LINK12|\ , a cura di Roberto Scano (AgID), \ |LINK13|\  (18 novembre 2019). \ |LINK14|\  del Piano Triennale per l’informatica nella Pubblica amministrazione 2019-2021.
 
 |
 
@@ -85,7 +85,7 @@ Competenze RTD
 Formazione RTD
 **************
 
-\ |LINK14|\ .
+\ |LINK15|\ .
 
 \ |STYLE0|\ 
 
@@ -114,7 +114,7 @@ Formazione RTD
 
 |REPLACE9|
 
-\ |LINK15|\ 
+\ |LINK16|\ 
 
 |
 
@@ -123,15 +123,15 @@ Formazione RTD
 RTD Comune di Palermo - attività svolte
 ***************************************
 
-* \ |LINK16|\ ;
+* \ |LINK17|\ ;
 
-* \ |LINK17|\  in collaborazione con il Team Trasformazione Digitale. Guarda i resoconti video dell'evento: 
-
-    * \ |LINK18|\  
+* \ |LINK18|\  in collaborazione con il Team Trasformazione Digitale. Guarda i resoconti video dell'evento: 
 
     * \ |LINK19|\  
 
-    * \ |LINK20|\ .
+    * \ |LINK20|\  
+
+    * \ |LINK21|\ .
 
 .. bottom of content
 
@@ -214,45 +214,49 @@ RTD Comune di Palermo - attività svolte
 
 .. |LINK10| raw:: html
 
-    <a href="https://medium.com/@cirospat/cosa-porta-il-2-raduno-dei-responsabili-della-transizione-al-digitale-91d5b3f074a1" target="_blank">articolo sul 2° raduno</a>
+    <a href="https://www.lapadigitale.it/materiali-raduno-responsabili-per-la-transizione-al-digitale-2019/" target="_blank">materiali (video e pdf) del raduno</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://eventipa.formez.it/sites/default/files/allegati_eventi/scano_20191118.pdf" target="_blank">Competenze specialistiche, identificazione delle professionalità ICT a supporto dell’ufficio RTD</a>
+    <a href="https://medium.com/@cirospat/cosa-porta-il-2-raduno-dei-responsabili-della-transizione-al-digitale-91d5b3f074a1" target="_blank">articolo sul 2° raduno</a>
 
 .. |LINK12| raw:: html
 
-    <a href="mailto:roberto.scano@agid.gov.it">roberto.scano@agid.gov.it</a>
+    <a href="http://eventipa.formez.it/sites/default/files/allegati_eventi/scano_20191118.pdf" target="_blank">Competenze specialistiche, identificazione delle professionalità ICT a supporto dell’ufficio RTD</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/11_governare-la-trasformazione-digitale.html#la86" target="_blank">Linea di azione 86</a>
+    <a href="mailto:roberto.scano@agid.gov.it">roberto.scano@agid.gov.it</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/responsabile-transizione-digitale/formazione-rtd" target="_blank">Formazione anno 2019 sulla figura del RTD curata da AGID e FormezPA</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/11_governare-la-trasformazione-digitale.html#la86" target="_blank">Linea di azione 86</a>
 
 .. |LINK15| raw:: html
 
-    <a href="http://eventipa.formez.it/node/208262" target="_blank">L’accessibilità dei servizi digitali nel contesto normativo vigente e del regolamento Europeo Single Digital Gateway</a>
+    <a href="https://www.agid.gov.it/it/agenzia/responsabile-transizione-digitale/formazione-rtd" target="_blank">Formazione anno 2019 sulla figura del RTD curata da AGID e FormezPA</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/1PM18t1E8e79WERgwqwwQKPOKeVC3liNBpB0nwSZgA5o/edit?usp=sharing" target="_blank">Giornata informativa/formativa ai dirigenti comunali (3-4-5 dicembre 2018)</a>
+    <a href="http://eventipa.formez.it/node/208262" target="_blank">L’accessibilità dei servizi digitali nel contesto normativo vigente e del regolamento Europeo Single Digital Gateway</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/1O0Cr2X6XUEBf9Oswl3eMaglAivu6u1f0q8WUZGKDTRc/edit?usp=sharing" target="_blank">Evento pubblico del 30 ottobre 2019 per la diffusione per la cultura e cittadinanza digitale</a>
+    <a href="https://docs.google.com/presentation/d/1PM18t1E8e79WERgwqwwQKPOKeVC3liNBpB0nwSZgA5o/edit?usp=sharing" target="_blank">Giornata informativa/formativa ai dirigenti comunali (3-4-5 dicembre 2018)</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA (video di Gianni Dominici)</a>
+    <a href="https://docs.google.com/presentation/d/1O0Cr2X6XUEBf9Oswl3eMaglAivu6u1f0q8WUZGKDTRc/edit?usp=sharing" target="_blank">Evento pubblico del 30 ottobre 2019 per la diffusione per la cultura e cittadinanza digitale</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://www.palermotoday.it/attualita/servizi-pubblici-digitali-app-io-pagopa.html" target="_blank">Servizi pubblici digitali dall'app IO a PagoPA: ecco cosa cambia per i cittadini (video di PalermoToday)</a>
+    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA (video di Gianni Dominici)</a>
 
 .. |LINK20| raw:: html
+
+    <a href="https://www.palermotoday.it/attualita/servizi-pubblici-digitali-app-io-pagopa.html" target="_blank">Servizi pubblici digitali dall'app IO a PagoPA: ecco cosa cambia per i cittadini (video di PalermoToday)</a>
+
+.. |LINK21| raw:: html
 
     <a href="https://www.blogsicilia.it/palermo/il-futuro-dei-servizi-pubblici-e-digitale-a-palermo-giornata-di-formazione-con-forum-pa-video/504185/" target="_blank">Il futuro dei servizi pubblici è digitale, a Palermo giornata di formazione con “Forum PA” (video di Blog Sicilia)</a>
 
