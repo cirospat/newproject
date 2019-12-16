@@ -4,7 +4,7 @@
 developer
 *********
 
-\ |LINK1|\  
+\ |LINK1|\   una pagina dove colleziono utilità per fini di sviluppo e creatività digitale
 
 
 .. toctree::  
@@ -16,10 +16,10 @@ developer
 
 |REPLACE1|
 
-.. _h5b552a222f427ec6f672c5b13504c20:
+.. _ha4a69c15721f287c7e3f4245326:
 
-TUTTE LE MAPPE DI CIRO SPATARO E DI GB VITRANO
-==============================================
+CATALOGO DI TUTTE LE MAPPE DI CIRO SPATARO E DI GB VITRANO
+==========================================================
 
 \ |LINK2|\  
 
@@ -96,7 +96,7 @@ SERVIZI DI WEBMAPPING ALTERNATIVI A UMAP
 
 \ |LINK29|\  (questo però è un plugin per wordpress) 
 
-\ |LINK30|\ 
+\ |LINK30|\  (a pagamento)
 
 --------
 
@@ -119,8 +119,8 @@ The \ |LINK32|\  function converts it to the required format for the Query formu
 .. code:: 
 
     = TEXT( NOW() , "hh:mm am/pm" )
-
-The formula: = TEXT( NOW() , "hh:mm am/pm" ) will output the time just fine!
+    
+    The formula: = TEXT( NOW() , "hh:mm am/pm" ) will output the time just fine!
 
 The output of this formula is a date in the desired format:
 
@@ -155,10 +155,10 @@ Combine the IMAGE and HYPERLINK functions to create clickable images
 
 --------
 
-.. _h2716215141d6f3914e6f7b2941575:
+.. _h2a5254404e7a6b2c7131e3066704d6d:
 
-SFONDI TILES PER UMAP
-=====================
+SFONDI TILES PER MAPPE UMAP
+===========================
 
 * lista di tiles per sfondi   \ |LINK34|\  
 
@@ -178,10 +178,10 @@ SFONDI TILES PER UMAP
 
 --------
 
-.. _hc135c6e1c444c472b1a167a4e6f767d:
+.. _h607b3a763222151e4a1c121b50313b6c:
 
-CODICE DA USARE PER UMAP
-========================
+CODICE DA USARE PER MAPPE UMAP
+==============================
 
 video embedding = {{{\ |LINK42|\ }}}
 
@@ -223,6 +223,8 @@ DB x UMAP con output in csv =
 \ |LINK52|\  e \ |LINK53|\  UMAP AVVISI POLIZIA MUNICIPALE PA
 -------------------------------------------------------------
 
+\ |STYLE2|\ .
+
 =IMPORTXML("\ |LINK54|\ ") 
 
 TRUE:   =if(G2="","",REGEXMATCH(G2,"[a-zA-Z]{3}, "&TEXT(DAY(TODAY()),"00")))
@@ -255,7 +257,7 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 
 ⇒ \ |LINK55|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
 
-\ |STYLE2|\  API che usa la seguente formula: 
+\ |STYLE3|\  API che usa la seguente formula: 
 
 .. code:: 
 
@@ -294,10 +296,10 @@ dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK56|\ .
 
 --------
 
-.. _h4c5e472163e3f6a4060c6d5350255:
+.. _h59432417563a5658746a24186d4d63c:
 
-SENSORE POLVERI SOTTILI
-=======================
+SENSORE POLVERI SOTTILI COLLEGATO AD UNA RETE ONLINE E DATI SU MAPPA
+====================================================================
 
 * \ |LINK70|\  (tutorial) - 
 
@@ -314,10 +316,10 @@ just a simple guide for getting started with git. \ |LINK72|\
 
 --------
 
-.. _h4e7712323448782a6935a577929581e:
+.. _h5a573672d621f4a3b656f28542c01a:
 
-REPOSITORY DATA CIRO
-====================
+REPOSITORY DATA CIRO SPATARO
+============================
 
 \ |LINK73|\  
 
@@ -330,7 +332,7 @@ REPOSITORY DATA CIRO
 MACHINE LEARNING E ARTIFICIAL INTELLIGENCE
 ==========================================
 
-\ |LINK75|\  
+\ |LINK75|\  un articolo per capire un po
 
 --------
 
@@ -339,7 +341,7 @@ MACHINE LEARNING E ARTIFICIAL INTELLIGENCE
 RICHIESTA FOIA ONLINE
 =====================
 
-\ |LINK76|\ 
+\ |LINK76|\  generatore di richieste di accesso civico generalizzato (FOIA) a cura di Giovanni Pirrotta e Giuseppe Ragusa
 
 --------
 
@@ -350,7 +352,7 @@ CSV EDITOR
 
 * \ |LINK77|\   download
 
-* \ |LINK78|\  online
+* \ |LINK78|\  editor online sulla falsa riga di Google spreadsheet
 
 --------
 
@@ -384,9 +386,9 @@ newscount= il numero delle news da visualizzare come output della query
 
 \ |LINK84|\ 
 
-\ |STYLE3|\  
+\ |STYLE4|\  
 
-* \ |LINK85|\  
+* \ |LINK85|\  il mio genratore di feed RSS
 
 * \ |LINK86|\  - \ |LINK87|\  per costruire Feed per gli eventi Feltrinelli di Palermo
 
@@ -400,9 +402,11 @@ newscount= il numero delle news da visualizzare come output della query
 
 .. |STYLE1| replace:: **Vedi anche le Query**
 
-.. |STYLE2| replace:: **⇒ Nominatim Openstreetmap**
+.. |STYLE2| replace:: **Da un foglio Google ad una mappa uMap in cui vengono visualizzati solo gli avvisi della data odierna**
 
-.. |STYLE3| replace:: **Generatore di Feed:**
+.. |STYLE3| replace:: **⇒ Nominatim Openstreetmap**
+
+.. |STYLE4| replace:: **Generatore di Feed:**
 
 
 .. |REPLACE1| raw:: html
