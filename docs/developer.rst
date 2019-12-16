@@ -120,7 +120,7 @@ The \ |LINK32|\  function converts it to the required format for the Query formu
 
     = TEXT( NOW() , "hh:mm am/pm" )
     
-    The formula: = TEXT( NOW() , "hh:mm am/pm" ) will output the time just fine!
+    The formula: ``= TEXT( NOW() , "hh:mm am/pm" )`` will output the time just fine!
 
 The output of this formula is a date in the desired format:
 
