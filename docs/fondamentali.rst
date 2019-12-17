@@ -460,6 +460,23 @@ Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 
 --------
 
+.. _h6f3f6d3c14b78734f3e48262a48261a:
+
+Linee guida sull’accessibilità degli strumenti informatici
+**********************************************************
+
+\ |LINK73|\  comprendono i seguenti documenti:
+
+* Allegato 1. Modello di dichiarazione di accessibilità sito Web e applicazione mobile
+
+* Allegato 2. Modello di autovalutazione
+
+* Allegato 3. Prodotti per la classe 22 della UNI EN ISO 9999:2017 relativa alla comunicazione e gestione dell’informazione.
+
+\ |LINK74|\  (\ |LINK75|\ ).
+
+--------
+
 
 |REPLACE4|
 
@@ -816,4 +833,16 @@ Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 .. |LINK72| raw:: html
 
     <a href="https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=01147fe7-0659-4be4-80c7-a226c3dbb98f" target="_blank">Il documento</a>
+
+.. |LINK73| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/bozza/index.html" target="_blank">Le linee guida sull'accessibilità degli strumenti informatici</a>
+
+.. |LINK74| raw:: html
+
+    <a href="https://form.agid.gov.it/" target="_blank">Piattaforma online per la verifica del rispetto dei requisiti per l'accessibilità dei siti e servizi web della PA</a>
+
+.. |LINK75| raw:: html
+
+    <a href="https://form.agid.gov.it/" target="_blank">https://form.agid.gov.it</a>
 
