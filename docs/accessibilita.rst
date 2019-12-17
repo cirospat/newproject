@@ -444,6 +444,33 @@ Evitiamo questi «orrori» di accessibilità
 
 |REPLACE1|
 
+--------
+
+.. _h756a6d3d1166346a2e451037414203f:
+
+Check the Accessibility of a PDF Document - controlla l'accessibilità di documenti PDF
+======================================================================================
+
+\ |LINK37|\  servizio online di verifica.
+
+\ |LINK38|\  (AgID):
+
+* \ |LINK39|\ 
+
+* \ |LINK40|\ : (tool da scaricare)
+
+* \ |LINK41|\ 
+
+* \ |LINK42|\ 
+
+* Web Developer Toolbar: \ |LINK43|\ ; \ |LINK44|\ ;
+
+* \ |LINK45|\ : estensione per il browser Chrome
+
+* \ |LINK46|\ 
+
+* \ |LINK47|\  sono elencati all’interno del sito del \ |LINK48|\ 
+
 
 .. bottom of content
 
@@ -622,4 +649,52 @@ Evitiamo questi «orrori» di accessibilità
 .. |LINK36| raw:: html
 
     <a href="https://www.agid.gov.it/it/domande-frequenti/accessibilit%C3%A0" target="_blank">Vedi le domande frequenti su accessibilità, sul portale AgID</a>
+
+.. |LINK37| raw:: html
+
+    <a href="http://checkers.eiii.eu/en/pdfcheck/" target="_blank">http://checkers.eiii.eu/en/pdfcheck</a>
+
+.. |LINK38| raw:: html
+
+    <a href="https://drive.google.com/file/d/1SPwrcoGE5f4AiSuX3C9lMJ-zWFQ0bCqb/view" target="_blank">Strumenti open source per le verifiche di accessibilità</a>
+
+.. |LINK39| raw:: html
+
+    <a href="http://validator.w3.org/" target="_blank">Validatore W3C</a>
+
+.. |LINK40| raw:: html
+
+    <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank">Colour Contrast Analyzer</a>
+
+.. |LINK41| raw:: html
+
+    <a href="https://contrastchecker.com/" target="_blank">Contrastchecker</a>
+
+.. |LINK42| raw:: html
+
+    <a href="https://webaim.org/resources/contrastchecker/" target="_blank">WebAIM</a>
+
+.. |LINK43| raw:: html
+
+    <a href="https://addons.mozilla.org/it/firefox/addon/web-developer/" target="_blank">Firefox</a>
+
+.. |LINK44| raw:: html
+
+    <a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=it" target="_blank">Chrome</a>
+
+.. |LINK45| raw:: html
+
+    <a href="https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc" target="_blank">Siteimprove Browser Extensions</a>
+
+.. |LINK46| raw:: html
+
+    <a href="https://www.freedomscientific.com/products/software/jaws/" target="_blank">JAWS Screen Reader</a>
+
+.. |LINK47| raw:: html
+
+    <a href="https://www.w3.org/WAI/ER/tools/" target="_blank">Ulteriori strumenti</a>
+
+.. |LINK48| raw:: html
+
+    <a href="https://www.w3.org/WAI/ER/tools/" target="_blank">W3C</a>
 
