@@ -466,6 +466,8 @@ Linee guida sull’accessibilità degli strumenti informatici
 
 \ |LINK73|\  (\ |LINK74|\ ).
 
+\ |LINK75|\  e tool per verificare l'accessibilità di un documento in formato PDF.
+
 --------
 
 
@@ -832,4 +834,8 @@ Linee guida sull’accessibilità degli strumenti informatici
 .. |LINK74| raw:: html
 
     <a href="https://form.agid.gov.it/" target="_blank">https://form.agid.gov.it</a>
+
+.. |LINK75| raw:: html
+
+    <a href="https://cirospat.readthedocs.io/it/latest/accessibilita.html#check-the-accessibility-of-a-pdf-document-controlla-l-accessibilita-di-un-documento-pdf" target="_blank">Strumenti open source per le verifiche di accessibilità</a>
 
