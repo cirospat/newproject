@@ -446,14 +446,19 @@ Evitiamo questi «orrori» di accessibilità
 
 --------
 
-.. _h756a6d3d1166346a2e451037414203f:
+.. _h4f221d66632925451d5c12f7e714a6:
 
-Check the Accessibility of a PDF Document - controlla l'accessibilità di documenti PDF
-======================================================================================
+Check the Accessibility of a PDF Document - controlla l'accessibilità di un documento PDF
+=========================================================================================
 
 \ |LINK37|\  servizio online di verifica.
 
-\ |LINK38|\  (AgID):
+.. _h171259274967202c6f5e52136554626b:
+
+Strumenti open source per le verifiche di accessibilità:
+========================================================
+
+\ |LINK38|\  (a cura di AgID):
 
 * \ |LINK39|\ 
 
