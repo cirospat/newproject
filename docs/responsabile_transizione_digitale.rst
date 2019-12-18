@@ -114,7 +114,8 @@ Formazione RTD
 
 |REPLACE9|
 
-\ |LINK16|\ 
+
+|REPLACE10|
 
 |
 
@@ -123,15 +124,15 @@ Formazione RTD
 RTD Comune di Palermo - attività svolte
 ***************************************
 
-* \ |LINK17|\ ;
+* \ |LINK16|\ ;
 
-* \ |LINK18|\  in collaborazione con il Team Trasformazione Digitale. Guarda i resoconti video dell'evento: 
+* \ |LINK17|\  in collaborazione con il Team Trasformazione Digitale. Guarda i resoconti video dell'evento: 
+
+    * \ |LINK18|\  
 
     * \ |LINK19|\  
 
-    * \ |LINK20|\  
-
-    * \ |LINK21|\ .
+    * \ |LINK20|\ .
 
 .. bottom of content
 
@@ -175,6 +176,10 @@ RTD Comune di Palermo - attività svolte
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/cHNngxMVkYk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small"><a href="http://eventipa.formez.it/node/206230" target="_blank">Favorire il riuso del software: dalle linee guida alle attività di supporto alle PA (10 dicembre 2019)</a></span>
+.. |REPLACE10| raw:: html
+
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/KirEFMKyykU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <span class="footer_small"><a href="http://eventipa.formez.it/node/208262" target="_blank">L’accessibilità dei servizi digitali nel contesto normativo vigente e del regolamento Europeo Single Digital Gateway (17 dicembre 2019)</a></span>
 
 .. |LINK1| raw:: html
 
@@ -238,25 +243,21 @@ RTD Comune di Palermo - attività svolte
 
 .. |LINK16| raw:: html
 
-    <a href="http://eventipa.formez.it/node/208262" target="_blank">L’accessibilità dei servizi digitali nel contesto normativo vigente e del regolamento Europeo Single Digital Gateway</a>
+    <a href="https://docs.google.com/presentation/d/1PM18t1E8e79WERgwqwwQKPOKeVC3liNBpB0nwSZgA5o/edit?usp=sharing" target="_blank">Giornata informativa/formativa ai dirigenti comunali (3-4-5 dicembre 2018)</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/1PM18t1E8e79WERgwqwwQKPOKeVC3liNBpB0nwSZgA5o/edit?usp=sharing" target="_blank">Giornata informativa/formativa ai dirigenti comunali (3-4-5 dicembre 2018)</a>
+    <a href="https://docs.google.com/presentation/d/1O0Cr2X6XUEBf9Oswl3eMaglAivu6u1f0q8WUZGKDTRc/edit?usp=sharing" target="_blank">Evento pubblico del 30 ottobre 2019 per la diffusione per la cultura e cittadinanza digitale</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/1O0Cr2X6XUEBf9Oswl3eMaglAivu6u1f0q8WUZGKDTRc/edit?usp=sharing" target="_blank">Evento pubblico del 30 ottobre 2019 per la diffusione per la cultura e cittadinanza digitale</a>
+    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA (video di Gianni Dominici)</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA (video di Gianni Dominici)</a>
-
-.. |LINK20| raw:: html
-
     <a href="https://www.palermotoday.it/attualita/servizi-pubblici-digitali-app-io-pagopa.html" target="_blank">Servizi pubblici digitali dall'app IO a PagoPA: ecco cosa cambia per i cittadini (video di PalermoToday)</a>
 
-.. |LINK21| raw:: html
+.. |LINK20| raw:: html
 
     <a href="https://www.blogsicilia.it/palermo/il-futuro-dei-servizi-pubblici-e-digitale-a-palermo-giornata-di-formazione-con-forum-pa-video/504185/" target="_blank">Il futuro dei servizi pubblici è digitale, a Palermo giornata di formazione con “Forum PA” (video di Blog Sicilia)</a>
 
