@@ -17,9 +17,9 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 * \ |LINK1|\ ;
 
-* \ |LINK2|\ ; \ |LINK3|\ ;
+* \ |LINK2|\ ; \ |LINK3|\ ; \ |LINK4|\ ;
 
-* \ |LINK4|\ .
+* \ |LINK5|\ .
 
 |
 
@@ -41,7 +41,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 |REPLACE4|
 
-\ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. \ |LINK5|\ . "\ |STYLE3|\ " è un format che si presta ottimamente alla rappresentazione e pubblicazione online di manuali e documentazione dove si rende necessario fornire spiegazioni e approfondimenti. 
+\ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. \ |LINK6|\ . "\ |STYLE3|\ " è un format che si presta ottimamente alla rappresentazione e pubblicazione online di manuali e documentazione dove si rende necessario fornire spiegazioni e approfondimenti. 
 
 |REPLACE5|
 
@@ -107,7 +107,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 
 +--------------------------------------------------------------------------------+
-|[Immagine, in alto, del libro, by \ |LINK6|\ , rilasciata con licenza CC BY 3.0]|
+|[Immagine, in alto, del libro, by \ |LINK7|\ , rilasciata con licenza CC BY 3.0]|
 +--------------------------------------------------------------------------------+
 
 
@@ -189,7 +189,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |LINK1| raw:: html
 
-    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo (Ufficio Innovazione, U.O. transizione al digitale)</a>
+    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo (Servizio Innovazione, U.O. transizione al digitale)</a>
 
 .. |LINK2| raw:: html
 
@@ -201,13 +201,17 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |LINK4| raw:: html
 
-    <a href="https://forum.italia.it/" target="_blank">Developers Italia, forum nazionale sui servizi pubblici digitali</a>
+    <a href="https://ods2020.opendatasicilia.it/" target="_blank">raduno ODS 2020</a>
 
 .. |LINK5| raw:: html
 
-    <a href="http://googledocs.readthedocs.io/" target="_blank">A questo link un tutorial che spiega in maniera facile come usare questi strumenti</a>
+    <a href="https://forum.italia.it/" target="_blank">Developers Italia, forum nazionale sui servizi pubblici digitali</a>
 
 .. |LINK6| raw:: html
+
+    <a href="http://googledocs.readthedocs.io/" target="_blank">A questo link un tutorial che spiega in maniera facile come usare questi strumenti</a>
+
+.. |LINK7| raw:: html
 
     <a href="https://www.deviantart.com/superawesomevectors/gallery/" target="_blank">superawesomevectors</a>
 
