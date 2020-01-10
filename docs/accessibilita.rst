@@ -476,6 +476,25 @@ Strumenti open source per le verifiche di accessibilità:
 
 * \ |LINK47|\  sono elencati all’interno del sito del \ |LINK48|\ 
 
+.. _h6f3f6d3c14b78734f3e48262a48261a:
+
+Linee guida sull’accessibilità degli strumenti informatici
+==========================================================
+
+\ |LINK49|\  comprendono i seguenti documenti:
+
+* Allegato 1. Modello di dichiarazione di accessibilità sito Web e applicazione mobile
+
+* Allegato 2. Modello di autovalutazione
+
+* Allegato 3. Prodotti per la classe 22 della UNI EN ISO 9999:2017 relativa alla comunicazione e gestione dell’informazione.
+
+.. admonition:: Determinazione AGID n. 437 del 20 dicembre 2019
+
+    \ |LINK50|\ 
+
+\ |LINK51|\  (\ |LINK52|\ ).
+
 
 .. bottom of content
 
@@ -702,4 +721,20 @@ Strumenti open source per le verifiche di accessibilità:
 .. |LINK48| raw:: html
 
     <a href="https://www.w3.org/WAI/ER/tools/" target="_blank">W3C</a>
+
+.. |LINK49| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html" target="_blank">Le linee guida sull'accessibilità degli strumenti informatici</a>
+
+.. |LINK50| raw:: html
+
+    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_122158_725_1.html" target="_blank">Adozione delle Linee Guida sull’accessibilità degli strumenti informatici</a>
+
+.. |LINK51| raw:: html
+
+    <a href="https://form.agid.gov.it/" target="_blank">Piattaforma online per la verifica del rispetto dei requisiti per l'accessibilità dei siti e servizi web della PA</a>
+
+.. |LINK52| raw:: html
+
+    <a href="https://form.agid.gov.it/" target="_blank">https://form.agid.gov.it</a>
 
