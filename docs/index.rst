@@ -149,7 +149,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/repubblica-digitale-logo.png" width=220 />  
     </br>
-    <a href="https://teamdigitale.governo.it/it/repubblica-digitale" target="_blank"><b>Questo spazio rappresenta un contributo alla costruzione della Repubblica digitale</b></a> 
+    <a href="https://teamdigitale.governo.it/it/repubblica-digitale" target="_blank"><b>Questo spazio rappresenta un contributo alla costruzione della "Repubblica Digitale"</b></a> 
 .. |REPLACE4| raw:: html
 
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Ambiti principali</span></strong>
