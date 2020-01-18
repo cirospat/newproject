@@ -124,11 +124,15 @@ Approvazione schema di \ |STYLE0|\  - SISPI S.P.A. (Deliberazione GM 105 del 24.
 
 \ |STYLE23|\  \ |LINK24|\ , Sistema informatico e telematico del Comune di Palermo, (Delibera di Consiglio Comunale n. 42 del 20.04.2018).
 
-IL CONSIGLIO COMUNALE DELIBERA, per i motivi esposti in narrativa e che si intendono di seguito riportati: AFFIDARE in house alla SISPI S.p.A. il servizio di Sviluppo e Conduzione Tecnica del SITEC (Sistema lnformatico e Telematico del Comune di Palermo) con le modalità riportate in Convenzione secondo lo schema (allegato 9) che si intende approvato con il presente atto per la durata di cinque anni decorrenti dall'esecutività dello stesso; 
+.. admonition:: IL CONSIGLIO COMUNALE DELIBERA
 
-DARE ATTO, che a fronte dei servizi resi per il servizio di conduzione tecnica del SISTEC, alla Società sarà corrisposto un corrispettivo annuo di € 11.291.100,00 (IVA compresa), che andrà a gravare sul cap. 3970/10 denominato "SISPI Conduzione Tecnica del SITEC - Informatizzazione Telematica del Comune di Palermo"; 
-
-DARE, altresì, ATTO che a fronte di un immutato corrispettivo la SISPI S.p.A. implementerà i propri servizi, estendendo gli stessi anche al sistema delle Società Partecipate del Comune di Palermo e all'intera città Metropolitana secondo le modalità previste dalla vigente normativa.
+    per i motivi esposti in narrativa e che si intendono di seguito riportati: 
+    
+    AFFIDARE in house alla SISPI S.p.A. il servizio di Sviluppo e Conduzione Tecnica del SITEC (Sistema lnformatico e Telematico del Comune di Palermo) con le modalità riportate in Convenzione secondo lo schema (allegato 9) che si intende approvato con il presente atto per la durata di cinque anni decorrenti dall'esecutività dello stesso; 
+    
+    DARE ATTO, che a fronte dei servizi resi per il servizio di conduzione tecnica del SISTEC, alla Società sarà corrisposto un corrispettivo annuo di € 11.291.100,00 (IVA compresa), che andrà a gravare sul cap. 3970/10 denominato "SISPI Conduzione Tecnica del SITEC - Informatizzazione Telematica del Comune di Palermo"; 
+    
+    DARE, altresì, ATTO che a fronte di un immutato corrispettivo la SISPI S.p.A. implementerà i propri servizi, estendendo gli stessi anche al sistema delle Società Partecipate del Comune di Palermo e all'intera città Metropolitana secondo le modalità previste dalla vigente normativa.
 
 |
 
