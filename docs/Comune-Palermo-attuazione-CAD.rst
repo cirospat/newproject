@@ -274,13 +274,25 @@ A \ |LINK69|\  sul portale istituzionale per l'evento.  Rassegna stampa: \ |LINK
 
 |
 
-Dalla prima settimana di novembre 2019 il comune di Palermo \ |LINK74|\ , a seguito del subentro dell'anagrafe locale a quella nazionale ANPR (Anagrafe Nazionale della Popolazione Residente). La \ |LINK75|\  ha anche la funzione di identificazione digitale del cittadino (al pari del sistema SPID) per l'accesso ai servizi online della Pubblica Amministrazione.
+\ |STYLE44|\ . Dalla prima settimana di novembre 2019 il comune di Palermo \ |LINK74|\ , a seguito del subentro dell'anagrafe locale a quella nazionale ANPR (Anagrafe Nazionale della Popolazione Residente). La \ |LINK75|\  ha anche la funzione di identificazione digitale del cittadino (al pari del sistema SPID) per l'accesso ai servizi online della Pubblica Amministrazione.
 
 |
 
-Novembre 2019. Nella classifica ICity Rank 2019,  stilata da ForumPA (relativa alle smart city italiane tra 107 comuni capoluogo), \ |LINK76|\ . Qui \ |LINK77|\  con la classifica nazionale della trasformazione digitale.
+Novembre 2019. Nella \ |STYLE45|\  \ |STYLE46|\ ,  stilata da ForumPA (relativa alle \ |STYLE47|\  tra 107 comuni capoluogo), \ |LINK76|\ . Qui \ |LINK77|\  con la classifica nazionale della trasformazione digitale.
 
 |
+
+.. _h7b7a531e3940a13436b1a371c4f6c4e:
+
+2020
+----
+
+|
+
+Dal gennaio 2020 le \ |STYLE48|\  grazie ad un nuovo applicativo reso disponibile ai genitori dei bambini: \ |LINK78|\  .   A questo \ |LINK79|\  il comunicato stampa del 3 gennaio 2020.
+
+|
+
 
 .. bottom of content
 
@@ -372,6 +384,16 @@ Novembre 2019. Nella classifica ICity Rank 2019,  stilata da ForumPA (relativa a
 .. |STYLE42| replace:: **Esperienze – Piattaforme e Servizi Pubblici Digitali a Palermo**
 
 .. |STYLE43| replace:: **Sessione parallela: le Academy Servizi Pubblici Digitali**
+
+.. |STYLE44| replace:: **Rilascio carta identità elettronica**
+
+.. |STYLE45| replace:: **classifica**
+
+.. |STYLE46| replace:: **ICity Rank 2019**
+
+.. |STYLE47| replace:: **smart city italiane**
+
+.. |STYLE48| replace:: **iscrizioni all'asilo comunale e alla scuola materna comunale si effettuano solo online**
 
 
 .. |REPLACE1| raw:: html
@@ -688,4 +710,12 @@ Novembre 2019. Nella classifica ICity Rank 2019,  stilata da ForumPA (relativa a
 .. |LINK77| raw:: html
 
     <a href="https://www.comune.palermo.it/js/server/uploads/_28112019120836.pdf#page=95" target="_blank">visualizzi la pagina</a>
+
+.. |LINK78| raw:: html
+
+    <a href="https://portalescuola.comune.palermo.it/" target="_blank">https://portalescuola.comune.palermo.it</a>
+
+.. |LINK79| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=26231" target="_blank">link</a>
 
