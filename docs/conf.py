@@ -11,7 +11,7 @@ __version__ = '1.0'
 
 # -- General configuration -----------------------------------------------------
 
-source_suffix = '.rst'
+source_suffix = '.rst' 
 master_doc = 'index'
 project = 'Ciro Spataro'
 copyright = '= licenza CC BY Cirospat'
