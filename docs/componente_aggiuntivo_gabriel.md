@@ -1,18 +1,17 @@
 ---
-title: componente_aggiuntivo_gabriel
-layout: post
-author: cirospat
-permalink: /componente_aggiuntivo_gabriel/
+title: --
+layout: --
+permalink: --
 source-id: 1lmCTvcLM1C6Sbv1ll3kIA34UPRPvKJ4qaYgAsGSUnIA
 published: true
 ---
 Gabriel
 
-questa è una pagina di demo per vwerificare che il componente aggiuntivo "Gabriel" pubblica le pagine di Google Doc su Github.
+questa è una pagina di demo per verificare che il componente aggiuntivo "Gabriel" pubblica le pagine di Google Doc su Github.
 
 # Intestazione 1
 
-Testo normale.
+Testo normale
 
 |
 
