@@ -1,3 +1,11 @@
+---
+title: componente_aggiuntivo_gabriel
+layout: -
+author: -
+permalink: /componente_aggiuntivo_gabriel/
+source-id: 1lmCTvcLM1C6Sbv1ll3kIA34UPRPvKJ4qaYgAsGSUnIA
+published: true
+---
 # Intestazione 1
 
 questa è una pagina di demo per verificare che il componente aggiuntivo "Gabriel" pubblica le pagine di Google Doc su Github.
@@ -15,6 +23,12 @@ Testo normale.
 Testo normale
 
 |
+
+llllssslllsdjjjd|kkkkddkdk|kkkkkkkks
+
+gkkkgl|kkkkkkkd|kkkdkdkd
+
+cjdjdj|kkkdkd|kkdkkdkd
 
 <table>
   <tr>
