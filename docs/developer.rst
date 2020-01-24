@@ -438,10 +438,10 @@ newscount= il numero delle news da visualizzare come output della query
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=925&q=80" /> Art by Lønfeldt
+    <div style="width: 65000px; height: 500px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
 .. |REPLACE2| raw:: html
 
-    <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
+    <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=925&q=80" /> Art by Lønfeldt
 .. |REPLACE3| raw:: html
 
     <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
