@@ -16,6 +16,11 @@ developer
 
 |REPLACE1|
 
+
+|REPLACE2|
+
+|
+
 .. _ha4a69c15721f287c7e3f4245326:
 
 CATALOGO DI TUTTE LE MAPPE DI CIRO SPATARO E DI GB VITRANO
@@ -269,7 +274,7 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 =========================================================
 
 
-|REPLACE2|
+|REPLACE3|
 
 ⇒ \ |LINK54|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
 
@@ -282,7 +287,7 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK55|\ .
 
 
-|REPLACE3|
+|REPLACE4|
 
 * \ |LINK56|\  con Openstreetmap tramite OnData
 
@@ -436,8 +441,14 @@ newscount= il numero delle news da visualizzare come output della query
     <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=925&q=80" /> Art by Lønfeldt
 .. |REPLACE2| raw:: html
 
-    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
+    <embed>
+       <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf" data-wordart-show-attribution></div> 
+       </embed>
+          <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf" data-wordart-show-attribution></div>
 .. |REPLACE3| raw:: html
+
+    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
+.. |REPLACE4| raw:: html
 
     <p><span style="background-color: #105618; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Altri Geocoder</span></p>
 
