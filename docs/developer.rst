@@ -5,6 +5,8 @@ developer
 *********
 
 .. raw:: html
+   <script src="//cdn.wordart.com/wordart.min.js" async defer></script>
+   
    <embed>
    <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf" data-wordart-show-attribution></div> 
    </embed>
