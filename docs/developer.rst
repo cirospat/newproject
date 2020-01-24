@@ -441,12 +441,7 @@ newscount= il numero delle news da visualizzare come output della query
     <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=925&q=80" /> Art by Lønfeldt
 .. |REPLACE2| raw:: html
 
-    <embed>
-       <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div> 
-       </embed>
-    
-       <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
-    
+    <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
 .. |REPLACE3| raw:: html
 
     <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
