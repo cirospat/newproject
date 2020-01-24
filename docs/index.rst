@@ -13,8 +13,6 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 |REPLACE2|
 
-|
-
 
 |REPLACE3|
 
