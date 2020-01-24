@@ -4,14 +4,6 @@
 developer
 *********
 
-.. raw:: html
-   <embed>
-   <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div> 
-   </embed>
-   
-   <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div> 
-
-
 \ |LINK1|\   una pagina dove colleziono utilità per fini di sviluppo e creatività digitale
 
 
@@ -450,9 +442,11 @@ newscount= il numero delle news da visualizzare come output della query
 .. |REPLACE2| raw:: html
 
     <embed>
-       <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf" data-wordart-show-attribution></div> 
+       <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div> 
        </embed>
-          <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf" data-wordart-show-attribution></div>
+    
+       <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
+    
 .. |REPLACE3| raw:: html
 
     <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
