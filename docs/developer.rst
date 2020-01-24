@@ -6,10 +6,10 @@ developer
 
 .. raw:: html
    <embed>
-   <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf" data-wordart-show-attribution></div> 
+   <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div> 
    </embed>
    
-   <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf" data-wordart-show-attribution></div> 
+   <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div> 
 
 
 \ |LINK1|\   una pagina dove colleziono utilità per fini di sviluppo e creatività digitale
