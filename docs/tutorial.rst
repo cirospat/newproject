@@ -84,9 +84,6 @@ Tutorial: realizzazione di un progetto a basso costo per il rilevamento dei dati
 Corsi online su 'competenze e servizi digitali'
 ===============================================
 
-
-|REPLACE8|
-
 ➽ \ |STYLE0|\  - Iniziativa con \ |LINK9|\ .
 
 ➽  \ |STYLE1|\  - Iniziativa promossa dal \ |STYLE2|\  nell’ambito del \ |LINK10|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione. Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi. \ |LINK11|\ .
@@ -122,7 +119,7 @@ Manuali vari
 ➽ \ |LINK20|\  (\ |STYLE8|\ , \ |STYLE9|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK21|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK22|\ ]
 
 
-|REPLACE9|
+|REPLACE8|
 
 
 .. bottom of content
@@ -171,9 +168,6 @@ Manuali vari
 
     <img src="https://cdn-images-1.medium.com/max/720/1*bHhhHgM6mW1EGze2X69BXg.png" width=300 />
 .. |REPLACE8| raw:: html
-
-    <p><a href="http://www.competenzedigitali.gov.it" target="_blank" rel="noopener" title="verifica delle competenze digitali"><img src="http://www.competenzedigitali.gov.it/typo3conf/ext/competenze/Resources/Public/Images/template/logo-competenze-digitali-pa.svg" width="180" /></a></p>
-.. |REPLACE9| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
