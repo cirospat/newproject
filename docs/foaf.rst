@@ -1,8 +1,8 @@
 
-.. _h4e7866c692d53746f521a302b4465d:
+.. _h54782e64a5c5021c955175e702e4a:
 
-Ontologia FOAF ``RDF``
-######################
+Ontologia FOAF (friend of a friend) ``RDF``
+###########################################
 
 \ |STYLE0|\ 
 
