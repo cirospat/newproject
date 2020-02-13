@@ -4,7 +4,7 @@
 developer
 *********
 
-\ |LINK1|\   una pagina dove colleziono utilità per fini di sviluppo e creatività digitale
+\ |LINK1|\   una pagina dove colleziono utilità per fini di sviluppo e creatività digitale -
 
 
 .. toctree::  
