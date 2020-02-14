@@ -30,6 +30,9 @@ Definizione di interoperabilità semantica: "\ |STYLE0|\ " (fonte: "\ |LINK2|\ "
 
     \ |LINK3|\  definisce i \ |STYLE1|\  come “un modo comune e condiviso per organizzare codici e nomenclature ricorrenti in maniera standardizzata e normalizzata (vocabolari controllati) e una concettualizzazione esaustiva e rigorosa nell’ambito di un dato dominio (ontologia o modello dei dati condiviso”).
 
+
+|REPLACE3|
+
 |
 
 .. _h3660506523f3f4d24406f381230f71:
@@ -39,7 +42,7 @@ Ontologia OPENARS (Parlamento Regionale Siciliano)
 
 \ |LINK4|\  a cura di Davide Taibi e Giovanni Pirrotta (\ |LINK5|\ ). Guarda le relazioni in \ |LINK6|\ .
 
-|REPLACE3|
+|REPLACE4|
 
 |
 
@@ -59,7 +62,7 @@ Vocabolario controllato dei servizi pubblici
 
 \ |LINK9|\  alla risorsa, traduzione in italiano (attualmente in fase di implementazione) del documento denominato \ |LINK10|\ .
 
-|REPLACE4|
+|REPLACE5|
 
 \ |LINK11|\ . Versione draft 0.4 – per la consultazione pubblica. AGID.
 
@@ -84,11 +87,11 @@ Vocabolario controllato dei servizi pubblici
     The Autonomous Province of Trento is also using the CPSV-AP to describe public services through a distributed Content Management System (CMS), called \ |LINK14|\ , which is used by several local authorities. The CMS shares \ |LINK15|\  that includes the CPSV-AP. (\ |LINK16|\ ).
 
 
-|REPLACE5|
+|REPLACE6|
 
 Guarda anche il "\ |LINK17|\ ".
 
-|REPLACE6|
+|REPLACE7|
 
 |
 
@@ -107,7 +110,7 @@ Ontologie e vocabolari controllati del Data & Analytics Framework - AGID (OntoPi
 **********************************************************************************
 
 
-|REPLACE7|
+|REPLACE8|
 
  
 
@@ -174,7 +177,7 @@ Presentazioni e articoli su ontologie e vocabolari controllati
 |
 
 
-|REPLACE8|
+|REPLACE9|
 
 
 .. bottom of content
@@ -203,30 +206,33 @@ Presentazioni e articoli su ontologie e vocabolari controllati
     <iframe src="https://player.vimeo.com/video/49232562" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 .. |REPLACE3| raw:: html
 
+    <iframe src="//www.slideshare.net/slideshow/embed_code/key/ijWjMuMPVxTyBU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GiorgiaLodi/interoperabilit-semantica-metadatazione-e-ontologie-per-la-pa" title="Interoperabilità semantica: metadatazione e ontologie per la PA" target="_blank">Interoperabilità semantica: metadatazione e ontologie per la PA</a> </strong> from <strong><a href="https://www.slideshare.net/GiorgiaLodi" target="_blank">Giorgia Lodi</a></strong> </div>
+.. |REPLACE4| raw:: html
+
     <img src="http://www.openars.org/images/openars.jpg" /> 
     </br>
     <span class="footer_small"><a href="http://www.openars.org/" target="_blank">Ontologia OpenArs</a>.</span>
-.. |REPLACE4| raw:: html
+.. |REPLACE5| raw:: html
 
     <img src="https://raw.githubusercontent.com/cirospat/-vocabolario-controllato-servizi-pubblici/master/static/CPSV-AP_Specification%20v2.2.png" /> 
     </br>
     <span class="footer_small"><a href="https://vocabolario-controllato-servizi-pubblici.readthedocs.io" target="_blank">Vocabolario controllato dei servizi pubblici</a> (traduzione del "Core Public Service Vocabulary Application Profile 2.2").</span>
-.. |REPLACE5| raw:: html
+.. |REPLACE6| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/IE2UJCV2ggI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     The Catalogue of Services Action of the European Commission's ISA² Programme supports public administrations that create and exchange information on public service descriptions. To do so, it has created a common vocabulary for describing public services, the Core Public Service Vocabulary Application Profile (CPSV-AP), and provides interoperable tools to support local implementations. The CPSV-AP is a data model for harmonising the way public services are described on eGovernment portals. 
     <a href="https://joinup.ec.europa.eu/solution/core-public-service-vocabulary-application-profile/about#what" target="_blank">More about the Catalogue of Services</a>
-.. |REPLACE6| raw:: html
+.. |REPLACE7| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/Znkoz0-P3sc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small">Istituzione e gestione di uno sportello digitale unico per offrire ai cittadini e alle imprese un facile accesso a informazioni di alta qualità, a procedure efficienti e a servizi di assistenza e di risoluzione dei problemi efficaci in relazione alle norme dell'Unione e nazionali applicabili ai cittadini e alle imprese che esercitano o che intendono esercitare i loro diritti derivanti dal diritto dell'Unione nell'ambito del mercato interno ai sensi dell'articolo 26, paragrafo 2, TFUE.</span>
-.. |REPLACE7| raw:: html
+.. |REPLACE8| raw:: html
 
     <img src="http://giovanni.pirrotta.it/images/ontopia/ontopia-tecnico.png" /> 
     </br>
     <span class="footer_small">
     <a href="http://giovanni.pirrotta.it/blog/2019/05/04/alla-scoperta-di-ontopia-il-knowledge-graph-della-pa-italiana/" target="_blank">Alla scoperta di Ontopia, il Knowledge Graph della PA Italiana</a> (immagine tratta dall'articolo di Giovanni Pirrotta).</span>
-.. |REPLACE8| raw:: html
+.. |REPLACE9| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
