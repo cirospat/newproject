@@ -345,13 +345,13 @@ Un elenco dettagliato di come costruire un grafo della conoscenza.
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://www.ontotext.com/wp-content/uploads/2020/02/Knowledge-Graph_Step1-Step3.png" />
+    <img src="https://www.ontotext.com/wp-content/uploads/2020/02/Knowledge-Graph_Step1-Step3.png" width="800" />
 .. |REPLACE2| raw:: html
 
-    <img src="https://www.ontotext.com/wp-content/uploads/2020/02/Knowledge-Graph_Step4-Step6.png" />
+    <img src="https://www.ontotext.com/wp-content/uploads/2020/02/Knowledge-Graph_Step4-Step6.png" width="800" />
 .. |REPLACE3| raw:: html
 
-    <img src="https://www.ontotext.com/wp-content/uploads/2020/02/Knowledge-Graph_Step7-Step10.png" />
+    <img src="https://www.ontotext.com/wp-content/uploads/2020/02/Knowledge-Graph_Step7-Step10.png" width="800" />
 
 .. |LINK1| raw:: html
 
