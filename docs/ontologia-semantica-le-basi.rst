@@ -224,9 +224,78 @@ Un ecosistema aziendale è una serie di sistemi interconnessi in continua evoluz
 
 |
 
+--------
+
+|
+
+.. _h4442311b48334c481f016e39684b63:
+
+Verso la definizione di "Grafo di Conoscenza"
+*********************************************
+
+\ |LINK3|\  
+
+\ |STYLE4|\ : Un grafo della conoscenza descrive principalmente le entità del mondo reale e le loro interrelazioni, organizzate in un grafico, definisce possibili classi e relazioni di entità in uno schema, consente l'interconnessione potenziale di entità arbitrarie tra loro e copre vari domini di argomento. \ |STYLE5|\ : H. Paulheim. Knowledge Graph Refinement:  A Survey
+
+of Approaches and Evaluation Methods. Semantic Web Journal, (Preprint):1–20, 2016.
+
+\ |STYLE6|\ : i grafici della conoscenza sono grandi reti di entità, i loro tipi semantici, proprietà e relazioni tra entità. \ |STYLE7|\ : M. Kroetsch and G. Weikum. \ |LINK4|\ . [August, 2016]. 
+
+\ |STYLE8|\ : I grafici della conoscenza potrebbero essere immaginati come una rete di tutti i tipi di cose che sono rilevanti per un dominio specifico o per un'organizzazione. Non si limitano a concetti e relazioni astratti, ma possono anche contenere istanze di cose come documenti e set di dati. \ |STYLE9|\ : A. Blumauer. \ |LINK5|\ 
+
+\ |LINK6|\ , July 2014. [August, 2016].
+
+\ |STYLE10|\ : Definiamo un grafo della conoscenza come un grafo RDF. Un grafo RDF è costituito da un insieme di triple RDF in cui ogni tripla (s, p, o) RDF è un insieme ordinato dei seguenti termini RDF: asubjects∈U∪B, predicatep∈U e objectU∪B∪L. Un termine RDF è oURIu∈U, un nodo vuoto b∈B o letteralmente ∈L. \ |STYLE11|\ : M. Farber, B. Ell, C. Menne, A. Rettinger, and F. Bartscherer. Linked Data Quality of DBpedia, Freebase, OpenCyc, Wikidata, and YAGO. \ |LINK7|\ .  [August, 2016] (revised
+
+version, under review).
+
+\ |STYLE12|\ : [...] esistono sistemi che [...] utilizzano una varietà di tecniche per estrarre nuove conoscenze, sotto forma di fatti, dal web. Questi fatti sono correlati, e quindi recentemente questa conoscenza estratta è stata definita un grafo della conoscenza. \ |STYLE13|\ : J. Pujara, H. Miao, L. Getoor, and W. Cohen. Knowledge Graph Identification. In Proceedings of the
+
+12th International Semantic Web Conference - Part I, ISWC ’13, pages 542–557, New York, USA, 2013. Springer.
+
+|
+
+.. _h6c4369422b212d22625a35337ab844:
+
+Un elenco dettagliato di come costruire un grafo della conoscenza.
+==================================================================
+
+\ |LINK8|\ .
+
+
+|REPLACE1|
+
+
+|REPLACE2|
+
+
+|REPLACE3|
+
+#. \ |STYLE14|\ . Stabilire l'obiettivo alla base della raccolta dei dati e definire a quali domande si desidera rispondere.
+
+#. \ |STYLE15|\ . Scopri quali set di dati (sia aperti che proprietari) ti servirebbero meglio per raggiungere il tuo obiettivo in termini di dominio, ambito, provenienza, manutenzione, ecc.
+
+#. \ |STYLE16|\ . Correggere eventuali problemi di qualità dei dati per rendere i dati più applicabili alla propria attività. Ciò include la rimozione di voci non valide o prive di significato, la regolazione dei campi di dati per adattarsi a più valori, la correzione di incoerenze, ecc.
+
+#. \ |STYLE17|\ . Analizzare a fondo i diversi schemi di dati per preparare l'armonizzazione dei dati. Ciò include il riutilizzo o la progettazione di ontologie, profili applicativi, forme RDF o altri meccanismi su come utilizzarli insieme. Formalizza il tuo modello di dati usando gli standard W3C per la definizione dello schema, come RDF Schema e OWL.
+
+#. \ |STYLE18|\ . Applica gli strumenti ETL per convertire i tuoi dati in RDF o usa la virtualizzazione dei dati per accedervi tramite tecnologie armonizzate come NoETL, OBDA, GraphQL Federation, ecc.
+
+#. \ |STYLE19|\ . Abbina le descrizioni di una stessa entità a tutti i set di dati con ambito sovrapposto, gestisci i loro attributi per unire campi di dati singoli e multipli e mappa manualmente le loro diverse tassonomie, il che avrà un grande impatto sulle tue analisi.
+
+#. \ |STYLE20|\ . Scegli dove archiviare i dati convertiti in base alla tua attività poiché diversi negozi hanno scopi diversi. Un triplestore RDF (come GraphDB di Ontotext) esporrà e applicherà correttamente la semantica del modello di dati semantici tramite inferenza, controllo di coerenza e validazione.
+
+#. \ |STYLE21|\ . Arricchisci i tuoi dati con dati semantici esterni ed esegui deduzioni per scoprire nuove informazioni da fatti esistenti. Di conseguenza, il KG diventa più della somma dei suoi set di dati costitutivi.
+
+#. \ |STYLE22|\ . Inizia a fornire le risposte alle tue domande originali attraverso diversi strumenti di scoperta della conoscenza come potenti query SPARQL, interfaccia GraphQL facile da usare, ricerca semantica, ricerca sfaccettata, visualizzazione dei dati, ecc. Inoltre, assicurati che i tuoi dati seguano i principi dei dati FAIR e siano facilmente reperibile, accessibile, interoperabile e riutilizzabile.
+
+#. \ |STYLE23|\ . Infine, dopo aver realizzato il KG in modo semantico e le persone hanno iniziato a usarlo, mantienilo attivo impostando le procedure di manutenzione di KG: il modo in cui si evolverebbe, aggiornerà le modifiche dei dati nelle fonti, ecc.
+
+|
+
 
 +---------------------------------+
-|➽ Ritorna alla pagina \ |LINK3|\ |
+|➽ Ritorna alla pagina \ |LINK9|\ |
 +---------------------------------+
 
 
@@ -241,6 +310,56 @@ Un ecosistema aziendale è una serie di sistemi interconnessi in continua evoluz
 
 .. |STYLE3| replace:: **Consumo**
 
+.. |STYLE4| replace:: **Definition**
+
+.. |STYLE5| replace:: **Source**
+
+.. |STYLE6| replace:: **Definition**
+
+.. |STYLE7| replace:: **Source**
+
+.. |STYLE8| replace:: **Definition**
+
+.. |STYLE9| replace:: **Source**
+
+.. |STYLE10| replace:: **Definition**
+
+.. |STYLE11| replace:: **Source**
+
+.. |STYLE12| replace:: **Definition**
+
+.. |STYLE13| replace:: **Source**
+
+.. |STYLE14| replace:: **Chiarire i requisiti aziendali / dei dati**
+
+.. |STYLE15| replace:: **Raccogliere e analizzare dati e ontologie pertinenti**
+
+.. |STYLE16| replace:: **Pulisci i tuoi dati per garantire la qualità dei dati**
+
+.. |STYLE17| replace:: **Crea il tuo modello di dati semantici**
+
+.. |STYLE18| replace:: **Integra i tuoi dati con strumenti ETL intelligenti o approcci di virtualizzazione**
+
+.. |STYLE19| replace:: **Armonizza i tuoi dati tramite riconciliazione, fusione dei dati e armonizzazione della tassonomia**
+
+.. |STYLE20| replace:: **Scegli dove conservare i tuoi dati**
+
+.. |STYLE21| replace:: **Aumenta il tuo KG con arricchimento e inferenza semantici (testo e dati)**
+
+.. |STYLE22| replace:: **Massimizza l'usabilità dei tuoi dati**
+
+.. |STYLE23| replace:: **Rendi il tuo KG facile da mantenere**
+
+
+.. |REPLACE1| raw:: html
+
+    <img src="https://www.ontotext.com/wp-content/uploads/2020/02/Knowledge-Graph_Step1-Step3.png" width="650" />
+.. |REPLACE2| raw:: html
+
+    <img src="https://www.ontotext.com/wp-content/uploads/2020/02/Knowledge-Graph_Step4-Step6.png" width="650" />
+.. |REPLACE3| raw:: html
+
+    <img src="https://www.ontotext.com/wp-content/uploads/2020/02/Knowledge-Graph_Step7-Step10.png" width="650" />
 
 .. |LINK1| raw:: html
 
@@ -251,6 +370,30 @@ Un ecosistema aziendale è una serie di sistemi interconnessi in continua evoluz
     <a href="https://www.facebook.com/groups/opendatasicilia/permalink/2491670394284934/" target="_blank">www.facebook.com/groups/opendatasicilia/permalink/2491670394284934</a>
 
 .. |LINK3| raw:: html
+
+    <a href="http://ceur-ws.org/Vol-1695/paper4.pdf" target="_blank">http://ceur-ws.org/Vol-1695/paper4.pdf</a>
+
+.. |LINK4| raw:: html
+
+    <a href="http://www.websemanticsjournal.org/index.php/ps/announcement/view/19" target="_blank">Journal of Web Semantics:  Special Issue on Knowledge Graphs</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://blog.semantic-web.at/2014/07/15/from-taxonomies-over-ontologies-to-knowledge-graphs" target="_blank">From Taxonomies over Ontologies to</a>
+
+.. |LINK6| raw:: html
+
+    <a href="https://blog.semantic-web.at/2014/07/15/from-taxonomies-over-ontologies-to-knowledge-graphs" target="_blank">Knowledge Graphs</a>
+
+.. |LINK7| raw:: html
+
+    <a href="http://www.semantic-web-journal.net/content/linked-data-quality-dbpedia-freebase-opencyc-wikidata-and-yago" target="_blank">Semantic Web Journal, 2016</a>
+
+.. |LINK8| raw:: html
+
+    <a href="https://www.ontotext.com/blog/knowledge-graph-with-semantic-data-modeling/" target="_blank">Link all'articolo</a>
+
+.. |LINK9| raw:: html
 
     <a href="https://cirospat.readthedocs.io/it/latest/vocabolari-controllati.html" target="_blank">Vocabolari controllati e ontologie per l’interoperabilità semantica</a>
 
