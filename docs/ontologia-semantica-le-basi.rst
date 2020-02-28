@@ -285,11 +285,11 @@ Un elenco dettagliato di come costruire un grafo della conoscenza.
 
 #. \ |STYLE20|\ . Scegli dove archiviare i dati convertiti in base alla tua attività poiché diversi negozi hanno scopi diversi. Un triplestore RDF (come GraphDB di Ontotext) esporrà e applicherà correttamente la semantica del modello di dati semantici tramite inferenza, controllo di coerenza e validazione.
 
-#. \ |STYLE21|\ . Arricchisci i tuoi dati con dati semantici esterni ed esegui deduzioni per scoprire nuove informazioni da fatti esistenti. Di conseguenza, il KG diventa più della somma dei suoi set di dati costitutivi.
+#. \ |STYLE21|\ . Arricchisci i tuoi dati con dati semantici esterni ed esegui deduzioni per scoprire nuove informazioni da fatti esistenti. Di conseguenza, il Grafo di Conoscenza diventa più della somma dei suoi set di dati costitutivi.
 
 #. \ |STYLE22|\ . Inizia a fornire le risposte alle tue domande originali attraverso diversi strumenti di scoperta della conoscenza come potenti query SPARQL, interfaccia GraphQL facile da usare, ricerca semantica, ricerca sfaccettata, visualizzazione dei dati, ecc. Inoltre, assicurati che i tuoi dati seguano i principi dei dati FAIR e siano facilmente reperibile, accessibile, interoperabile e riutilizzabile.
 
-#. \ |STYLE23|\ . Infine, dopo aver realizzato il KG in modo semantico e le persone hanno iniziato a usarlo, mantienilo attivo impostando le procedure di manutenzione di KG: il modo in cui si evolverebbe, aggiornerà le modifiche dei dati nelle fonti, ecc.
+#. \ |STYLE23|\ . Infine, dopo aver realizzato il Grafo di Conoscenza in modo semantico e le persone hanno iniziato a usarlo, mantienilo attivo impostando le procedure di manutenzione del Grafo di Conoscenza: il modo in cui si evolverebbe, aggiornerà le modifiche dei dati nelle fonti, ecc.
 
 |
 
@@ -344,11 +344,11 @@ Un elenco dettagliato di come costruire un grafo della conoscenza.
 
 .. |STYLE20| replace:: **Scegli dove conservare i tuoi dati**
 
-.. |STYLE21| replace:: **Aumenta il tuo KG con arricchimento e inferenza semantici (testo e dati)**
+.. |STYLE21| replace:: **Aumenta il tuo Grafo di Conoscenza con arricchimento e inferenza semantici (testo e dati)**
 
 .. |STYLE22| replace:: **Massimizza l'usabilità dei tuoi dati**
 
-.. |STYLE23| replace:: **Rendi il tuo KG facile da mantenere**
+.. |STYLE23| replace:: **Rendi il tuo Grafo di Conoscenza facile da mantenere**
 
 
 .. |REPLACE1| raw:: html
