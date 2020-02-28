@@ -243,9 +243,7 @@ Verso la definizione di "Grafo di Conoscenza"
 
 \ |STYLE10|\ : Definiamo un grafo della conoscenza come un grafo RDF. Un grafo RDF è costituito da un insieme di triple RDF in cui ogni tripla (s, p, o) RDF è un insieme ordinato dei seguenti termini RDF: asubjects∈U∪B, predicatep∈U e objectU∪B∪L. Un termine RDF è oURIu∈U, un nodo vuoto b∈B o letteralmente ∈L. \ |STYLE11|\ : M. Farber, B. Ell, C. Menne, A. Rettinger, and F. Bartscherer. Linked Data Quality of DBpedia, Freebase, OpenCyc, Wikidata, and YAGO. \ |LINK7|\ .  [August, 2016] (revised version, under review).
 
-\ |STYLE12|\ : [...] esistono sistemi che [...] utilizzano una varietà di tecniche per estrarre nuove conoscenze, sotto forma di fatti, dal web. Questi fatti sono correlati, e quindi recentemente questa conoscenza estratta è stata definita un grafo della conoscenza. \ |STYLE13|\ : J. Pujara, H. Miao, L. Getoor, and W. Cohen. Knowledge Graph Identification. In Proceedings of the
-
-12th International Semantic Web Conference - Part I, ISWC ’13, pages 542–557, New York, USA, 2013. Springer.
+\ |STYLE12|\ : [...] esistono sistemi che [...] utilizzano una varietà di tecniche per estrarre nuove conoscenze, sotto forma di fatti, dal web. Questi fatti sono correlati, e quindi recentemente questa conoscenza estratta è stata definita un grafo della conoscenza. \ |STYLE13|\ : J. Pujara, H. Miao, L. Getoor, and W. Cohen. Knowledge Graph Identification. In Proceedings of the 12th International Semantic Web Conference - Part I, ISWC ’13, pages 542–557, New York, USA, 2013. Springer.
 
 |
 
