@@ -9,10 +9,15 @@ Vocabolari controllati e ontologie per l'interoperabilità semantica
 
 |
 
+.. _h7176161f3217625e514f163838627d50:
 
-+------------------------------------------------------------------------------------+
-|\ |LINK1|\  = un documento per comprendere facilmente ``ontologia`` e ``semantica``.|
-+------------------------------------------------------------------------------------+
+Ontologia semantica, le basi
+****************************
+
+
++---------------------------------------------------------------------+
+|\ |LINK1|\  per comprendere facilmente ``ontologia`` e ``semantica``.|
++---------------------------------------------------------------------+
 
 |
 
@@ -89,6 +94,11 @@ Vocabolario controllato dei servizi pubblici
 
 |REPLACE6|
 
+.. _h18315d37b2826314017f167679317c:
+
+Sportello digitale unico per l’accesso a informazioni, procedure e servizi di assistenza
+========================================================================================
+
 Guarda anche il "\ |LINK17|\ ".
 
 |REPLACE7|
@@ -142,10 +152,10 @@ Ontologie ISTAT
 
 |
 
-.. _ha2c7f7161487723421f757784d4820:
+.. _h7f4e1701e103150106572911d7d6c:
 
-Ontologie Ministero Beni Culturali
-**********************************
+Ontologie del Ministero dei Beni Culturali
+******************************************
 
 \ |LINK29|\  (quali ad esempio \ |LINK30|\ , con lo scopo di modellare i dati che caratterizzano gli istituti e i luoghi della cultura), MIBACT.
 
