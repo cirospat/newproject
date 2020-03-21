@@ -1,7 +1,7 @@
 
-.. _h2538a6d6b2c22525756e2324645f19:
+.. _h60494854141668133c113f17026d1c:
 
-Lavoro Agile - Smart working
+Lavoro Agile - Smart Working
 ############################
 
 In questa sezione vengono illustrate le norme emanate in occasione dell'emergenza \ |STYLE0|\  del marzo 2020 e le azioni poste in essere per realizzare il "\ |STYLE1|\ " al Comune di Palermo.
@@ -43,7 +43,7 @@ Il Ministero della Pubblica Amministrazione ha pubblicato la \ |LINK2|\ .
 Direttiva 2/2020 del Ministero della Pubblica Amministrazione
 =============================================================
 
-Le novità introdotte con la Direttiva 2/2020 sono:
+Le novità introdotte con la \ |LINK3|\  sono:
 
 * le attività dovranno essere assicurate tramite una rotazione dei dipendenti per garantire il giusto distanziamento;
 
@@ -64,7 +64,7 @@ Le novità introdotte con la Direttiva 2/2020 sono:
 Decreto Legge del 17 marzo 2020 "Cura Italia"
 =============================================
 
-Il Decreto Legge "Cura Italia" (17.03.2020) \ |LINK3|\   "semplificazioni in materia di organi collegiali". 
+Il Decreto Legge "Cura Italia" (17.03.2020) \ |LINK4|\   "semplificazioni in materia di organi collegiali". 
 
 \ |STYLE22|\ , purché siano individuati sistemi che consentano di identificare con certezza i partecipanti, sia assicurata la regolarità dello  svolgimento  delle  sedute  e  vengano  garantiti  lo  svolgimento  delle  funzioni  di  cui  all’articolo  97  del decreto legislativo 18 agosto 2000, n. 267, nonché adeguata pubblicità delle sedute, ove previsto, secondo le modalità individuate da ciascun ente.
 
@@ -82,6 +82,8 @@ Metà marzo 2020 - Una notevole quantità di applicativi gestionali sono stati r
 Fine marzo 2020 - La gestione documentale delle deliberazioni di giunta e di consiglio comunale sta per essere resa disponibile da un apposito applicativo.
 
 La video riunione è diventata la forma di partecipazione alle riunioni tramite l'utilizzo dello strumento di Meet Google e lo strumento di Cisco Webex.
+
+E' stato creato un Google Gruppo per migliorare l'efficacia della comunicazione interna del personale comunale (dirigenti, assessori, consiglieri, funzionari, dipendenti) in questo periodo di emergenza coronavirus.
 
 
 .. bottom of content
@@ -145,6 +147,10 @@ La video riunione è diventata la forma di partecipazione alle riunioni tramite 
     <a href="http://www.funzionepubblica.gov.it/articolo/dipartimento/04-03-2020/circolare-n1-del-2020" target="_blank">Circolare n.1 del marzo 2020</a>
 
 .. |LINK3| raw:: html
+
+    <a href="http://www.funzionepubblica.gov.it/articolo/ministro/12-03-2020/pa-ecco-la-nuova-direttiva-di-funzione-pubblica-sull%E2%80%99emergenza-covid-19" target="_blank">Direttiva 2/2020</a>
+
+.. |LINK4| raw:: html
 
     <a href="http://www.funzionepubblica.gov.it/sites/funzionepubblica.gov.it/files/documenti/SW_COVID/decreto_17mar_20.pdf#page=36" target="_blank">prevede all'art.73</a>
 
