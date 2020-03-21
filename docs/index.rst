@@ -55,8 +55,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 .. toctree::
   :maxdepth: 2
 
-  Home <http://cirospat.readthedocs.io> 
-  Medium articoli <https://medium.com/@cirospat>
+  Home <http://cirospat.readthedocs.io>
 
 
 .. toctree::  
@@ -89,6 +88,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     open-data-incontri-con-referenti-comunali
     servizi-digitali-comune-palermo
     Comune-Palermo-attuazione-CAD
+    lavoro_agile
 
 
 .. toctree::  
