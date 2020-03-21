@@ -79,7 +79,7 @@ Con una \ |STYLE23|\  è stato avviato il lavoro agile per tutti i dipendenti la
 
 Metà marzo 2020 - Una notevole quantità di applicativi gestionali sono stati resi disponibili da remoto, come anche cartelle di lavoro tramite VPN.
 
-Fine marzo 2020 - La gestione documentale delle deliberazioni di giunta e di consiglio comunale sta per essere resa disponibile da un apposito applicativo.
+Fine marzo 2020 - La gestione documentale delle deliberazioni di giunta e di consiglio comunale sta per essere resa disponibile da un apposito applicativo. Sono state avviate attività di gruppo per effettuare analisi dei processi della delibera di giunta e di consiglio.
 
 La video riunione è diventata la forma di partecipazione alle riunioni tramite l'utilizzo dello strumento di Meet Google e lo strumento di Cisco Webex.
 
