@@ -15,9 +15,7 @@ La norma
 
 Con l'emergenza #coronavirus del marzo 2020, lo Stato ha emanato delle norme che consentono di avviare il lavoro agile superando la fase di sperimentalità prevista dalla norma di settore precedente all'emergenza.
 
-A questo \ |LINK1|\  un audio di Simone Chiarelli che illustra chiaramente l'applicazione dell'istituto del lavoro agile in regime di emergenza coronavirus.
-
-|REPLACE1|
+A questo \ |LINK1|\  un audio di Simone Chiarelli che illustra chiaramente l'applicazione nelle pubbliche amministrazioni dell'istituto del lavoro agile in regime di emergenza coronavirus.
 
 |
 
@@ -83,7 +81,7 @@ Metà marzo 2020 - Una notevole quantità di applicativi gestionali sono stati r
 
 Fine marzo 2020 - La gestione documentale delle deliberazioni di giunta e di consiglio comunale sta per essere resa disponibile da un apposito applicativo.
 
-La videoriunione è diventata la forma di partecipazione alle riunioni tramite l'utilizzo dello strumento di Meet Google e lo strumento di Cisco Webex.
+La video riunione è diventata la forma di partecipazione alle riunioni tramite l'utilizzo dello strumento di Meet Google e lo strumento di Cisco Webex.
 
 
 .. bottom of content
@@ -137,10 +135,6 @@ La videoriunione è diventata la forma di partecipazione alle riunioni tramite l
 
 .. |STYLE23| replace:: **Direttiva del Segretario Generale del 12 marzo 2020**
 
-
-.. |REPLACE1| raw:: html
-
-    <iframe width="100%" height="1500px" frameBorder="0" src="https://drive.google.com/open?id=1XvnZyeTHp8ItR7qSGWt-Iy4WSM2lTFRD"></iframe>
 
 .. |LINK1| raw:: html
 
