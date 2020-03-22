@@ -15,11 +15,9 @@ La norma
 
 Con l'emergenza #coronavirus del marzo 2020, lo Stato ha emanato delle norme che consentono di avviare il lavoro agile superando la fase di sperimentalità prevista dalla norma di settore precedente all'emergenza.
 
-\ |STYLE2|\ .
+\ |STYLE2|\ . Una pratica guida all'effettuazione del Lavoro Agile è rappresentata dal documento "\ |LINK1|\ " redatto dal Ministero della Pubblica Amministrazione.
 
-Una pratica guida all'effettuazione del Lavoro Agile è rappresentata dal documento "\ |LINK1|\ " redatto dal Ministero della Pubblica Amministrazione.
-
-A questo \ |LINK2|\  un audio di Simone Chiarelli che illustra chiaramente l'applicazione nelle pubbliche amministrazioni dell'istituto del lavoro agile in regime di emergenza coronavirus.
+\ |STYLE3|\ . A questo \ |LINK2|\  un audio di Simone Chiarelli che illustra chiaramente l'applicazione nelle pubbliche amministrazioni dell'istituto del lavoro agile in regime di emergenza coronavirus.
 
 |
 
@@ -30,17 +28,17 @@ Circolare n.1 del marzo 2020 del Ministero della Pubblica Amministrazione
 
 Il Ministero della Pubblica Amministrazione ha pubblicato la \ |LINK3|\ .
 
-\ |STYLE3|\ 
+\ |STYLE4|\ 
 
-* \ |STYLE4|\  \ |STYLE5|\ \ |STYLE6|\ 
+* \ |STYLE5|\  \ |STYLE6|\ \ |STYLE7|\ 
 
-* \ |STYLE7|\ \ |STYLE8|\ \ |STYLE9|\ 
+* \ |STYLE8|\ \ |STYLE9|\ \ |STYLE10|\ 
 
-* \ |STYLE10|\ \ |STYLE11|\ 
+* \ |STYLE11|\ \ |STYLE12|\ 
 
-* \ |STYLE12|\  \ |STYLE13|\ \ |STYLE14|\  \ |STYLE15|\  \ |STYLE16|\ 
+* \ |STYLE13|\  \ |STYLE14|\ \ |STYLE15|\  \ |STYLE16|\  \ |STYLE17|\ 
 
-* \ |STYLE17|\  \ |STYLE18|\  \ |STYLE19|\ .
+* \ |STYLE18|\  \ |STYLE19|\  \ |STYLE20|\ .
 
 .. _hf3d351517332719163c027b1117:
 
@@ -51,11 +49,11 @@ Le novità introdotte con la \ |LINK4|\  sono:
 
 * le attività dovranno essere assicurate tramite una rotazione dei dipendenti per garantire il giusto distanziamento;
 
-* il \ |STYLE20|\  ed essere esteso anche ad attività escluse in precedenza. Inoltre, non sono più previste soglie minime o massime;
-
-* \ |STYLE21|\ ;
+* il \ |STYLE21|\  ed essere esteso anche ad attività escluse in precedenza. Inoltre, non sono più previste soglie minime o massime;
 
 * \ |STYLE22|\ ;
+
+* \ |STYLE23|\ ;
 
 * le presenze di persona del pubblico vanno scaglionate e organizzate per evitare assembramenti.
 
@@ -70,7 +68,7 @@ Decreto Legge del 17 marzo 2020 "Cura Italia"
 
 Il Decreto Legge "Cura Italia" (17.03.2020) \ |LINK5|\   "semplificazioni in materia di organi collegiali". 
 
-\ |STYLE23|\ , purché siano individuati sistemi che consentano di identificare con certezza i partecipanti, sia assicurata la regolarità dello  svolgimento  delle  sedute  e  vengano  garantiti  lo  svolgimento  delle  funzioni  di  cui  all’articolo  97  del decreto legislativo 18 agosto 2000, n. 267, nonché adeguata pubblicità delle sedute, ove previsto, secondo le modalità individuate da ciascun ente.
+\ |STYLE24|\ , purché siano individuati sistemi che consentano di identificare con certezza i partecipanti, sia assicurata la regolarità dello  svolgimento  delle  sedute  e  vengano  garantiti  lo  svolgimento  delle  funzioni  di  cui  all’articolo  97  del decreto legislativo 18 agosto 2000, n. 267, nonché adeguata pubblicità delle sedute, ove previsto, secondo le modalità individuate da ciascun ente.
 
 |
 
@@ -79,7 +77,7 @@ Il Decreto Legge "Cura Italia" (17.03.2020) \ |LINK5|\   "semplificazioni in mat
 Le attività del comune di Palermo
 *********************************
 
-Con una \ |STYLE24|\  è stato avviato il lavoro agile per tutti i dipendenti la cui prestazione lavorativa può essere svolta da remoto.
+Con una \ |STYLE25|\  è stato avviato il lavoro agile per tutti i dipendenti la cui prestazione lavorativa può essere svolta da remoto.
 
 Metà marzo 2020 - Una notevole quantità di applicativi gestionali sono stati resi disponibili da remoto, come anche cartelle di lavoro tramite VPN.
 
@@ -99,49 +97,51 @@ E' stato creato un Google Gruppo per migliorare l'efficacia della comunicazione 
 
 .. |STYLE2| replace:: **Guida Pratica al Lavoro Agile**
 
-.. |STYLE3| replace:: *Tra le misure e gli strumenti, anche informatici, a cui le pubbliche amministrazioni, nell’esercizio dei poteri datoriali e della propria autonomia organizzativa, possono ricorrere per incentivare l’utilizzo di modalità flessibili di svolgimento a distanza della prestazione lavorativa, si evidenzia l’importanza:*
+.. |STYLE3| replace:: **Chiarimenti sull'applicazione della norma recente nella Pubblica Amministrazione**
 
-.. |STYLE4| replace:: *del*
+.. |STYLE4| replace:: *Tra le misure e gli strumenti, anche informatici, a cui le pubbliche amministrazioni, nell’esercizio dei poteri datoriali e della propria autonomia organizzativa, possono ricorrere per incentivare l’utilizzo di modalità flessibili di svolgimento a distanza della prestazione lavorativa, si evidenzia l’importanza:*
 
-.. |STYLE5| replace:: **ricorso, in via prioritaria, al lavoro agile come forma più evoluta anche di flessibilità di svolgimento della prestazione lavorativa**
+.. |STYLE5| replace:: *del*
 
-.. |STYLE6| replace:: *, in un’ottica di progressivo superamento del telelavoro;*
+.. |STYLE6| replace:: **ricorso, in via prioritaria, al lavoro agile come forma più evoluta anche di flessibilità di svolgimento della prestazione lavorativa**
 
-.. |STYLE7| replace:: *dell’*
+.. |STYLE7| replace:: *, in un’ottica di progressivo superamento del telelavoro;*
 
-.. |STYLE8| replace:: **utilizzo di soluzioni “cloud” per agevolare l’accesso condiviso a dati, informazioni e documenti**
+.. |STYLE8| replace:: *dell’*
 
-.. |STYLE9| replace:: *;*
+.. |STYLE9| replace:: **utilizzo di soluzioni “cloud” per agevolare l’accesso condiviso a dati, informazioni e documenti**
 
-.. |STYLE10| replace:: **del ricorso a strumenti per la partecipazione da remoto a riunioni e incontri di lavoro (sistemi di videoconferenza e call conference)**
+.. |STYLE10| replace:: *;*
 
-.. |STYLE11| replace:: *;*
+.. |STYLE11| replace:: **del ricorso a strumenti per la partecipazione da remoto a riunioni e incontri di lavoro (sistemi di videoconferenza e call conference)**
 
-.. |STYLE12| replace:: *del*
+.. |STYLE12| replace:: *;*
 
-.. |STYLE13| replace:: **ricorso alle modalità flessibili di svolgimento della prestazione lavorativa anche nei casi in cui il dipendente si renda disponibile ad utilizzare propri dispositivi, a fronte dell’indisponibilità o insufficienza di dotazione informatica da parte dell’amministrazione**
+.. |STYLE13| replace:: *del*
 
-.. |STYLE14| replace:: *, garantendo*
+.. |STYLE14| replace:: **ricorso alle modalità flessibili di svolgimento della prestazione lavorativa anche nei casi in cui il dipendente si renda disponibile ad utilizzare propri dispositivi, a fronte dell’indisponibilità o insufficienza di dotazione informatica da parte dell’amministrazione**
 
-.. |STYLE15| replace:: **adeguati livelli di sicurezza e protezione della rete**
+.. |STYLE15| replace:: *, garantendo*
 
-.. |STYLE16| replace:: *secondo le esigenze e le modalità definite dalle singole pubbliche amministrazioni;*
+.. |STYLE16| replace:: **adeguati livelli di sicurezza e protezione della rete**
 
-.. |STYLE17| replace:: *dell’attivazione di un*
+.. |STYLE17| replace:: *secondo le esigenze e le modalità definite dalle singole pubbliche amministrazioni;*
 
-.. |STYLE18| replace:: **sistema bilanciato di reportistica interna ai fini dell’ottimizzazione della produttività**
+.. |STYLE18| replace:: *dell’attivazione di un*
 
-.. |STYLE19| replace:: *anche in un’ottica di progressiva integrazione con il sistema di misurazione e valutazione della performance*
+.. |STYLE19| replace:: **sistema bilanciato di reportistica interna ai fini dell’ottimizzazione della produttività**
 
-.. |STYLE20| replace:: **lavoro agile dovrà diventare la modalità ordinaria**
+.. |STYLE20| replace:: *anche in un’ottica di progressiva integrazione con il sistema di misurazione e valutazione della performance*
 
-.. |STYLE21| replace:: **le riunioni in via telematica devono diventare la norma**
+.. |STYLE21| replace:: **lavoro agile dovrà diventare la modalità ordinaria**
 
-.. |STYLE22| replace:: **deve essere garantito il massimo accesso ai servizi per via informatica**
+.. |STYLE22| replace:: **le riunioni in via telematica devono diventare la norma**
 
-.. |STYLE23| replace:: **I consigli  dei  comuni,  delle province  e  delle  città metropolitane  e  le  giunte  comunali,  che  non  abbiano  regolamentato  modalità  di svolgimento delle sedute in videoconferenza, possono riunirsi secondo tali modalità, nel rispetto di criteri di trasparenza e tracciabilità previamente fissati dal presidente del consiglio, ove previsto, o dal sindaco**
+.. |STYLE23| replace:: **deve essere garantito il massimo accesso ai servizi per via informatica**
 
-.. |STYLE24| replace:: **Direttiva del Segretario Generale del 12 marzo 2020**
+.. |STYLE24| replace:: **I consigli  dei  comuni,  delle province  e  delle  città metropolitane  e  le  giunte  comunali,  che  non  abbiano  regolamentato  modalità  di svolgimento delle sedute in videoconferenza, possono riunirsi secondo tali modalità, nel rispetto di criteri di trasparenza e tracciabilità previamente fissati dal presidente del consiglio, ove previsto, o dal sindaco**
+
+.. |STYLE25| replace:: **Direttiva del Segretario Generale del 12 marzo 2020**
 
 
 .. |LINK1| raw:: html
