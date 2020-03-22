@@ -15,7 +15,9 @@ La norma
 
 Con l'emergenza #coronavirus del marzo 2020, lo Stato ha emanato delle norme che consentono di avviare il lavoro agile superando la fase di sperimentalità prevista dalla norma di settore precedente all'emergenza.
 
-A questo \ |LINK1|\  un audio di Simone Chiarelli che illustra chiaramente l'applicazione nelle pubbliche amministrazioni dell'istituto del lavoro agile in regime di emergenza coronavirus.
+Una pratica guida all'effettuazione del Lavoro Agile è rappresentata dal documento "\ |LINK1|\ " redatto dal Ministero della Pubblica Amministrazione.
+
+A questo \ |LINK2|\  un audio di Simone Chiarelli che illustra chiaramente l'applicazione nelle pubbliche amministrazioni dell'istituto del lavoro agile in regime di emergenza coronavirus.
 
 |
 
@@ -24,7 +26,7 @@ A questo \ |LINK1|\  un audio di Simone Chiarelli che illustra chiaramente l'app
 Circolare n.1 del marzo 2020 del Ministero della Pubblica Amministrazione
 =========================================================================
 
-Il Ministero della Pubblica Amministrazione ha pubblicato la \ |LINK2|\ .
+Il Ministero della Pubblica Amministrazione ha pubblicato la \ |LINK3|\ .
 
 \ |STYLE2|\ 
 
@@ -43,7 +45,7 @@ Il Ministero della Pubblica Amministrazione ha pubblicato la \ |LINK2|\ .
 Direttiva 2/2020 del Ministero della Pubblica Amministrazione
 =============================================================
 
-Le novità introdotte con la \ |LINK3|\  sono:
+Le novità introdotte con la \ |LINK4|\  sono:
 
 * le attività dovranno essere assicurate tramite una rotazione dei dipendenti per garantire il giusto distanziamento;
 
@@ -64,7 +66,7 @@ Le novità introdotte con la \ |LINK3|\  sono:
 Decreto Legge del 17 marzo 2020 "Cura Italia"
 =============================================
 
-Il Decreto Legge "Cura Italia" (17.03.2020) \ |LINK4|\   "semplificazioni in materia di organi collegiali". 
+Il Decreto Legge "Cura Italia" (17.03.2020) \ |LINK5|\   "semplificazioni in materia di organi collegiali". 
 
 \ |STYLE22|\ , purché siano individuati sistemi che consentano di identificare con certezza i partecipanti, sia assicurata la regolarità dello  svolgimento  delle  sedute  e  vengano  garantiti  lo  svolgimento  delle  funzioni  di  cui  all’articolo  97  del decreto legislativo 18 agosto 2000, n. 267, nonché adeguata pubblicità delle sedute, ove previsto, secondo le modalità individuate da ciascun ente.
 
@@ -140,17 +142,21 @@ E' stato creato un Google Gruppo per migliorare l'efficacia della comunicazione 
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/file/d/1XvnZyeTHp8ItR7qSGWt-Iy4WSM2lTFRD/view" target="_blank">link</a>
+    <a href="http://www.funzionepubblica.gov.it/articolo/dipartimento/12-03-2020/guida-pratica-al-lavoro-agile-nella-pa" target="_blank">Guida pratica al lavoro agile nella PA, COVID-19A</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://www.funzionepubblica.gov.it/articolo/dipartimento/04-03-2020/circolare-n1-del-2020" target="_blank">Circolare n.1 del marzo 2020</a>
+    <a href="https://drive.google.com/file/d/1XvnZyeTHp8ItR7qSGWt-Iy4WSM2lTFRD/view" target="_blank">link</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://www.funzionepubblica.gov.it/articolo/ministro/12-03-2020/pa-ecco-la-nuova-direttiva-di-funzione-pubblica-sull%E2%80%99emergenza-covid-19" target="_blank">Direttiva 2/2020</a>
+    <a href="http://www.funzionepubblica.gov.it/articolo/dipartimento/04-03-2020/circolare-n1-del-2020" target="_blank">Circolare n.1 del marzo 2020</a>
 
 .. |LINK4| raw:: html
+
+    <a href="http://www.funzionepubblica.gov.it/articolo/ministro/12-03-2020/pa-ecco-la-nuova-direttiva-di-funzione-pubblica-sull%E2%80%99emergenza-covid-19" target="_blank">Direttiva 2/2020</a>
+
+.. |LINK5| raw:: html
 
     <a href="http://www.funzionepubblica.gov.it/sites/funzionepubblica.gov.it/files/documenti/SW_COVID/decreto_17mar_20.pdf#page=36" target="_blank">prevede all'art.73</a>
 
