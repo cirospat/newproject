@@ -77,15 +77,15 @@ Il Decreto Legge "Cura Italia" (17.03.2020) \ |LINK5|\   "semplificazioni in mat
 Le attività del comune di Palermo
 *********************************
 
-Con una \ |STYLE25|\  è stato avviato il lavoro agile per tutti i dipendenti la cui prestazione lavorativa può essere svolta da remoto.
+➽ Con una \ |STYLE25|\  è stato avviato il lavoro agile per tutti i dipendenti la cui prestazione lavorativa può essere svolta da remoto.
 
-Metà marzo 2020 - Una notevole quantità di applicativi gestionali sono stati resi disponibili da remoto, come anche cartelle di lavoro tramite VPN.
+➽ Metà marzo 2020 - Una notevole quantità di applicativi gestionali sono stati resi disponibili da remoto, come anche cartelle di lavoro tramite VPN.
 
-Fine marzo 2020 - La gestione documentale delle deliberazioni di giunta e di consiglio comunale sta per essere resa disponibile da un apposito applicativo. Sono state avviate attività di gruppo per effettuare analisi dei processi della delibera di giunta e di consiglio.
+➽ Fine marzo 2020 - La gestione documentale delle deliberazioni di giunta e di consiglio comunale sta per essere resa disponibile da un apposito applicativo. Sono state avviate attività di gruppo per effettuare analisi dei processi della delibera di giunta e di consiglio.
 
-La video riunione è diventata la forma di partecipazione alle riunioni tramite l'utilizzo dello strumento di Meet Google e lo strumento di Cisco Webex.
+➽ La video riunione è diventata la forma di partecipazione alle riunioni tramite l'utilizzo dello strumento di Meet Google e lo strumento di Cisco Webex.
 
-E' stato creato un Google Gruppo per migliorare l'efficacia della comunicazione interna del personale comunale (dirigenti, assessori, consiglieri, funzionari, dipendenti) in questo periodo di emergenza coronavirus.
+➽ E' stato creato un Google Gruppo per migliorare l'efficacia della comunicazione interna del personale comunale (dirigenti, assessori, consiglieri, funzionari, dipendenti) in questo periodo di emergenza coronavirus.
 
 
 .. bottom of content
@@ -95,9 +95,9 @@ E' stato creato un Google Gruppo per migliorare l'efficacia della comunicazione 
 
 .. |STYLE1| replace:: **lavoro agile**
 
-.. |STYLE2| replace:: **Guida Pratica al Lavoro Agile**
+.. |STYLE2| replace:: **➽ Guida Pratica al Lavoro Agile**
 
-.. |STYLE3| replace:: **Chiarimenti sull'applicazione della norma recente nella Pubblica Amministrazione**
+.. |STYLE3| replace:: **➽ Chiarimenti sull'applicazione della norma recente nella Pubblica Amministrazione**
 
 .. |STYLE4| replace:: *Tra le misure e gli strumenti, anche informatici, a cui le pubbliche amministrazioni, nell’esercizio dei poteri datoriali e della propria autonomia organizzativa, possono ricorrere per incentivare l’utilizzo di modalità flessibili di svolgimento a distanza della prestazione lavorativa, si evidenzia l’importanza:*
 
