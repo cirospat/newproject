@@ -77,6 +77,7 @@ Il Decreto Legge "Cura Italia" (17.03.2020) \ |LINK6|\   "semplificazioni in mat
 La sicurezza in lavoro agile
 ============================
 
+L'AGID ha redatto un \ |LINK7|\  per garantire la sicurezza informatica del lavoratore della pubblica amministrazione in modalità lavoro agile, da casa.
 
 |REPLACE1|
 
@@ -183,4 +184,8 @@ Le attività del comune di Palermo
 .. |LINK6| raw:: html
 
     <a href="http://www.funzionepubblica.gov.it/sites/funzionepubblica.gov.it/files/documenti/SW_COVID/decreto_17mar_20.pdf#page=36" target="_blank">prevede all'art.73</a>
+
+.. |LINK7| raw:: html
+
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/03/17/smart-working-vademecum-lavorare-online-sicurezza" target="_blank">semplice vademecum</a>
 
