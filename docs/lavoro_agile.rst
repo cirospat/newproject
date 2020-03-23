@@ -72,6 +72,16 @@ Il Decreto Legge "Cura Italia" (17.03.2020) \ |LINK6|\   "semplificazioni in mat
 
 |
 
+.. _h49301f4d5d324a4a407b254e394316c:
+
+La sicurezza in lavoro agile
+============================
+
+
+|REPLACE1|
+
+|
+
 .. _h4d451b60181c6b407e5b422dd636017:
 
 Le attività del comune di Palermo
@@ -143,6 +153,12 @@ Le attività del comune di Palermo
 
 .. |STYLE25| replace:: **Direttiva del Segretario Generale del 12 marzo 2020**
 
+
+.. |REPLACE1| raw:: html
+
+    <img src="https://www.cert-pa.it/wp-content/uploads/2020/03/thumbnail_SMARTWORKING-4.jpg" /> 
+    <br></br>
+     Il vademecum per lavorare online in sicurezza in modalità lavoro agile, a cura dell'AGID
 
 .. |LINK1| raw:: html
 
