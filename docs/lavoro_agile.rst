@@ -72,10 +72,10 @@ Il Decreto Legge "Cura Italia" (17.03.2020) \ |LINK6|\   "semplificazioni in mat
 
 |
 
-.. _h49301f4d5d324a4a407b254e394316c:
+.. _h252941163c216369546d22674a6b42:
 
-La sicurezza in lavoro agile
-============================
+La sicurezza informatica in lavoro agile
+========================================
 
 L'AGID ha redatto un \ |LINK7|\  per garantire la sicurezza informatica del lavoratore della pubblica amministrazione in modalità lavoro agile, da casa.
 
