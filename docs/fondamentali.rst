@@ -72,9 +72,9 @@ Piano Triennale per l'Informatica nella Pubblica Amministrazione
 
 --------
 
-.. _h6d3b72656266d7d39c6231b6112:
+.. _ha55d4f75e553633616f21527729:
 
-Ciclo di webinar dedicati all'innovazione digitale organizzato da FormezPA nell'ambito della convenzione con AgID "ItaliaLogin" servizi digitali.
+Ciclo di webinar dedicati all'innovazione digitale organizzato da FormezPA nell'ambito della convenzione con AGID "ItaliaLogin" servizi digitali.
 *************************************************************************************************************************************************
 
 \ |LINK8|\ 
@@ -92,9 +92,9 @@ Linee Guida su acquisizione e riuso di software per le Pubbliche Amministrazioni
 
 |
 
-.. _h1d3cf51276d62b5e694c532f3b7f24:
+.. _h4e4d55724a50373c2d7b2b6b5b1e467:
 
-Catalogo del software open source a disposizione della Pubblica Amministrazione (AgID + Team Trasformazione Digitale)
+Catalogo del software open source a disposizione della Pubblica Amministrazione (AGID + Team Trasformazione Digitale)
 *********************************************************************************************************************
 
 \ |LINK10|\ 
@@ -306,9 +306,9 @@ Sicurezza Cibernetica: iniziative e azioni per amministrazioni più sicure (webi
 
 --------
 
-.. _h6a94c325865135e210131462116f21:
+.. _h28175a7e4e5c5a3d564d7a32244f557:
 
-Risk Tool Assesment (AgID). Supporto alle PA per comprendere e affrontare iniziative e rischi legati alla sicurezza informatica.
+Risk Tool Assesment (AGID). Supporto alle PA per comprendere e affrontare iniziative e rischi legati alla sicurezza informatica.
 ********************************************************************************************************************************
 
 Web service \ |LINK44|\  per valutare i livelli di rischi a cui sono esposti i servizi digitali delle PA e per attivare eventuali azioni volte a mitigare o annullare i rischi individuati. L'azione fa parte del \ |STYLE6|\ , \ |LINK45|\ .
@@ -358,12 +358,12 @@ Linee guida sull’accessibilità degli strumenti informatici
 
 --------
 
-.. _h20317f541333bf387b4e14f297f6e:
+.. _h16382342d3a1d401c7f572374297445:
 
-Guida per attivare il Login eIDAS per le PA (a cura di AgID), che consente l’interoperabilità transfrontaliera delle identità digitali (eID).
+Guida per attivare il Login eIDAS per le PA (a cura di AGID), che consente l’interoperabilità transfrontaliera delle identità digitali (eID).
 *********************************************************************************************************************************************
 
-La sua implementazione permette la circolarità delle eID italiane fra gli stati membri dell’UE. \ |LINK57|\  a cura dell'AgID. [#SPID identità digitale]
+La sua implementazione permette la circolarità delle eID italiane fra gli stati membri dell’UE. \ |LINK57|\  a cura dell'AGID. [#SPID identità digitale]
 
 --------
 
@@ -381,13 +381,13 @@ Conoscere i fabbisogni, le consultazioni di mercato, gli appalti innovativi dell
 Linee guida per l’erogazione del servizio pubblico wifi free
 ************************************************************
 
-\ |LINK59|\  a cura dell'AgID.
+\ |LINK59|\  a cura dell'AGID.
 
 --------
 
-.. _h2d47712f144518330295245663e4e4:
+.. _h544931e6f4e2146d7f4c565661447:
 
-Linee guida Agid per lo sviluppo del software sicuro nella PA
+Linee guida AGID per lo sviluppo del software sicuro nella PA
 *************************************************************
 
 \ |LINK60|\  si compongono di \ |LINK61|\  e 4 allegati:
@@ -433,7 +433,7 @@ Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente d
 Linee Guida sulla formazione, gestione e conservazione dei documenti informatici
 ********************************************************************************
 
-\ |LINK70|\  (dal sito AgID). 
+\ |LINK70|\  (dal sito AGID). 
 
 Le \ |LINK71|\  (su Docs Italia) sono emanate secondo la procedura prevista dall’art. 71 “\ |LINK72|\ ” del Codice dell’Amministrazione digitale (CAD) e hanno il duplice scopo di:
 
@@ -454,14 +454,16 @@ Regolano le modalità atte a garantire la sicurezza, integrità e immodificabili
 
 \ |LINK73|\ 
 
+\ |LINK74|\ 
+
 --------
 
-.. _h6d36130320142147531f3f286c145b:
+.. _h23511c76353e651677456b1375683454:
 
-Linee Guida per l’identificazione degli utenti da parte delle PA (AgID)
+Linee Guida per l’identificazione degli utenti da parte delle PA (AGID)
 ***********************************************************************
 
-\ |LINK74|\   -  \ |LINK75|\ 
+\ |LINK75|\   -  \ |LINK76|\ 
 
 --------
 
@@ -470,7 +472,7 @@ Linee Guida per l’identificazione degli utenti da parte delle PA (AgID)
 Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 ********************************************************************************
 
-\ |LINK76|\  include un ampio excursus relativo all’evoluzione dell’informatica pubblica nella direzione di un progresso verso il Digital Government, un'analisi incentrata principalmente su tre cardini: il CAD, ovvero il Codice dell’Amministrazione  Digitale,  l’Agenda  Digitale italiana  e  il  Piano  Triennale  per l’informatica.
+\ |LINK77|\  include un ampio excursus relativo all’evoluzione dell’informatica pubblica nella direzione di un progresso verso il Digital Government, un'analisi incentrata principalmente su tre cardini: il CAD, ovvero il Codice dell’Amministrazione  Digitale,  l’Agenda  Digitale italiana  e  il  Piano  Triennale  per l’informatica.
 
 --------
 
@@ -502,7 +504,7 @@ Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 
 .. |STYLE7| replace:: **Cloud First**
 
-.. |STYLE8| replace:: *(Adriano Avenia, AgID).*
+.. |STYLE8| replace:: *(Adriano Avenia, AGID).*
 
 .. |STYLE9| replace:: *A queste linee guida dovranno riferirsi gli enti pubblici per la redazione/aggiornamento dei manuali di formazione, gestione e conservazione del documento informatico*
 
@@ -516,7 +518,7 @@ Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 .. |REPLACE3| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/j1PGeUthii0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    <span class="footer_small">Misure minime di sicurezza ICT (AgID) e ruolo del CERT-PA, Computer Emergency Response Team Pubblica Amministrazione, che opera all’interno di AgID e ha il compito di supportare le amministrazioni nella prevenzione e nella risposta agli incidenti di sicurezza informatica.</span>
+    <span class="footer_small">Misure minime di sicurezza ICT (AGID) e ruolo del CERT-PA, Computer Emergency Response Team Pubblica Amministrazione, che opera all’interno di AGID e ha il compito di supportare le amministrazioni nella prevenzione e nella risposta agli incidenti di sicurezza informatica.</span>
 .. |REPLACE4| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
@@ -649,7 +651,7 @@ Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 
 .. |LINK27| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/professioni-ict.pdf" target="_blank">LINEE GUIDA (AgID) per la qualità delle competenze digitali nelle professionalità ICT - anno 2017</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/professioni-ict.pdf" target="_blank">LINEE GUIDA (AGID) per la qualità delle competenze digitali nelle professionalità ICT - anno 2017</a>
 
 .. |LINK28| raw:: html
 
@@ -837,13 +839,17 @@ Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 
 .. |LINK74| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/index.php?id_oggetto=28&id_doc=122120&id_sez_ori=0&template_ori=1" target="_blank">Linee Guida</a>
+    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_122208_725_1.html" target="_blank">Determinazione n.157/2020 del 23 marzo 2020 dell'AGID - Emanazione delle Linee Guida per la sottoscrizione elettronica di documenti ai sensi dell’art. 20 del CAD</a>
 
 .. |LINK75| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/11/25/spid-emanate-linee-guida-lidentificazione-degli-utenti-parte-pa" target="_blank">Comunicato stampa</a>
+    <a href="https://trasparenza.agid.gov.it/index.php?id_oggetto=28&id_doc=122120&id_sez_ori=0&template_ori=1" target="_blank">Linee Guida</a>
 
 .. |LINK76| raw:: html
+
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/11/25/spid-emanate-linee-guida-lidentificazione-degli-utenti-parte-pa" target="_blank">Comunicato stampa</a>
+
+.. |LINK77| raw:: html
 
     <a href="https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=01147fe7-0659-4be4-80c7-a226c3dbb98f" target="_blank">Il documento</a>
 
