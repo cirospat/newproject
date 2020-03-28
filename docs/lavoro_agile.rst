@@ -17,7 +17,9 @@ Con l'emergenza #coronavirus del marzo 2020, lo Stato ha emanato delle norme che
 
 \ |STYLE2|\ . Una pratica guida all'effettuazione del Lavoro Agile è rappresentata dal documento "\ |LINK1|\ " redatto dal Ministero della Pubblica Amministrazione.
 
-\ |STYLE3|\ . A questo \ |LINK2|\  un audio di \ |LINK3|\  che illustra chiaramente l'applicazione nelle pubbliche amministrazioni dell'istituto del lavoro agile in regime di emergenza coronavirus.
+\ |STYLE3|\ . Vai al \ |LINK2|\ .
+
+\ |STYLE4|\ . A questo \ |LINK3|\  un audio di \ |LINK4|\  che illustra chiaramente l'applicazione nelle pubbliche amministrazioni dell'istituto del lavoro agile in regime di emergenza coronavirus.
 
 |
 
@@ -26,34 +28,34 @@ Con l'emergenza #coronavirus del marzo 2020, lo Stato ha emanato delle norme che
 Circolare n.1 del marzo 2020 del Ministero della Pubblica Amministrazione
 =========================================================================
 
-Il Ministero della Pubblica Amministrazione ha pubblicato la \ |LINK4|\ .
+Il Ministero della Pubblica Amministrazione ha pubblicato la \ |LINK5|\ .
 
-\ |STYLE4|\ 
+\ |STYLE5|\ 
 
-* \ |STYLE5|\  \ |STYLE6|\ \ |STYLE7|\ 
+* \ |STYLE6|\  \ |STYLE7|\ \ |STYLE8|\ 
 
-* \ |STYLE8|\ \ |STYLE9|\ \ |STYLE10|\ 
+* \ |STYLE9|\ \ |STYLE10|\ \ |STYLE11|\ 
 
-* \ |STYLE11|\ \ |STYLE12|\ 
+* \ |STYLE12|\ \ |STYLE13|\ 
 
-* \ |STYLE13|\  \ |STYLE14|\ \ |STYLE15|\  \ |STYLE16|\  \ |STYLE17|\ 
+* \ |STYLE14|\  \ |STYLE15|\ \ |STYLE16|\  \ |STYLE17|\  \ |STYLE18|\ 
 
-* \ |STYLE18|\  \ |STYLE19|\  \ |STYLE20|\ .
+* \ |STYLE19|\  \ |STYLE20|\  \ |STYLE21|\ .
 
 .. _hf3d351517332719163c027b1117:
 
 Direttiva 2/2020 del Ministero della Pubblica Amministrazione
 =============================================================
 
-Le novità introdotte con la \ |LINK5|\  sono:
+Le novità introdotte con la \ |LINK6|\  sono:
 
 * le attività dovranno essere assicurate tramite una rotazione dei dipendenti per garantire il giusto distanziamento;
 
-* il \ |STYLE21|\  ed essere esteso anche ad attività escluse in precedenza. Inoltre, non sono più previste soglie minime o massime;
-
-* \ |STYLE22|\ ;
+* il \ |STYLE22|\  ed essere esteso anche ad attività escluse in precedenza. Inoltre, non sono più previste soglie minime o massime;
 
 * \ |STYLE23|\ ;
+
+* \ |STYLE24|\ ;
 
 * le presenze di persona del pubblico vanno scaglionate e organizzate per evitare assembramenti.
 
@@ -66,9 +68,9 @@ Le novità introdotte con la \ |LINK5|\  sono:
 Decreto Legge del 17 marzo 2020 "Cura Italia"
 =============================================
 
-Il Decreto Legge "Cura Italia" (17.03.2020) \ |LINK6|\   "semplificazioni in materia di organi collegiali". 
+Il Decreto Legge "Cura Italia" (17.03.2020) \ |LINK7|\   "semplificazioni in materia di organi collegiali". 
 
-\ |STYLE24|\ , purché siano individuati sistemi che consentano di identificare con certezza i partecipanti, sia assicurata la regolarità dello  svolgimento  delle  sedute  e  vengano  garantiti  lo  svolgimento  delle  funzioni  di  cui  all’articolo  97  del decreto legislativo 18 agosto 2000, n. 267, nonché adeguata pubblicità delle sedute, ove previsto, secondo le modalità individuate da ciascun ente.
+\ |STYLE25|\ , purché siano individuati sistemi che consentano di identificare con certezza i partecipanti, sia assicurata la regolarità dello  svolgimento  delle  sedute  e  vengano  garantiti  lo  svolgimento  delle  funzioni  di  cui  all’articolo  97  del decreto legislativo 18 agosto 2000, n. 267, nonché adeguata pubblicità delle sedute, ove previsto, secondo le modalità individuate da ciascun ente.
 
 |
 
@@ -77,7 +79,7 @@ Il Decreto Legge "Cura Italia" (17.03.2020) \ |LINK6|\   "semplificazioni in mat
 La sicurezza informatica in lavoro agile
 ========================================
 
-L'AGID ha redatto un \ |LINK7|\  per garantire la sicurezza informatica del lavoratore della pubblica amministrazione in modalità lavoro agile, da casa.
+L'AGID ha redatto un \ |LINK8|\  per garantire la sicurezza informatica del lavoratore della pubblica amministrazione in modalità lavoro agile, da casa.
 
 |REPLACE1|
 
@@ -88,7 +90,7 @@ L'AGID ha redatto un \ |LINK7|\  per garantire la sicurezza informatica del lavo
 Le attività del comune di Palermo
 *********************************
 
-➽ Con una \ |STYLE25|\  è stato avviato il lavoro agile per tutti i dipendenti la cui prestazione lavorativa può essere svolta da remoto.
+➽ Con una \ |STYLE26|\  è stato avviato il lavoro agile per tutti i dipendenti la cui prestazione lavorativa può essere svolta da remoto.
 
 ➽ Metà marzo 2020 - Una notevole quantità di applicativi gestionali sono stati resi disponibili da remoto, come anche cartelle di lavoro tramite VPN.
 
@@ -108,51 +110,53 @@ Le attività del comune di Palermo
 
 .. |STYLE2| replace:: **➽ Guida Pratica al Lavoro Agile**
 
-.. |STYLE3| replace:: **➽ Chiarimenti sull'applicazione della norma recente nella Pubblica Amministrazione**
+.. |STYLE3| replace:: **➽ L'area del Ministero della Pubblica Amministrazione dedicato al "Lavoro Agile"**
 
-.. |STYLE4| replace:: *Tra le misure e gli strumenti, anche informatici, a cui le pubbliche amministrazioni, nell’esercizio dei poteri datoriali e della propria autonomia organizzativa, possono ricorrere per incentivare l’utilizzo di modalità flessibili di svolgimento a distanza della prestazione lavorativa, si evidenzia l’importanza:*
+.. |STYLE4| replace:: **➽ Chiarimenti sull'applicazione della norma recente nella Pubblica Amministrazione**
 
-.. |STYLE5| replace:: *del*
+.. |STYLE5| replace:: *Tra le misure e gli strumenti, anche informatici, a cui le pubbliche amministrazioni, nell’esercizio dei poteri datoriali e della propria autonomia organizzativa, possono ricorrere per incentivare l’utilizzo di modalità flessibili di svolgimento a distanza della prestazione lavorativa, si evidenzia l’importanza:*
 
-.. |STYLE6| replace:: **ricorso, in via prioritaria, al lavoro agile come forma più evoluta anche di flessibilità di svolgimento della prestazione lavorativa**
+.. |STYLE6| replace:: *del*
 
-.. |STYLE7| replace:: *, in un’ottica di progressivo superamento del telelavoro;*
+.. |STYLE7| replace:: **ricorso, in via prioritaria, al lavoro agile come forma più evoluta anche di flessibilità di svolgimento della prestazione lavorativa**
 
-.. |STYLE8| replace:: *dell’*
+.. |STYLE8| replace:: *, in un’ottica di progressivo superamento del telelavoro;*
 
-.. |STYLE9| replace:: **utilizzo di soluzioni “cloud” per agevolare l’accesso condiviso a dati, informazioni e documenti**
+.. |STYLE9| replace:: *dell’*
 
-.. |STYLE10| replace:: *;*
+.. |STYLE10| replace:: **utilizzo di soluzioni “cloud” per agevolare l’accesso condiviso a dati, informazioni e documenti**
 
-.. |STYLE11| replace:: **del ricorso a strumenti per la partecipazione da remoto a riunioni e incontri di lavoro (sistemi di videoconferenza e call conference)**
+.. |STYLE11| replace:: *;*
 
-.. |STYLE12| replace:: *;*
+.. |STYLE12| replace:: **del ricorso a strumenti per la partecipazione da remoto a riunioni e incontri di lavoro (sistemi di videoconferenza e call conference)**
 
-.. |STYLE13| replace:: *del*
+.. |STYLE13| replace:: *;*
 
-.. |STYLE14| replace:: **ricorso alle modalità flessibili di svolgimento della prestazione lavorativa anche nei casi in cui il dipendente si renda disponibile ad utilizzare propri dispositivi, a fronte dell’indisponibilità o insufficienza di dotazione informatica da parte dell’amministrazione**
+.. |STYLE14| replace:: *del*
 
-.. |STYLE15| replace:: *, garantendo*
+.. |STYLE15| replace:: **ricorso alle modalità flessibili di svolgimento della prestazione lavorativa anche nei casi in cui il dipendente si renda disponibile ad utilizzare propri dispositivi, a fronte dell’indisponibilità o insufficienza di dotazione informatica da parte dell’amministrazione**
 
-.. |STYLE16| replace:: **adeguati livelli di sicurezza e protezione della rete**
+.. |STYLE16| replace:: *, garantendo*
 
-.. |STYLE17| replace:: *secondo le esigenze e le modalità definite dalle singole pubbliche amministrazioni;*
+.. |STYLE17| replace:: **adeguati livelli di sicurezza e protezione della rete**
 
-.. |STYLE18| replace:: *dell’attivazione di un*
+.. |STYLE18| replace:: *secondo le esigenze e le modalità definite dalle singole pubbliche amministrazioni;*
 
-.. |STYLE19| replace:: **sistema bilanciato di reportistica interna ai fini dell’ottimizzazione della produttività**
+.. |STYLE19| replace:: *dell’attivazione di un*
 
-.. |STYLE20| replace:: *anche in un’ottica di progressiva integrazione con il sistema di misurazione e valutazione della performance*
+.. |STYLE20| replace:: **sistema bilanciato di reportistica interna ai fini dell’ottimizzazione della produttività**
 
-.. |STYLE21| replace:: **lavoro agile dovrà diventare la modalità ordinaria**
+.. |STYLE21| replace:: *anche in un’ottica di progressiva integrazione con il sistema di misurazione e valutazione della performance*
 
-.. |STYLE22| replace:: **le riunioni in via telematica devono diventare la norma**
+.. |STYLE22| replace:: **lavoro agile dovrà diventare la modalità ordinaria**
 
-.. |STYLE23| replace:: **deve essere garantito il massimo accesso ai servizi per via informatica**
+.. |STYLE23| replace:: **le riunioni in via telematica devono diventare la norma**
 
-.. |STYLE24| replace:: **I consigli  dei  comuni,  delle province  e  delle  città metropolitane  e  le  giunte  comunali,  che  non  abbiano  regolamentato  modalità  di svolgimento delle sedute in videoconferenza, possono riunirsi secondo tali modalità, nel rispetto di criteri di trasparenza e tracciabilità previamente fissati dal presidente del consiglio, ove previsto, o dal sindaco**
+.. |STYLE24| replace:: **deve essere garantito il massimo accesso ai servizi per via informatica**
 
-.. |STYLE25| replace:: **Direttiva del Segretario Generale del 12 marzo 2020**
+.. |STYLE25| replace:: **I consigli  dei  comuni,  delle province  e  delle  città metropolitane  e  le  giunte  comunali,  che  non  abbiano  regolamentato  modalità  di svolgimento delle sedute in videoconferenza, possono riunirsi secondo tali modalità, nel rispetto di criteri di trasparenza e tracciabilità previamente fissati dal presidente del consiglio, ove previsto, o dal sindaco**
+
+.. |STYLE26| replace:: **Direttiva del Segretario Generale del 12 marzo 2020**
 
 
 .. |REPLACE1| raw:: html
@@ -167,25 +171,29 @@ Le attività del comune di Palermo
 
 .. |LINK2| raw:: html
 
-    <a href="https://drive.google.com/file/d/1XvnZyeTHp8ItR7qSGWt-Iy4WSM2lTFRD/view" target="_blank">link</a>
+    <a href="http://www.funzionepubblica.gov.it/Lavoro%20agile%20e%20COVID-19" target="_blank">link</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.youtube.com/user/simonechiarelli" target="_blank">Simone Chiarelli</a>
+    <a href="https://drive.google.com/file/d/1XvnZyeTHp8ItR7qSGWt-Iy4WSM2lTFRD/view" target="_blank">link</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://www.funzionepubblica.gov.it/articolo/dipartimento/04-03-2020/circolare-n1-del-2020" target="_blank">Circolare n.1 del marzo 2020</a>
+    <a href="https://www.youtube.com/user/simonechiarelli" target="_blank">Simone Chiarelli</a>
 
 .. |LINK5| raw:: html
 
-    <a href="http://www.funzionepubblica.gov.it/articolo/ministro/12-03-2020/pa-ecco-la-nuova-direttiva-di-funzione-pubblica-sull%E2%80%99emergenza-covid-19" target="_blank">Direttiva 2/2020</a>
+    <a href="http://www.funzionepubblica.gov.it/articolo/dipartimento/04-03-2020/circolare-n1-del-2020" target="_blank">Circolare n.1 del marzo 2020</a>
 
 .. |LINK6| raw:: html
 
-    <a href="http://www.funzionepubblica.gov.it/sites/funzionepubblica.gov.it/files/documenti/SW_COVID/decreto_17mar_20.pdf#page=36" target="_blank">prevede all'art.73</a>
+    <a href="http://www.funzionepubblica.gov.it/articolo/ministro/12-03-2020/pa-ecco-la-nuova-direttiva-di-funzione-pubblica-sull%E2%80%99emergenza-covid-19" target="_blank">Direttiva 2/2020</a>
 
 .. |LINK7| raw:: html
+
+    <a href="http://www.funzionepubblica.gov.it/sites/funzionepubblica.gov.it/files/documenti/SW_COVID/decreto_17mar_20.pdf#page=36" target="_blank">prevede all'art.73</a>
+
+.. |LINK8| raw:: html
 
     <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/03/17/smart-working-vademecum-lavorare-online-sicurezza" target="_blank">semplice vademecum</a>
 
