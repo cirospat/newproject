@@ -100,6 +100,8 @@ Le attività del comune di Palermo
 
 ➽ E' stato creato un Google Gruppo per migliorare l'efficacia della comunicazione interna del personale comunale (dirigenti, assessori, consiglieri, funzionari, dipendenti) in questo periodo di emergenza coronavirus.
 
+➽ E' stato creato uno spazio web quale cassetta degli attrezzi digitali per rendere quanto più semplice la modalità di Lavoro Agile del personale comunale: sites.google.com/comune.palermo.it/lavoroagile. Lo spazio contiene la normativa recente del Lavoro Agile, le modalità di predisposizione delle deliberazioni in modalità esclusivamente digitale, i tutorial per l'uso di Google Drive, Meet Google per le vide riunioni, il database degli applicativi comunali resi disponibili da remoto, e altro ancora. Un punto di riferimento unico per operare in modalità digitale, senza il supporto della carta.
+
 
 .. bottom of content
 
