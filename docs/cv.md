@@ -4,9 +4,6 @@
 
 ------
 
-# Curriculum Vitae 
-
-
 <table>
   <tr>
    <td colspan="2" ><strong>INFORMAZIONI PERSONALI / PERSONAL INFO</strong>
