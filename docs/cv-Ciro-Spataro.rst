@@ -158,9 +158,9 @@ Curriculum Vitae
 
 
 
-.. admonition:: Formato aperto del CV
+.. admonition:: Formato e aggiornamento del CV
 
-    Il CV che **è aggiornato al 21 giugno 2019** ed è disponibile a questo \ |LINK36|\  per essere scaricato in diversi formati (pdf, odt, docx).
+    Il CV **è aggiornato al 21 giugno 2019** ed è disponibile a questo \ |LINK36|\  per essere scaricato in diversi formati (pdf, odt, docx).
 
 
 .. bottom of content
