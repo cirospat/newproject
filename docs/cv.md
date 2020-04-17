@@ -273,7 +273,7 @@ Redazione FPA, gennaio 2019. Come pubblicare documenti online con il format di '
 </table>
 
 
-|**CV aggiornato al 21 giugno 2019**
+| **CV aggiornato al 21 giugno 2019**
 
 
 <table>
