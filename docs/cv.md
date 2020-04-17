@@ -4,7 +4,7 @@
 
 ------
 
-# Curriculum Vitae
+## Curriculum Vitae
 
 aggiornato al 21 giugno 2019
 
