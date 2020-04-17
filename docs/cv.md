@@ -4,7 +4,9 @@
 
 ------
 
-# Curriculum Vitae 
+# Curriculum Vitae
+
+aggiornato al 21 giugno 2019
 
 
 <table>
@@ -273,16 +275,4 @@ Redazione FPA, gennaio 2019. Come pubblicare documenti online con il format di '
 </table>
 
 
-| **CV aggiornato al 21 giugno 2019**
-
-
-<table>
-  <tr>
-   <td><code>Formato aperto del CV</code>
-   </td>
-  </tr>
-  <tr>
-   <td><code>Il CV che stai visualizzando è disponibile a questo <a href="https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA">link</a> per essere scaricato in diversi formati (pdf, odt, docx).</code>
-   </td>
-  </tr>
-</table>
+Il CV è disponibile a questo [link](https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA) per essere scaricato in diversi formati (`pdf`, `odt`, `docx`).
