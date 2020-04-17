@@ -5,7 +5,6 @@ Fondamentali per la #PA digitale
 #################################
 
 
-|REPLACE1|
 
 .. _bookmark-id-5ak5khujvzst:
 
@@ -511,9 +510,7 @@ Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 .. |STYLE9| replace:: *A queste linee guida dovranno riferirsi gli enti pubblici per la redazione/aggiornamento dei manuali di formazione, gestione e conservazione del documento informatico*
 
 
-.. |REPLACE1| raw:: html
 
-    <img src="https://img.shields.io/badge/fondamentali-amministrazione_digitale-blue.svg?style=popout&logo=Read%20the%20Docs" />
 .. |REPLACE2| raw:: html
 
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/riuso.jpg" width= 900 />
