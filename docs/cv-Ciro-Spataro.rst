@@ -156,12 +156,11 @@ Curriculum Vitae
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
-|REPLACE1|
 
 
 .. admonition:: Formato aperto del CV
 
-    Il CV che stai visualizzando è disponibile a questo \ |LINK36|\  per essere scaricato in diversi formati (pdf, odt, docx).
+    Il CV che **è aggiornato al 21 giugno 2019** ed è disponibile a questo \ |LINK36|\  per essere scaricato in diversi formati (pdf, odt, docx).
 
 
 .. bottom of content
@@ -176,11 +175,7 @@ Curriculum Vitae
 .. |STYLE3| replace:: **INTERESSI E RETI / INTERESTS AND NETWORKING**
 
 
-.. |REPLACE1| raw:: html
 
-    <img alt="undefined" src="https://img.shields.io/badge/CV_di_Ciro_Spataro-aggiornato_al_21_giugno_2019-blue.svg" />
-    </br>
-    <img alt="undefined" src="https://img.shields.io/badge/CV_of_Ciro_Spataro-updated_to_june_21_2019-blue.svg" />
 
 .. |LINK1| raw:: html
 
