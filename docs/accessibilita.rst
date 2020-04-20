@@ -361,7 +361,7 @@ Si ritiene, pertanto, \ |LINK30|\ , rendendo accessibili i documenti emessi dai 
 Il documento originale non è quello cartaceo ma quello informatico (art. 23 ter CAD)
 ====================================================================================
 
-\ |LINK31|\  da cui è possibile effettuare, su diversi o identici tipi di supporto, duplicazioni e copie per gli usi consentiti dalla legge.
+Gli atti formati dalle pubbliche amministrazioni con strumenti informatici, nonché i   dati e i documenti informatici detenuti dalle stesse, costituiscono informazione primaria ed originale da cui è possibile effettuare, su diversi o identici tipi di supporto, duplicazioni e copie per gli usi consentiti dalla legge.
 
 Non possiamo più sostenere la tesi che i documenti formati con le tecnologie ICT per essere validi devono essere sempre sostenuti da un documento cartaceo.
 
@@ -370,7 +370,7 @@ Non possiamo più sostenere la tesi che i documenti formati con le tecnologie IC
 Art. 23-ter CAD comma 5 bis: documenti amministrativi informatici
 =================================================================
 
-\ |LINK32|\ , applicando i criteri di accessibilità definiti dai requisiti tecnici di cui all'articolo 11 della legge 9 gennaio 2004, n. 4.
+I documenti di cui al presente articolo devono essere fruibili indipendentemente dalla condizione di disabilità personale, applicando i criteri di accessibilità definiti dai requisiti tecnici di cui all'articolo 11 della legge 9 gennaio 2004, n. 4.
 
 Oltre ad essere obbligatoriamente in formato digitale, il documento amministrativo prodotto dalle PA DEVE essere accessibile.
 
@@ -394,7 +394,7 @@ Necessario ripensare l’organizzazione documentale:
 Accessibilità e pubblicità legale on line
 =========================================
 
-Legge 18 giugno 2009, n. 69, Art. 32. (\ |LINK33|\ ).
+Legge 18 giugno 2009, n. 69, Art. 32. (Eliminazione degli sprechi relativi al mantenimento di documenti in forma cartacea).
 
 A far data dal 1º gennaio 2011, gli obblighi di pubblicazione di atti e provvedimenti amministrativi aventi effetto di pubblicità legale si intendono assolti con la pubblicazione nei propri siti informatici da parte delle amministrazioni e degli enti pubblici obbligati. La pubblicazione è effettuata nel rispetto dei principi di eguaglianza e di non discriminazione, applicando i requisiti tecnici di accessibilità di cui all’articolo 11 della legge 9 gennaio 2004, n.4. La mancata pubblicazione nei termini di cui al periodo precedente è altresì rilevante ai fini della misurazione e della Valutazione della performance individuale dei dirigenti responsabili.
 
@@ -403,7 +403,7 @@ A far data dal 1º gennaio 2011, gli obblighi di pubblicazione di atti e provved
 Decreto Legislativo n. 33/2013: Amministrazione Trasparente
 ===========================================================
 
-Art. 7 - \ |LINK34|\ . I documenti, le informazioni e i dati oggetto di pubblicazione obbligatoria ai sensi della normativa vigente,  resi disponibili  anche a seguito dell'accesso civico di cui all'articolo 5, sono pubblicati in formato di tipo aperto ai sensi dell'articolo 68 del Codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, e sono riutilizzabili ai sensi del decreto legislativo 24 gennaio 2006, n. 36, del decreto legislativo 7 marzo 2005, n. 82, e del decreto legislativo 30 giugno 2003, n. 196, senza ulteriori restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità.
+Art. 7 - Dati di tipo aperto. I documenti, le informazioni e i dati oggetto di pubblicazione obbligatoria ai sensi della normativa vigente,  resi disponibili  anche a seguito dell'accesso civico di cui all'articolo 5, sono pubblicati in formato di tipo aperto ai sensi dell'articolo 68 del Codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, e sono riutilizzabili ai sensi del decreto legislativo 24 gennaio 2006, n. 36, del decreto legislativo 7 marzo 2005, n. 82, e del decreto legislativo 30 giugno 2003, n. 196, senza ulteriori restrizioni diverse dall'obbligo di citare la fonte e di rispettarne l'integrità.
 
 .. _h1244232a6f67058daf1760126164:
 
@@ -427,14 +427,14 @@ PDF «scansionato» e trasparenza amministrativa
 
 Un PDF generato da una PA e scansionato non è una buona soluzione né per la gestione quotidiana, né per la pubblicazione all’albo o in amministrazione trasparente. 
 
-\ |LINK35|\ .
+\ |LINK31|\ .
 
 .. _h605283363127101f4916686062782d:
 
 Faq AgID su Accessibilità
 =========================
 
-\ |LINK36|\ .
+\ |LINK32|\ .
 
 .. _h162a1c527340644075241e6506d745a:
 
@@ -451,37 +451,37 @@ Evitiamo questi «orrori» di accessibilità
 Check the Accessibility of a PDF Document - controlla l'accessibilità di un documento PDF
 =========================================================================================
 
-\ |LINK37|\  servizio online di verifica.
+\ |LINK33|\  servizio online di verifica.
 
 .. _h171259274967202c6f5e52136554626b:
 
 Strumenti open source per le verifiche di accessibilità:
 ========================================================
 
-\ |LINK38|\  (a cura di AgID):
+\ |LINK34|\  (a cura di AgID):
 
-* \ |LINK39|\ 
+* \ |LINK35|\ 
 
-* \ |LINK40|\ : (tool da scaricare)
+* \ |LINK36|\ : (tool da scaricare)
 
-* \ |LINK41|\ 
+* \ |LINK37|\ 
+
+* \ |LINK38|\ 
+
+* Web Developer Toolbar: \ |LINK39|\ ; \ |LINK40|\ ;
+
+* \ |LINK41|\ : estensione per il browser Chrome
 
 * \ |LINK42|\ 
 
-* Web Developer Toolbar: \ |LINK43|\ ; \ |LINK44|\ ;
-
-* \ |LINK45|\ : estensione per il browser Chrome
-
-* \ |LINK46|\ 
-
-* \ |LINK47|\  sono elencati all’interno del sito del \ |LINK48|\ 
+* \ |LINK43|\  sono elencati all’interno del sito del \ |LINK44|\ 
 
 .. _h6f3f6d3c14b78734f3e48262a48261a:
 
 Linee guida sull’accessibilità degli strumenti informatici
 ==========================================================
 
-\ |LINK49|\  comprendono i seguenti documenti:
+\ |LINK45|\  comprendono i seguenti documenti:
 
 * Allegato 1. Modello di dichiarazione di accessibilità sito Web e applicazione mobile
 
@@ -491,9 +491,9 @@ Linee guida sull’accessibilità degli strumenti informatici
 
 .. admonition:: Determinazione AGID n. 437 del 20 dicembre 2019
 
-    \ |LINK50|\ 
+    \ |LINK46|\ 
 
-\ |LINK51|\  (\ |LINK52|\ ).
+\ |LINK47|\  (\ |LINK48|\ ).
 
 
 .. bottom of content
@@ -652,89 +652,73 @@ Linee guida sull’accessibilità degli strumenti informatici
 
 .. |LINK31| raw:: html
 
-    <a href="https://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=23&art.versione=4&art.codiceRedazionale=005G0104&art.dataPubblicazioneGazzetta=2005-05-16&atto.tipoProvvedimento=DECRETO%20LEGISLATIVO&art.idGruppo=4&art.idSottoArticolo1=10&art.idSottoArticolo=3&art.flagTipoArticolo=0#art" target="_blank">Gli atti formati dalle pubbliche amministrazioni con strumenti informatici, nonché i   dati e i documenti informatici detenuti dalle stesse, costituiscono informazione primaria ed originale</a>
+    <a href="https://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Trasparenza/Vigilanza/VigilanzaUfficio/2014/AziendeSanitarie/Rapporti/Azienda-USL-2-di-LuccaRapporto.pdf" target="_blank">Vedi documento ANAC</a>
 
 .. |LINK32| raw:: html
 
-    <a href="https://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=23&art.versione=4&art.codiceRedazionale=005G0104&art.dataPubblicazioneGazzetta=2005-05-16&atto.tipoProvvedimento=DECRETO%20LEGISLATIVO&art.idGruppo=4&art.idSottoArticolo1=10&art.idSottoArticolo=3&art.flagTipoArticolo=0#art" target="_blank">I documenti di cui al presente articolo devono essere fruibili indipendentemente dalla condizione di disabilità personale</a>
+    <a href="https://www.agid.gov.it/it/domande-frequenti/accessibilit%C3%A0" target="_blank">Vedi le domande frequenti su accessibilità, sul portale AgID</a>
 
 .. |LINK33| raw:: html
 
-    <a href="https://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=32&art.versione=4&art.codiceRedazionale=009G0069&art.dataPubblicazioneGazzetta=2009-06-19&atto.tipoProvvedimento=LEGGE&art.idGruppo=3&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=0#art" target="_blank">Eliminazione degli sprechi relativi al mantenimento di documenti in forma cartacea</a>
+    <a href="http://checkers.eiii.eu/en/pdfcheck/" target="_blank">http://checkers.eiii.eu/en/pdfcheck</a>
 
 .. |LINK34| raw:: html
 
-    <a href="https://www.normattiva.it/atto/caricaArticolo?art.progressivo=0&art.idArticolo=7&art.versione=1&art.codiceRedazionale=13G00076&art.dataPubblicazioneGazzetta=2013-04-05&atto.tipoProvvedimento=DECRETO%20LEGISLATIVO&art.idGruppo=1&art.idSottoArticolo1=10&art.idSottoArticolo=1&art.flagTipoArticolo=0#art" target="_blank">Dati di tipo aperto</a>
+    <a href="https://drive.google.com/file/d/1SPwrcoGE5f4AiSuX3C9lMJ-zWFQ0bCqb/view" target="_blank">Strumenti open source per le verifiche di accessibilità</a>
 
 .. |LINK35| raw:: html
 
-    <a href="https://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Trasparenza/Vigilanza/VigilanzaUfficio/2014/AziendeSanitarie/Rapporti/Azienda-USL-2-di-LuccaRapporto.pdf" target="_blank">Vedi documento ANAC</a>
+    <a href="http://validator.w3.org/" target="_blank">Validatore W3C</a>
 
 .. |LINK36| raw:: html
 
-    <a href="https://www.agid.gov.it/it/domande-frequenti/accessibilit%C3%A0" target="_blank">Vedi le domande frequenti su accessibilità, sul portale AgID</a>
+    <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank">Colour Contrast Analyzer</a>
 
 .. |LINK37| raw:: html
 
-    <a href="http://checkers.eiii.eu/en/pdfcheck/" target="_blank">http://checkers.eiii.eu/en/pdfcheck</a>
+    <a href="https://contrastchecker.com/" target="_blank">Contrastchecker</a>
 
 .. |LINK38| raw:: html
 
-    <a href="https://drive.google.com/file/d/1SPwrcoGE5f4AiSuX3C9lMJ-zWFQ0bCqb/view" target="_blank">Strumenti open source per le verifiche di accessibilità</a>
+    <a href="https://webaim.org/resources/contrastchecker/" target="_blank">WebAIM</a>
 
 .. |LINK39| raw:: html
 
-    <a href="http://validator.w3.org/" target="_blank">Validatore W3C</a>
+    <a href="https://addons.mozilla.org/it/firefox/addon/web-developer/" target="_blank">Firefox</a>
 
 .. |LINK40| raw:: html
 
-    <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank">Colour Contrast Analyzer</a>
+    <a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=it" target="_blank">Chrome</a>
 
 .. |LINK41| raw:: html
 
-    <a href="https://contrastchecker.com/" target="_blank">Contrastchecker</a>
+    <a href="https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc" target="_blank">Siteimprove Browser Extensions</a>
 
 .. |LINK42| raw:: html
 
-    <a href="https://webaim.org/resources/contrastchecker/" target="_blank">WebAIM</a>
+    <a href="https://www.freedomscientific.com/products/software/jaws/" target="_blank">JAWS Screen Reader</a>
 
 .. |LINK43| raw:: html
 
-    <a href="https://addons.mozilla.org/it/firefox/addon/web-developer/" target="_blank">Firefox</a>
+    <a href="https://www.w3.org/WAI/ER/tools/" target="_blank">Ulteriori strumenti</a>
 
 .. |LINK44| raw:: html
 
-    <a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=it" target="_blank">Chrome</a>
+    <a href="https://www.w3.org/WAI/ER/tools/" target="_blank">W3C</a>
 
 .. |LINK45| raw:: html
 
-    <a href="https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc" target="_blank">Siteimprove Browser Extensions</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html" target="_blank">Le linee guida sull'accessibilità degli strumenti informatici</a>
 
 .. |LINK46| raw:: html
 
-    <a href="https://www.freedomscientific.com/products/software/jaws/" target="_blank">JAWS Screen Reader</a>
+    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_122158_725_1.html" target="_blank">Adozione delle Linee Guida sull’accessibilità degli strumenti informatici</a>
 
 .. |LINK47| raw:: html
 
-    <a href="https://www.w3.org/WAI/ER/tools/" target="_blank">Ulteriori strumenti</a>
-
-.. |LINK48| raw:: html
-
-    <a href="https://www.w3.org/WAI/ER/tools/" target="_blank">W3C</a>
-
-.. |LINK49| raw:: html
-
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html" target="_blank">Le linee guida sull'accessibilità degli strumenti informatici</a>
-
-.. |LINK50| raw:: html
-
-    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_122158_725_1.html" target="_blank">Adozione delle Linee Guida sull’accessibilità degli strumenti informatici</a>
-
-.. |LINK51| raw:: html
-
     <a href="https://form.agid.gov.it/" target="_blank">Piattaforma online per la verifica del rispetto dei requisiti per l'accessibilità dei siti e servizi web della PA</a>
 
-.. |LINK52| raw:: html
+.. |LINK48| raw:: html
 
     <a href="https://form.agid.gov.it/" target="_blank">https://form.agid.gov.it</a>
 
