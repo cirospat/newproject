@@ -415,6 +415,10 @@ newscount= il numero delle news da visualizzare come output della query
 
 --------
 
+\ |STYLE8|\ 
+
+\ |LINK87|\ 
+
 
 .. bottom of content
 
@@ -434,6 +438,8 @@ newscount= il numero delle news da visualizzare come output della query
 .. |STYLE6| replace:: **⇒ Nominatim Openstreetmap**
 
 .. |STYLE7| replace:: **Generatore di Feed:**
+
+.. |STYLE8| replace:: **Badge img shields**
 
 
 .. |REPLACE1| raw:: html
@@ -792,4 +798,8 @@ newscount= il numero delle news da visualizzare come output della query
 .. |LINK86| raw:: html
 
     <a href="https://groups.google.com/forum/#!topic/opendatasicilia/mj4rOt3VUNg" target="_blank">vedi tutorial di Andrea Borruso</a>
+
+.. |LINK87| raw:: html
+
+    <a href="https://img.shields.io/badge/fondamentali-amministrazione_digitale-red?style=popout&logo=Read%20the%20Docs" target="_blank">https://img.shields.io/badge/fondamentali-amministrazione_digitale-red?style=popout&logo=Read%20the%20Docs</a>
 
