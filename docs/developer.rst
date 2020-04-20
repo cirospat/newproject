@@ -415,7 +415,10 @@ newscount= il numero delle news da visualizzare come output della query
 
 --------
 
-\ |STYLE8|\ 
+.. _h231f6c11635e136146664a627213879:
+
+Badge img shields
+=================
 
 \ |LINK87|\ 
 
@@ -438,8 +441,6 @@ newscount= il numero delle news da visualizzare come output della query
 .. |STYLE6| replace:: **⇒ Nominatim Openstreetmap**
 
 .. |STYLE7| replace:: **Generatore di Feed:**
-
-.. |STYLE8| replace:: **Badge img shields**
 
 
 .. |REPLACE1| raw:: html
