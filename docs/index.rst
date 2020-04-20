@@ -21,7 +21,6 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 * \ |LINK5|\ .
 
-
 |REPLACE3|
 
 |
@@ -149,6 +148,8 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Reti di impegno</span></strong>
 .. |REPLACE3| raw:: html
 
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/repubblica-digitale-logo.png" width=220 />  
+    </br>
     <a href="https://innovazione.gov.it/it/repubblica-digitale/" target="_blank"><b>Questo spazio rappresenta un contributo alla costruzione della "Repubblica Digitale"</b></a> iniziativa del Team Trasformazione Digitale (2017-2019) a supporto del Ministero per l'Innovazione Tecnologica e la Digitalizzazione 
 .. |REPLACE4| raw:: html
 
@@ -164,7 +165,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <img src="https://img.shields.io/badge/%22GitHub%22-for_code_setting-red.svg?style=popout&logo=GitHub&logoColor=orange" />
     </br>
     <img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_publishing_online-blue.svg?style=popout&logo=Read%20the%20Docs" />
-    <p><a href="http://googledocs.readthedocs.io" target="_blank" rel="noopener" title="tutorial: Google docs to Read the Docs"><img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" /></a></p>
+    <p><a href="http://googledocs.readthedocs.io" target="_blank" rel="noopener" title="tutorial: Google docs to Read the Docs"><img src="https://ggeditor.readthedocs.io/en/latest/_images/index_2.png" /></a></p>
 .. |REPLACE7| raw:: html
 
     <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 1px 9px; border-radius: 4px;">Indice dei contenuti</span></span></strong></h3>
