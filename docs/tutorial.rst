@@ -160,7 +160,7 @@ Manuali vari
     <img src="https://raw.githubusercontent.com/cirospat/paniere-dataset-enti-locali/master/docs/img/opendatalombardia.JPG" />
 .. |REPLACE5| raw:: html
 
-    <img src="https://ggeditor.readthedocs.io/en/latest/_images/index_1.png" width=350 />
+    <img src="https://googledocs.readthedocs.io/it/latest/_images/gdocs-rtd_1.png" width=350 />
 .. |REPLACE6| raw:: html
 
     <img src="https://wiki.openstreetmap.org/w/images/8/8f/Umap_logo.svg" />
