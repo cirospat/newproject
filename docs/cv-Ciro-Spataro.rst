@@ -161,7 +161,7 @@ Curriculum Vitae
 |profilo / \ |STYLE33|\                                                                      |\ |LINK35|\                                                                                                                                                                                                                                                                                                                                                 |
 +--------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Il CV è disponibile a questo \ |LINK36|\  per essere scaricato in diversi formati (pdf, odt, docx).
+Il CV è disponibile a questo \ |LINK36|\  per essere scaricato in diversi formati (``pdf``, ``odt``, ``docx``).
 
 
 .. bottom of content
@@ -246,7 +246,7 @@ Il CV è disponibile a questo \ |LINK36|\  per essere scaricato in diversi forma
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.comune.palermo.it/unita.php?apt=4&uo=1770&serv=394&sett=138" target="_blank">UO transizione al digitale</a>
+    <a href="https://www.comune.palermo.it/unita.php?apt=4&uo=2188&serv=1056&sett=230" target="_blank">UO transizione al digitale</a>
 
 .. |LINK4| raw:: html
 
