@@ -15,11 +15,11 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 |REPLACE2|
 
-* \ |LINK1|\ ;
+\ |LINK1|\ ;
 
-* \ |LINK2|\ ; \ |LINK3|\ ; \ |LINK4|\ ;
+\ |LINK2|\ ; \ |LINK3|\ ; \ |LINK4|\ ;
 
-* \ |LINK5|\ .
+\ |LINK5|\ .
 
 |REPLACE3|
 
@@ -148,8 +148,6 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Reti di impegno</span></strong>
 .. |REPLACE3| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/repubblica-digitale-logo.png" width=220 />  
-    </br>
     <a href="https://innovazione.gov.it/it/repubblica-digitale/" target="_blank"><b>Questo spazio rappresenta un contributo alla costruzione della "Repubblica Digitale"</b></a> iniziativa del Team Trasformazione Digitale (2017-2019) a supporto del Ministero per l'Innovazione Tecnologica e la Digitalizzazione 
 .. |REPLACE4| raw:: html
 
