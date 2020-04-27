@@ -422,6 +422,14 @@ Badge img shields
 
 \ |LINK87|\ 
 
+--------
+
+web service per creare loghi e icone 
+
+\ |LINK88|\  
+
+--------
+
 
 .. bottom of content
 
@@ -803,4 +811,8 @@ Badge img shields
 .. |LINK87| raw:: html
 
     <a href="https://img.shields.io/badge/fondamentali-amministrazione_digitale-red?style=popout&logo=Read%20the%20Docs" target="_blank">https://img.shields.io/badge/fondamentali-amministrazione_digitale-red?style=popout&logo=Read%20the%20Docs</a>
+
+.. |LINK88| raw:: html
+
+    <a href="https://www.canva.com/" target="_blank">https://www.canva.com/</a>
 
