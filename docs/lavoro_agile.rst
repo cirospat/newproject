@@ -74,14 +74,29 @@ Il Decreto Legge "Cura Italia" (17.03.2020) \ |LINK7|\   "semplificazioni in mat
 
 |
 
+.. _h5c3376d2f28593b306f1d5a5e5b7b:
+
+Direttiva 3/2000 del Ministero della Pubblica Amministrazione
+=============================================================
+
+\ |LINK8|\ .  \ |STYLE26|\ 
+
+Si riportano alcuni tratti salienti.
+
+Le misure finora adottate rispetto all’intero territorio nazionale per il contenimento della situazione epidemiologica non hanno previsto la sospensione dell’erogazione dei servizi da parte delle pubbliche amministrazioni, pur essendo finalizzate a ridurre la presenza dei dipendenti negli uffici e ad evitare il loro spostamento. Anche nel citato DPCM 26 aprile 2020 l’attività svolta dalla amministrazione pubblica continua ad essere inserita nell’allegato 3 ossia tra le attività non sospese, fermo restando \ |STYLE27|\ .
+
+Nello scenario attuale, dunque, \ |STYLE28|\  che, tuttavia, deve essere letta alla luce delle misure di ripresa della fase due introdotte dallo stesso DPCM 26 aprile 2020 che ha ampliato il novero delle attività economiche (Ateco) non più soggette a sospensione. In quest’ottica, le pubbliche amministrazioni continuano a garantire l’attività amministrativa e a tal fine possono rivedere le attività indifferibili, ampliando il novero di quelle individuate in prima battuta, e quelle da rendere in presenza anche per assicurare il necessario supporto all’immediata ripresa delle attività produttive, industriali e commerciali secondo quanto disposto dal citato DPCM 26 aprile 2020 e dalle future misure normative.
+
+Resta fermo che le attività che \ |STYLE29|\ . Nella fase attuale, le amministrazioni dovranno valutare, in particolare, se le nuove o maggiori attività possano continuare a essere svolte con le modalità organizzative finora messe in campo ovvero se le stesse debbano essere ripensate a garanzia dei servizi pubblici da assicurare alla collettività.
+
+|
+
 .. _h252941163c216369546d22674a6b42:
 
 La sicurezza informatica in lavoro agile
 ========================================
 
-L'AGID ha redatto un \ |LINK8|\  per garantire la sicurezza informatica del lavoratore della pubblica amministrazione in modalità lavoro agile, da casa.
-
-|REPLACE1|
+L'AGID ha redatto un \ |LINK9|\  per garantire la sicurezza informatica del lavoratore della pubblica amministrazione in modalità lavoro agile, da casa.
 
 |
 
@@ -90,7 +105,7 @@ L'AGID ha redatto un \ |LINK8|\  per garantire la sicurezza informatica del lavo
 Le attività del comune di Palermo
 *********************************
 
-➽ Con una \ |STYLE26|\  è stato avviato il lavoro agile per tutti i dipendenti la cui prestazione lavorativa può essere svolta da remoto.
+➽ Con una \ |STYLE30|\  è stato avviato il lavoro agile per tutti i dipendenti la cui prestazione lavorativa può essere svolta da remoto.
 
 ➽ Metà marzo 2020 - Una notevole quantità di applicativi gestionali sono stati resi disponibili da remoto, come anche cartelle di lavoro tramite VPN.
 
@@ -98,9 +113,9 @@ Le attività del comune di Palermo
 
 ➽ La video riunione è diventata la forma di partecipazione alle riunioni tramite l'utilizzo dello strumento di Meet Google e lo strumento di Cisco Webex.
 
-➽ E' stato creato un Google Gruppo per migliorare l'efficacia della comunicazione interna del personale comunale (dirigenti, assessori, consiglieri, funzionari, dipendenti) in questo periodo di emergenza coronavirus.
+➽ E' stato creato un Google Gruppo denominato \ |LINK10|\  per migliorare l'efficacia della comunicazione interna del personale comunale (dirigenti, assessori, consiglieri, funzionari, dipendenti) in questo periodo di emergenza coronavirus.
 
-➽ E' stato creato uno spazio web quale cassetta degli attrezzi digitali per rendere quanto più semplice la modalità di Lavoro Agile del personale comunale: `Comune di Palermo, lavoro agile <https://sites.google.com/comune.palermo.it/lavoroagile>`_. Lo spazio contiene la normativa recente del Lavoro Agile, le modalità di predisposizione delle deliberazioni in modalità esclusivamente digitale, i tutorial per l'uso di Google Drive, Meet Google per le vide riunioni, il database degli applicativi comunali resi disponibili da remoto, e altro ancora. Un punto di riferimento unico per operare in modalità digitale, senza il supporto della carta.
+➽ E' stato creato uno spazio web quale cassetta degli attrezzi digitali per rendere quanto più semplice la modalità di Lavoro Agile del personale comunale: \ |LINK11|\ . Lo spazio contiene la normativa recente del Lavoro Agile, le modalità di predisposizione delle deliberazioni in modalità esclusivamente digitale, i tutorial per l'uso di Google Drive, Meet Google per le vide riunioni, il database degli applicativi comunali resi disponibili da remoto, e altro ancora. Un punto di riferimento unico per operare in modalità digitale, senza il supporto della carta.
 
 
 .. bottom of content
@@ -158,14 +173,16 @@ Le attività del comune di Palermo
 
 .. |STYLE25| replace:: **I consigli  dei  comuni,  delle province  e  delle  città metropolitane  e  le  giunte  comunali,  che  non  abbiano  regolamentato  modalità  di svolgimento delle sedute in videoconferenza, possono riunirsi secondo tali modalità, nel rispetto di criteri di trasparenza e tracciabilità previamente fissati dal presidente del consiglio, ove previsto, o dal sindaco**
 
-.. |STYLE26| replace:: **Direttiva del Segretario Generale del 12 marzo 2020**
+.. |STYLE26| replace:: **Modalità di svolgimento della prestazione lavorativa nell’evolversi della situazione epidemiologica da parte delle pubbliche amministrazioni.**
 
+.. |STYLE27| replace:: **il richiamo al predetto articolo 87 che, come detto, definisce il lavoro agile come modalità ordinaria di svolgimento della prestazione lavorativa**
 
-.. |REPLACE1| raw:: html
+.. |STYLE28| replace:: **la disciplina normativa applicabile alle pubbliche amministrazioni continua a rimanere quella contenuta nell’articolo 87**
 
-    <img src="https://www.cert-pa.it/wp-content/uploads/2020/03/thumbnail_SMARTWORKING-4.jpg" /> 
-    <br></br>
-     Il vademecum per lavorare online in sicurezza in modalità lavoro agile, a cura dell'AGID
+.. |STYLE29| replace:: **le amministrazioni sono chiamate a garantire possono essere svolte sia nella sede di lavoro – anche solo per alcune giornate, nei casi in cui il dipendente faccia parte del contingente minimo posto a presidio dell’ufficio – sia con modalità agile**
+
+.. |STYLE30| replace:: **Direttiva del Segretario Generale del 12 marzo 2020**
+
 
 .. |LINK1| raw:: html
 
@@ -197,5 +214,17 @@ Le attività del comune di Palermo
 
 .. |LINK8| raw:: html
 
+    <a href="http://www.funzionepubblica.gov.it/articolo/dipartimento/04-05-2020/direttiva-n-32020" target="_blank">Direttiva</a>
+
+.. |LINK9| raw:: html
+
     <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/03/17/smart-working-vademecum-lavorare-online-sicurezza" target="_blank">semplice vademecum</a>
+
+.. |LINK10| raw:: html
+
+    <a href="https://groups.google.com/forum/#!forum/aquile-agili" target="_blank">Aquile Agili</a>
+
+.. |LINK11| raw:: html
+
+    <a href="https://sites.google.com/comune.palermo.it/lavoroagile" target="_blank">sites.google.com/comune.palermo.it/lavoroagile</a>
 
