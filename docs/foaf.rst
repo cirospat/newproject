@@ -4,10 +4,6 @@
 Ontologia FOAF (friend of a friend) ``RDF``
 ###########################################
 
-\ |STYLE0|\ 
-
-|REPLACE1|
-
 \ |LINK1|\ 
 
 È un modo per descrivere te stesso -- il tuo nome, l'indirizzo di posta elettronica, ed i tuoi amici -- usando ``XML``  e ``RDF``. Ciò consente ad un software di elaborare queste descrizioni, magari all'interno di un motore di ricerca automatico, allo scopo di trovare informazioni su di te e sulle comunità delle quali fai parte. FOAF può portare a nuove interessanti possibilità di sviluppo per le comunità online.
@@ -68,34 +64,24 @@ Copia semplicemente la descrizione FOAF che hai generato e incollala in un file.
 
 Da un \ |LINK5|\ . 
 
+|REPLACE1|
+
+\ |STYLE0|\ : visualizza il \ |LINK6|\ .
+
+
 |REPLACE2|
-
-\ |STYLE1|\ : visualizza il \ |LINK6|\ .
-
-
-+----------------------------------------------------------------------------------+
-|Immagine in alto: \ |LINK7|\ . Pubblicato dal Metmuseum con Licenza Public Domain.|
-+----------------------------------------------------------------------------------+
-
-
-|REPLACE3|
 
 
 .. bottom of content
 
 
-.. |STYLE0| replace:: **FOAF (Friend Of A Friend)**
-
-.. |STYLE1| replace:: **Curiosità**
+.. |STYLE0| replace:: **Curiosità**
 
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/392571/769337/main-image" width="500" />
-.. |REPLACE2| raw:: html
-
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/foaf.PNG" />
-.. |REPLACE3| raw:: html
+.. |REPLACE2| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -144,8 +130,4 @@ Da un \ |LINK5|\ .
 .. |LINK6| raw:: html
 
     <a href="http://visualdataweb.de/webvowl/?fbclid=IwAR3sCncjweQDHVyJ2IhFfHM4O1OJSav66-qdr9AxZd6jy77V9ZrT8JB9k64" target="_blank">grafo dell'ontologia FOAF</a>
-
-.. |LINK7| raw:: html
-
-    <a href="https://www.metmuseum.org/art/collection/search/392571" target="_blank">John Bull and His Friends Commemorating the Peace</a>
 
