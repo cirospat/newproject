@@ -402,10 +402,10 @@ Linee guida AGID per lo sviluppo del software sicuro nella PA
 
 --------
 
-.. _h1d203f5c804b7e3f3e103d6c6b2e34:
+.. _h1745376b1d2e5c15635425f6e19155:
 
-Linee Guida sulla sicurezza nel procurement ICT
-***********************************************
+Linee Guida AGID sulla sicurezza nel procurement ICT
+****************************************************
 
 \ |LINK66|\ .
 
