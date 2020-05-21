@@ -436,6 +436,13 @@ Documenti di Riferimento per la sicurezza nel procurement ICT:
 Il modello Cloud della PA: come acquisire servizi cloud qualificati
 *******************************************************************
 
+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|IMPORTANTE                                                                                                                                                                     |
+|                                                                                                                                                                               |
+|A decorrere dal 1 aprile 2019, le Amministrazioni Pubbliche potranno acquisire esclusivamente servizi IaaS, PaaS e SaaS qualificati da AgID e pubblicati nel Cloud Marketplace.|
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
 \ |LINK76|\  del 19 marzo 2019 e materiali.
 
 \ |STYLE7|\  - Per Cloud First si intende la valutazione prioritaria sulla possibilità di ricorrere a strumenti e tecnologie di tipo cloud, nelle sue diverse articolazioni in modelli di servizio IaaS, PaaS e SaaS, nel momento in cui le pubbliche amministrazioni intendono acquisire sul mercato nuove soluzioni e servizi ICT per la realizzazione di un nuovo progetto o nuovi servizi destinati a cittadini, imprese o utenti interni alla PA. Per  sfruttare in pieno i vantaggi del cloud , è opportuno che le amministrazioni valutino in prima istanza la presenza di servizi SaaS (principio SaaS First) nel Catalogo dei servizi cloud qualificati per la PA che rispondono alle proprie esigenze e, solo in seconda istanza, prendere in considerazione soluzioni PaaS e infine IaaS. \ |STYLE8|\ 
