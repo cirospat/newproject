@@ -882,7 +882,7 @@ Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 
 .. |LINK77| raw:: html
 
-    <a href="https://cloud.italia.it/marketplace/supplier/market/index.html" target="_blank">Catalogo dei servizi Cloud per la PA qualificati</a>
+    <a href="https://cloud.italia.it/marketplace/" target="_blank">Catalogo dei servizi Cloud per la PA qualificati</a>
 
 .. |LINK78| raw:: html
 
