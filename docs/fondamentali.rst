@@ -5,6 +5,7 @@ Fondamentali per la #PA digitale
 #################################
 
 
+|REPLACE1|
 
 .. _bookmark-id-5ak5khujvzst:
 
@@ -401,16 +402,45 @@ Linee guida AGID per lo sviluppo del software sicuro nella PA
 
 --------
 
+.. _h1d203f5c804b7e3f3e103d6c6b2e34:
+
+Linee Guida sulla sicurezza nel procurement ICT
+***********************************************
+
+\ |LINK66|\ .
+
+* Allegato: \ |LINK67|\  (19/05/2020) 
+
+* Allegato: \ |LINK68|\  (19/05/2020) 
+
+Documenti di Riferimento per la sicurezza nel procurement ICT:
+
+* DR-1 ISO 22317 - Linee guida per Business Impact Analysis – \ |LINK69|\  
+
+* DR-2 ISO 27001 - Sistema di Gestione della Sicurezza delle Informazioni \ |LINK70|\  
+
+* DR-3 ISO 31000 Risk Management \ |LINK71|\  
+
+* DR-4 Linee guida sviluppo software sicuro \ |LINK72|\  
+
+* DR-5 Misure minime di sicurezza AgID \ |LINK73|\  
+
+* DR-6 ISO 15408 Standard Common Criteria \ |LINK74|\  
+
+* DR-7 ISO 1005 Gestione Qualità – Linee Guida per il piano di qualità \ |LINK75|\  
+
+--------
+
 .. _h5926215c436647565937122943611f4a:
 
 Il modello Cloud della PA: come acquisire servizi cloud qualificati
 *******************************************************************
 
-\ |LINK66|\  del 19 marzo 2019 e materiali.
+\ |LINK76|\  del 19 marzo 2019 e materiali.
 
 \ |STYLE7|\  - Per Cloud First si intende la valutazione prioritaria sulla possibilità di ricorrere a strumenti e tecnologie di tipo cloud, nelle sue diverse articolazioni in modelli di servizio IaaS, PaaS e SaaS, nel momento in cui le pubbliche amministrazioni intendono acquisire sul mercato nuove soluzioni e servizi ICT per la realizzazione di un nuovo progetto o nuovi servizi destinati a cittadini, imprese o utenti interni alla PA. Per  sfruttare in pieno i vantaggi del cloud , è opportuno che le amministrazioni valutino in prima istanza la presenza di servizi SaaS (principio SaaS First) nel Catalogo dei servizi cloud qualificati per la PA che rispondono alle proprie esigenze e, solo in seconda istanza, prendere in considerazione soluzioni PaaS e infine IaaS. \ |STYLE8|\ 
 
-\ |LINK67|\ . 
+\ |LINK77|\ . 
 
 --------
 
@@ -419,11 +449,11 @@ Il modello Cloud della PA: come acquisire servizi cloud qualificati
 Competenze digitali per la PA
 *****************************
 
-Iniziativa promossa dal Dipartimento della funzione pubblica nell’ambito del \ |LINK68|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione.
+Iniziativa promossa dal Dipartimento della funzione pubblica nell’ambito del \ |LINK78|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione.
 
 Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi.
 
-\ |LINK69|\ .
+\ |LINK79|\ .
 
 --------
 
@@ -432,9 +462,9 @@ Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente d
 Linee Guida sulla formazione, gestione e conservazione dei documenti informatici
 ********************************************************************************
 
-\ |LINK70|\  (dal sito AGID). 
+\ |LINK80|\  (dal sito AGID). 
 
-Le \ |LINK71|\  (su Docs Italia) sono emanate secondo la procedura prevista dall’art. 71 “\ |LINK72|\ ” del Codice dell’Amministrazione digitale (CAD) e hanno il duplice scopo di:
+Le \ |LINK81|\  (su Docs Italia) sono emanate secondo la procedura prevista dall’art. 71 “\ |LINK82|\ ” del Codice dell’Amministrazione digitale (CAD) e hanno il duplice scopo di:
 
 #. aggiornare le regole tecniche attualmente in vigore sulla formazione, protocollazione, gestione e conservazione dei documenti informatici precedentemente regolate nei DPCM del 2013 e 2014;
 
@@ -451,11 +481,11 @@ Regole Tecniche per la sottoscrizione elettronica di documenti ai sensi dell’a
 
 Regolano le modalità atte a garantire la sicurezza, integrità e immodificabilità del documento e, in maniera manifesta e inequivoca, la sua riconducibilità all’autore.
 
-\ |LINK73|\ 
+\ |LINK83|\ 
 
-\ |LINK74|\ 
+\ |LINK84|\ 
 
-\ |LINK75|\ 
+\ |LINK85|\ 
 
 --------
 
@@ -464,7 +494,7 @@ Regolano le modalità atte a garantire la sicurezza, integrità e immodificabili
 Linee Guida per l’identificazione degli utenti da parte delle PA (AGID)
 ***********************************************************************
 
-\ |LINK76|\   -  \ |LINK77|\ 
+\ |LINK86|\   -  \ |LINK87|\ 
 
 --------
 
@@ -473,7 +503,7 @@ Linee Guida per l’identificazione degli utenti da parte delle PA (AGID)
 Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 ********************************************************************************
 
-\ |LINK78|\  include un ampio excursus relativo all’evoluzione dell’informatica pubblica nella direzione di un progresso verso il Digital Government, un'analisi incentrata principalmente su tre cardini: il CAD, ovvero il Codice dell’Amministrazione  Digitale,  l’Agenda  Digitale italiana  e  il  Piano  Triennale  per l’informatica.
+\ |LINK88|\  include un ampio excursus relativo all’evoluzione dell’informatica pubblica nella direzione di un progresso verso il Digital Government, un'analisi incentrata principalmente su tre cardini: il CAD, ovvero il Codice dell’Amministrazione  Digitale,  l’Agenda  Digitale italiana  e  il  Piano  Triennale  per l’informatica.
 
 --------
 
@@ -510,7 +540,9 @@ Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 .. |STYLE9| replace:: *A queste linee guida dovranno riferirsi gli enti pubblici per la redazione/aggiornamento dei manuali di formazione, gestione e conservazione del documento informatico*
 
 
+.. |REPLACE1| raw:: html
 
+    <img src="https://img.shields.io/badge/fondamentali-amministrazione_digitale-blue.svg?style=popout&logo=Read%20the%20Docs" />
 .. |REPLACE2| raw:: html
 
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/riuso.jpg" width= 900 />
@@ -806,53 +838,93 @@ Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 
 .. |LINK66| raw:: html
 
-    <a href="http://eventipa.formez.it/node/187948" target="_blank">Webinar del FormezPA</a>
+    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_122261_725_1.html" target="_blank">Determinazione n. 220/2020 del 17 maggio 2020</a>
 
 .. |LINK67| raw:: html
 
-    <a href="https://cloud.italia.it/marketplace/supplier/market/index.html" target="_blank">Catalogo dei servizi Cloud per la PA qualificati</a>
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/201391020380O__O220+DT+DG+n.+220+-+17+mag+2020+-+LG_linee_guida_Sicurezza_Procurement_ICT.pdf" target="_blank">220 DT DG n. 220 - 17 mag 2020 -LG_linee_guida_Sicurezza_Procurement_ICT</a>
 
 .. |LINK68| raw:: html
 
-    <a href="http://www.pongovernance1420.gov.it/" target="_blank">Programma Operativo Nazionale “Governance e Capacità Istituzionale 2014-2020"</a>
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/201391021420O__OLG_Sicurezza_Procurement_ICT_versione_finale_pub.pdf" target="_blank">LG_Sicurezza_Procurement_ICT_versione_finale_pub</a>
 
 .. |LINK69| raw:: html
 
-    <a href="http://www.competenzedigitali.gov.it" target="_blank">Link alla piattaforma online per le "competenze digitali" a cura della Funzione Pubblica</a>
+    <a href="https://www.iso.org/standard/50054.html" target="_blank">https://www.iso.org/standard/50054.html</a>
 
 .. |LINK70| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/10/17/consultazione-linee-guida-sulla-formazione-gestione-conservazione-documenti" target="_blank">Strumento essenziale per la digitalizzazione delle pratiche amministrative</a>
+    <a href="https://www.iso.org/isoiec-27001-information-security.html" target="_blank">https://www.iso.org/isoiec-27001-information-security.html</a>
 
 .. |LINK71| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs" target="_blank">Linee Guida</a>
+    <a href="https://www.iso.org/iso-31000-risk-management.html" target="_blank">https://www.iso.org/iso-31000-risk-management.html</a>
 
 .. |LINK72| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo7_art71.html" target="_blank">Regole tecniche</a>
+    <a href="https://www.agid.gov.it/it/sicurezza/cert-pa/linee-guida-sviluppo-del-software-sicuro" target="_blank">https://www.agid.gov.it/it/sicurezza/cert-pa/linee-guida-sviluppo-del-software-sicuro</a>
 
 .. |LINK73| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-spid-firma-docs/it/stabile/" target="_blank">Regole Tecniche circa la sottoscrizione elettronica di documenti tramite SPID</a>
+    <a href="https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict" target="_blank">https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict</a>
 
 .. |LINK74| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_122208_725_1.html" target="_blank">Determinazione n.157/2020 del 23 marzo 2020 dell'AGID - Emanazione delle Linee Guida per la sottoscrizione elettronica di documenti ai sensi dell’art. 20 del CAD</a>
+    <a href="https://www.iso.org/standard/50341.html" target="_blank">https://www.iso.org/standard/50341.html</a>
 
 .. |LINK75| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/03/26/spid-emanate-linee-guida-firmare-i-documenti-online" target="_blank">Grazie alle Linee Guida, la firma con Spid avrà lo stesso valore giuridico di quella autografa, consentendo ai cittadini di sottoscrivere atti e contratti. Uno strumento che si va ad aggiungere alla firma elettronica qualificata favorendo il processo di dematerializzazione dei documenti</a>
+    <a href="https://www.iso.org/standard/70398.html" target="_blank">https://www.iso.org/standard/70398.html</a>
 
 .. |LINK76| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/index.php?id_oggetto=28&id_doc=122120&id_sez_ori=0&template_ori=1" target="_blank">Linee Guida</a>
+    <a href="http://eventipa.formez.it/node/187948" target="_blank">Webinar del FormezPA</a>
 
 .. |LINK77| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/11/25/spid-emanate-linee-guida-lidentificazione-degli-utenti-parte-pa" target="_blank">Comunicato stampa</a>
+    <a href="https://cloud.italia.it/marketplace/supplier/market/index.html" target="_blank">Catalogo dei servizi Cloud per la PA qualificati</a>
 
 .. |LINK78| raw:: html
+
+    <a href="http://www.pongovernance1420.gov.it/" target="_blank">Programma Operativo Nazionale “Governance e Capacità Istituzionale 2014-2020"</a>
+
+.. |LINK79| raw:: html
+
+    <a href="http://www.competenzedigitali.gov.it" target="_blank">Link alla piattaforma online per le "competenze digitali" a cura della Funzione Pubblica</a>
+
+.. |LINK80| raw:: html
+
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/10/17/consultazione-linee-guida-sulla-formazione-gestione-conservazione-documenti" target="_blank">Strumento essenziale per la digitalizzazione delle pratiche amministrative</a>
+
+.. |LINK81| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs" target="_blank">Linee Guida</a>
+
+.. |LINK82| raw:: html
+
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo7_art71.html" target="_blank">Regole tecniche</a>
+
+.. |LINK83| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-spid-firma-docs/it/stabile/" target="_blank">Regole Tecniche circa la sottoscrizione elettronica di documenti tramite SPID</a>
+
+.. |LINK84| raw:: html
+
+    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_122208_725_1.html" target="_blank">Determinazione n.157/2020 del 23 marzo 2020 dell'AGID - Emanazione delle Linee Guida per la sottoscrizione elettronica di documenti ai sensi dell’art. 20 del CAD</a>
+
+.. |LINK85| raw:: html
+
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/03/26/spid-emanate-linee-guida-firmare-i-documenti-online" target="_blank">Grazie alle Linee Guida, la firma con Spid avrà lo stesso valore giuridico di quella autografa, consentendo ai cittadini di sottoscrivere atti e contratti. Uno strumento che si va ad aggiungere alla firma elettronica qualificata favorendo il processo di dematerializzazione dei documenti</a>
+
+.. |LINK86| raw:: html
+
+    <a href="https://trasparenza.agid.gov.it/index.php?id_oggetto=28&id_doc=122120&id_sez_ori=0&template_ori=1" target="_blank">Linee Guida</a>
+
+.. |LINK87| raw:: html
+
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/11/25/spid-emanate-linee-guida-lidentificazione-degli-utenti-parte-pa" target="_blank">Comunicato stampa</a>
+
+.. |LINK88| raw:: html
 
     <a href="https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=01147fe7-0659-4be4-80c7-a226c3dbb98f" target="_blank">Il documento</a>
 
