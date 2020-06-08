@@ -514,6 +514,15 @@ Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 
 --------
 
+.. _h7f5453492b607d2a3c6e39183e61d7e:
+
+Linee Guida sull'indice nazionale dei domicili digitali delle persone fisiche e degli altri enti di diritto privato non tenuti all’iscrizione in albi professionali o nel Registro Imprese
+******************************************************************************************************************************************************************************************
+
+Da AGID le \ |LINK89|\ 
+
+--------
+
 
 |REPLACE4|
 
@@ -934,4 +943,8 @@ Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 .. |LINK88| raw:: html
 
     <a href="https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=01147fe7-0659-4be4-80c7-a226c3dbb98f" target="_blank">Il documento</a>
+
+.. |LINK89| raw:: html
+
+    <a href="https://docs.italia.it/AgID/domicilio-digitale/lg-domiciliodigitalecittadino-docs/it/stabile/index.html.#" target="_blank">Linee Guida Indice nazionale dei domicili digitali delle persone fisiche</a>
 
