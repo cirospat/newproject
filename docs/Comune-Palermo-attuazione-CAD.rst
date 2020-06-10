@@ -220,69 +220,74 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 
 Il 14 settembre 2019 il comune di Palermo è subentarato all'\ |STYLE37|\  \ |LINK38|\ . \ |STYLE38|\  Il passo immediatamente successivo è l'emissione,  a partire dallo stesso settembre 2019, della \ |LINK39|\ .
 
+.. admonition:: Accesso ai dati di ANPR
+
+    Chiarimenti - del Ministero dell'Interno - sulla possibilità di accesso ai dati registrati in Anpr da parte del personale dei Comuni (vai al \ |LINK40|\ ).
+    \ |STYLE39|\ 
+
 |
 
-Il \ |LINK40|\  il comune di Palermo diventa operativo nella sperimentazione dell'\ |STYLE39|\  \ |LINK41|\ , permettendo ai cittadini dotati di identità digitale SPID di avviare l'uso dell'applicazione per dispositivi mobili. IO rappresenta a livello nazionale il punto di accesso unico ai servizi digitali della Pubblica Amministrazione, ai sensi dell’\ |LINK42|\  \ |LINK43|\ . Al \ |LINK44|\  è possibile consultare l'elenco dei servizi comunali di Palermo agganciati all'app nazionale IO.  A questo \ |LINK45|\  è possibile candidarsi per essere \ |LINK46|\  a Palermo. \ |LINK47|\  e dell'utilità dell'applicazione. Il \ |LINK48|\  il comune ha rinnovato l'invito all'adesione all'app IO.
+Il \ |LINK41|\  il comune di Palermo diventa operativo nella sperimentazione dell'\ |STYLE40|\  \ |LINK42|\ , permettendo ai cittadini dotati di identità digitale SPID di avviare l'uso dell'applicazione per dispositivi mobili. IO rappresenta a livello nazionale il punto di accesso unico ai servizi digitali della Pubblica Amministrazione, ai sensi dell’\ |LINK43|\  \ |LINK44|\ . Al \ |LINK45|\  è possibile consultare l'elenco dei servizi comunali di Palermo agganciati all'app nazionale IO.  A questo \ |LINK46|\  è possibile candidarsi per essere \ |LINK47|\  a Palermo. \ |LINK48|\  e dell'utilità dell'applicazione. Il \ |LINK49|\  il comune ha rinnovato l'invito all'adesione all'app IO.
 
 |REPLACE2|
 
-Il processo di digitalizzazione del comune di Palermo è \ |LINK49|\  (articolo del 16 ottobre di FPA a cura di Marina Bassi).
+Il processo di digitalizzazione del comune di Palermo è \ |LINK50|\  (articolo del 16 ottobre di FPA a cura di Marina Bassi).
 
 |
 
-Il 30 ottobre 2019 l'Amministrazione espone ai cittadini, in un evento pubblico comunicativo, i servizi digitali attivati ad oggi e l'adesione alle principali piattaforme digitali nazionali (PagoPA, SPID, ANPR, App IO) abilitanti all'erogazione dei servizi locali. L'evento si tiene ai Cantieri Culturali della Zisa, e rientra tra le attività del Responsabile della Transizione al Digitale del comune di Palermo. A questo link \ |LINK50|\  che è partner del convegno. Gli altri partner del progetto sono il \ |LINK51|\  (organismo che opera all'interno della Presidenza del Consiglio dei Ministri per l'attuazione del \ |LINK52|\  e del \ |LINK53|\ ) e  Open Fiber che ha realizzato la \ |LINK54|\ . 
+Il 30 ottobre 2019 l'Amministrazione espone ai cittadini, in un evento pubblico comunicativo, i servizi digitali attivati ad oggi e l'adesione alle principali piattaforme digitali nazionali (PagoPA, SPID, ANPR, App IO) abilitanti all'erogazione dei servizi locali. L'evento si tiene ai Cantieri Culturali della Zisa, e rientra tra le attività del Responsabile della Transizione al Digitale del comune di Palermo. A questo link \ |LINK51|\  che è partner del convegno. Gli altri partner del progetto sono il \ |LINK52|\  (organismo che opera all'interno della Presidenza del Consiglio dei Ministri per l'attuazione del \ |LINK53|\  e del \ |LINK54|\ ) e  Open Fiber che ha realizzato la \ |LINK55|\ . 
 
 .. admonition:: L'agenda dei lavori è la seguente
 
     Ore 9.30 | Accredito
-    Ore 10.00 | \ |STYLE40|\ 
+    Ore 10.00 | \ |STYLE41|\ 
     
     * Leoluca Orlando, Sindaco del Comune di Palermo
     
     * Fabio Giambrone - Assessore all’innovazione del Comune di Palermo
     
     * Il ruolo dell’Ente Locale nel processo di trasformazione digitale verso l’Amministrazione aperta - Antonio Le Donne, Segretario Generale e Direttore Generale del Comune di Palermo
-    Ore 10.30 | \ |STYLE41|\ 
+    Ore 10.30 | \ |STYLE42|\ 
     
-    * \ |LINK55|\ , Direttore Generale – FPA
+    * \ |LINK56|\ , Direttore Generale – FPA
     
-    * \ |LINK56|\ , Commissario straordinario – Team per la Trasformazione Digitale
+    * \ |LINK57|\ , Commissario straordinario – Team per la Trasformazione Digitale
     
-    * \ |LINK57|\ , Amministratore Unico - PagoPA
-    Ore 11.30 | \ |STYLE42|\ 
+    * \ |LINK58|\ , Amministratore Unico - PagoPA
+    Ore 11.30 | \ |STYLE43|\ 
     
-    * \ |LINK58|\  - cos’è e come funziona - \ |LINK59|\ , Team per la Trasformazione Digitale.
+    * \ |LINK59|\  - cos’è e come funziona - \ |LINK60|\ , Team per la Trasformazione Digitale.
     
-    * \ |LINK60|\  - il sistema di pagamenti elettronici realizzato per rendere più semplice, sicuro e trasparente qualsiasi pagamento verso la Pubblica Amministrazione - Giuseppe Virgone, Amministratore Unico, PagoPA.
+    * \ |LINK61|\  - il sistema di pagamenti elettronici realizzato per rendere più semplice, sicuro e trasparente qualsiasi pagamento verso la Pubblica Amministrazione - Giuseppe Virgone, Amministratore Unico, PagoPA.
     
-    * \ |LINK61|\  - l’Anagrafe Nazionale della Popolazione Residente, \ |LINK62|\ , Team per la Trasformazione Digitale.
+    * \ |LINK62|\  - l’Anagrafe Nazionale della Popolazione Residente, \ |LINK63|\ , Team per la Trasformazione Digitale.
     
-    * Servizi Digitali nel Comune - Gabriele Marchese, \ |LINK63|\  - Comune di Palermo.
+    * Servizi Digitali nel Comune - Gabriele Marchese, \ |LINK64|\  - Comune di Palermo.
     
-    * I servizi digitali del comune di Palermo e l’Agenda digitale del \ |LINK64|\  Asse 1 - Ing. Salvatore Morreale, Azienda comunale partecipata SISPI SpA per i servizi informatici del Comune di Palermo 
+    * I servizi digitali del comune di Palermo e l’Agenda digitale del \ |LINK65|\  Asse 1 - Ing. Salvatore Morreale, Azienda comunale partecipata SISPI SpA per i servizi informatici del Comune di Palermo 
     
     * I servizi digitali nella scuola, Filippo Ciancio, Ufficio Scolastico Regionale
     
-    * Open Fiber - la \ |LINK65|\ , essenziale per i servizi di agenda digitale.
+    * Open Fiber - la \ |LINK66|\ , essenziale per i servizi di agenda digitale.
     Pausa dalla 13.00 alle 15.00
-    Ore 15.00 | \ |STYLE43|\ 
+    Ore 15.00 | \ |STYLE44|\ 
     
-    * \ |LINK66|\  (a cura di Matteo De Santi)
+    * \ |LINK67|\  (a cura di Matteo De Santi)
     
-    * \ |LINK67|\  (a cura di Ciro Spataro)
+    * \ |LINK68|\  (a cura di Ciro Spataro)
     Ore 16.00 | Chiusura dei lavori
 
 Il sistema di inviti a partecipare è avvenuto nel mese di ottobre 2019 tramite email dal Responsabile Transizione al Digitale alle categorie/ordini professionali e associazioni portatrici di interessi.  
 
-A \ |LINK68|\  sul portale istituzionale per l'evento.  Rassegna stampa: \ |LINK69|\ , \ |LINK70|\ , \ |LINK71|\ , \ |LINK72|\ .
+A \ |LINK69|\  sul portale istituzionale per l'evento.  Rassegna stampa: \ |LINK70|\ , \ |LINK71|\ , \ |LINK72|\ , \ |LINK73|\ .
 
 |
 
-\ |STYLE44|\ . Dalla prima settimana di novembre 2019 il comune di Palermo \ |LINK73|\ , a seguito del subentro dell'anagrafe locale a quella nazionale ANPR (Anagrafe Nazionale della Popolazione Residente). La \ |LINK74|\  ha anche la funzione di identificazione digitale del cittadino (al pari del sistema SPID) per l'accesso ai servizi online della Pubblica Amministrazione.
+\ |STYLE45|\ . Dalla prima settimana di novembre 2019 il comune di Palermo \ |LINK74|\ , a seguito del subentro dell'anagrafe locale a quella nazionale ANPR (Anagrafe Nazionale della Popolazione Residente). La \ |LINK75|\  ha anche la funzione di identificazione digitale del cittadino (al pari del sistema SPID) per l'accesso ai servizi online della Pubblica Amministrazione.
 
 |
 
-Novembre 2019. Nella \ |STYLE45|\  \ |STYLE46|\ ,  stilata da ForumPA (relativa alle \ |STYLE47|\  tra 107 comuni capoluogo), \ |LINK75|\ . Qui \ |LINK76|\  con la classifica nazionale della trasformazione digitale.
+Novembre 2019. Nella \ |STYLE46|\  \ |STYLE47|\ ,  stilata da ForumPA (relativa alle \ |STYLE48|\  tra 107 comuni capoluogo), \ |LINK76|\ . Qui \ |LINK77|\  con la classifica nazionale della trasformazione digitale.
 
 |
 
@@ -293,7 +298,15 @@ Novembre 2019. Nella \ |STYLE45|\  \ |STYLE46|\ ,  stilata da ForumPA (relativa 
 
 |
 
-Dal gennaio 2020 le \ |STYLE48|\  grazie ad un nuovo applicativo reso disponibile ai genitori dei bambini: \ |LINK77|\  .   A questo \ |LINK78|\  il comunicato stampa del 3 gennaio 2020.
+Dal gennaio 2020 le \ |STYLE49|\  grazie ad un nuovo applicativo reso disponibile ai genitori dei bambini: \ |LINK78|\  .   A questo \ |LINK79|\  il comunicato stampa del 3 gennaio 2020.
+
+|
+
+Dal marzo 2020, in seguito all'emergenza Covid19, una consistente percentuale dell'Amministrazione comunale espleta l'attività in Lavoro Agile e a tal fine è stato creato, dal Servizio Innovazione, un portale degli attrezzi digitali per facilitare le attività da remoto (\ |LINK80|\ ).
+
+|
+
+Dal Giugno 2020 è possibile \ |STYLE50|\ , oltre che con l'identità digitale SPID, \ |STYLE51|\  \ |LINK81|\ .
 
 |
 
@@ -379,25 +392,31 @@ Dal gennaio 2020 le \ |STYLE48|\  grazie ad un nuovo applicativo reso disponibil
 
 .. |STYLE38| replace:: *Con ANPR le amministrazioni potranno dialogare in maniera efficiente tra di loro avendo una fonte unica e certa per i dati dei cittadini. Anche oggi però ANPR consente ai cittadini di ottenere vantaggi immediati quali la richiesta di certificati anagrafici in tutti i comuni, cambio di residenza più semplice ed immediato ed a breve la possibilità di ottenere certificati da un portale unico.*
 
-.. |STYLE39| replace:: **app nazionale**
+.. |STYLE39| replace:: *I  Comuni  che hanno necessità di accedere a dati dell’ANPR per servizi diversi dall’Anagrafe e, in genere, le Pubbliche amministrazioni e  gli  enti  erogatori  di pubblici  servizi devono  sottoscrivere  uno  specifico Accordo  con  il  Ministero dell’interno,  titolare  del  trattamento  dei  dati  registrati  nella  base  dati (art.3, comma 2 DPCM n. 194/2014).*
 
-.. |STYLE40| replace:: **Saluti istituzionali**
+.. |STYLE40| replace:: **app nazionale**
 
-.. |STYLE41| replace:: **La Trasformazione Digitale nel Paese, lo stato dell’arte. Intervista a tre**
+.. |STYLE41| replace:: **Saluti istituzionali**
 
-.. |STYLE42| replace:: **Esperienze – Piattaforme e Servizi Pubblici Digitali a Palermo**
+.. |STYLE42| replace:: **La Trasformazione Digitale nel Paese, lo stato dell’arte. Intervista a tre**
 
-.. |STYLE43| replace:: **Sessione parallela: le Academy Servizi Pubblici Digitali**
+.. |STYLE43| replace:: **Esperienze – Piattaforme e Servizi Pubblici Digitali a Palermo**
 
-.. |STYLE44| replace:: **Rilascio carta identità elettronica**
+.. |STYLE44| replace:: **Sessione parallela: le Academy Servizi Pubblici Digitali**
 
-.. |STYLE45| replace:: **classifica**
+.. |STYLE45| replace:: **Rilascio carta identità elettronica**
 
-.. |STYLE46| replace:: **ICity Rank 2019**
+.. |STYLE46| replace:: **classifica**
 
-.. |STYLE47| replace:: **smart city italiane**
+.. |STYLE47| replace:: **ICity Rank 2019**
 
-.. |STYLE48| replace:: **iscrizioni all'asilo comunale e alla scuola materna comunale si effettuano solo online**
+.. |STYLE48| replace:: **smart city italiane**
+
+.. |STYLE49| replace:: **iscrizioni all'asilo comunale e alla scuola materna comunale si effettuano solo online**
+
+.. |STYLE50| replace:: **accedere ai servizi online del comune di Palermo**
+
+.. |STYLE51| replace:: **anche con la Carta d'Identità Elettronica**
 
 
 .. |REPLACE1| raw:: html
@@ -565,157 +584,169 @@ Dal gennaio 2020 le \ |STYLE48|\  grazie ad un nuovo applicativo reso disponibil
 
 .. |LINK40| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=24853" target="_blank">4 ottobre 2019</a>
+    <a href="https://www.anpr.interno.it/portale/documents/20182/209665/Nota_Utilizzo_Servizi_ANPR_20+maggio+2020.pdf/eef081f7-76dc-497c-b27f-bad6a1b08056" target="_blank">link</a>
 
 .. |LINK41| raw:: html
 
-    <a href="https://io.italia.it/" target="_blank">IO</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=24853" target="_blank">4 ottobre 2019</a>
 
 .. |LINK42| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione3_art64-bis.html" target="_blank">art. 64-bis del decreto legislativo 7.03.2005, n. 82</a>
+    <a href="https://io.italia.it/" target="_blank">IO</a>
 
 .. |LINK43| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione3_art64-bis.html" target="_blank">(Codice dell'Amministrazione Digitale)</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione3_art64-bis.html" target="_blank">art. 64-bis del decreto legislativo 7.03.2005, n. 82</a>
 
 .. |LINK44| raw:: html
 
-    <a href="https://io.italia.it/ente/comune-di-palermo.html" target="_blank">link</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione3_art64-bis.html" target="_blank">(Codice dell'Amministrazione Digitale)</a>
 
 .. |LINK45| raw:: html
 
-    <a href="https://www.comune.palermo.it/io-app.php" target="_blank">link</a>
+    <a href="https://io.italia.it/ente/comune-di-palermo.html" target="_blank">link</a>
 
 .. |LINK46| raw:: html
 
-    <a href="https://www.comune.palermo.it/io-app.php" target="_blank">beta tester dell'app</a>
+    <a href="https://www.comune.palermo.it/io-app.php" target="_blank">link</a>
 
 .. |LINK47| raw:: html
 
-    <a href="https://medium.com/@cirospat/palermo-%C3%A8-arrivata-io-86a63f9662e8" target="_blank">Qui un racconto dell'adesione</a>
+    <a href="https://www.comune.palermo.it/io-app.php" target="_blank">beta tester dell'app</a>
 
 .. |LINK48| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=24970" target="_blank">15 ottobre 2019 con un comunicato stampa</a>
+    <a href="https://medium.com/@cirospat/palermo-%C3%A8-arrivata-io-86a63f9662e8" target="_blank">Qui un racconto dell'adesione</a>
 
 .. |LINK49| raw:: html
 
-    <a href="https://www.forumpa.it/pa-digitale/servizi-digitali/lavvicinamento-tra-pa-e-cittadino-passa-per-la-trasformazione-digitale/" target="_blank">sotto la lente di ingrandimento della stampa di settore nazionale</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=24970" target="_blank">15 ottobre 2019 con un comunicato stampa</a>
 
 .. |LINK50| raw:: html
 
-    <a href="https://www.forumpa.it/pa-digitale/servizi-pubblici-digitali-stato-dellarte-e-priorita-se-ne-parla-a-palermo-il-30-ottobre/?utm_campaign=fpa_nl_101019" target="_blank">un post di FPA srl</a>
+    <a href="https://www.forumpa.it/pa-digitale/servizi-digitali/lavvicinamento-tra-pa-e-cittadino-passa-per-la-trasformazione-digitale/" target="_blank">sotto la lente di ingrandimento della stampa di settore nazionale</a>
 
 .. |LINK51| raw:: html
 
-    <a href="https://teamdigitale.governo.it/" target="_blank">Team Trasformazione Digitale</a>
+    <a href="https://www.forumpa.it/pa-digitale/servizi-pubblici-digitali-stato-dellarte-e-priorita-se-ne-parla-a-palermo-il-30-ottobre/?utm_campaign=fpa_nl_101019" target="_blank">un post di FPA srl</a>
 
 .. |LINK52| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/" target="_blank">Piano Triennale per l'Informatica</a>
+    <a href="https://teamdigitale.governo.it/" target="_blank">Team Trasformazione Digitale</a>
 
 .. |LINK53| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/" target="_blank">Codice dell'Amministrazione Digitale</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/" target="_blank">Piano Triennale per l'Informatica</a>
 
 .. |LINK54| raw:: html
 
-    <a href="http://bandaultralarga.italia.it/mappa-bul/regione/sicilia/19/comune/palermo/82053/" target="_blank">Banda Ultra Larga nel territorio comunale di Palermo</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/" target="_blank">Codice dell'Amministrazione Digitale</a>
 
 .. |LINK55| raw:: html
 
-    <a href="https://www.forumpa.it/chi-siamo/" target="_blank">Gianni Dominici</a>
+    <a href="http://bandaultralarga.italia.it/mappa-bul/regione/sicilia/19/comune/palermo/82053/" target="_blank">Banda Ultra Larga nel territorio comunale di Palermo</a>
 
 .. |LINK56| raw:: html
 
-    <a href="https://teamdigitale.governo.it/it/people/luca-attias.htm" target="_blank">Luca Attias</a>
+    <a href="https://www.forumpa.it/chi-siamo/" target="_blank">Gianni Dominici</a>
 
 .. |LINK57| raw:: html
 
-    <a href="https://teamdigitale.governo.it/it/people/17-profile.htm" target="_blank">Giuseppe Virgone</a>
+    <a href="https://teamdigitale.governo.it/it/people/luca-attias.htm" target="_blank">Luca Attias</a>
 
 .. |LINK58| raw:: html
 
-    <a href="https://io.italia.it" target="_blank">App IO</a>
+    <a href="https://teamdigitale.governo.it/it/people/17-profile.htm" target="_blank">Giuseppe Virgone</a>
 
 .. |LINK59| raw:: html
 
-    <a href="https://teamdigitale.governo.it/it/people/34-profile.htm" target="_blank">Matteo De Santi</a>
+    <a href="https://io.italia.it" target="_blank">App IO</a>
 
 .. |LINK60| raw:: html
 
-    <a href="https://www.pagopa.gov.it/" target="_blank">PagoPA</a>
+    <a href="https://teamdigitale.governo.it/it/people/34-profile.htm" target="_blank">Matteo De Santi</a>
 
 .. |LINK61| raw:: html
 
-    <a href="https://www.agid.gov.it/it/piattaforme/anagrafe-nazionale-popolazione-residente" target="_blank">ANPR</a>
+    <a href="https://www.pagopa.gov.it/" target="_blank">PagoPA</a>
 
 .. |LINK62| raw:: html
 
-    <a href="https://teamdigitale.governo.it/it/people/26-profile.htm" target="_blank">Mirko Calvaresi</a>
+    <a href="https://www.agid.gov.it/it/piattaforme/anagrafe-nazionale-popolazione-residente" target="_blank">ANPR</a>
 
 .. |LINK63| raw:: html
 
-    <a href="https://www.indicepa.gov.it/ricerca/n-dettagliouffici.php?prg_ou=111151" target="_blank">Responsabile Transizione Digitale</a>
+    <a href="https://teamdigitale.governo.it/it/people/26-profile.htm" target="_blank">Mirko Calvaresi</a>
 
 .. |LINK64| raw:: html
 
-    <a href="https://www.ponmetropalermo.it/" target="_blank">PON METRO</a>
+    <a href="https://www.indicepa.gov.it/ricerca/n-dettagliouffici.php?prg_ou=111151" target="_blank">Responsabile Transizione Digitale</a>
 
 .. |LINK65| raw:: html
 
-    <a href="http://bandaultralarga.italia.it/mappa-bul/regione/sicilia/19/comune/palermo/82053/" target="_blank">Fibra Ottica FTH a Palermo</a>
+    <a href="https://www.ponmetropalermo.it/" target="_blank">PON METRO</a>
 
 .. |LINK66| raw:: html
 
-    <a href="https://io.italia.it" target="_blank">App IO</a>
+    <a href="http://bandaultralarga.italia.it/mappa-bul/regione/sicilia/19/comune/palermo/82053/" target="_blank">Fibra Ottica FTH a Palermo</a>
 
 .. |LINK67| raw:: html
 
-    <a href="https://www.spid.gov.it/" target="_blank">SPID</a>
+    <a href="https://io.italia.it" target="_blank">App IO</a>
 
 .. |LINK68| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=25061" target="_blank">questo link il comunicato stampa</a>
+    <a href="https://www.spid.gov.it/" target="_blank">SPID</a>
 
 .. |LINK69| raw:: html
 
-    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA (video)</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=25061" target="_blank">questo link il comunicato stampa</a>
 
 .. |LINK70| raw:: html
 
-    <a href="https://www.palermotoday.it/attualita/servizi-pubblici-digitali-app-io-pagopa.html" target="_blank">Servizi pubblici digitali dall'app IO a PagoPA: ecco cosa cambia per i cittadini (video PalermoToday)</a>
+    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA (video)</a>
 
 .. |LINK71| raw:: html
 
-    <a href="https://groups.google.com/forum/#!topic/stampacomunepalermo/3nep8x-3fIc" target="_blank">comunicato stampa del comune di Palermo del 31 ottobre 2019</a>
+    <a href="https://www.palermotoday.it/attualita/servizi-pubblici-digitali-app-io-pagopa.html" target="_blank">Servizi pubblici digitali dall'app IO a PagoPA: ecco cosa cambia per i cittadini (video PalermoToday)</a>
 
 .. |LINK72| raw:: html
 
-    <a href="https://www.blogsicilia.it/palermo/il-futuro-dei-servizi-pubblici-e-digitale-a-palermo-giornata-di-formazione-con-forum-pa-video/504185/" target="_blank">Il futuro dei servizi pubblici è digitale, a Palermo giornata di formazione con “Forum PA” (video Blog Sicilia)</a>
+    <a href="https://groups.google.com/forum/#!topic/stampacomunepalermo/3nep8x-3fIc" target="_blank">comunicato stampa del comune di Palermo del 31 ottobre 2019</a>
 
 .. |LINK73| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=25193" target="_blank">avvia il rilascio della Carta d'Identità Elettronica</a>
+    <a href="https://www.blogsicilia.it/palermo/il-futuro-dei-servizi-pubblici-e-digitale-a-palermo-giornata-di-formazione-con-forum-pa-video/504185/" target="_blank">Il futuro dei servizi pubblici è digitale, a Palermo giornata di formazione con “Forum PA” (video Blog Sicilia)</a>
 
 .. |LINK74| raw:: html
 
-    <a href="https://drive.google.com/file/d/0B9q5qob_W3NiT2p0NjExWmtfWGpPSFUwTklZcTY2VXlxa0hZ/" target="_blank">Carta d'Identità Elettronica (CIE)</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=25193" target="_blank">avvia il rilascio della Carta d'Identità Elettronica</a>
 
 .. |LINK75| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=25615" target="_blank">Palermo si è classificata 24° in riferimento agli indicatori della trasformazione digitale</a>
+    <a href="https://drive.google.com/file/d/0B9q5qob_W3NiT2p0NjExWmtfWGpPSFUwTklZcTY2VXlxa0hZ/" target="_blank">Carta d'Identità Elettronica (CIE)</a>
 
 .. |LINK76| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/_28112019120836.pdf#page=95" target="_blank">visualizzi la pagina</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=25615" target="_blank">Palermo si è classificata 24° in riferimento agli indicatori della trasformazione digitale</a>
 
 .. |LINK77| raw:: html
 
-    <a href="https://portalescuola.comune.palermo.it/" target="_blank">https://portalescuola.comune.palermo.it</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/_28112019120836.pdf#page=95" target="_blank">visualizzi la pagina</a>
 
 .. |LINK78| raw:: html
 
+    <a href="https://portalescuola.comune.palermo.it/" target="_blank">https://portalescuola.comune.palermo.it</a>
+
+.. |LINK79| raw:: html
+
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=26231" target="_blank">link</a>
+
+.. |LINK80| raw:: html
+
+    <a href="https://sites.google.com/comune.palermo.it/lavoroagile" target="_blank">https://sites.google.com/comune.palermo.it/lavoroagile</a>
+
+.. |LINK81| raw:: html
+
+    <a href="https://sso.comune.palermo.it/auth/realms/sispi4pa/protocol/openid-connect/auth?response_type=code&client_id=was9&scope=openid%20email%20profile&state=967949395_1591794216654&redirect_uri=https%3A%2F%2Fservizionline.comune.palermo.it%3A443%2Foidcclient%2Fsispi4pa" target="_blank">CIE</a>
 
