@@ -306,7 +306,11 @@ Dal marzo 2020, in seguito all'emergenza Covid19, una consistente percentuale de
 
 |
 
-Dal Giugno 2020 è possibile \ |STYLE50|\ , oltre che con l'identità digitale SPID, \ |STYLE51|\  \ |LINK81|\ .
+Da aprile 2020 è stato istituito un \ |STYLE50|\  dell'Amministrazione. \ |LINK81|\ .
+
+|
+
+Dal Giugno 2020 è possibile \ |STYLE51|\ , oltre che con l'identità digitale SPID, \ |STYLE52|\  \ |LINK82|\ .
 
 |
 
@@ -414,9 +418,11 @@ Dal Giugno 2020 è possibile \ |STYLE50|\ , oltre che con l'identità digitale S
 
 .. |STYLE49| replace:: **iscrizioni all'asilo comunale e alla scuola materna comunale si effettuano solo online**
 
-.. |STYLE50| replace:: **accedere ai servizi online del comune di Palermo**
+.. |STYLE50| replace:: **servizio di prenotazione online per la fruizione di spazi pubblici e servizi**
 
-.. |STYLE51| replace:: **anche con la Carta d'Identità Elettronica**
+.. |STYLE51| replace:: **accedere ai servizi online del comune di Palermo**
+
+.. |STYLE52| replace:: **anche con la Carta d'Identità Elettronica**
 
 
 .. |REPLACE1| raw:: html
@@ -747,6 +753,10 @@ Dal Giugno 2020 è possibile \ |STYLE50|\ , oltre che con l'identità digitale S
     <a href="https://sites.google.com/comune.palermo.it/lavoroagile" target="_blank">https://sites.google.com/comune.palermo.it/lavoroagile</a>
 
 .. |LINK81| raw:: html
+
+    <a href="https://www.comune.palermo.it/prenotazione-servizi-online.php" target="_blank">Servizi Online per il cittadino - Prenotazione appuntamenti</a>
+
+.. |LINK82| raw:: html
 
     <a href="https://sso.comune.palermo.it/auth/realms/sispi4pa/protocol/openid-connect/auth?response_type=code&client_id=was9&scope=openid%20email%20profile&state=967949395_1591794216654&redirect_uri=https%3A%2F%2Fservizionline.comune.palermo.it%3A443%2Foidcclient%2Fsispi4pa" target="_blank">CIE</a>
 
