@@ -119,20 +119,39 @@ Formazione RTD
 
 |
 
+.. _h116b5f641a833551d1c87352624fb:
+
+Webinar 2020 del FormezPA sulla transizione al digitale
+*******************************************************
+
+(organizzati dal Dipartimento della funzione pubblica, in collaborazione con Formez PA nell'ambito del Progetto Supporto allo sviluppo delle Competenze digitali per la PA finanziato dal PON Governance e Capacità Istituzionale 2014-2020 Asse 1 - Obiettivo specifico 1.3) 
+
+* 12/05/2020 \ |LINK16|\ 
+
+* 19/05/2020 \ |LINK17|\ 
+
+* 26/05/2020 \ |LINK18|\ 
+
+* 09/06/2020 \ |LINK19|\ 
+
+* 16/06/2020 \ |LINK20|\ 
+
+|
+
 .. _h4777144564346b74103369267965183:
 
 RTD Comune di Palermo - attività svolte
 ***************************************
 
-* \ |LINK16|\ ;
+* \ |LINK21|\ ;
 
-* \ |LINK17|\  in collaborazione con il Team Trasformazione Digitale. Guarda i resoconti video dell'evento: 
+* \ |LINK22|\  in collaborazione con il Team Trasformazione Digitale. Guarda i resoconti video dell'evento: 
 
-    * \ |LINK18|\  
+    * \ |LINK23|\  
 
-    * \ |LINK19|\  
+    * \ |LINK24|\  
 
-    * \ |LINK20|\ .
+    * \ |LINK25|\ .
 
 .. bottom of content
 
@@ -243,21 +262,41 @@ RTD Comune di Palermo - attività svolte
 
 .. |LINK16| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/1PM18t1E8e79WERgwqwwQKPOKeVC3liNBpB0nwSZgA5o/edit?usp=sharing" target="_blank">Giornata informativa/formativa ai dirigenti comunali (3-4-5 dicembre 2018)</a>
+    <a href="http://eventipa.formez.it/node/222956" target="_blank">Conoscere gli obiettivi della trasformazione digitale</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/1O0Cr2X6XUEBf9Oswl3eMaglAivu6u1f0q8WUZGKDTRc/edit?usp=sharing" target="_blank">Evento pubblico del 30 ottobre 2019 per la diffusione per la cultura e cittadinanza digitale</a>
+    <a href="http://eventipa.formez.it/node/228618" target="_blank">Conoscere le tecnologie emergenti per la trasformazione digitale</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA (video di Gianni Dominici)</a>
+    <a href="http://eventipa.formez.it/node/233359" target="_blank">Comunicare e condividere all'interno dell'amministrazione</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://www.palermotoday.it/attualita/servizi-pubblici-digitali-app-io-pagopa.html" target="_blank">Servizi pubblici digitali dall'app IO a PagoPA: ecco cosa cambia per i cittadini (video di PalermoToday)</a>
+    <a href="http://eventipa.formez.it/node/239828" target="_blank">Comunicare e condividere con cittadini, imprese e altre PA</a>
 
 .. |LINK20| raw:: html
+
+    <a href="http://eventipa.formez.it/node/243987" target="_blank">Gestire dati, informazioni e contenuti digitali</a>
+
+.. |LINK21| raw:: html
+
+    <a href="https://docs.google.com/presentation/d/1PM18t1E8e79WERgwqwwQKPOKeVC3liNBpB0nwSZgA5o/edit?usp=sharing" target="_blank">Giornata informativa/formativa ai dirigenti comunali (3-4-5 dicembre 2018)</a>
+
+.. |LINK22| raw:: html
+
+    <a href="https://docs.google.com/presentation/d/1O0Cr2X6XUEBf9Oswl3eMaglAivu6u1f0q8WUZGKDTRc/edit?usp=sharing" target="_blank">Evento pubblico del 30 ottobre 2019 per la diffusione per la cultura e cittadinanza digitale</a>
+
+.. |LINK23| raw:: html
+
+    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA (video di Gianni Dominici)</a>
+
+.. |LINK24| raw:: html
+
+    <a href="https://www.palermotoday.it/attualita/servizi-pubblici-digitali-app-io-pagopa.html" target="_blank">Servizi pubblici digitali dall'app IO a PagoPA: ecco cosa cambia per i cittadini (video di PalermoToday)</a>
+
+.. |LINK25| raw:: html
 
     <a href="https://www.blogsicilia.it/palermo/il-futuro-dei-servizi-pubblici-e-digitale-a-palermo-giornata-di-formazione-con-forum-pa-video/504185/" target="_blank">Il futuro dei servizi pubblici è digitale, a Palermo giornata di formazione con “Forum PA” (video di Blog Sicilia)</a>
 
