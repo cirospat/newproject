@@ -15,9 +15,7 @@ In attuazione di quanto previsto dal C.A.D., l’U.O. assume qualsiasi iniziativ
 
 Supporto al Dirigente nella progettazione, pianificazione e coordinamento delle attività relative ai progetti innovativi, alla pubblicazione dei dati, anche sulla sezione open data, coordinando tutti gli uffici dell’Amministrazione. Coordinamento degli adempimenti in capo al dirigente e al servizio Innovazione relativi in materia di pubblicazione, trasparenza, conservazione digitale e relative al C.A.D..
 
-Avvio e gestione della procedura di digitalizzazione delle note tramite procedura Libro Firma
-
-Digitale e ogni altro adempimento relativo all’ambito del passaggio al digitale.
+Avvio e gestione della procedura di digitalizzazione delle note tramite procedura Libro Firma Digitale e ogni altro adempimento relativo all’ambito del passaggio al digitale.
 
 --------
 
