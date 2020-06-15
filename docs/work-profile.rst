@@ -9,6 +9,16 @@ Work profile
 
 \ |STYLE0|\  \ |LINK1|\  - 0917407340 - \ |LINK2|\ 
 
+\ |STYLE1|\ :
+
+In attuazione di quanto previsto dal C.A.D., l’U.O. assume qualsiasi iniziativa e misura conforme ad agenda digitale e/o proposta in materia di sviluppo e innovazione tecnologica con riferimento a tutte le Aree dell’Amministrazione e delle relative attività, ivi comprese quelle che coinvolgono le società c/o Enti partecipati. Le iniziative e/o proposte comprendono l’individuazione degli ambiti, le modalità operative, la qualificazione dei costi, i provvedimenti e le scelte delle modalità di realizzazione.
+
+Supporto al Dirigente nella progettazione, pianificazione e coordinamento delle attività relative ai progetti innovativi, alla pubblicazione dei dati, anche sulla sezione open data, coordinando tutti gli uffici dell’Amministrazione. Coordinamento degli adempimenti in capo al dirigente e al servizio Innovazione relativi in materia di pubblicazione, trasparenza, conservazione digitale e relative al C.A.D..
+
+Avvio e gestione della procedura di digitalizzazione delle note tramite procedura Libro Firma
+
+Digitale e ogni altro adempimento relativo all’ambito del passaggio al digitale.
+
 --------
 
 .. _h355fd11633356a0533c60645d3612:
@@ -95,7 +105,7 @@ UE projects
 
 --------
 
-\ |STYLE1|\ :
+\ |STYLE2|\ :
 
 * \ |LINK26|\  ``CC BY``.
 
@@ -112,7 +122,9 @@ UE projects
 
 .. |STYLE0| replace:: **⤷**
 
-.. |STYLE1| replace:: **Tipologie di licenze aperte**
+.. |STYLE1| replace:: **Competenze**
+
+.. |STYLE2| replace:: **Tipologie di licenze aperte**
 
 
 .. |REPLACE1| raw:: html
