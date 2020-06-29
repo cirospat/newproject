@@ -198,6 +198,8 @@ Presentazioni e articoli su ontologie e vocabolari controllati
     * \ |LINK36|\  - Turtle vs RDF/XML vs N-Triples vs JSON-LD (Angus Addlesee).
     
     * "\ |LINK37|\ " un articolo di Giovanni Pirrotta (come il web semantico può combattere le false notizie).
+    
+    * Una \ |LINK38|\  (di Ilaria Maresi) per coloro che desiderano conoscere la modellazione semantica o aggiornare la propria memoria sull'argomento. Destinato a un vasto pubblico, il libro tratta argomenti dal ``RDF`` di base, all'integrazione di ontologie, alla costruzione di un modello e, infine, all'esecuzione di query ``SPARQL``.
 
 |
 
@@ -427,4 +429,8 @@ Presentazioni e articoli su ontologie e vocabolari controllati
 .. |LINK37| raw:: html
 
     <a href="https://medium.com/@gpirrotta/generazione-e-verifica-di-notizie-di-qualit%C3%A0-attraverso-il-web-semantico-la-storia-di-liliana-6cd81f05e9fe" target="_blank">Generazione e verifica di notizie di qualità attraverso il Web Semantico: la storia di Liliana Segre</a>
+
+.. |LINK38| raw:: html
+
+    <a href="https://zenodo.org/record/3898519#.Xvniul9xdPY" target="_blank">guida di facile lettura</a>
 
