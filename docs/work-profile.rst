@@ -88,7 +88,7 @@ Redazione partecipata del \ |LINK11|\ . ``cc by``
 
 \ |LINK25|\   prototipo di archivio sulla sostenibilità a Palermo, in collaborazione con l'architetto Paola Caselli (2018) ``cc by sa``
 
-\ |LINK26|\  (informazioni tratte dalle carte dei servizi e dal sito web istituzionale ``cc by sa``
+\ |LINK26|\  (informazioni tratte dalle carte dei servizi e dal sito web istituzionale) ``cc by sa``
 
 --------
 
