@@ -314,7 +314,7 @@ Dal Giugno 2020 è possibile \ |STYLE51|\ , oltre che con l'identità digitale S
 
 |
 
-Il 29 giugno 2020 la Giunta Comunale ha approvato il \ |STYLE53|\  in in conformità al Codice dell’Amministrazione Digitale, di cui al D.Lgs. 82/2005 e successive modifiche e integrazioni, e al Piano nazionale triennale per l’informatica 2019-2021, pubblicato dall’Agenzia per l’Italia Digitale (AGID).
+Il 29 giugno 2020 la Giunta Comunale ha approvato il \ |STYLE53|\  in conformità al Codice dell’Amministrazione Digitale, di cui al D.Lgs. 82/2005 e successive modifiche e integrazioni, e al Piano nazionale triennale per l’informatica 2019-2021, pubblicato dall’Agenzia per l’Italia Digitale (AGID).
 
 |
 
