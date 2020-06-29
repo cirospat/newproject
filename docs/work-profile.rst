@@ -76,9 +76,6 @@ Redazione partecipata del \ |LINK11|\ . ``cc by``
 
 \ |LINK17|\  (2008) ``cc by``
 
-
-|REPLACE4|
-
 \ |LINK18|\  ``cc by`` e  \ |LINK19|\  ``cc by sa``
 
 \ |LINK20|\  ``cc by``
@@ -91,6 +88,8 @@ Redazione partecipata del \ |LINK11|\ . ``cc by``
 
 \ |LINK25|\   prototipo di archivio sulla sostenibilità a Palermo, in collaborazione con l'architetto Paola Caselli (2018) ``cc by sa``
 
+\ |LINK26|\  (informazioni tratte dalle carte dei servizi e dal sito web istituzionale ``cc by sa``
+
 --------
 
 .. _h4652a21362e4e411f5b2d123828470:
@@ -99,20 +98,20 @@ UE projects
 ============
 
 
-|REPLACE5|
+|REPLACE4|
 
 --------
 
 \ |STYLE2|\ :
 
-* \ |LINK26|\  ``CC BY``.
+* \ |LINK27|\  ``CC BY``.
 
-* \ |LINK27|\  ``CC BY SA``.
+* \ |LINK28|\  ``CC BY SA``.
 
-* \ |LINK28|\  ``CC BY NC SA``.
+* \ |LINK29|\  ``CC BY NC SA``.
 
 
-|REPLACE6|
+|REPLACE5|
 
 
 .. bottom of content
@@ -136,15 +135,12 @@ UE projects
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png" /> <a href="https://github.com/cirospat?tab=repositories" target="_blank">Github</a> repository codice <code><span style="color: #ff0000;">cc by sa</span></code>
 .. |REPLACE4| raw:: html
 
-    <strong>↓</strong> <img src="https://img.shields.io/badge/Pubblicazioni-Read_the_Docs-blue.svg?style=popout&logo=Read%20the%20Docs" /></a>
-.. |REPLACE5| raw:: html
-
     <p><a href="http://poieinkaiprattein.org/cied" target="_blank" rel="noopener" title="project-cied"><img src="https://img.shields.io/badge/project-cied-blue.svg" /></a></p>
     <p><a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank" rel="noopener" title="project-euro emas"><img src="https://img.shields.io/badge/project-euro_emas-blue.svg" /></a></p>
     <p><a href="http://slideplayer.com/slide/4835066/" target="_blank" rel="noopener" title="project-etiv"><img src="https://img.shields.io/badge/project-etiv-blue.svg" /></a></p>
     <p><a href="http://bit.ly/medclima" target="_blank" rel="noopener" title="project-medclima"><img src="https://img.shields.io/badge/project-medclima-blue.svg" /></a></p>
     <p><a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank" rel="noopener" title="project-urban matrix"><img src="https://img.shields.io/badge/project-urban_matrix-blue.svg" /></a></p>
-.. |REPLACE6| raw:: html
+.. |REPLACE5| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -272,13 +268,17 @@ UE projects
 
 .. |LINK26| raw:: html
 
-    <a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera</a>
+    <a href="https://cirospat.github.io/servizi-comunepalermo/" target="_blank">Visualizzazione in un pannello di controllo dei servizi comunali di Palermo</a>
 
 .. |LINK27| raw:: html
 
-    <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo</a>
+    <a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera</a>
 
 .. |LINK28| raw:: html
+
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo</a>
+
+.. |LINK29| raw:: html
 
     <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo, non per usi commerciali</a>
 
