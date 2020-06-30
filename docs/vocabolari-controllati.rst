@@ -200,6 +200,8 @@ Presentazioni e articoli su ontologie e vocabolari controllati
     * "\ |LINK37|\ " un articolo di Giovanni Pirrotta (come il web semantico può combattere le false notizie).
     
     * Una \ |LINK38|\  (di Ilaria Maresi) per coloro che desiderano conoscere la modellazione semantica o aggiornare la propria memoria sull'argomento. Destinato a un vasto pubblico, il libro tratta argomenti dal ``RDF`` di base, all'integrazione di ontologie, alla costruzione di un modello e, infine, all'esecuzione di query ``SPARQL``.
+    
+    * \ |LINK39|\ . Disponibile un playground per imparare dalle basi (grazie a \ |LINK40|\ ).
 
 |
 
@@ -433,4 +435,12 @@ Presentazioni e articoli su ontologie e vocabolari controllati
 .. |LINK38| raw:: html
 
     <a href="https://zenodo.org/record/3898519#.Xvniul9xdPY" target="_blank">guida di facile lettura</a>
+
+.. |LINK39| raw:: html
+
+    <a href="https://ci.mines-stetienne.fr/sparql-generate/playground.html" target="_blank">Estensione di SPARQL 1.1 per generare RDF da XML, JSON, CSV, GeoJSON, HTML, CBOR, testo con espressioni regolari</a>
+
+.. |LINK40| raw:: html
+
+    <a href="https://www.facebook.com/groups/opendatasicilia/?multi_permalinks=2969269163191719%2C2966008010184501%2C2964474767004492&notif_id=1593324030818250&notif_t=group_activity&ref=notif" target="_blank">Giovanni Pirrotta</a>
 
