@@ -314,7 +314,7 @@ Dal Giugno 2020 è possibile \ |STYLE51|\ , oltre che con l'identità digitale S
 
 |
 
-Il 29 giugno 2020 la Giunta Comunale ha approvato il \ |STYLE53|\  in conformità al Codice dell’Amministrazione Digitale, di cui al D.Lgs. 82/2005 e successive modifiche e integrazioni, e al Piano nazionale triennale per l’informatica 2019-2021, pubblicato dall’Agenzia per l’Italia Digitale (AGID).
+Il 29 giugno 2020 la Giunta Comunale, con Deliberazione n. 149/2020 ha approvato il \ |LINK83|\  in conformità al Codice dell’Amministrazione Digitale, di cui al D.Lgs. 82/2005 e successive modifiche e integrazioni, e al Piano nazionale triennale per l’informatica 2019-2021, pubblicato dall’Agenzia per l’Italia Digitale (AGID).
 
 |
 
@@ -427,8 +427,6 @@ Il 29 giugno 2020 la Giunta Comunale ha approvato il \ |STYLE53|\  in conformit�
 .. |STYLE51| replace:: **accedere ai servizi online del comune di Palermo**
 
 .. |STYLE52| replace:: **anche con la Carta d'Identità Elettronica**
-
-.. |STYLE53| replace:: **Piano comunale triennale per l'Informatica 2020-2022**
 
 
 .. |REPLACE1| raw:: html
@@ -765,4 +763,8 @@ Il 29 giugno 2020 la Giunta Comunale ha approvato il \ |STYLE53|\  in conformit�
 .. |LINK82| raw:: html
 
     <a href="https://sso.comune.palermo.it/auth/realms/sispi4pa/protocol/openid-connect/auth?response_type=code&client_id=was9&scope=openid%20email%20profile&state=967949395_1591794216654&redirect_uri=https%3A%2F%2Fservizionline.comune.palermo.it%3A443%2Foidcclient%2Fsispi4pa" target="_blank">CIE</a>
+
+.. |LINK83| raw:: html
+
+    <a href="https://cirospat.readthedocs.io/it/latest/piano_triennale_informatica_comune_palermo_2020-2022_delibera_GC_149_29-06-2020.html" target="_blank">Piano comunale triennale per l'Informatica 2020-2022</a>
 
