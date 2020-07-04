@@ -21,13 +21,19 @@ adottato con deliberazione di Giunta Comunale n. 149 del 29.06.2020
  
 #
 
+|
+
 La redazione del documento “\ |STYLE0|\ ” è stata curata dal Servizio Innovazione con la collaborazione della  Società in house per i servizi informatici Sispi SpA. Il documento è stato redatto in conformità al \ |LINK1|\ , di cui al D.Lgs. 82/2005 e successive modifiche e integrazioni, e al \ |LINK2|\ , pubblicato dall’Agenzia per l’Italia Digitale (AGID). 
+
+|
 
 
 .. _h62184a12d261b4d3143e132ab7341:
 
 Sommario
 ========
+
+|
 
 | `1- Premessa <#h1e7ef1f6762c43511224b11461a>`_
 | `2- Obiettivi generali del piano triennale per l’informatica del comune di palermo 2020-2022 <#h285b7634c196b406f627d3f30197269>`_
@@ -67,6 +73,8 @@ Sommario
 
 1- Premessa
 ***********
+
+|
 
 Il Piano descritto nel seguito del documento è redatto in conformità a quanto indicato dal \ |LINK3|\  dell’Agenzia per l’Italia Digitale, e specificatamente, con quanto indicato all’art. 13 “\ |STYLE1|\ ”.
 
@@ -434,9 +442,9 @@ Per ciascun intervento viene riportata una descrizione di quanto già realizzato
 Al fine di migliorare la leggibilità del piano degli interventi e favorire il riscontro con la coerenza rispetto al Piano Nazionale, si è scelto di strutturare il capitolo utilizzando puntualmente la strutturazione e l’elencazione dei diversi item proposti all’articolo 13 del Piano Nazionale “\ |STYLE73|\ .
 
 
-.. _h491f252776474a1918583e2658613aa:
+.. _h483e171a80467c2f21657404c422:
 
-4- Il piano d’azione per la trasformazione digitale del comune di palermo 
+4- Il piano d’azione per la trasformazione digitale del comune di Palermo 
 **************************************************************************
 
 .. _h716205865121826687238276e1d4e6:
@@ -990,6 +998,8 @@ Dalla creazione del “Manuale”, che avverrà avvalendosi di un gruppo interse
 6- Aggiornamento e organizzazione per l’attuazione del piano comunale
 *********************************************************************
 
+|
+
 .. _h371f444663466353643c1b74463e63:
 
 6.1- Aggiornamento del Piano comunale
@@ -998,6 +1008,8 @@ Dalla creazione del “Manuale”, che avverrà avvalendosi di un gruppo interse
 Il presente Piano comunale è aggiornato su base triennale. La frequenza di aggiornamento potrà essere modificata in base a sopravvenute innovazioni normative emanate dal Ministero dell’Innovazione Tecnologica, Ministero della Funzione Pubblica, Agenzia per l’Italia Digitale o altri Enti sovraordinati che con apposite norme di nuova emanazione rendono obsoleto il presente Piano.
 
 Ove non si procedesse ad una tempestiva revisione/aggiornamento del Piano comunale vigono le sopraggiunte norme sovraordinate in materia di Amministrazione Digitale.
+
+|
 
 .. _h181f6c3e1a2a541c554338304184973:
 
