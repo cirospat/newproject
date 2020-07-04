@@ -121,7 +121,7 @@ Il Piano, inoltre, mantiene la propria convergenza anche verso gli obiettivi pi√
 +-------------------------------------+------------+-------------+
 |\ |STYLE4|\                          |\ |LINK7|\  |\ |STYLE6|\  |
 |                                     |            |             |
-|e                                    |e           |             |
+|-                                    |-           |             |
 |                                     |            |             |
 |\ |STYLE5|\                          |\ |LINK8|\  |             |
 +-------------------------------------+------------+-------------+
