@@ -1,20 +1,10 @@
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
 .. _h2e1759227465c1d41d117156b7a7:
 
 Piano  triennale  per l’Informatica del Comune di Palermo 2020-2022    
 #######################################################################
 
-adottato con deliberazione di Giunta Comunale n. 149 del 29.06.2020
+[adottato con deliberazione di Giunta Comunale n. 149 del 29.06.2020]
 
 .. _h721512647d633e292e6e1a401867145f:
 
@@ -23,15 +13,19 @@ adottato con deliberazione di Giunta Comunale n. 149 del 29.06.2020
 
 |
 
+.. _bookmark-kix-6ooys5auuf4n:
+
 La redazione del documento “\ |STYLE0|\ ” è stata curata dal Servizio Innovazione con la collaborazione della  Società in house per i servizi informatici Sispi SpA. Il documento è stato redatto in conformità al \ |LINK1|\ , di cui al D.Lgs. 82/2005 e successive modifiche e integrazioni, e al \ |LINK2|\ , pubblicato dall’Agenzia per l’Italia Digitale (AGID). 
 
 |
 
 
-.. _h62184a12d261b4d3143e132ab7341:
 
-Sommario
-========
+.. toctree::  
+    :maxdepth: 3
+    :caption: Sommario 
+
+    piano_triennale_informatica_comune_palermo_2020-2022_delibera_GC_149_29-06-2020
 
 |
 
@@ -68,6 +62,8 @@ Sommario
 |     `6.1- Aggiornamento del Piano comunale <#h371f444663466353643c1b74463e63>`_
 |     `6.2- Costituzione di un Team interno per la formazione e sensibilizzazione sulla dematerializzazione e cultura digitale <#h181f6c3e1a2a541c554338304184973>`_
 
+
+|
 
 .. _h1e7ef1f6762c43511224b11461a:
 
@@ -122,11 +118,15 @@ Coerentemente con il suddetto scenario di riferimento, il Piano definisce una vi
 
 * Ecosistemi Tematici e Servizi. Ovvero, il complesso di azioni volto a razionalizzare e potenziare i servizi in rete così da consentire, da un lato, al sistema pubblico di presentarsi in modo unitario, omogeneo e accessibile a tutti e garantire l’accessibilità e la digitalizzazione di fasce sempre più ampie di utenti; dall’altro, ai cittadini, alle imprese e, più in generale, al territorio di riferimento di promuovere e sviluppare una offerta di servizi coerente con il modello di open-services presente nello scenario di un living lab della Città di Palermo che abbia l’obiettivo di favorire la cooperazione con i cittadini e con i diversi stakeholders del territorio al fine di testare e favorire la nascita di nuove forme di partnership pubblico-private. In questo senso, gli ecosistemi raggruppano i soggetti interessati che interagiscono per il raggiungimento di obiettivi comuni attraverso la condivisione delle esigenze e delle modalità operative, la condivisione delle differenti competenze, la pianificazione e la realizzazione di progetti ICT.
 
+|
+
 
 .. _h285b7634c196b406f627d3f30197269:
 
 2- Obiettivi generali del piano triennale per l’informatica del comune di palermo 2020-2022
 *******************************************************************************************
+
+|
 
 .. _h5670607c695872118705d2955c5077:
 
@@ -177,6 +177,8 @@ Il Piano, inoltre, mantiene la propria convergenza anche verso gli obiettivi pi�
 
 [Schema nazionale degli attori, della norma e dei ruoli per la digitalizzazione della PA]
 
+|
+
 .. _h7a1f45a5558b466736764c96b5a56:
 
 2.2- Palermo città Pilota insieme ad AGID e Team Trasformazione Digitale per azioni sperimentali di trasformazione digitale
@@ -193,6 +195,8 @@ Tra queste azioni vanno menzionate le seguenti:
 #. \ |LINK12|\ , necessaria alla redazione del Piano nazionale triennale 2017-2019 e 2019-2021.
 
 #. Attività di \ |LINK13|\ , in collaborazione con l’AGID, al fine di adottare le necessarie misure di protezione e prevenzione degli attacchi cibernetici.
+
+|
 
 .. _h2b35393376342b2e441f10311cd240:
 
@@ -277,6 +281,8 @@ In questo scenario di riferimento e da un punto di vista più strutturale il Pia
 
     * Realizzare un Marketing del Territorio che, facendo uso delle tecnologie più innovative, fornisca strumenti e servizi ad una governance di livello metropolitano per incrementare e qualificare l’offerta turistica e, quindi, incrementare le presenze turistiche sul territorio. 
 
+|
+
 
 .. _bookmark-id-17dp8vu:
 
@@ -284,6 +290,8 @@ In questo scenario di riferimento e da un punto di vista più strutturale il Pia
 
 3- I cardini della strategia nazionale di trasformazione digitale della pubblica amministrazione 
 *************************************************************************************************
+
+|
 
 .. _h33404c53763e5b5268235c26f2115b:
 
@@ -318,10 +326,7 @@ La “Strategia per la crescita digitale” evidenzia la necessità di un radica
 
 #. \ |STYLE27|\ , una sorta di funzioni che permettono ad altri soggetti (pubblici e privati) di interagire con un programma o una piattaforma software o semplicemente permettono di effettuare una serie di “chiamate” a parti di un programma o di una piattaforma con vantaggi in termini di riduzione dei tempi per chi deve effettuare lavori in ambiente di “\ |STYLE28|\ ”. A tal fine è necessario fare ricorso ai \ |LINK15|\ . 
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
+|
 
 .. _h186c2c51392424f732a230286f5e19:
 
@@ -395,6 +400,8 @@ La \ |STYLE67|\  da un modello di Amministrazione basata per decenni sull’uso 
 
 E’ necessario attivare collaborazioni sia interne all’ente tra le diverse aree, servizi, uffici, settori che tra enti diversi per scambiarsi buone prassi, riusare software, e facendo riferimento all’Agenzia per l’Italia Digitale e al Ministero per l’Innovazione Tecnologica e la Digitalizzazione quali enti nazionali che coordinano e monitorano la realizzazione delle azioni per l’agenda digitale.
 
+|
+
 .. _h21494e2a1c1b36471f784a7f0641c22:
 
 3.3- Il supporto delle Convenzioni Consip per la trasformazione digitale delle PA
@@ -406,6 +413,9 @@ Tra le iniziative che rivestono un’importanza strategica per la realizzazione 
 |REPLACE2|
 
 Copertura degli strumenti Consip sulle componenti del Modello strategico (dal Piano triennale Informatica 2017-2019).
+
+
+|
 
 .. _bookmark-id-1ksv4uv:
 
@@ -419,6 +429,8 @@ Il Piano nazionale, al capitolo 13 (“\ |LINK24|\ ”) prevede numerose azioni 
 |REPLACE3|
 
 \ |LINK25|\  \ |STYLE68|\ 
+
+|
 
 .. _h475d1f61285d42483a4832062202c:
 
@@ -441,11 +453,15 @@ Per ciascun intervento viene riportata una descrizione di quanto già realizzato
 
 Al fine di migliorare la leggibilità del piano degli interventi e favorire il riscontro con la coerenza rispetto al Piano Nazionale, si è scelto di strutturare il capitolo utilizzando puntualmente la strutturazione e l’elencazione dei diversi item proposti all’articolo 13 del Piano Nazionale “\ |STYLE73|\ .
 
+|
+
 
 .. _h483e171a80467c2f21657404c422:
 
 4- Il piano d’azione per la trasformazione digitale del comune di Palermo 
 **************************************************************************
+
+|
 
 .. _h716205865121826687238276e1d4e6:
 
@@ -514,6 +530,8 @@ Di seguito si descrivono puntualmente le azioni già intraprese e quelle da avvi
 
 L’analisi puntuale dei singoli interventi permette di comprendere i progressi già compiuti nel tempo e le attività da svolgere secondo una mappatura temporale che sappia dare concreta attuazione all’agenda digitale dell’Amministrazione comunale in conformità e coerenza con gli indirizzi, le prescrizioni ed il programma nazionale.
 
+|
+
 .. _h2f5cb5f3f456645a4681b207a2353:
 
 4.2- Programmazione Generale interventi
@@ -534,6 +552,8 @@ In analogia con il modello di rappresentazione adottato per la definizione del p
 |REPLACE4|
 
 A seguire l’analisi più dettagliata degli interventi articolata secondo una struttura logica coerente con il modello indicato dal Piano Triennale per l’informatizzazione della PA elaborato da AGID.
+
+|
 
 .. _h685f77617b51722a7e2b724b401b1d30:
 
@@ -609,7 +629,9 @@ Nel perimetro degli interventi previsti dal Piano per il periodo 2020-2022 rient
 
 * Integrazione, attraverso il protocollo MPLS, dei servizi di trasporto dati asserviti agli ecosistemi di città oggetto di intervento nell’ambito delle strategie per la realizzazione della smart community;
 
-* Convergenza sull’anello telematico delle reti radio esistenti e dei servizi di livello urbano prioritariamente orientati alla video sorveglianza e all’IoT;
+* Convergenza sull’anello telematico delle reti radio esistenti e dei servizi di livello urbano prioritariamente orientati alla video sorveglianza e all’IoT.
+
+|
 
 
 .. _h476f1116272e1f3d4055156f8c704c:
@@ -690,9 +712,7 @@ Per quanto riguarda, invece, gli interventi di maggiore rilevanza che saranno ef
 
 * Servizi di open API coerenti con gli scenari ed il contesto operativo della cosiddetta API Economy (Living Lab della Città di Palermo); 
 
-.. _h2c1d74277104e41780968148427e:
-
-
+|
 
 
 .. _h4b475c5833732a456d4bf61713322f:
@@ -755,7 +775,9 @@ Per quanto riguarda, invece, gli interventi di maggiore rilevanza che saranno ef
 * A seguito del rilascio della prima versione del registro dei vocabolari controllati, il Comune di Palermo, nell’adozione di soluzioni applicative per la gestione di processi amministrativi di propria competenza, avvia un percorso di normalizzazione dei propri dati.
 
 * Alimentare il Repertorio Nazionale dei Dati Territoriali (\ |LINK35|\ ) secondo le regole definite da AGID.
-* 
+
+|
+
 
 .. _h441a3c4c704275c1c5f605c3f132d:
 
@@ -786,11 +808,7 @@ Per quanto riguarda, invece, gli interventi di maggiore rilevanza che saranno ef
 |                    |                                                                                                                                                                                                                                               |                                                                                                               |                                                                                                |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
+|
 
 .. _h735354a41a69716812d1a7e3d7f5f:
 
@@ -814,6 +832,7 @@ Per quanto riguarda, invece, gli interventi di maggiore rilevanza che saranno ef
 
 Nota: il Comune di Palermo nel 2019 e 2020 non è stato individuato da AGID quale ente facente parte al Gruppo di Lavoro per le Linee Azione da LA51 a LA54.
 
+|
 
 .. _h541e28486f4a16a53e177c2e636b:
 
@@ -833,11 +852,7 @@ Nota: il Comune di Palermo nel 2019 e 2020 non è stato individuato da AGID qual
 |                                                                  |Consolidamento dei processi di certificazione.                                                                                                                                                                                                                                                 |                                                           |                                                           |
 +------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
+|
 
 .. _h546f72312aa7a55481838654d3e5c:
 
@@ -886,6 +901,8 @@ Gli eventi pubblici potranno essere gestiti anche in cooperazione con enti pubbl
 
 Tale attività formativa interna e di sensibilizzazione della cittadinanza è considerata dall’Amministrazione di strategica importanza al fine di rendere il presente Piano triennale quanto più efficace ed attuato possibile.
 
+|
+
 .. _h435560c6d1b1af5d11522c3032110:
 
 4.10- Indicazioni relative ai Modelli e strumenti per l’innovazione
@@ -899,6 +916,8 @@ Tale attività formativa interna e di sensibilizzazione della cittadinanza è co
 +--------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |\ |STYLE94|\                                      |Avvio dei processi per la stipula di  accordi di collaborazione ex articolo 15 l.241/90. \ |LINK55|\                                                           |                                                                                                                                                               |                                                                                                                                                               |
 +--------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+|
 
 .. _h421df50731f5d1a63e3c13e2cee:
 
@@ -930,9 +949,7 @@ Tale attività formativa interna e di sensibilizzazione della cittadinanza è co
 |                                           |                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                         |                                                                                                                                                                               |
 +-------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-.. _h2c1d74277104e41780968148427e:
-
-
+|
 
 
 .. _bookmark-id-3fwokq0:
@@ -950,6 +967,8 @@ Gli obiettivi di dematerializzazione documentale, nel 2020, verranno inseriti ne
 
 [cambio del paradigma della gestione documentale, attualmente in atto]
 
+|
+
 .. _h13225a6c646b7a195a5661222661a43:
 
 5.1- Analisi dei Processi amministrativi
@@ -958,6 +977,8 @@ Gli obiettivi di dematerializzazione documentale, nel 2020, verranno inseriti ne
 Per raggiungere concretamente gli obiettivi di dematerializzazione documentale, gli uffici hanno già avviato e manterranno costante l’attività di \ |STYLE100|\ , necessaria alla re-ingegnerizzazione degli stessi processi, così da ottenere livelli semplificati di gestione dei procedimenti amministrativi. 
 
 L’Analisi dei Processi, per i vari Dirigenti dei Servizi/Settori/Aree, sarà inserita, dal 2020,  nei Piani della Performance di prossima approvazione, in coerenza con l’\ |LINK64|\ .
+
+|
 
 .. _h6119671687746d3aa111274322669:
 
@@ -968,6 +989,8 @@ L’Amministrazione già dal 2017, con Delibera di Giunta n.148 del 5.08.2016, h
 
 Con Delibera di Giunta n. 256 del 31.12.2019 è stato approvato un cronoprogramma di attività con il quale si prevede, nel corso del 2020, di completare l’attivazione della procedura in tutti gli uffici comunali, eliminando quindi definitivamente la gestione cartacea e la firma olografa della corrispondenza in uscita dall’Ente.
 
+|
+
 .. _h5773044664e8255655a2525561151:
 
 5.3- Determinazioni Dirigenziali digitali dal 2019
@@ -977,12 +1000,16 @@ Nel gennaio 2019 tutte le figure dirigenziali hanno avviato la creazione e gesti
 
 La gestione del processo amministrativo delle determinazioni dirigenziali è stato effettuato con successo in tutti gli uffici e si sono registrate rare criticità iniziali legate ad una reingegnerizzazione di alcuni flussi delle procedure amministrative stesse.
 
+|
+
 .. _h2f715f64c466d60252d1e3c146c4f67:
 
 5.4- Deliberazioni di Giunta Comunale digitali dal 2020
 =======================================================
 
 Nel corso del 2020, in seguito all’attivazione del lavoro agile per una consistente percentuale del personale comunale dal marzo 2020 per fronteggiare la situazione emergenziale Covid19, sono state avviate le attività di analisi dei processi propedeutiche alla gestione documentale digitale delle deliberazioni di Giunta Comunale sull’applicativo “Webrainbow”, già utilizzato per le Determinazioni Dirigenziali. Attualmente, in fase temporanea, la gestione documentale digitale delle suddette deliberazioni avviene attraverso la procedura “Libro Firma Digitale - Protocollo Maia”.
+
+|
 
 .. _h1b1d1836493529613057534746d2722:
 
@@ -991,7 +1018,10 @@ Nel corso del 2020, in seguito all’attivazione del lavoro agile per una consis
 
 Nel corso del 2020 l’Amministrazione ha l’obiettivo di redigere ed approvare il “Manuale di Formazione, Gestione e Conservazione del documento informatico” ai sensi delle recenti \ |LINK65|\ .
 
-Dalla creazione del “Manuale”, che avverrà avvalendosi di un gruppo intersettoriale con competenze informatiche e giuridico-amministrative, deriverà una riorganizzazione del protocollo informatico e del relativo applicativo per la gestione documentale digitale.  
+Dalla creazione del “Manuale”, che avverrà avvalendosi di un gruppo intersettoriale con competenze informatiche e giuridico-amministrative, deriverà una riorganizzazione del protocollo informatico e del relativo applicativo per la gestione documentale digitale. 
+
+|
+
 
 .. _h554b40a6f1f34646e641a614c50c10:
 
