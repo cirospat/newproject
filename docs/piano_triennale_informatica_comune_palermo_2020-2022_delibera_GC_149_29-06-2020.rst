@@ -6,17 +6,18 @@ Piano  triennale  per l’Informatica del Comune di Palermo 2020-2022
 
 [adottato con \ |LINK1|\ ]
 
-LA GIUNTA COMUNALE DELIBERA 
 
-Per i motivi esposti in narrativa e che s’intendono riportati: 
+.. admonition:: LA GIUNTA COMUNALE DELIBERA
 
-* di adottare il “Piano triennale per l’informatica del Comune di Palermo 2020-2022” allegato al presente atto; 
-
-* di dare mandato alla Società informatica comunale SISPI SpA e al Servizio Innovazione, per lo staff del Webmaster, di porre in essere tutte le attività tecniche e soluzioni tecnologiche necessarie all’attuazione dei contenuti nell’allegato “Piano triennale per l’informatica del Comune di Palermo 2020-2022”; 
-
-* di dare mandato al Segretario Generale di provvedere, con successivo atto, all'inserimento degli obiettivi del “Piano triennale per l’informatica del Comune di Palermo 2020-2022” nel “Piano della Performance del Comune di Palermo”, ai sensi dell'art. 12 comma 1-ter del CAD (\ |STYLE0|\ ). 
-
-* di dare atto che il presente atto non comporta oneri riflessi diretti o indiretti sulla situazione economico finanziaria dell'Amministrazione Comunale.
+    Per i motivi esposti in narrativa e che s’intendono riportati: 
+    
+    * di adottare il “Piano triennale per l’informatica del Comune di Palermo 2020-2022” allegato al presente atto; 
+    
+    * di dare mandato alla Società informatica comunale SISPI SpA e al Servizio Innovazione, per lo staff del Webmaster, di porre in essere tutte le attività tecniche e soluzioni tecnologiche necessarie all’attuazione dei contenuti nell’allegato “Piano triennale per l’informatica del Comune di Palermo 2020-2022”; 
+    
+    * di dare mandato al Segretario Generale di provvedere, con successivo atto, all'inserimento degli obiettivi del “Piano triennale per l’informatica del Comune di Palermo 2020-2022” nel “Piano della Performance del Comune di Palermo”, ai sensi dell'art. 12 comma 1-ter del CAD (\ |STYLE0|\ ). 
+    
+    * di dare atto che il presente atto non comporta oneri riflessi diretti o indiretti sulla situazione economico finanziaria dell'Amministrazione Comunale.
 
 |
 
