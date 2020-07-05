@@ -75,15 +75,15 @@ Dal punto di vista dell’impiego razionale delle tecnologie, ovvero dell’indi
 
 Coerentemente con il suddetto scenario di riferimento, il Piano definisce una visione delle tecnologie e delle piattaforme abilitanti fortemente asservita alla realizzazione di servizi incardinati su cinque pilastri portanti essenziali: la banda larga e l’accesso in mobilità; il potenziamento e il dispiegamento del cloud computing, la sicurezza digitale e la convergenza verso le piattaforme abilitanti di livello nazionale (Fatturazione elettronica, SIOPE+, SPID, PAGOPA, ANPR, CIE, PEC) ed il modello di interoperabilità; servizi di livello urbano e l’Internet delle cose per la realizzazione di servizi “adattivi e event-driven”; le piattaforma per il delivery dei servizi; gli ecosistemi tematici ed i servizi. Ovvero:
 
-* Infrastruttura di trasporto dei dati. Ovvero, lo sviluppo del tessuto connettivo della Città di Palermo, funzionale ad un modello di trasporto dei dati convergente e multi-layer, completamente innervato su una potente dorsale della città quale l’anello telematico ed in grado, da un lato, di garantire connettività in banda larga presso tutte le sedi dell’Amministrazione, servizi WiFi per l’accesso ad Internet ed ai servizi qualificati della Città, la raccolta ed il convogliamento degli stream video e della ingente quantità dati generati nel più generale contesto dell’IoT; dall’altro di implementare e gestire servizi di nuova generazione fortemente focalizzati sul paradigma delle smart city.
+* \ |STYLE3|\ . Ovvero, lo sviluppo del tessuto connettivo della Città di Palermo, funzionale ad un modello di trasporto dei dati convergente e multi-layer, completamente innervato su una potente dorsale della città quale l’anello telematico ed in grado, da un lato, di garantire connettività in banda larga presso tutte le sedi dell’Amministrazione, servizi WiFi per l’accesso ad Internet ed ai servizi qualificati della Città, la raccolta ed il convogliamento degli stream video e della ingente quantità dati generati nel più generale contesto dell’IoT; dall’altro di implementare e gestire servizi di nuova generazione fortemente focalizzati sul paradigma delle smart city.
 
-* Cloud Computing e Piattaforme abilitanti. Ovvero, la consapevole adozione del paradigma del cloud computing quale riferimento metodologico, oltreché tecnologico, per lo sviluppo di servizi coerenti con le strategie di trasformazione digitale del Paese (Agenda Digitale Italiana, Piano Triennale per l'informatica nella Pubblica Amministrazione, Codice Amministrazione Digitale ….), con le piattaforme abilitanti di livello nazionale, e più in generale, con il modello di interoperabilità adottato nello scenario di riferimento della cosiddetta API Economy. Il Cloud Computing costituisce, inoltre, il naturale riferimento per una organica e unitaria interpretazione dei processi di evoluzione delle città (soprattutto quelle di dimensione metropolitana) che, sempre più, sarà improntata al modello, integrato e organizzato, delle smart city con l’obiettivo di “rendere le città e gli insediamenti umani inclusivi, sicuri, duraturi e sostenibili” (cfr. Agenda 2030 - Obiettivo 11).
+* \ |STYLE4|\ . Ovvero, la consapevole adozione del paradigma del cloud computing quale riferimento metodologico, oltreché tecnologico, per lo sviluppo di servizi coerenti con le strategie di trasformazione digitale del Paese (Agenda Digitale Italiana, Piano Triennale per l'informatica nella Pubblica Amministrazione, Codice Amministrazione Digitale ….), con le piattaforme abilitanti di livello nazionale, e più in generale, con il modello di interoperabilità adottato nello scenario di riferimento della cosiddetta API Economy. Il Cloud Computing costituisce, inoltre, il naturale riferimento per una organica e unitaria interpretazione dei processi di evoluzione delle città (soprattutto quelle di dimensione metropolitana) che, sempre più, sarà improntata al modello, integrato e organizzato, delle smart city con l’obiettivo di “rendere le città e gli insediamenti umani inclusivi, sicuri, duraturi e sostenibili” (cfr. Agenda 2030 - Obiettivo 11).
 
-* Sensoristica di livello Urbano. Ovvero, la capacità di mettere in relazione oggetti, infrastruttura e popolazione con l’obiettivo di automatizzare la raccolta di dati critici per la gestione urbana ed elaborarli per prendere decisioni che permettano di migliorare la qualità della vita dei cittadini, il rispetto dell’ambiente e del territorio, l’efficienza nell’uso delle risorse disponibili sostenendo e implementando l’idea che tecnologie quali quelle della sensoristica urbana, dell’Internet of Things (IoT), dei big data e dei software per gli algoritmi predittivi possano essere impiegate per semplificare i meccanismi di governo delle città, migliorare infrastrutture e servizi per il trasporto comunale, favorire l’efficientamento energetico, stimolare le economie locali, e infine ottimizzare l'ambiente urbano per renderlo più sostenibile, sicuro, vivibile e socialmente inclusivo.
+* \ |STYLE5|\ . Ovvero, la capacità di mettere in relazione oggetti, infrastruttura e popolazione con l’obiettivo di automatizzare la raccolta di dati critici per la gestione urbana ed elaborarli per prendere decisioni che permettano di migliorare la qualità della vita dei cittadini, il rispetto dell’ambiente e del territorio, l’efficienza nell’uso delle risorse disponibili sostenendo e implementando l’idea che tecnologie quali quelle della sensoristica urbana, dell’Internet of Things (IoT), dei big data e dei software per gli algoritmi predittivi possano essere impiegate per semplificare i meccanismi di governo delle città, migliorare infrastrutture e servizi per il trasporto comunale, favorire l’efficientamento energetico, stimolare le economie locali, e infine ottimizzare l'ambiente urbano per renderlo più sostenibile, sicuro, vivibile e socialmente inclusivo.
 
-* Service delivery Platform. Ovvero, l’insieme delle piattaforme di erogazione di servizi (SDP) organizzate attraverso un'architettura di erogazione che fornisce ambienti per il controllo, la creazione, l'orchestrazione e l'esecuzione di servizi. L’organizzazione dei servizi mediante architetture SDP consente di ampliare la capacità di offerta, l’integrazione e l’estensione funzionale dei servizi stessi offrendo strumenti di governance conformi al paradigma delle smart city e implementando, di fatto, paradigmi di open-services in grado di promuovere e sostenere lo sviluppo economico di un territorio.. 
+* \ |STYLE6|\ . Ovvero, l’insieme delle piattaforme di erogazione di servizi (SDP) organizzate attraverso un'architettura di erogazione che fornisce ambienti per il controllo, la creazione, l'orchestrazione e l'esecuzione di servizi. L’organizzazione dei servizi mediante architetture SDP consente di ampliare la capacità di offerta, l’integrazione e l’estensione funzionale dei servizi stessi offrendo strumenti di governance conformi al paradigma delle smart city e implementando, di fatto, paradigmi di open-services in grado di promuovere e sostenere lo sviluppo economico di un territorio.. 
 
-* Ecosistemi Tematici e Servizi. Ovvero, il complesso di azioni volto a razionalizzare e potenziare i servizi in rete così da consentire, da un lato, al sistema pubblico di presentarsi in modo unitario, omogeneo e accessibile a tutti e garantire l’accessibilità e la digitalizzazione di fasce sempre più ampie di utenti; dall’altro, ai cittadini, alle imprese e, più in generale, al territorio di riferimento di promuovere e sviluppare una offerta di servizi coerente con il modello di open-services presente nello scenario di un living lab della Città di Palermo che abbia l’obiettivo di favorire la cooperazione con i cittadini e con i diversi stakeholders del territorio al fine di testare e favorire la nascita di nuove forme di partnership pubblico-private. In questo senso, gli ecosistemi raggruppano i soggetti interessati che interagiscono per il raggiungimento di obiettivi comuni attraverso la condivisione delle esigenze e delle modalità operative, la condivisione delle differenti competenze, la pianificazione e la realizzazione di progetti ICT.
+* \ |STYLE7|\ . Ovvero, il complesso di azioni volto a razionalizzare e potenziare i servizi in rete così da consentire, da un lato, al sistema pubblico di presentarsi in modo unitario, omogeneo e accessibile a tutti e garantire l’accessibilità e la digitalizzazione di fasce sempre più ampie di utenti; dall’altro, ai cittadini, alle imprese e, più in generale, al territorio di riferimento di promuovere e sviluppare una offerta di servizi coerente con il modello di open-services presente nello scenario di un living lab della Città di Palermo che abbia l’obiettivo di favorire la cooperazione con i cittadini e con i diversi stakeholders del territorio al fine di testare e favorire la nascita di nuove forme di partnership pubblico-private. In questo senso, gli ecosistemi raggruppano i soggetti interessati che interagiscono per il raggiungimento di obiettivi comuni attraverso la condivisione delle esigenze e delle modalità operative, la condivisione delle differenti competenze, la pianificazione e la realizzazione di progetti ICT.
 
 |
 
@@ -100,7 +100,7 @@ Coerentemente con il suddetto scenario di riferimento, il Piano definisce una vi
 2.1- Contesto Nazionale - Inquadramento generale
 ================================================
 
-\ |STYLE3|\ .
+\ |STYLE8|\ .
 
 Il Piano Nazionale 2019-2021, nel proseguire il percorso intrapreso col Piano precedente, prevede un importante coinvolgimento delle pubbliche amministrazioni che dovranno recepire ed utilizzare le indicazioni e gli strumenti messi a disposizione da AGID.
 
@@ -126,24 +126,24 @@ L’occasione del Piano per il periodo 2020-2022 consente, quindi, di rielaborar
 
 Il Piano, inoltre, mantiene la propria convergenza anche verso gli obiettivi più puntuali della strategia nazionale elaborata di concerto con i Ministeri e in collaborazione con la Conferenza delle Regioni e delle Province Autonome e fa riferimento ai due programmi strategici per il Paese: il \ |LINK5|\  e la \ |LINK6|\  approvati dal Consiglio dei Ministri. 
 
-+-------------------------------------+-------------+-------------+
-|COSA                                 |LINK         |RUOLO        |
-+=====================================+=============+=============+
-|                                     |\ |LINK7|\   |\ |STYLE4|\  |
-|Codice Amministrazione Digitale (CAD)|             |             |
-+-------------------------------------+-------------+-------------+
-|\ |STYLE5|\                          |\ |LINK8|\   |\ |STYLE7|\  |
-|                                     |             |             |
-|-                                    |-            |             |
-|                                     |             |             |
-|\ |STYLE6|\                          |\ |LINK9|\   |             |
-+-------------------------------------+-------------+-------------+
-|\ |STYLE8|\                          |\ |LINK10|\  |\ |STYLE9|\  |
-|                                     |             |             |
-|                                     |             |\ |STYLE10|\ |
-|                                     |             |             |
-|                                     |             |\ |STYLE11|\ |
-+-------------------------------------+-------------+-------------+
++-------------------------------------+-------------+--------------+
+|COSA                                 |LINK         |RUOLO         |
++=====================================+=============+==============+
+|                                     |\ |LINK7|\   |\ |STYLE9|\   |
+|Codice Amministrazione Digitale (CAD)|             |              |
++-------------------------------------+-------------+--------------+
+|\ |STYLE10|\                         |\ |LINK8|\   |\ |STYLE12|\  |
+|                                     |             |              |
+|-                                    |-            |              |
+|                                     |             |              |
+|\ |STYLE11|\                         |\ |LINK9|\   |              |
++-------------------------------------+-------------+--------------+
+|\ |STYLE13|\                         |\ |LINK10|\  |\ |STYLE14|\  |
+|                                     |             |              |
+|                                     |             |\ |STYLE15|\  |
+|                                     |             |              |
+|                                     |             |\ |STYLE16|\  |
++-------------------------------------+-------------+--------------+
 
 [Schema nazionale degli attori, della norma e dei ruoli per la digitalizzazione della PA]
 
@@ -158,9 +158,9 @@ L’Amministrazione comunale, consapevole dell’importanza di avviare ogni tipo
 
 Tra queste azioni vanno menzionate le seguenti:
 
-#. “\ |LINK11|\ ” \ |STYLE12|\ .
+#. “\ |LINK11|\ ” \ |STYLE17|\ .
 
-#. \ |LINK12|\ , un \ |STYLE13|\ . La città di Palermo è nell’elenco delle prime pubbliche amministrazioni che sperimenta l’uso dell’app IO in Italia.
+#. \ |LINK12|\ , un \ |STYLE18|\ . La città di Palermo è nell’elenco delle prime pubbliche amministrazioni che sperimenta l’uso dell’app IO in Italia.
 
 #. \ |LINK13|\ , necessaria alla redazione del Piano nazionale triennale 2017-2019 e 2019-2021.
 
@@ -197,9 +197,9 @@ Gli obiettivi generali declinati dal Piano nazionale assunti quali riferimenti p
 
 * implementare i servizi di convergenza nazionale attraverso l’adesione dell’Amministrazione alle piattaforme nazionali abilitanti all’erogazione dei servizi pubblici locali (SPID, SIOPE+, Fatturazione Elettronica, PAGOPA, App IO, ANPR, CIE) con l’obiettivo di permettere un aumento del livello di cittadinanza digitale, anche attraverso specifici percorsi di sensibilizzazione all’uso degli strumenti digitali rivolti ad associazioni e cittadini.
 
-In questo scenario di riferimento e da un punto di vista più strutturale il Piano della Città di Palermo individua quattro direttrici di intervento prioritarie. La \ |STYLE14|\  e l’approccio strategico allo sviluppo digitale; la valorizzazione di una \ |STYLE15|\  inclusiva e partecipativa per mettere le persone al centro dell’azione; \ |STYLE16|\  che, valorizzando una oggettiva condizione di governance organica ed unitaria, sappia coniugare lo sviluppo della Città delle CulturE con la sostenibilità ambientale; \ |STYLE17|\ , anche allargato alla dimensione metropolitana, attraverso l’utilizzo intelligente delle tecnologie. Ovvero:
+In questo scenario di riferimento e da un punto di vista più strutturale il Piano della Città di Palermo individua quattro direttrici di intervento prioritarie. La \ |STYLE19|\  e l’approccio strategico allo sviluppo digitale; la valorizzazione di una \ |STYLE20|\  inclusiva e partecipativa per mettere le persone al centro dell’azione; \ |STYLE21|\  che, valorizzando una oggettiva condizione di governance organica ed unitaria, sappia coniugare lo sviluppo della Città delle CulturE con la sostenibilità ambientale; \ |STYLE22|\ , anche allargato alla dimensione metropolitana, attraverso l’utilizzo intelligente delle tecnologie. Ovvero:
 
-* \ |STYLE18|\ . La crescita del livello di competenze digitali della popolazione, sia a livello generale che in ambiti specialistici, è condizione per la creazione di una società digitale aperta, competitiva e inclusiva. La Città di Palermo intende, perciò, promuovere la realizzazioni di azioni specifiche volte a: 
+* \ |STYLE23|\ . La crescita del livello di competenze digitali della popolazione, sia a livello generale che in ambiti specialistici, è condizione per la creazione di una società digitale aperta, competitiva e inclusiva. La Città di Palermo intende, perciò, promuovere la realizzazioni di azioni specifiche volte a: 
 
     * produrre innovazione a partire dalle persone, ovvero riflettere su cosa un cittadino può ricavare dalle nuove tecnologie quando queste gli permettono di avere maggiore controllo e più informazioni sul proprio ambiente circostante, e su quale contributo egli può dare alla comunità in base alle nuove conoscenze e capacità acquisite;   
 
@@ -207,7 +207,7 @@ In questo scenario di riferimento e da un punto di vista più strutturale il Pia
 
     * garantire a tutti i cittadini servizi altamente tecnologici in grado di migliorare il loro benessere e al contempo di renderli protagonisti delle opportunità legate al mercato digitale.
 
-* \ |STYLE19|\ . Ovvero, la prospettiva entro la quale ricollocare il rapporto tra cittadini e amministrazione nella consapevolezza che i cittadini devono essere posti al centro dell’azione amministrativa, che essi godono di diritti di cittadinanza digitale e che a tutela e garanzia del loro diritto devono essere forniti risposte, strumenti, e servizi adeguati. La Città di Palermo intende, perciò, promuovere la realizzazioni di azioni specifiche volte a: 
+* \ |STYLE24|\ . Ovvero, la prospettiva entro la quale ricollocare il rapporto tra cittadini e amministrazione nella consapevolezza che i cittadini devono essere posti al centro dell’azione amministrativa, che essi godono di diritti di cittadinanza digitale e che a tutela e garanzia del loro diritto devono essere forniti risposte, strumenti, e servizi adeguati. La Città di Palermo intende, perciò, promuovere la realizzazioni di azioni specifiche volte a: 
 
     * considerare prioritario il principio di “digitale per definizione” (digital first), progettando e implementando i servizi al cittadino a partire dall'utilizzo delle tecnologie digitali; 
 
@@ -217,7 +217,7 @@ In questo scenario di riferimento e da un punto di vista più strutturale il Pia
 
     * promuovere luoghi digitali di accesso all’esperienza di cittadinanza digitale anche attraverso la messa a disposizione di App ;   
 
-* \ |STYLE20|\ . Ovvero, la costruzione di un ecosistema vitale ed organizzato che gestisca le risorse in modo intelligente e consapevole, miri a diventare economicamente sostenibile ed energeticamente autosufficiente e sia attenta alla qualità della vita e ai bisogni dei propri cittadini. La Città di Palermo intende, in questo ambito, promuovere la realizzazioni di azioni specifiche volte a:
+* \ |STYLE25|\ . Ovvero, la costruzione di un ecosistema vitale ed organizzato che gestisca le risorse in modo intelligente e consapevole, miri a diventare economicamente sostenibile ed energeticamente autosufficiente e sia attenta alla qualità della vita e ai bisogni dei propri cittadini. La Città di Palermo intende, in questo ambito, promuovere la realizzazioni di azioni specifiche volte a:
 
     * Garantire a tutti l’accesso a un sistema di trasporti sicuro, conveniente, accessibile e sostenibile, migliorare la sicurezza delle strade, potenziare i servizi per il trasporto pubblico, razionalizzare l’attuazione di politiche di sostenibilità ambientale garantendo all’utenza facilità di accesso ai servizi con particolare attenzione ai bisogni di coloro che sono più vulnerabili, donne, bambini, persone con invalidità e anziani.
 
@@ -233,7 +233,7 @@ In questo scenario di riferimento e da un punto di vista più strutturale il Pia
 
     * Favorire, anche attraverso la realizzazione di una specifica infrastruttura di servizio, l'uso dei big data o dell'internet delle cose (anche in modalità open) per promuovere lo sviluppo di servizi ad elevata intensità di informazione con specifico riferimento ai temi riguardanti mobilità, trasporto pubblico, raccolta rifiuti, smart building, smart metering , ambiente , sicurezza e servizi turistici e con l’obiettivo di favorire la crescita di competenze e di consapevolezza nei cittadini. 
 
-* \ |STYLE21|\ . Ovvero, la promozione di un modello di sviluppo economico della Città sostenuto da: 
+* \ |STYLE26|\ . Ovvero, la promozione di un modello di sviluppo economico della Città sostenuto da: 
 
     * la disponibilità di infrastrutture e piattaforme “open” fortemente orientate alla “API Economy” e quindi in grado di offrire servizi abilitanti e strumenti di interoperabilità ad una estesa comunità di stakeholders (Imprese, Startup innovative, Università, ..); 
 
@@ -270,31 +270,31 @@ In questo scenario di riferimento e da un punto di vista più strutturale il Pia
 
 Il Modello nazionale di trasformazione digitale della Pubblica amministrazione, coerentemente con il \ |LINK15|\ , impegna i singoli enti a definire le proprie politiche interne sulla base dei seguenti principi:
 
-* \ |STYLE22|\ , ovvero “digitale per definizione”: le pubbliche amministrazioni devono fornire servizi digitali come opzione predefinita;
+* \ |STYLE27|\ , ovvero “digitale per definizione”: le pubbliche amministrazioni devono fornire servizi digitali come opzione predefinita;
 
-* \ |STYLE23|\ : le pubbliche amministrazioni non devono chiedere ai cittadini e alle imprese informazioni già fornite precedentemente, o dati già in possesso all’interno delle proprie banche dati;
+* \ |STYLE28|\ : le pubbliche amministrazioni non devono chiedere ai cittadini e alle imprese informazioni già fornite precedentemente, o dati già in possesso all’interno delle proprie banche dati;
 
-* \ |STYLE24|\ : le pubbliche amministrazioni devono condurre azioni per l’adozione di sistemi generalizzati di identità digitale (adottare SPID e CIE);
+* \ |STYLE29|\ : le pubbliche amministrazioni devono condurre azioni per l’adozione di sistemi generalizzati di identità digitale (adottare SPID e CIE);
 
-* \ |STYLE25|\ : le pubbliche amministrazioni, in fase di definizione di un nuovo progetto, e/o di sviluppo di nuovi servizi, in via prioritaria devono valutare l’adozione del cloud prima di qualsiasi altra tecnologia, tenendo conto della necessità di prevenire il rischio di “lock-in”. Dovranno altresì valutare il ricorso al cloud di tipo pubblico, privato o ibrido in relazione alla natura dei dati trattati e ai relativi requisiti di confidenzialità;
+* \ |STYLE30|\ : le pubbliche amministrazioni, in fase di definizione di un nuovo progetto, e/o di sviluppo di nuovi servizi, in via prioritaria devono valutare l’adozione del cloud prima di qualsiasi altra tecnologia, tenendo conto della necessità di prevenire il rischio di “lock-in”. Dovranno altresì valutare il ricorso al cloud di tipo pubblico, privato o ibrido in relazione alla natura dei dati trattati e ai relativi requisiti di confidenzialità;
 
-* \ |STYLE26|\ : le pubbliche amministrazioni devono progettare servizi pubblici digitali che siano per definizione inclusivi e accessibili, cioè che vengano incontro alle diverse esigenze delle persone, ad esempio degli anziani e delle persone con i vari tipi di disabilità;
+* \ |STYLE31|\ : le pubbliche amministrazioni devono progettare servizi pubblici digitali che siano per definizione inclusivi e accessibili, cioè che vengano incontro alle diverse esigenze delle persone, ad esempio degli anziani e delle persone con i vari tipi di disabilità;
 
-* \ |STYLE27|\ : le pubbliche amministrazioni devono progettare servizi pubblici digitali che siano inclusivi anche per le minoranze linguistiche presenti sul territorio nazionale;
+* \ |STYLE32|\ : le pubbliche amministrazioni devono progettare servizi pubblici digitali che siano inclusivi anche per le minoranze linguistiche presenti sul territorio nazionale;
 
-* \ |STYLE28|\  facendo ricorso all’utilizzo di Application Programming Interface (API) per la pubblicazione di open data nei propri siti web istituzionali;
+* \ |STYLE33|\  facendo ricorso all’utilizzo di Application Programming Interface (API) per la pubblicazione di open data nei propri siti web istituzionali;
 
-* \ |STYLE29|\ : le pubbliche amministrazioni devono rendere disponibili a livello transfrontaliero i servizi pubblici digitali rilevanti;
+* \ |STYLE34|\ : le pubbliche amministrazioni devono rendere disponibili a livello transfrontaliero i servizi pubblici digitali rilevanti;
 
-* \ |STYLE30|\ : i servizi pubblici devono essere progettati in modo da funzionare in modalità integrata e senza interruzioni in tutto il mercato unico europeo;
+* \ |STYLE35|\ : i servizi pubblici devono essere progettati in modo da funzionare in modalità integrata e senza interruzioni in tutto il mercato unico europeo;
 
-* \ |STYLE31|\ : sin dalla fase di progettazione devono essere integrati i profili relativi alla protezione dei dati personali, alla tutela della vita privata e alla sicurezza informatica.
+* \ |STYLE36|\ : sin dalla fase di progettazione devono essere integrati i profili relativi alla protezione dei dati personali, alla tutela della vita privata e alla sicurezza informatica.
 
 La “Strategia per la crescita digitale” evidenzia la necessità di un radicale ripensamento della strategia di progettazione, gestione ed erogazione dei servizi pubblici in rete che preveda, tra l’altro, l’adozione di:
 
-#. \ |STYLE32|\  (multi-layer architecture), in contrapposizione alle strutture classiche monolitiche;
+#. \ |STYLE37|\  (multi-layer architecture), in contrapposizione alle strutture classiche monolitiche;
 
-#. \ |STYLE33|\ , una sorta di funzioni che permettono ad altri soggetti (pubblici e privati) di interagire con un programma o una piattaforma software o semplicemente permettono di effettuare una serie di “chiamate” a parti di un programma o di una piattaforma con vantaggi in termini di riduzione dei tempi per chi deve effettuare lavori in ambiente di “\ |STYLE34|\ ”. A tal fine è necessario fare ricorso ai \ |LINK16|\ . 
+#. \ |STYLE38|\ , una sorta di funzioni che permettono ad altri soggetti (pubblici e privati) di interagire con un programma o una piattaforma software o semplicemente permettono di effettuare una serie di “chiamate” a parti di un programma o di una piattaforma con vantaggi in termini di riduzione dei tempi per chi deve effettuare lavori in ambiente di “\ |STYLE39|\ ”. A tal fine è necessario fare ricorso ai \ |LINK16|\ . 
 
 |
 
@@ -303,32 +303,32 @@ La “Strategia per la crescita digitale” evidenzia la necessità di un radica
 3.2- Modello strategico di trasformazione digitale
 ==================================================
 
-Il Modello strategico previsto dal Piano nazionale è stato pensato per superare l’approccio a “silos” storicamente adottato (dalla Pubblica amministrazione) e per favorire la realizzazione di un vero e proprio sistema informativo della Pubblica amministrazione (di seguito “\ |STYLE35|\ ”) che:
+Il Modello strategico previsto dal Piano nazionale è stato pensato per superare l’approccio a “silos” storicamente adottato (dalla Pubblica amministrazione) e per favorire la realizzazione di un vero e proprio sistema informativo della Pubblica amministrazione (di seguito “\ |STYLE40|\ ”) che:
 
-* \ |STYLE36|\  per l’individuazione e la realizzazione di servizi digitali moderni, innovativi (servizi di front office) e di facile accesso e consultazione;
+* \ |STYLE41|\  per l’individuazione e la realizzazione di servizi digitali moderni, innovativi (servizi di front office) e di facile accesso e consultazione;
 
-* \ |STYLE37|\  utilizzati dalla Pubblica amministrazione (servizi di back office) favorendo l’interoperabilità delle banche dati esistenti;
+* \ |STYLE42|\  utilizzati dalla Pubblica amministrazione (servizi di back office) favorendo l’interoperabilità delle banche dati esistenti;
 
-* favorisca la creazione di \ |STYLE38|\  (in rispetto delle linee guida del Piano nazionale) che dovranno essere sempre \ |STYLE39|\  (approccio mobile first) e costruiti con architetture sicure, scalabili, altamente affidabili e basate su interfacce applicative (\ |STYLE40|\ ) chiaramente definite e documentate online;
+* favorisca la creazione di \ |STYLE43|\  (in rispetto delle linee guida del Piano nazionale) che dovranno essere sempre \ |STYLE44|\  (approccio mobile first) e costruiti con architetture sicure, scalabili, altamente affidabili e basate su interfacce applicative (\ |STYLE45|\ ) chiaramente definite e documentate online;
 
-* valorizzi le risorse esistenti della Pubblica amministrazione al fine di salvaguardare gli investimenti già realizzati, anche incoraggiando e creando le condizioni per il \ |STYLE41|\  (\ |LINK17|\ ) e delle interfacce esistenti di qualità, in \ |LINK18|\ , facendo ricorso al \ |LINK19|\  predisposto dall’Agenzia per l’Italia Digitale;
+* valorizzi le risorse esistenti della Pubblica amministrazione al fine di salvaguardare gli investimenti già realizzati, anche incoraggiando e creando le condizioni per il \ |STYLE46|\  (\ |LINK17|\ ) e delle interfacce esistenti di qualità, in \ |LINK18|\ , facendo ricorso al \ |LINK19|\  predisposto dall’Agenzia per l’Italia Digitale;
 
-* non disperda le esperienze maturate nei precedenti progetti di digitalizzazione del Paese con l’obiettivo di \ |STYLE42|\  (success stories) e non ripetere errori commessi nel passato;
+* non disperda le esperienze maturate nei precedenti progetti di digitalizzazione del Paese con l’obiettivo di \ |STYLE47|\  (success stories) e non ripetere errori commessi nel passato;
 
-* \ |STYLE43|\  grazie ad un’architettura a più livelli che assicuri la separazione tra back end e front end e permetta l’accesso ai backend solo in modo controllato e tramite API standard documentate;
+* \ |STYLE48|\  grazie ad un’architettura a più livelli che assicuri la separazione tra back end e front end e permetta l’accesso ai backend solo in modo controllato e tramite API standard documentate;
 
-* \ |STYLE44|\  (ad es. \ |STYLE45|\ ), riducendo tempi di realizzazione e impegni economici per le amministrazioni sia in fase di sviluppo sia in fase di aggiornamento;
+* \ |STYLE49|\  (ad es. \ |STYLE50|\ ), riducendo tempi di realizzazione e impegni economici per le amministrazioni sia in fase di sviluppo sia in fase di aggiornamento;
 
-* \ |STYLE46|\  della Pubblica amministrazione, integrando meccanismi per la misurazione dello stato di avanzamento delle attività programmate (ad es. tramite sistemi di \ |STYLE47|\  condivisi);
+* \ |STYLE51|\  della Pubblica amministrazione, integrando meccanismi per la misurazione dello stato di avanzamento delle attività programmate (ad es. tramite sistemi di \ |STYLE52|\  condivisi);
 
-* abiliti \ |STYLE48|\  per la pianificazione delle attività future, basate sull’ottimizzazione delle spese e degli investimenti.
+* abiliti \ |STYLE53|\  per la pianificazione delle attività future, basate sull’ottimizzazione delle spese e degli investimenti.
 
 Il Modello strategico per governare la trasformazione digitale della PA descritto dal Piano Triennale per l’Informatica della PA 2019-2021 pubblicato da AGID è schematicamente rappresentato come illustrato dal diagramma che segue (cfr. AGID – Piano Triennale per l’informatizzazione della PA).
 
 
 |REPLACE1|
 
-“\ |STYLE49|\ 
+“\ |STYLE54|\ 
 
 Lo schema è da intendersi come la rappresentazione di macro-aree che aggregano gli elementi omogenei oggetto del Piano e non come strati di un modello architetturale verticale a pila (cosiddetto “stack”).
 
@@ -348,25 +348,25 @@ Lo Schema del Modello strategico per governare la trasformazione digitale della 
 
 In riferimento allo schema grafico:
 
-* gli \ |STYLE50|\  definiscono regole comuni per la progettazione di interfacce, servizi e contenuti, migliorando e rendendo coerente la navigazione e l’esperienza del cittadino e delle imprese, facilitano il design, la realizzazione e la diffusione di servizi digitali, definiscono linee guida e kit di sviluppo, provvedono alla creazione di community di sviluppatori, di designer e di chiunque voglia scambiare informazioni, collaborare e partecipare con la Pubblica Amministrazione;
+* gli \ |STYLE55|\  definiscono regole comuni per la progettazione di interfacce, servizi e contenuti, migliorando e rendendo coerente la navigazione e l’esperienza del cittadino e delle imprese, facilitano il design, la realizzazione e la diffusione di servizi digitali, definiscono linee guida e kit di sviluppo, provvedono alla creazione di community di sviluppatori, di designer e di chiunque voglia scambiare informazioni, collaborare e partecipare con la Pubblica Amministrazione;
 
-* gli \ |STYLE51|\  sono i settori o le aree di policy in cui si svolge l’azione da parte delle Pubbliche Amministrazioni: dalla sanità all’agricoltura, dalla scuola ai beni culturali e così via. Ciascun ecosistema può includere diversi domini, coinvolgendo enti ed organismi pubblici, a partire dai Ministeri di riferimento, ma può anche includere soggetti privati che operano nella stessa area di interesse e che a vario titolo svolgono funzioni importanti all’interno dell’ecosistema stesso. Ad esempio, l’ecosistema “Finanza pubblica” comprende l’Agenzia delle Entrate, le Regioni, la Guardia di Finanza e, lato soggetti privati, commercialisti, CAF, avvocati fiscalisti, ecc. Gli ecosistemi raggruppano i soggetti interessati che interagiscono per il raggiungimento di obiettivi comuni attraverso: 1) la condivisione delle esigenze e delle modalità operative, 2) la condivisione delle differenti competenze, 3) la pianificazione e la realizzazione di progetti ICT;
+* gli \ |STYLE56|\  sono i settori o le aree di policy in cui si svolge l’azione da parte delle Pubbliche Amministrazioni: dalla sanità all’agricoltura, dalla scuola ai beni culturali e così via. Ciascun ecosistema può includere diversi domini, coinvolgendo enti ed organismi pubblici, a partire dai Ministeri di riferimento, ma può anche includere soggetti privati che operano nella stessa area di interesse e che a vario titolo svolgono funzioni importanti all’interno dell’ecosistema stesso. Ad esempio, l’ecosistema “Finanza pubblica” comprende l’Agenzia delle Entrate, le Regioni, la Guardia di Finanza e, lato soggetti privati, commercialisti, CAF, avvocati fiscalisti, ecc. Gli ecosistemi raggruppano i soggetti interessati che interagiscono per il raggiungimento di obiettivi comuni attraverso: 1) la condivisione delle esigenze e delle modalità operative, 2) la condivisione delle differenti competenze, 3) la pianificazione e la realizzazione di progetti ICT;
 
-* il \ |STYLE52|\  definisce i meccanismi che facilitano e garantiscono la corretta interazione tra gli attori del sistema (cittadini, imprese e Pubbliche amministrazioni), favorendo la condivisione trasparente di dati, informazioni, piattaforme e servizi. Il Modello di interoperabilità è pertanto composto da elementi quali linee guida, standard tecnologici e profili di interoperabilità, curati e resi disponibili online dall’Agenzia per l’Italia Digitale e dal Team trasformazione Digitale, che ciascuna Pubblica Amministrazione dovrà seguire al fine di garantire l’interoperabilità dei propri sistemi con quelli di altri soggetti per l’implementazione complessiva del Sistema informativo della PA;
+* il \ |STYLE57|\  definisce i meccanismi che facilitano e garantiscono la corretta interazione tra gli attori del sistema (cittadini, imprese e Pubbliche amministrazioni), favorendo la condivisione trasparente di dati, informazioni, piattaforme e servizi. Il Modello di interoperabilità è pertanto composto da elementi quali linee guida, standard tecnologici e profili di interoperabilità, curati e resi disponibili online dall’Agenzia per l’Italia Digitale e dal Team trasformazione Digitale, che ciascuna Pubblica Amministrazione dovrà seguire al fine di garantire l’interoperabilità dei propri sistemi con quelli di altri soggetti per l’implementazione complessiva del Sistema informativo della PA;
 
-* le \ |STYLE53|\  e la \ |STYLE54|\  della PA incentivano la centralizzazione e la razionalizzazione dei sistemi locali per la gestione dei processi e dei dati, riducendo la frammentazione degli interventi. In particolare, le Infrastrutture immateriali facilitano, standardizzano e razionalizzano la creazione di servizi ICT e sono composte dalle \ |STYLE55|\  e dai \ |STYLE56|\ :
+* le \ |STYLE58|\  e la \ |STYLE59|\  della PA incentivano la centralizzazione e la razionalizzazione dei sistemi locali per la gestione dei processi e dei dati, riducendo la frammentazione degli interventi. In particolare, le Infrastrutture immateriali facilitano, standardizzano e razionalizzano la creazione di servizi ICT e sono composte dalle \ |STYLE60|\  e dai \ |STYLE61|\ :
 
-    * nelle \ |STYLE57|\  ricadono tutti quei servizi infrastrutturali (ad es.: servizio di identificazione digitale \ |STYLE58|\  \ |LINK20|\ , il servizio di pagamenti \ |STYLE59|\  \ |LINK21|\ , il sistema dell’Anagrafe Nazionale della Popolazione Residente, \ |STYLE60|\  \ |LINK22|\ , che da un lato agevolano e riducono i costi per la realizzazione di nuovi servizi, dall’altro uniformano gli strumenti utilizzati dagli utenti finali (cittadini e imprese) durante la loro interazione con la Pubblica amministrazione. Ad esso afferiscono inoltre tutte quelle soluzioni applicative sufficientemente generiche da poter essere condivise dalle Pubbliche amministrazioni (ad es. sistema per la gestione dei cedolini degli stipendi);
+    * nelle \ |STYLE62|\  ricadono tutti quei servizi infrastrutturali (ad es.: servizio di identificazione digitale \ |STYLE63|\  \ |LINK20|\ , il servizio di pagamenti \ |STYLE64|\  \ |LINK21|\ , il sistema dell’Anagrafe Nazionale della Popolazione Residente, \ |STYLE65|\  \ |LINK22|\ , che da un lato agevolano e riducono i costi per la realizzazione di nuovi servizi, dall’altro uniformano gli strumenti utilizzati dagli utenti finali (cittadini e imprese) durante la loro interazione con la Pubblica amministrazione. Ad esso afferiscono inoltre tutte quelle soluzioni applicative sufficientemente generiche da poter essere condivise dalle Pubbliche amministrazioni (ad es. sistema per la gestione dei cedolini degli stipendi);
 
-    * relativamente ai \ |STYLE61|\  si distinguono: a) \ |STYLE62|\ , b) \ |STYLE63|\ , e c) \ |STYLE64|\ . Quest’ultimo è un repository (contenitore online sotto forma di cloud \ |LINK23|\ ) considerato necessario per creare e/o mantenere aggiornate tutte quelle risorse fondamentali per la piena valorizzazione del patrimonio informativo della Pubblica Amministrazione nell’ottica dell’interoperabilità tecnica e semantica.
+    * relativamente ai \ |STYLE66|\  si distinguono: a) \ |STYLE67|\ , b) \ |STYLE68|\ , e c) \ |STYLE69|\ . Quest’ultimo è un repository (contenitore online sotto forma di cloud \ |LINK23|\ ) considerato necessario per creare e/o mantenere aggiornate tutte quelle risorse fondamentali per la piena valorizzazione del patrimonio informativo della Pubblica Amministrazione nell’ottica dell’interoperabilità tecnica e semantica.
 
-* La \ |STYLE65|\  insiame alla piattaforma \ |LINK24|\  rappresentano un ambiente centralizzato che acquisisce e rende più fruibili i dati pubblici di interesse e ha l’obiettivo a) di rendere più semplice e meno onerosa l’interoperabilità dei dati pubblici tra PA e la distribuzione e standardizzazione dei dati aperti (\ |STYLE66|\ ), e b) di permettere lo studio dei fenomeni sottostanti ai dati pubblici. Inoltre, la Piattaforma consente lo sviluppo di data applications, applicazioni software che effettuano operazioni più o meno complesse, dal semplice data retrieval a tecniche di \ |STYLE67|\ , e mettono le analisi generate a disposizione di un utente finale o di un’altra applicazione;
+* La \ |STYLE70|\  insiame alla piattaforma \ |LINK24|\  rappresentano un ambiente centralizzato che acquisisce e rende più fruibili i dati pubblici di interesse e ha l’obiettivo a) di rendere più semplice e meno onerosa l’interoperabilità dei dati pubblici tra PA e la distribuzione e standardizzazione dei dati aperti (\ |STYLE71|\ ), e b) di permettere lo studio dei fenomeni sottostanti ai dati pubblici. Inoltre, la Piattaforma consente lo sviluppo di data applications, applicazioni software che effettuano operazioni più o meno complesse, dal semplice data retrieval a tecniche di \ |STYLE72|\ , e mettono le analisi generate a disposizione di un utente finale o di un’altra applicazione;
 
-* le \ |STYLE68|\  perseguono l’obiettivo di aumentare la sicurezza, ridurre il costo delle infrastrutture tecnologiche e migliorare la qualità dei servizi software della Pubblica Amministrazione, attraverso la razionalizzazione dei \ |STYLE69|\ , l’adozione sistematica del paradigma \ |STYLE70|\  e lo sviluppo della connettività, con particolare riferimento alla rete Internet nei luoghi pubblici e negli uffici della Pubblica amministrazione;
+* le \ |STYLE73|\  perseguono l’obiettivo di aumentare la sicurezza, ridurre il costo delle infrastrutture tecnologiche e migliorare la qualità dei servizi software della Pubblica Amministrazione, attraverso la razionalizzazione dei \ |STYLE74|\ , l’adozione sistematica del paradigma \ |STYLE75|\  e lo sviluppo della connettività, con particolare riferimento alla rete Internet nei luoghi pubblici e negli uffici della Pubblica amministrazione;
 
-* la \ |STYLE71|\  comprende a) le attività per la regolazione e regolamentazione della cyber security nella PA per l’\ |STYLE72|\  e b) il CERT-PA quale strumento operativo per supportare l’adozione dei corretti livelli di sicurezza presso la Pubblica amministrazione. Sono inoltre identificati anche tutti gli altri aspetti che concorrono a rendere sicuri e affidabili i sistemi informatici, quali l’accreditamento e la vigilanza, nonché le attività di indirizzo e la strumentazione correlata agli adempimenti per il rispetto della riservatezza (privacy);
+* la \ |STYLE76|\  comprende a) le attività per la regolazione e regolamentazione della cyber security nella PA per l’\ |STYLE77|\  e b) il CERT-PA quale strumento operativo per supportare l’adozione dei corretti livelli di sicurezza presso la Pubblica amministrazione. Sono inoltre identificati anche tutti gli altri aspetti che concorrono a rendere sicuri e affidabili i sistemi informatici, quali l’accreditamento e la vigilanza, nonché le attività di indirizzo e la strumentazione correlata agli adempimenti per il rispetto della riservatezza (privacy);
 
-La \ |STYLE73|\  da un modello di Amministrazione basata per decenni sull’uso della carta e su sistemi e piattaforme informatiche chiuse, ad un modello di Amministrazione digitale prevalentemente costruita sul principio dell’interoperabilità “tecnica” e “semantica”, deve prevedere un adeguato coordinamento, gestione e monitoraggio delle attività funzionali alla realizzazione delle singole azioni e progetti per l’attuazione del Piano per l’Informatica. 
+La \ |STYLE78|\  da un modello di Amministrazione basata per decenni sull’uso della carta e su sistemi e piattaforme informatiche chiuse, ad un modello di Amministrazione digitale prevalentemente costruita sul principio dell’interoperabilità “tecnica” e “semantica”, deve prevedere un adeguato coordinamento, gestione e monitoraggio delle attività funzionali alla realizzazione delle singole azioni e progetti per l’attuazione del Piano per l’Informatica. 
 
 E’ necessario attivare collaborazioni sia interne all’ente tra le diverse aree, servizi, uffici, settori che tra enti diversi per scambiarsi buone prassi, riusare software, e facendo riferimento all’Agenzia per l’Italia Digitale e al Ministero per l’Innovazione Tecnologica e la Digitalizzazione quali enti nazionali che coordinano e monitorano la realizzazione delle azioni per l’agenda digitale.
 
@@ -398,7 +398,7 @@ Il Piano nazionale, al capitolo 13 (“\ |LINK25|\ ”) prevede numerose azioni 
 
 |REPLACE3|
 
-\ |LINK26|\  \ |STYLE74|\ 
+\ |LINK26|\  \ |STYLE79|\ 
 
 |
 
@@ -409,19 +409,19 @@ Il Piano nazionale, al capitolo 13 (“\ |LINK25|\ ”) prevede numerose azioni 
 
 Le forme che oggi sono in uso e che dovranno essere adottate da quelle amministrazioni pubbliche che non sono nella condizione di raggiungere da sole gli obiettivi nei tempi previsti, sono di seguito elencate:
 
-* \ |STYLE75|\ : partecipazione ad accordi di collaborazione tra amministrazioni che hanno deciso di condividere la realizzazione di piattaforme comuni. In tal senso il Comune di Palermo ha approvato la Deliberazione di Giunta Comunale n. 82 del 19.06.2018 “Approvazione del protocollo d'Intesa tra Comune di Palermo e Comune di Genova per iniziative di collaborazione nello sviluppo dell’Agenda Digitale”;
+* \ |STYLE80|\ : partecipazione ad accordi di collaborazione tra amministrazioni che hanno deciso di condividere la realizzazione di piattaforme comuni. In tal senso il Comune di Palermo ha approvato la Deliberazione di Giunta Comunale n. 82 del 19.06.2018 “Approvazione del protocollo d'Intesa tra Comune di Palermo e Comune di Genova per iniziative di collaborazione nello sviluppo dell’Agenda Digitale”;
 
-* \ |STYLE76|\ : utilizzo di soluzioni applicative “sussidiare” attraverso accordi tra le PA che hanno già sviluppato le iniziative strategiche e quelle ancora non operative; tali accordi, che potranno essere diversi e, a seconda del progetto, dovranno avere caratteristiche tali da garantirne la sostenibilità;
+* \ |STYLE81|\ : utilizzo di soluzioni applicative “sussidiare” attraverso accordi tra le PA che hanno già sviluppato le iniziative strategiche e quelle ancora non operative; tali accordi, che potranno essere diversi e, a seconda del progetto, dovranno avere caratteristiche tali da garantirne la sostenibilità;
 
-* utilizzo di \ |STYLE77|\ , in alternativa a quelle “sussidiarie”, nei casi in cui se ne sia stata valutata la convenienza. In tal senso il Comune di Palermo ha approvato la Deliberazione di Giunta Comunale n. 172 del 21.09.2017 “Protocollo di Intesa tra Comune di Palermo e Consorzio dei Comuni Trentini, Società Cooperativa, per il riuso gratuito dei microservizi della piattaforma COMUNWEB”;
+* utilizzo di \ |STYLE82|\ , in alternativa a quelle “sussidiarie”, nei casi in cui se ne sia stata valutata la convenienza. In tal senso il Comune di Palermo ha approvato la Deliberazione di Giunta Comunale n. 172 del 21.09.2017 “Protocollo di Intesa tra Comune di Palermo e Consorzio dei Comuni Trentini, Società Cooperativa, per il riuso gratuito dei microservizi della piattaforma COMUNWEB”;
 
-* utilizzo di \ |STYLE78|\  resi disponibili da altre amministrazioni.
+* utilizzo di \ |STYLE83|\  resi disponibili da altre amministrazioni.
 
 Nel capitolo 4 che segue, dedicato ad una puntuale disamina degli interventi previsti per il periodo 2020-2022, si elencano le macro aree di intervento e le azioni ad hoc del Piano comunale coerenti con quanto previsto a livello nazionale. 
 
 Per ciascun intervento viene riportata una descrizione di quanto già realizzato o in corso di realizzazione al 2020, così da fornire una chiara illustrazione sullo stato dell’arte e del work in progress della transizione alla modalità digitale locale adottata dal Comune di Palermo.
 
-Al fine di migliorare la leggibilità del piano degli interventi e favorire il riscontro con la coerenza rispetto al Piano Nazionale, si è scelto di strutturare il capitolo utilizzando puntualmente la strutturazione e l’elencazione dei diversi item proposti all’articolo 13 del Piano Nazionale “\ |STYLE79|\ .
+Al fine di migliorare la leggibilità del piano degli interventi e favorire il riscontro con la coerenza rispetto al Piano Nazionale, si è scelto di strutturare il capitolo utilizzando puntualmente la strutturazione e l’elencazione dei diversi item proposti all’articolo 13 del Piano Nazionale “\ |STYLE84|\ .
 
 |
 
@@ -544,7 +544,7 @@ A seguire l’analisi più dettagliata degli interventi articolata secondo una s
 |              |                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                               |
 |              |                                                                                                                                                                                                                                                                                                                                                                                                             |Integrazione ed estensione in cloud dei servizi per la Mobilità e per l’Efficientamento energetico.                                                                                                                                                                                                                                                           |                                                                                                                                                                                               |
 +--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE80|\  |Evoluzione del data center (capacity planning) e integrazione con ulteriori componenti cloud esterne nella logica del cloud ibrido.                                                                                                                                                                                                                                                                          |Consolidamento dell’infrastruttura su  piattaforme standard  subordinata al  programma  di semplificazione/  standardizzazione dei servizi.                                                                                                                                                                                                                   |Implementazione di un  modello di servizio con caratteristiche di  flessibilità e scalabilità  tecnica finalizzato a  supportare le funzioni applicative e le architetture previste dal cloud. |
+|\ |STYLE85|\  |Evoluzione del data center (capacity planning) e integrazione con ulteriori componenti cloud esterne nella logica del cloud ibrido.                                                                                                                                                                                                                                                                          |Consolidamento dell’infrastruttura su  piattaforme standard  subordinata al  programma  di semplificazione/  standardizzazione dei servizi.                                                                                                                                                                                                                   |Implementazione di un  modello di servizio con caratteristiche di  flessibilità e scalabilità  tecnica finalizzato a  supportare le funzioni applicative e le architetture previste dal cloud. |
 |              |                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                               |
 |              |Miglioramento dei servizi relativi alla Sicurezza Resilienza, efficienza energetica e business continuity.                                                                                                                                                                                                                                                                                                   |Progressiva evoluzione della gestione verso modelli unattended.                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                               |
 |              |                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                               |
@@ -552,7 +552,7 @@ A seguire l’analisi più dettagliata degli interventi articolata secondo una s
 |              |                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                               |
 |              |Servizi di orchestrazione strati Iaas e PaaS                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                               |
 +--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE81|\  |Nel 2018, l’amministrazione comunale ha affidato alla Sispi la gestione dell’Anello Telematico, un importante asset della Città di Palermo.                                                                                                                                                                                                                                                                  |Estensione degli Uffici comunali collegati all’anello telematico per un target di utenti previsto in oltre il 95% dell’utenza complessiva della macchina comunale.                                                                                                                                                                                            |Completamento degli Uffici comunali collegati all’anello telematico per un target di utenti previsto al 99%  dell’utenza complessiva della macchina comunale.                                  |
+|\ |STYLE86|\  |Nel 2018, l’amministrazione comunale ha affidato alla Sispi la gestione dell’Anello Telematico, un importante asset della Città di Palermo.                                                                                                                                                                                                                                                                  |Estensione degli Uffici comunali collegati all’anello telematico per un target di utenti previsto in oltre il 95% dell’utenza complessiva della macchina comunale.                                                                                                                                                                                            |Completamento degli Uffici comunali collegati all’anello telematico per un target di utenti previsto al 99%  dell’utenza complessiva della macchina comunale.                                  |
 |              |                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                               |
 |              |Ad oggi, oltre il 60% degli Uffici comunali sono collegati all’anello telematico. Trattandosi di uffici prioritari, ne consegue che oltre il 90% degli utenti risulta connesso, attraverso la fibra ottica proprietaria,  ai servizi in banda ultra larga.                                                                                                                                                   |Ulteriore convergenza dei servizi per la mobilità e l’efficientamento energetico.                                                                                                                                                                                                                                                                             |Completamento processi di Convergenza della rete tetra esistente nella Città di Palermo.                                                                                                       |
 |              |                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                               |
@@ -563,7 +563,7 @@ A seguire l’analisi più dettagliata degli interventi articolata secondo una s
 |              |                                                                                                                                                                                                                                                                                                                                                                                                             |Consolidamento ed avvio servizi con protocolli trasmissivi per la sensoristica ed i devices dislocati sul territorio (IoT).                                                                                                                                                                                                                                   |                                                                                                                                                                                               |
 +--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-\ |STYLE82|\ .
+\ |STYLE87|\ .
 
 L'Amministrazione, grazie anche agli interventi del Programma Operativo Nazionale Città Metropolitane 2014-2020, Asse 1 Agenda Digitale, ha avviato già a partire dal 2017 un programma di interventi per la piena adozione del paradigma del Cloud Computing. 
 
@@ -579,7 +579,7 @@ Nel perimetro degli interventi previsti dal Piano per il periodo 2020-2022 rient
 
 * L’onboarding delle soluzioni cloud nel catalogo dei servizi e delle API previsto da AGID.
 
-\ |STYLE83|\ .
+\ |STYLE88|\ .
 
 Gli interventi previsti nel periodo in esame riguardano il consolidamento, già nel corso del 2020, degli elementi strutturali connessi con l’orchestrazione dei diversi strati di servizio previsti dal cloud computing (IaaS, PaaS e SaaS) in conformità ai criteri di sicurezza, economicità ed efficienza previsti dalle strategie nazionali. In particolare, nel corso del periodo saranno realizzati interventi finalizzati a:
 
@@ -589,7 +589,7 @@ Gli interventi previsti nel periodo in esame riguardano il consolidamento, già 
 
 * Service Delivery Platform di servizio ai big data del territorio generati dagli altri strati al fine di migliorare i servizi esistenti e crearne dei nuovi
 
-\ |STYLE84|\ .
+\ |STYLE89|\ .
 
 Per quanto riguarda la Connettività, il Comune di Palermo nel 2017 e 2018 ha adeguato la propria capacità di connessione per garantire la gestione dei servizi e piattaforme digitali attraverso l’adozione di soluzioni di connettività basate sulla adesione ai Contratti quadro SPC e privilegiando le forniture in cui il servizio di trasporto è basato su protocollo dual-stack IPv4 e IPv6 e il potenziamento della propria rete locale di distribuzione della connettività a banda ultra larga denominato “Anello Telematico” che già permette di fornire connettività alla maggior parte degli uffici comunali dispiegati nel territorio comunale.
 
@@ -707,7 +707,7 @@ Per quanto riguarda, invece, gli interventi di maggiore rilevanza che saranno ef
 |                                   |                                                                                                                                                                                                                                                                 |                                                                                                                                                                      |                                                                                                                                                                                                                   |
 |                                   |Normalizzazione estesa dei dati afferenti diversi domini applicativi per la convergenza e l’interoperabilità a livello dati.                                                                                                                                     |                                                                                                                                                                      |                                                                                                                                                                                                                   |
 +-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE85|\                       |Raccolta e organizzazione di dati e informazioni utili all’indagine sul grado di maturità degli open data e lo stato di attuazione della direttiva PSI (\ |LINK32|\ ).                                                                                           |Evoluzione di servizi di accesso agli open data.                                                                                                                      |Implementazione servizi del Living Lab.                                                                                                                                                                            |
+|\ |STYLE90|\                       |Raccolta e organizzazione di dati e informazioni utili all’indagine sul grado di maturità degli open data e lo stato di attuazione della direttiva PSI (\ |LINK32|\ ).                                                                                           |Evoluzione di servizi di accesso agli open data.                                                                                                                      |Implementazione servizi del Living Lab.                                                                                                                                                                            |
 |                                   |                                                                                                                                                                                                                                                                 |                                                                                                                                                                      |                                                                                                                                                                                                                   |
 |                                   |Evoluzione dei servizi per la messa a disposizione di dati aperti relativi non soltanto alle piattaforme applicative relative ai diversi ecosistemi di riferimento (e-Government, Mobilità, Efficientamento energetico, IoT, Video Analisi, Big Data Analisi, …).|Avvio dei servizi relativi alle Open API secondo la logica strutturata del living lab.                                                                                |                                                                                                                                                                                                                   |
 |                                   |                                                                                                                                                                                                                                                                 |                                                                                                                                                                      |                                                                                                                                                                                                                   |
@@ -715,13 +715,13 @@ Per quanto riguarda, invece, gli interventi di maggiore rilevanza che saranno ef
 |                                   |                                                                                                                                                                                                                                                                 |                                                                                                                                                                      |                                                                                                                                                                                                                   |
 |                                   |Il Comune di Palermo nel 2020, come avvenuto negli anni precedenti, provvede a fornire informazioni e dati utili per l’indagine sul grado di maturità degli open data e sullo stato di attuazione della Direttiva UE sul Public Sector Information.              |                                                                                                                                                                      |                                                                                                                                                                                                                   |
 +-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE86|\                       |Definizione delle modalità di ingestione dei dati e di utilizzo della PDND consone alle proprie attività.                                                                                                                                                        |Esporre i propri dataset e relativi metadati ai sensi del profilo nazionale \ |LINK34|\  sulla Piattaforma Digitale Nazionale Dati. L’azione è stata avviata dal 2018.|Evoluzione dei servizi con API per esporre i propri dataset e relativi metadati ai sensi del profilo nazionale DCAT_AP_IT sulla Piattaforma Digitale Nazionale Dati.                                               |
+|\ |STYLE91|\                       |Definizione delle modalità di ingestione dei dati e di utilizzo della PDND consone alle proprie attività.                                                                                                                                                        |Esporre i propri dataset e relativi metadati ai sensi del profilo nazionale \ |LINK34|\  sulla Piattaforma Digitale Nazionale Dati. L’azione è stata avviata dal 2018.|Evoluzione dei servizi con API per esporre i propri dataset e relativi metadati ai sensi del profilo nazionale DCAT_AP_IT sulla Piattaforma Digitale Nazionale Dati.                                               |
 |                                   |                                                                                                                                                                                                                                                                 |                                                                                                                                                                      |                                                                                                                                                                                                                   |
 |\ |LINK33|\                        |Esporre i propri dataset e relativi metadati ai sensi del profilo nazionale DCAT_AP_IT sulla Piattaforma Digitale Nazionale Dati (ex Data Analytic Framework). L’azione è stata avviata dal 2018.                                                                |                                                                                                                                                                      |                                                                                                                                                                                                                   |
 |                                   |                                                                                                                                                                                                                                                                 |                                                                                                                                                                      |                                                                                                                                                                                                                   |
 +-----------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-\ |STYLE87|\ :
+\ |STYLE92|\ :
 
 * Popolamento e aggiornamento dei dati su IPA, come documentato sul portale  \ |LINK35|\ .
 
@@ -737,7 +737,7 @@ Per quanto riguarda, invece, gli interventi di maggiore rilevanza che saranno ef
 
 * Migrazione dei dati dell’anagrafe comunale all’anagrafe nazionale ANPR, in collaborazione con AGID, Ministero dell’Interno, e SOGEI. Dal novembre 2019 l’Amministrazione rilascia la Carta d'Identità Elettronica.
 
-\ |STYLE88|\ :
+\ |STYLE93|\ :
 
 * aderire al Modello di interoperabilità, assicurando il flusso di dati verso la Piattaforma Digitale Nazionale Dati e normalizzando i propri dati sulla base delle risorse contenute nei Vocabolari controllati.
 
@@ -763,19 +763,19 @@ Per quanto riguarda, invece, gli interventi di maggiore rilevanza che saranno ef
 |                    |                                                                                                                                                                                                                                               |                                                                                                               |                                                                                                |
 |                    |Le acquisizioni di beni e servizi vengono effettuate attingendo al mercato delle pubbliche amministrazioni sia per quanto riguarda le convenzioni che per quanto riguarda il MEPA.                                                             |Cruscotti direzionali per la gestione dei flussi di cassa e la quadratura contabile.                           |                                                                                                |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+
-|\ |STYLE89|\        |I servizi PagoPA attivati dall’Amministrazione, con il ruolo di intermediari tecnologico,  già a partire dal 2016 vengono progressivamente estesi anche ai comuni dell’Area Metropolitana.                                                     |Ulteriore estensione dei servizi PagoPA ai comuni dell’Area Metropolitana per quanto riguarda il modello 3.    |                                                                                                |
+|\ |STYLE94|\        |I servizi PagoPA attivati dall’Amministrazione, con il ruolo di intermediari tecnologico,  già a partire dal 2016 vengono progressivamente estesi anche ai comuni dell’Area Metropolitana.                                                     |Ulteriore estensione dei servizi PagoPA ai comuni dell’Area Metropolitana per quanto riguarda il modello 3.    |                                                                                                |
 |                    |                                                                                                                                                                                                                                               |                                                                                                               |                                                                                                |
 |                    |Completamento dell’attivazione dei servizi da parte di tutti i soggetti obbligati all’adesione alla piattaforma dei pagamenti entro i termini previsti dal CAD.                                                                                |Integrazione della filiera di processi connessi con la gestione elettronica delle fatture.                     |                                                                                                |
 |                    |                                                                                                                                                                                                                                               |                                                                                                               |                                                                                                |
 |                    |                                                                                                                                                                                                                                               |Cruscotti direzionali per la gestione dei flussi di cassa e la quadratura contabile.                           |                                                                                                |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+
-|\ |STYLE90|\        |Evoluzione dei servizi di integrazione lato back-office.                                                                                                                                                                                       |Evoluzione dei servizi di integrazione lato back-office.                                                       |Evoluzione dei servizi di integrazione lato back-office.                                        |
+|\ |STYLE95|\        |Evoluzione dei servizi di integrazione lato back-office.                                                                                                                                                                                       |Evoluzione dei servizi di integrazione lato back-office.                                                       |Evoluzione dei servizi di integrazione lato back-office.                                        |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+
-|\ |STYLE91|\        |Estensione dei servizi di accesso mediante SPID anche agli ecosistemi diversi dall'e-Government e riferibili agli ecosistemi tematici della città di Palermo.                                                                                  |Estensione dei servizi di accesso SPID  e CIE nel contesto dei servizi di back-office previsti dalla Intr@com. |Integrazione Spid e CIE sui servizi per Efficientamento energetico.                             |
+|\ |STYLE96|\        |Estensione dei servizi di accesso mediante SPID anche agli ecosistemi diversi dall'e-Government e riferibili agli ecosistemi tematici della città di Palermo.                                                                                  |Estensione dei servizi di accesso SPID  e CIE nel contesto dei servizi di back-office previsti dalla Intr@com. |Integrazione Spid e CIE sui servizi per Efficientamento energetico.                             |
 |                    |                                                                                                                                                                                                                                               |                                                                                                               |                                                                                                |
 |                    |Integrazione Spid e CIE sui servizi per la Mobilità.                                                                                                                                                                                           |Integrazione Spid sui servizi per Ambiente e Sanità.                                                           |                                                                                                |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+
-|\ |STYLE92|\        |A valle delle operazioni per il subentro in ANPR (2019) sono stati attivati i servizi per il rilascio delle CIE e per l’utilizzo delle CIE per l’accesso autenticato ai servizi (2020).                                                        |                                                                                                               |                                                                                                |
+|\ |STYLE97|\        |A valle delle operazioni per il subentro in ANPR (2019) sono stati attivati i servizi per il rilascio delle CIE e per l’utilizzo delle CIE per l’accesso autenticato ai servizi (2020).                                                        |                                                                                                               |                                                                                                |
 |                    |                                                                                                                                                                                                                                               |                                                                                                               |                                                                                                |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------+
 
@@ -838,19 +838,19 @@ Nota: il Comune di Palermo nel 2019 e 2020 non è stato individuato da AGID qual
 |                |                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                 |
 |                |Revisione ed aggiornamento del sito istituzionale, secondo il kit di design AGID, con ottimizzazione dell’area informativa relativa ai  servizi online, al fine di fornire all'utente un'esperienza d’uso facile e gradevole nella fruizione dei servizi soprattutto sui dispositivi mobili (riferimento ad azione \ |LINK48|\ ).                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                 |
 +----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE93|\    |Aggiornamento e Pubblicazione gli obiettivi annuali di accessibilità, disponibili nella sezione Amministrazione Trasparente del sito web istituzionale.                                                                                                                                                                                                                                                                                  |Aggiornamento e Pubblicazione gli obiettivi annuali di accessibilità, disponibili nella sezione Amministrazione Trasparente del sito web.                                                                                                                                                                                                                        |Aggiornamento e Pubblicazione gli obiettivi annuali di accessibilità, disponibili nella sezione Amministrazione Trasparente del sito web.                                                                                                                                                                                                                        |
+|\ |STYLE98|\    |Aggiornamento e Pubblicazione gli obiettivi annuali di accessibilità, disponibili nella sezione Amministrazione Trasparente del sito web istituzionale.                                                                                                                                                                                                                                                                                  |Aggiornamento e Pubblicazione gli obiettivi annuali di accessibilità, disponibili nella sezione Amministrazione Trasparente del sito web.                                                                                                                                                                                                                        |Aggiornamento e Pubblicazione gli obiettivi annuali di accessibilità, disponibili nella sezione Amministrazione Trasparente del sito web.                                                                                                                                                                                                                        |
 +----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE94|\    |Verifica ed aggiornamento dei test di usabilità e invio ad AGID del report finale.                                                                                                                                                                                                                                                                                                                                                       |Verifica ed aggiornamento dei test di usabilità e invio ad AGID del report finale.                                                                                                                                                                                                                                                                               |Verifica ed aggiornamento dei test di usabilità e invio ad AGID del report finale.                                                                                                                                                                                                                                                                               |
+|\ |STYLE99|\    |Verifica ed aggiornamento dei test di usabilità e invio ad AGID del report finale.                                                                                                                                                                                                                                                                                                                                                       |Verifica ed aggiornamento dei test di usabilità e invio ad AGID del report finale.                                                                                                                                                                                                                                                                               |Verifica ed aggiornamento dei test di usabilità e invio ad AGID del report finale.                                                                                                                                                                                                                                                                               |
 +----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE95|\    |Il Comune di Palermo già dal 2019 ha avviato in via sperimentale la pubblicazione di alcuni regolamenti sulla piattaforma docs.italia:                                                                                                                                                                                                                                                                                                   |Utilizzo della piattaforma docs italia per la pubblicazione di documenti del Comune di Palermo (regolamenti, linee guida, ecc).                                                                                                                                                                                                                                  |Utilizzo della piattaforma docs italia per la pubblicazione di documenti del Comune di Palermo (regolamenti, linee guida, ecc).                                                                                                                                                                                                                                  |
+|\ |STYLE100|\   |Il Comune di Palermo già dal 2019 ha avviato in via sperimentale la pubblicazione di alcuni regolamenti sulla piattaforma docs.italia:                                                                                                                                                                                                                                                                                                   |Utilizzo della piattaforma docs italia per la pubblicazione di documenti del Comune di Palermo (regolamenti, linee guida, ecc).                                                                                                                                                                                                                                  |Utilizzo della piattaforma docs italia per la pubblicazione di documenti del Comune di Palermo (regolamenti, linee guida, ecc).                                                                                                                                                                                                                                  |
 |                |                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                 |
 |                |\ |LINK51|\                                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                 |
 |                |                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                 |
 +----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE96|\    |Il Comune di Palermo effettua, attraverso il webmaster e la Società in house SISPI, l’analisi del sito web e dei servizi digitali erogati.                                                                                                                                                                                                                                                                                               |Il Comune di Palermo effettua, attraverso il webmaster e la Società in house SISPI, l’analisi del sito web e dei servizi digitali erogati.                                                                                                                                                                                                                       |Il Comune di Palermo effettua, attraverso il webmaster e la Società in house SISPI, l’analisi del sito web e dei servizi digitali erogati.                                                                                                                                                                                                                       |
+|\ |STYLE101|\   |Il Comune di Palermo effettua, attraverso il webmaster e la Società in house SISPI, l’analisi del sito web e dei servizi digitali erogati.                                                                                                                                                                                                                                                                                               |Il Comune di Palermo effettua, attraverso il webmaster e la Società in house SISPI, l’analisi del sito web e dei servizi digitali erogati.                                                                                                                                                                                                                       |Il Comune di Palermo effettua, attraverso il webmaster e la Società in house SISPI, l’analisi del sito web e dei servizi digitali erogati.                                                                                                                                                                                                                       |
 |                |                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                 |
 +----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE97|\    |Il Comune di Palermo dal settembre 2019 attraverso la Società SISPI aderisce alla sperimentazione dell’app nazionale “IO”, in collaborazione con il TEAM Trasformazione Digitale, e si impegna a diffondere online l’utilizzo della infrastruttura di IO per l’erogazione dei servizi pubblici locali su dispositivi mobili e per l’emissione di avvisi e notifiche da inviare ai cittadini per un pieno utilizzo del domicilio digitale.|Evoluzione ed estensione dei servizi erogati mediante l’APP IO                                                                                                                                                                                                                                                                                                   |Evoluzione ed estensione dei servizi erogati mediante l’APP IO.                                                                                                                                                                                                                                                                                                  |
+|\ |STYLE102|\   |Il Comune di Palermo dal settembre 2019 attraverso la Società SISPI aderisce alla sperimentazione dell’app nazionale “IO”, in collaborazione con il TEAM Trasformazione Digitale, e si impegna a diffondere online l’utilizzo della infrastruttura di IO per l’erogazione dei servizi pubblici locali su dispositivi mobili e per l’emissione di avvisi e notifiche da inviare ai cittadini per un pieno utilizzo del domicilio digitale.|Evoluzione ed estensione dei servizi erogati mediante l’APP IO                                                                                                                                                                                                                                                                                                   |Evoluzione ed estensione dei servizi erogati mediante l’APP IO.                                                                                                                                                                                                                                                                                                  |
 |                |                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                 |
 |                |Organizzazione di un un team interno (staff Responsabile Transizione Digitale) operativo con attività di formazione e sensibilizzazione sui temi della cultura e cittadinanza digitale sia al personale comunale che alla cittadinanza.                                                                                                                                                                                                  |Attività di formazione, informazione e sensibilizzazione a cura del team operativo intersettoriale sui temi della cultura digitale,  cittadinanza digitale, dematerializzazione documentale rivolta al personale comunale.                                                                                                                                       |Attività di formazione, informazione e sensibilizzazione a cura del team operativo intersettoriale sui temi della cultura digitale,  cittadinanza digitale, dematerializzazione documentale rivolta  al personale comunale.                                                                                                                                      |
 |                |                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                 |
@@ -858,11 +858,11 @@ Nota: il Comune di Palermo nel 2019 e 2020 non è stato individuato da AGID qual
 |                |                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                 |
 +----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-\ |STYLE98|\ .
+\ |STYLE103|\ .
 
 Il Comune di Palermo, attraverso lo staff Responsabile Transizione Digitale, il 30 ottobre 2019 ha effettuato, in collaborazione con il Team Trasformazione Digitale e con ForumPA, \ |LINK52|\  quale punto unico di accesso digitale ai servizi delle Pubbliche Amministrazioni. L’evento ha riscosso una consistente e interattiva partecipazione a conferma che i temi dei servizi e della cittadinanza digitale sono di interesse quotidiano.
 
-\ |STYLE99|\ .
+\ |STYLE104|\ .
 
 L’amministrazione nel corso del 2020, 2021 e 2022 intende rendere operativo un Team interno di dipendenti, con la missione di affiancare, attraverso moduli formativi formali/informali, il personale interno sui temi della dematerializzazione documentale, uso delle piattaforme abilitanti all’erogazione dei servizi pubblici digitali e open data. 
 
@@ -885,7 +885,7 @@ Tale attività formativa interna e di sensibilizzazione della cittadinanza è co
 +==================================================+===============================================================================================================================================================+===============================================================================================================================================================+===============================================================================================================================================================+
 |La piattaforma per il procurement dell’innovazione|Il Comune di Palermo, ove ritenesse utile adottare pratiche per appalti di innovazione, utilizza la piattaforma nazionale \ |LINK53|\  resa disponibile da AGID|Il Comune di Palermo, ove ritenesse utile adottare pratiche per appalti di innovazione, utilizza la piattaforma nazionale \ |LINK54|\  resa disponibile da AGID|Il Comune di Palermo, ove ritenesse utile adottare pratiche per appalti di innovazione, utilizza la piattaforma nazionale \ |LINK55|\  resa disponibile da AGID|
 +--------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE100|\                                     |Avvio dei processi per la stipula di  accordi di collaborazione ex articolo 15 l.241/90. \ |LINK56|\                                                           |                                                                                                                                                               |                                                                                                                                                               |
+|\ |STYLE105|\                                     |Avvio dei processi per la stipula di  accordi di collaborazione ex articolo 15 l.241/90. \ |LINK56|\                                                           |                                                                                                                                                               |                                                                                                                                                               |
 +--------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 |
@@ -901,20 +901,20 @@ Tale attività formativa interna e di sensibilizzazione della cittadinanza è co
 +===========================================+======================================================================================================================================================================================================================================================================================================================================================================================================+=========================================================================================================================================================================================================+===============================================================================================================================================================================+
 |Le leve per il coordinamento sul territorio|\ |LINK57|\                                                                                                                                                                                                                                                                                                                                                                                           |Il Comune di Palermo, attraverso il supporto dell’Area Cittadinanza Sociale, si impegna nel 2021 ad avviare percorsi progettuali di Trasformazione Digitale coinvolgendo gli attori del servizio civile. |                                                                                                                                                                               |
 +-------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE101|\                              |L’RTD del comune di Palermo partecipa alle riunioni nazionali degli RTD.                                                                                                                                                                                                                                                                                                                              |L’RTD del comune di Palermo partecipa alle riunioni nazionali degli RTD.                                                                                                                                 |L’RTD del comune di Palermo partecipa alle riunioni nazionali degli RTD.                                                                                                       |
+|\ |STYLE106|\                              |L’RTD del comune di Palermo partecipa alle riunioni nazionali degli RTD.                                                                                                                                                                                                                                                                                                                              |L’RTD del comune di Palermo partecipa alle riunioni nazionali degli RTD.                                                                                                                                 |L’RTD del comune di Palermo partecipa alle riunioni nazionali degli RTD.                                                                                                       |
 |                                           |                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                         |                                                                                                                                                                               |
 |                                           |L’RTD avvia azioni di sensibilizzazione sulla cultura digitale e dematerializzazione al personale dell’amministrazione e organizza eventi pubblici sulla cittadinanza digitale.                                                                                                                                                                                                                       |L’RTD avvia azioni di sensibilizzazione sulla cultura digitale e dematerializzazione al personale dell’amministrazione e organizza eventi pubblici sulla cittadinanza digitale.                          |L’RTD avvia azioni di sensibilizzazione sulla cultura digitale e dematerializzazione al personale dell’amministrazione e organizza eventi pubblici sulla cittadinanza digitale.|
 +-------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE102|\                              |L’Amministrazione partecipa al confronto nell’ambito “dell’osservatorio sul monitoraggio” per il consolidamento della metodologia. \ |LINK58|\                                                                                                                                                                                                                                                        |                                                                                                                                                                                                         |                                                                                                                                                                               |
+|\ |STYLE107|\                              |L’Amministrazione partecipa al confronto nell’ambito “dell’osservatorio sul monitoraggio” per il consolidamento della metodologia. \ |LINK58|\                                                                                                                                                                                                                                                        |                                                                                                                                                                                                         |                                                                                                                                                                               |
 |                                           |                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                         |                                                                                                                                                                               |
 |                                           |\ |LINK59|\                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                         |                                                                                                                                                                               |
 +-------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE103|\                              |Partecipazione a  corsi dedicati ai Responsabili della transizione al digitale, corsi di approfondimento sui temi del Piano Triennale e sulla reingegnerizzazione dei processi. \ |LINK60|\                                                                                                                                                                                                           |                                                                                                                                                                                                         |                                                                                                                                                                               |
+|\ |STYLE108|\                              |Partecipazione a  corsi dedicati ai Responsabili della transizione al digitale, corsi di approfondimento sui temi del Piano Triennale e sulla reingegnerizzazione dei processi. \ |LINK60|\                                                                                                                                                                                                           |                                                                                                                                                                                                         |                                                                                                                                                                               |
 |                                           |                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                         |                                                                                                                                                                               |
 |                                           |\ |LINK61|\                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                         |                                                                                                                                                                               |
 |                                           |                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                         |                                                                                                                                                                               |
 +-------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |STYLE104|\                              |Pubblicazione sui propri siti web della nuova modulistica standardizzata e utilizzano schemi dati XML all’interno dei propri servizi digitali. \ |LINK62|\                                                                                                                                                                                                                                            |Attività di sperimentazione                                                                                                                                                                              |                                                                                                                                                                               |
+|\ |STYLE109|\                              |Pubblicazione sui propri siti web della nuova modulistica standardizzata e utilizzano schemi dati XML all’interno dei propri servizi digitali. \ |LINK62|\                                                                                                                                                                                                                                            |Attività di sperimentazione                                                                                                                                                                              |                                                                                                                                                                               |
 |                                           |                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                         |                                                                                                                                                                               |
 |                                           |Implementazione di un approccio BPM (Business process management), per i processi inter-istituzionali per l’attuazione dei regimi amministrativi e definita la standardizzazione della modulistica per le attività produttive e di edilizia privata con relativa elaborazione degli schemi dati \ |LINK63|\ , il Comune di Palermo, adotterà nei propri applicativi lo schema dati per la modulistica.|                                                                                                                                                                                                         |                                                                                                                                                                               |
 |                                           |                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                         |                                                                                                                                                                               |
@@ -932,7 +932,7 @@ Tale attività formativa interna e di sensibilizzazione della cittadinanza è co
 
 Nell’ambito delle attività volte alla dematerializzazione documentale il comune di Palermo ha seguito una strategia graduale di “transizione” dal modello analogico a quello gestito totalmente in modalità “digitale” al fine di permettere una capillare consapevolezza del cambio di modalità di lavoro quotidiano per l’intero personale (dipendente e dirigente).
 
-Gli obiettivi di dematerializzazione documentale, nel 2020, verranno inseriti nel Piano della Performance dei Dirigenti, ai sensi dell'\ |LINK64|\  (\ |STYLE105|\ ). Ciò al fine di permettere una celerità nel cambio di paradigma operativo di lavoro. Lo staff del Responsabile Transizione Digitale, in sinergia con il personale della Società in house SISPI, affianca il personale degli uffici nella formazione necessaria ad utilizzare nuovi applicativi informatici per la gestione dell’intero ciclo di vita del documento e dei procedimenti in modalità esclusivamente digitale.
+Gli obiettivi di dematerializzazione documentale, nel 2020, verranno inseriti nel Piano della Performance dei Dirigenti, ai sensi dell'\ |LINK64|\  (\ |STYLE110|\ ). Ciò al fine di permettere una celerità nel cambio di paradigma operativo di lavoro. Lo staff del Responsabile Transizione Digitale, in sinergia con il personale della Società in house SISPI, affianca il personale degli uffici nella formazione necessaria ad utilizzare nuovi applicativi informatici per la gestione dell’intero ciclo di vita del documento e dei procedimenti in modalità esclusivamente digitale.
 
 |REPLACE5|
 
@@ -945,7 +945,7 @@ Gli obiettivi di dematerializzazione documentale, nel 2020, verranno inseriti ne
 5.1- Analisi dei Processi amministrativi
 ========================================
 
-Per raggiungere concretamente gli obiettivi di dematerializzazione documentale, gli uffici hanno già avviato e manterranno costante l’attività di \ |STYLE106|\ , necessaria alla re-ingegnerizzazione degli stessi processi, così da ottenere livelli semplificati di gestione dei procedimenti amministrativi. 
+Per raggiungere concretamente gli obiettivi di dematerializzazione documentale, gli uffici hanno già avviato e manterranno costante l’attività di \ |STYLE111|\ , necessaria alla re-ingegnerizzazione degli stessi processi, così da ottenere livelli semplificati di gestione dei procedimenti amministrativi. 
 
 L’Analisi dei Processi, per i vari Dirigenti dei Servizi/Settori/Aree, sarà inserita, dal 2020,  nei Piani della Performance di prossima approvazione, in coerenza con l’\ |LINK65|\ .
 
@@ -1017,7 +1017,7 @@ Ove non si procedesse ad una tempestiva revisione/aggiornamento del Piano comuna
 6.2- Costituzione di un Team interno per la formazione e sensibilizzazione sulla dematerializzazione e cultura digitale
 =======================================================================================================================
 
-\ |STYLE107|\ .
+\ |STYLE112|\ .
 
 Dalla data di approvazione del presente Piano comunale, l’Amministrazione, al fine di rendere quanto più efficace la realizzazione delle azioni in esso contenute, formalizza la costituzione di un Team operativo intersettoriale con i seguenti compiti:
 
@@ -1045,7 +1045,7 @@ Dalla data di approvazione del presente Piano comunale, l’Amministrazione, al 
 
 Gli eventi pubblici potranno essere gestiti anche in cooperazione con enti pubblici e organizzazioni e comunità della società civile competenti e con esperienza maturata nel campo della cultura digitale, gestione documentale digitale, servizi digitali, interoperabilità semantica, e open data.
 
-\ |STYLE108|\ .
+\ |STYLE113|\ .
 
 L’Amministrazione formalizza la costituzione di un Team interno intersettoriale che si avvarrà della collaborazione dello staff del Responsabile Transizione Digitale (nominato ai sensi dell’\ |LINK68|\ ) per l’attuazione del Piano comunale. 
 
@@ -1081,7 +1081,7 @@ La selezione del personale che farà parte del Team sarà effettuata tramite un 
 
 * forte motivazione “culturale” a lavorare nell’ambito della cultura digitale e dell'informatica ed eventuale dimostrazione di esperienze nel campo.
 
-\ |STYLE109|\ .
+\ |STYLE114|\ .
 
 Il Team sarà composto dal personale dello  staff del Responsabile Transizione Digitale del Servizio Innovazione e dai soggetti dei vari uffici che liberamente si candideranno via email a seguito delle disposizioni impartite con apposita circolare del Segretario Generale. 
 
@@ -1091,7 +1091,7 @@ La valutazione sarà effettuata attraverso colloqui con il personale candidato.
 
 Una volta costituito con disposizione del Segretario Generale, il Team intersettoriale opererà riportando i risultati raggiunti al Responsabile Transizione Digitale e al Segretario Generale.
 
-\ |STYLE110|\ .
+\ |STYLE115|\ .
 
 Il Team opererà esclusivamente per supportare gli uffici, servizi e settori dell’Amministrazione nell’attuazione dei contenuti del presente Piano comunale.
 
@@ -1101,7 +1101,7 @@ Il Team opererà in collaborazione con il personale dirigente e dipendente degli
 
 Il lavoro svolto dal Team costituirà un valore aggiunto sia per il personale degli uffici che nei rapporti con la Società in house SISPI SpA in quanto permetterà di ottimizzare, ad esempio, la necessaria attività di formazione/informazione/tutoraggio necessaria nei momenti di adozione di nuovi applicativi gestionali.
 
-\ |STYLE111|\ .
+\ |STYLE116|\ .
 
 Il modello operativo di riferimento del Team comunale è quello adottato dal Team Trasformazione Digitale nazionale \ |LINK69|\ , composto da circa 30 membri, che nel corso del 2017, 2018 e 2019 ha permesso un'accelerazione consistente dei processi di transizione alla modalità digitale di numerosi enti pubblici in Italia. La metodologia lavorativa utilizzata dal Team nazionale è stata riconosciuta come “buona prassi” operativa e organizzativa anche a livello internazionale in considerazione dei risultati raggiunti su scala nazionale in breve tempo. 
 
@@ -1117,223 +1117,233 @@ L’Amministrazione, riconoscendo valida l’esperienza del Team nazionale di Tr
 
 .. |STYLE2| replace:: **Indicazioni per le pubbliche amministrazioni**
 
-.. |STYLE3| replace:: *Il Piano triennale è uno strumento essenziale per promuovere la trasformazione digitale dell’amministrazione pubblica italiana e del Paese. Tale trasformazione deve avvenire nel contesto del mercato unico europeo di beni e servizi digitali, secondo una strategia che si propone di migliorare l’accesso online ai beni e servizi in tutta Europa per i consumatori e le imprese e creare un contesto favorevole affinché le reti e i servizi digitali possano svilupparsi per massimizzare il potenziale di crescita dell’economia digitale europea*
+.. |STYLE3| replace:: **Infrastruttura di trasporto dei dati**
 
-.. |STYLE4| replace:: **Norma**
+.. |STYLE4| replace:: **Cloud Computing e Piattaforme abilitanti**
 
-.. |STYLE5| replace:: **Ministero per l’Innovazione tecnologica e la  digitalizzazione**
+.. |STYLE5| replace:: **Sensoristica di livello Urbano**
 
-.. |STYLE6| replace:: **Agenzia per l’Italia Digitale**
+.. |STYLE6| replace:: **Service Delivery Platform**
 
-.. |STYLE7| replace:: **Regia**
+.. |STYLE7| replace:: **Ecosistemi Tematici e Servizi**
 
-.. |STYLE8| replace:: **Piano triennale per l’informatica nella Pubblica Amministrazione 2019-2021**
+.. |STYLE8| replace:: *Il Piano triennale è uno strumento essenziale per promuovere la trasformazione digitale dell’amministrazione pubblica italiana e del Paese. Tale trasformazione deve avvenire nel contesto del mercato unico europeo di beni e servizi digitali, secondo una strategia che si propone di migliorare l’accesso online ai beni e servizi in tutta Europa per i consumatori e le imprese e creare un contesto favorevole affinché le reti e i servizi digitali possano svilupparsi per massimizzare il potenziale di crescita dell’economia digitale europea*
 
-.. |STYLE9| replace:: **Strategia**
+.. |STYLE9| replace:: **Norma**
 
-.. |STYLE10| replace:: **+**
+.. |STYLE10| replace:: **Ministero per l’Innovazione tecnologica e la  digitalizzazione**
 
-.. |STYLE11| replace:: **Azioni**
+.. |STYLE11| replace:: **Agenzia per l’Italia Digitale**
 
-.. |STYLE12| replace:: *da valorizzare per rispondere a bisogni della collettività, rendendole disponibili sotto forma di open data, facilmente ottenibili “in bulk” e/o interrogabili attraverso Application Programming Interface (API) e descritte sia a livello di metadatazione generale che a livello di dati con chiari modelli condivisi, allineati ad altri già esistenti a livello Europeo e nel Web*
+.. |STYLE12| replace:: **Regia**
 
-.. |STYLE13| replace:: *progetto nazionale che parte dall’analisi delle necessità dei cittadini e costituisce un vantaggio per tutti i soggetti pubblici che erogano servizi digitali. Fornisce le principali funzioni necessarie all'interazione tra la pubblica amministrazione e i cittadini, grazie anche all'integrazione con le piattaforme abilitanti pagoPA, ANPR e SPID*
+.. |STYLE13| replace:: **Piano triennale per l’informatica nella Pubblica Amministrazione 2019-2021**
 
-.. |STYLE14| replace:: *vision*
+.. |STYLE14| replace:: **Strategia**
 
-.. |STYLE15| replace:: *Cittadinanza digitale*
+.. |STYLE15| replace:: **+**
 
-.. |STYLE16| replace:: *la Città intelligente*
+.. |STYLE16| replace:: **Azioni**
 
-.. |STYLE17| replace:: *lo Sviluppo delle potenzialità economiche del territorio*
+.. |STYLE17| replace:: *da valorizzare per rispondere a bisogni della collettività, rendendole disponibili sotto forma di open data, facilmente ottenibili “in bulk” e/o interrogabili attraverso Application Programming Interface (API) e descritte sia a livello di metadatazione generale che a livello di dati con chiari modelli condivisi, allineati ad altri già esistenti a livello Europeo e nel Web*
 
-.. |STYLE18| replace:: **Vision e Strategia**
+.. |STYLE18| replace:: *progetto nazionale che parte dall’analisi delle necessità dei cittadini e costituisce un vantaggio per tutti i soggetti pubblici che erogano servizi digitali. Fornisce le principali funzioni necessarie all'interazione tra la pubblica amministrazione e i cittadini, grazie anche all'integrazione con le piattaforme abilitanti pagoPA, ANPR e SPID*
 
-.. |STYLE19| replace:: **Cittadinanza Digitale**
+.. |STYLE19| replace:: *vision*
 
-.. |STYLE20| replace:: **Città Intelligenti**
+.. |STYLE20| replace:: *Cittadinanza digitale*
 
-.. |STYLE21| replace:: **Sviluppo Intelligente**
+.. |STYLE21| replace:: *la Città intelligente*
 
-.. |STYLE22| replace:: **digital by default**
+.. |STYLE22| replace:: *lo Sviluppo delle potenzialità economiche del territorio*
 
-.. |STYLE23| replace:: **once only**
+.. |STYLE23| replace:: **Vision e Strategia**
 
-.. |STYLE24| replace:: **digital identity only**
+.. |STYLE24| replace:: **Cittadinanza Digitale**
 
-.. |STYLE25| replace:: **cloud first**
+.. |STYLE25| replace:: **Città Intelligenti**
 
-.. |STYLE26| replace:: **inclusività e accessibilità dei servizi**
+.. |STYLE26| replace:: **Sviluppo Intelligente**
 
-.. |STYLE27| replace:: **inclusività territoriale**
+.. |STYLE27| replace:: **digital by default**
 
-.. |STYLE28| replace:: **apertura e trasparenza dei dati e dei processi amministrativi**
+.. |STYLE28| replace:: **once only**
 
-.. |STYLE29| replace:: **transfrontaliero per definizione**
+.. |STYLE29| replace:: **digital identity only**
 
-.. |STYLE30| replace:: **interoperabile per definizione**
+.. |STYLE30| replace:: **cloud first**
 
-.. |STYLE31| replace:: **fiducia e sicurezza (privacy by default)**
+.. |STYLE31| replace:: **inclusività e accessibilità dei servizi**
 
-.. |STYLE32| replace:: **architetture informatiche a più livelli**
+.. |STYLE32| replace:: **inclusività territoriale**
 
-.. |STYLE33| replace:: **API (Application Programming Interface)**
+.. |STYLE33| replace:: **apertura e trasparenza dei dati e dei processi amministrativi**
 
-.. |STYLE34| replace:: **interoperabilità tecnica e semantica**
+.. |STYLE34| replace:: **transfrontaliero per definizione**
 
-.. |STYLE35| replace:: **Sistema informativo della PA**
+.. |STYLE35| replace:: **interoperabile per definizione**
 
-.. |STYLE36| replace:: **consideri le esigenze dei cittadini e delle imprese come punto di partenza**
+.. |STYLE36| replace:: **fiducia e sicurezza (privacy by default)**
 
-.. |STYLE37| replace:: **uniformi e razionalizzi le infrastrutture e i servizi informatici**
+.. |STYLE37| replace:: **architetture informatiche a più livelli**
 
-.. |STYLE38| replace:: **servizi**
+.. |STYLE38| replace:: **API (Application Programming Interface)**
 
-.. |STYLE39| replace:: **disponibili su dispositivi mobili**
+.. |STYLE39| replace:: **interoperabilità tecnica e semantica**
 
-.. |STYLE40| replace:: **API**
+.. |STYLE40| replace:: **Sistema informativo della PA**
 
-.. |STYLE41| replace:: **riuso del software**
+.. |STYLE41| replace:: **consideri le esigenze dei cittadini e delle imprese come punto di partenza**
 
-.. |STYLE42| replace:: **prendere a modello i casi di successo**
+.. |STYLE42| replace:: **uniformi e razionalizzi le infrastrutture e i servizi informatici**
 
-.. |STYLE43| replace:: **migliori la sicurezza**
+.. |STYLE43| replace:: **servizi**
 
-.. |STYLE44| replace:: **promuova la realizzazione di nuovi servizi secondo il principio di sussidiarietà**
+.. |STYLE44| replace:: **disponibili su dispositivi mobili**
 
-.. |STYLE45| replace:: **tramite interazioni API**
+.. |STYLE45| replace:: **API**
 
-.. |STYLE46| replace:: **agevoli il controllo delle spese relative alle tecnologie digitali**
+.. |STYLE46| replace:: **riuso del software**
 
-.. |STYLE47| replace:: **project management**
+.. |STYLE47| replace:: **prendere a modello i casi di successo**
 
-.. |STYLE48| replace:: **politiche data-driven**
+.. |STYLE48| replace:: **migliori la sicurezza**
 
-.. |STYLE49| replace:: *Schema del Modello strategico per governare la trasformazione digitale della PA”*
+.. |STYLE49| replace:: **promuova la realizzazione di nuovi servizi secondo il principio di sussidiarietà**
 
-.. |STYLE50| replace:: **Strumenti per la generazione e diffusione dei servizi digitali**
+.. |STYLE50| replace:: **tramite interazioni API**
 
-.. |STYLE51| replace:: **Ecosistemi**
+.. |STYLE51| replace:: **agevoli il controllo delle spese relative alle tecnologie digitali**
 
-.. |STYLE52| replace:: **Modello di interoperabilità**
+.. |STYLE52| replace:: **project management**
 
-.. |STYLE53| replace:: **Infrastrutture immateriali**
+.. |STYLE53| replace:: **politiche data-driven**
 
-.. |STYLE54| replace:: **Piattaforma Digitale Nazionale Dati**
+.. |STYLE54| replace:: *Schema del Modello strategico per governare la trasformazione digitale della PA”*
 
-.. |STYLE55| replace:: *Piattaforme abilitanti*
+.. |STYLE55| replace:: **Strumenti per la generazione e diffusione dei servizi digitali**
 
-.. |STYLE56| replace:: *Dati della PA*
+.. |STYLE56| replace:: **Ecosistemi**
 
-.. |STYLE57| replace:: *Piattaforme abilitanti*
+.. |STYLE57| replace:: **Modello di interoperabilità**
 
-.. |STYLE58| replace:: **SPID**
+.. |STYLE58| replace:: **Infrastrutture immateriali**
 
-.. |STYLE59| replace:: **PAGOPA**
+.. |STYLE59| replace:: **Piattaforma Digitale Nazionale Dati**
 
-.. |STYLE60| replace:: **ANPR**
+.. |STYLE60| replace:: *Piattaforme abilitanti*
 
 .. |STYLE61| replace:: *Dati della PA*
 
-.. |STYLE62| replace:: **le basi di dati di interesse nazionale**
+.. |STYLE62| replace:: *Piattaforme abilitanti*
 
-.. |STYLE63| replace:: **gli open data**
+.. |STYLE63| replace:: **SPID**
 
-.. |STYLE64| replace:: **i vocabolari controllati**
+.. |STYLE64| replace:: **PAGOPA**
 
-.. |STYLE65| replace:: **Piattaforma Digitale Nazionale Dati**
+.. |STYLE65| replace:: **ANPR**
 
-.. |STYLE66| replace:: *open data*
+.. |STYLE66| replace:: *Dati della PA*
 
-.. |STYLE67| replace:: *machine learning*
+.. |STYLE67| replace:: **le basi di dati di interesse nazionale**
 
-.. |STYLE68| replace:: **Infrastrutture fisiche**
+.. |STYLE68| replace:: **gli open data**
 
-.. |STYLE69| replace:: *data center*
+.. |STYLE69| replace:: **i vocabolari controllati**
 
-.. |STYLE70| replace:: *cloud*
+.. |STYLE70| replace:: **Piattaforma Digitale Nazionale Dati**
 
-.. |STYLE71| replace:: **Sicurezza**
+.. |STYLE71| replace:: *open data*
 
-.. |STYLE72| replace:: *Assessment test*
+.. |STYLE72| replace:: *machine learning*
 
-.. |STYLE73| replace:: **gestione della transizione**
+.. |STYLE73| replace:: **Infrastrutture fisiche**
 
-.. |STYLE74| replace:: *che riporta le numerose azioni da realizzare da parte delle PA per la transizione alla modalità digitale.*
+.. |STYLE74| replace:: *data center*
 
-.. |STYLE75| replace:: **accordi di collaborazione per la gestione dei servizi applicativi**
+.. |STYLE75| replace:: *cloud*
 
-.. |STYLE76| replace:: **soluzioni “sussidiarie”**
+.. |STYLE76| replace:: **Sicurezza**
 
-.. |STYLE77| replace:: **soluzioni “in riuso”**
+.. |STYLE77| replace:: *Assessment test*
 
-.. |STYLE78| replace:: **servizi infrastrutturali**
+.. |STYLE78| replace:: **gestione della transizione**
 
-.. |STYLE79| replace:: **Indicazioni per le pubbliche amministrazioni”**
+.. |STYLE79| replace:: *che riporta le numerose azioni da realizzare da parte delle PA per la transizione alla modalità digitale.*
 
-.. |STYLE80| replace:: **Data Center**
+.. |STYLE80| replace:: **accordi di collaborazione per la gestione dei servizi applicativi**
 
-.. |STYLE81| replace:: **Connettività**
+.. |STYLE81| replace:: **soluzioni “sussidiarie”**
 
-.. |STYLE82| replace:: **Cloud**
+.. |STYLE82| replace:: **soluzioni “in riuso”**
 
-.. |STYLE83| replace:: **Data Center**
+.. |STYLE83| replace:: **servizi infrastrutturali**
 
-.. |STYLE84| replace:: **Connettività**
+.. |STYLE84| replace:: **Indicazioni per le pubbliche amministrazioni”**
 
-.. |STYLE85| replace:: **Riutilizzo dei dati (open data)**
+.. |STYLE85| replace:: **Data Center**
 
-.. |STYLE86| replace:: **PDND**
+.. |STYLE86| replace:: **Connettività**
 
-.. |STYLE87| replace:: **Il Comune di Palermo si è impegnato nel nella realizzazione delle seguenti azioni**
+.. |STYLE87| replace:: **Cloud**
 
-.. |STYLE88| replace:: **A partire dal 2020 il Comune di Palermo si impegna ad**
+.. |STYLE88| replace:: **Data Center**
 
-.. |STYLE89| replace:: **PAGOPA**
+.. |STYLE89| replace:: **Connettività**
 
-.. |STYLE90| replace:: **SIOPE e SIOPE+**
+.. |STYLE90| replace:: **Riutilizzo dei dati (open data)**
 
-.. |STYLE91| replace:: **SPID e CIE**
+.. |STYLE91| replace:: **PDND**
 
-.. |STYLE92| replace:: **ANPR**
+.. |STYLE92| replace:: **Il Comune di Palermo si è impegnato nel nella realizzazione delle seguenti azioni**
 
-.. |STYLE93| replace:: **Accessibilità**
+.. |STYLE93| replace:: **A partire dal 2020 il Comune di Palermo si impegna ad**
 
-.. |STYLE94| replace:: **Usabilità**
+.. |STYLE94| replace:: **PAGOPA**
 
-.. |STYLE95| replace:: **Docs Italia**
+.. |STYLE95| replace:: **SIOPE e SIOPE+**
 
-.. |STYLE96| replace:: **Web Analytics Italia**
+.. |STYLE96| replace:: **SPID e CIE**
 
-.. |STYLE97| replace:: **“IO”: l’app per l’accesso ai servizi digitali della PA**
+.. |STYLE97| replace:: **ANPR**
 
-.. |STYLE98| replace:: **Evento pubblico del 2019 sui servizi digitali**
+.. |STYLE98| replace:: **Accessibilità**
 
-.. |STYLE99| replace:: **Team interno per la formazione e sensibilizzazione sui temi della cultura digitale**
+.. |STYLE99| replace:: **Usabilità**
 
-.. |STYLE100| replace:: **Smart Landscape**
+.. |STYLE100| replace:: **Docs Italia**
 
-.. |STYLE101| replace:: **Il Responsabile della transizione alla modalità digitale (RTD)**
+.. |STYLE101| replace:: **Web Analytics Italia**
 
-.. |STYLE102| replace:: **Monitoraggio**
+.. |STYLE102| replace:: **“IO”: l’app per l’accesso ai servizi digitali della PA**
 
-.. |STYLE103| replace:: **Il rafforzamento delle competenze**
+.. |STYLE103| replace:: **Evento pubblico del 2019 sui servizi digitali**
 
-.. |STYLE104| replace:: **Prime iniziative verso cittadini e imprese**
+.. |STYLE104| replace:: **Team interno per la formazione e sensibilizzazione sui temi della cultura digitale**
 
-.. |STYLE105| replace:: *l’attuazione delle disposizioni del presente Codice è comunque rilevante ai fini della misurazione e valutazione della performance organizzativa ed individuale dei dirigenti*
+.. |STYLE105| replace:: **Smart Landscape**
 
-.. |STYLE106| replace:: **Analisi dei Processi Amministrativi**
+.. |STYLE106| replace:: **Il Responsabile della transizione alla modalità digitale (RTD)**
 
-.. |STYLE107| replace:: **Team e attività da svolgere**
+.. |STYLE107| replace:: **Monitoraggio**
 
-.. |STYLE108| replace:: **Modalità di costituzione del Team**
+.. |STYLE108| replace:: **Il rafforzamento delle competenze**
 
-.. |STYLE109| replace:: **Valutazione dei soggetti per la formazione del Team**
+.. |STYLE109| replace:: **Prime iniziative verso cittadini e imprese**
 
-.. |STYLE110| replace:: **Report di monitoraggio sulle attività svolte dal Team**
+.. |STYLE110| replace:: *l’attuazione delle disposizioni del presente Codice è comunque rilevante ai fini della misurazione e valutazione della performance organizzativa ed individuale dei dirigenti*
 
-.. |STYLE111| replace:: **Modello operativo di riferimento del Team comunale**
+.. |STYLE111| replace:: **Analisi dei Processi Amministrativi**
+
+.. |STYLE112| replace:: **Team e attività da svolgere**
+
+.. |STYLE113| replace:: **Modalità di costituzione del Team**
+
+.. |STYLE114| replace:: **Valutazione dei soggetti per la formazione del Team**
+
+.. |STYLE115| replace:: **Report di monitoraggio sulle attività svolte dal Team**
+
+.. |STYLE116| replace:: **Modello operativo di riferimento del Team comunale**
 
 
 .. |REPLACE1| raw:: html
