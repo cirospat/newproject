@@ -316,7 +316,7 @@ Dal Giugno 2020 è possibile \ |STYLE51|\ , oltre che con l'identità digitale S
 
 Il 29 giugno 2020 la Giunta Comunale, con Deliberazione n. 149/2020 ha approvato il \ |LINK83|\  in conformità al Codice dell’Amministrazione Digitale, di cui al D.Lgs. 82/2005 e successive modifiche e integrazioni, e al Piano nazionale triennale per l’informatica 2019-2021, pubblicato dall’Agenzia per l’Italia Digitale (AGID).
 
-L'\ |LINK84|\  è stato presentato il Piano Triennale comunale dell'Informatica a cura dell'Assessore all'Innovazione Petralia Camassa, la Dirigente L. Romano e il Direttore Tecnico della SISPI ing. S. Morreale.
+L'\ |LINK84|\  è stato presentato il Piano Triennale comunale dell'Informatica a cura dell'Assessore all'Innovazione Petralia Camassa, la Dirigente del Servizio Innovazione dott.ssa Licia Romano e il Direttore Tecnico della SISPI ing. S. Morreale.
 
 |
 
