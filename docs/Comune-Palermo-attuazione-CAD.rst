@@ -316,6 +316,8 @@ Dal Giugno 2020 è possibile \ |STYLE51|\ , oltre che con l'identità digitale S
 
 Il 29 giugno 2020 la Giunta Comunale, con Deliberazione n. 149/2020 ha approvato il \ |LINK83|\  in conformità al Codice dell’Amministrazione Digitale, di cui al D.Lgs. 82/2005 e successive modifiche e integrazioni, e al Piano nazionale triennale per l’informatica 2019-2021, pubblicato dall’Agenzia per l’Italia Digitale (AGID).
 
+L'\ |LINK84|\  è stato presentato il Piano Triennale comunale dell'Informatica a cura dell'Assessore all'Innovazione Petralia Camassa, la Dirigente L. Romano e il Direttore Tecnico della SISPI ing. S. Morreale.
+
 |
 
 
@@ -767,4 +769,8 @@ Il 29 giugno 2020 la Giunta Comunale, con Deliberazione n. 149/2020 ha approvato
 .. |LINK83| raw:: html
 
     <a href="https://cirospat.readthedocs.io/it/latest/piano_triennale_informatica_comune_palermo_2020-2022_delibera_GC_149_29-06-2020.html" target="_blank">Piano comunale triennale per l'Informatica 2020-2022</a>
+
+.. |LINK84| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=28004" target="_blank">8 luglio 2020 in una conferenza stampa a Palazzo delle Aquile</a>
 
