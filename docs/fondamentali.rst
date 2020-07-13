@@ -88,8 +88,6 @@ Linee Guida su acquisizione e riuso di software per le Pubbliche Amministrazioni
 
 \ |LINK9|\ 
 
-|REPLACE2|
-
 |
 
 .. _h4e4d55724a50373c2d7b2b6b5b1e467:
@@ -300,7 +298,7 @@ Sicurezza Cibernetica: iniziative e azioni per amministrazioni più sicure (webi
 *******************************************************************************************************
 
 
-|REPLACE3|
+|REPLACE2|
 
 \ |LINK43|\ .
 
@@ -559,7 +557,7 @@ Dal \ |LINK92|\ , queste le misure per accelerare la digitalizzazione della PA.
 --------
 
 
-|REPLACE4|
+|REPLACE3|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -596,12 +594,9 @@ Dal \ |LINK92|\ , queste le misure per accelerare la digitalizzazione della PA.
     <img src="https://img.shields.io/badge/fondamentali-amministrazione_digitale-blue.svg?style=popout&logo=Read%20the%20Docs" />
 .. |REPLACE2| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/riuso.jpg" width= 900 />
-.. |REPLACE3| raw:: html
-
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/j1PGeUthii0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <span class="footer_small">Misure minime di sicurezza ICT (AGID) e ruolo del CERT-PA, Computer Emergency Response Team Pubblica Amministrazione, che opera all’interno di AGID e ha il compito di supportare le amministrazioni nella prevenzione e nella risposta agli incidenti di sicurezza informatica.</span>
-.. |REPLACE4| raw:: html
+.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
