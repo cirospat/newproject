@@ -10,12 +10,15 @@ Piano  triennale  per l’Informatica del Comune di Palermo 2020-2022
 .. admonition:: LA GIUNTA COMUNALE
 
     \ |STYLE0|\ :
+    
         L’atto che si propone consegue dall’applicazione dei contenuti del \ |LINK2|\  di cui al D.Lgs. 82/2005 e successive modifiche e integrazioni, e del \ |LINK3|\  redatto dall’\ |LINK4|\  (AGID).
     
     \ |STYLE1|\ :
+    
     Il Piano triennale per l’informatica è uno strumento essenziale per promuovere la trasformazione digitale dell’amministrazione pubblica italiana. Tale trasformazione deve avvenire nel contesto del \ |LINK5|\ , secondo una strategia che si propone di migliorare l’accesso online ai beni e servizi in tutta Europa per i consumatori e le imprese, e creare un contesto favorevole affinché le reti e i servizi digitali possano svilupparsi per massimizzare il potenziale di crescita dell’economia digitale europea e della cittadinanza digitale.
     
     \ |STYLE2|\ :
+    
     Che gli obiettivi generali, declinati dal Piano nazionale a quello comunale, con il presente documento possono essere così riassunti:
     
     * snellire i procedimenti burocratici, ricorrendo alla reingegnerizzazione dei processi amministrativi in fase di adozione di soluzioni digitali per soppiantare l’uso della carta;
@@ -58,6 +61,7 @@ Piano  triennale  per l’Informatica del Comune di Palermo 2020-2022
         #. Attività di \ |LINK21|\ , in collaborazione con l’AGID, al fine di adottare le necessarie misure di protezione e prevenzione degli attacchi cibernetici.
     
     \ |STYLE5|\ :
+    
         di dover fissare, comunque, l’obiettivo gestionale di cui al presente provvedimento, da realizzarsi a cura del Dirigente competente, con l’osservanza di determinati criteri direttivi, in ossequio al principio che la gestione spetta ai Dirigenti pur nel rispetto dei criteri fissati dall’organo politico.
     
     \ |STYLE6|\ :
@@ -65,6 +69,7 @@ Piano  triennale  per l’Informatica del Comune di Palermo 2020-2022
     * il \ |LINK22|\ , D. Lgs. 7 marzo 2005 n. 82 e successive modifiche e integrazioni;
     
     * il \ |LINK23|\  redatto dall’Agenzia per l’Italia Digitale.
+    
     
     \ |STYLE7|\ :
     
@@ -83,6 +88,7 @@ Piano  triennale  per l’Informatica del Comune di Palermo 2020-2022
     * il DPR 445/2000 "Testo Unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa”. 
     
     \ |STYLE9|\ : 
+    
         la proposta di “\ |STYLE10|\ ” (allegato A) redatta dallo staff del Responsabile del Servizio Innovazione, in collaborazione con la Società in house per i servizi informatici SISPI SPA, coerentemente con le \ |LINK24|\  dell’Agenzia per l’Italia Digitale.
     
     \ |STYLE11|\ 
