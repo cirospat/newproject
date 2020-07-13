@@ -525,6 +525,39 @@ Da AGID le \ |LINK89|\ . L’indice, istituito dall’\ |LINK90|\ , contiene i d
 
 --------
 
+.. _h19860a6f70b64501a441477565a3:
+
+Innovazione digitale nella PA dal Decreto Legge sulle Semplificazioni (luglio 2020)
+***********************************************************************************
+
+Dal \ |LINK92|\ , queste le misure per accelerare la digitalizzazione della PA.
+
+* Solo SPID o Carte d’identità elettronica per accedere a tutti i servizi pubblici online, entro il 28 febbraio 2021 per tutti gli Enti pubblici
+
+* L’app IO sarà l’unico canale per accedere dallo smartphone ai servizi pubblici resi in digitale
+
+* SPID e Carta d'identità elettronica (CIE) equivalgono all’esibizione di un documento di identità
+
+* IO come strumento di autocertificazione e presentazione istanze
+
+* Semplificazione per il rilascio della Carta d’identità elettronica (anche prima della scadenza di quella cartacea)
+
+* Lavoro agile nella Pubblica Amministrazione (applicativi tali da permettere il lavoro del personale da remoto)
+
+* Interventi per favorire l’accesso delle persone disabili agli strumenti informatici
+
+* La Pubblica Amministrazione e i cittadini comunicano online (modalità prioritaria)
+
+* Semplificazione per la piattaforma digitale nazionale dati
+
+* Verso il cloud nazionale
+
+* I dati dei concessionari pubblici alla PA
+
+* Diritto a innovare.
+
+--------
+
 
 |REPLACE4|
 
@@ -957,4 +990,8 @@ Da AGID le \ |LINK89|\ . L’indice, istituito dall’\ |LINK90|\ , contiene i d
 .. |LINK91| raw:: html
 
     <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/06/08/indice-domicili-digitali-persone-fisiche-degli-altri-enti-diritto-privato" target="_blank">Comunicato dell'AGID</a>
+
+.. |LINK92| raw:: html
+
+    <a href="https://innovazione.gov.it/misure-su-innovazione-digitale-nel-decreto-semplificazioni/" target="_blank">sito del Ministero Innovazione Tecnologica e Digitalizzazione</a>
 
