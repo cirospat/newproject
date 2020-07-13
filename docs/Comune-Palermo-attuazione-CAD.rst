@@ -318,6 +318,8 @@ Il 29 giugno 2020 la Giunta Comunale, con Deliberazione n. 149/2020 ha approvato
 
 L'\ |LINK84|\  è stato presentato il Piano Triennale comunale dell'Informatica a cura dell'Assessore all'Innovazione Petralia Camassa, la Dirigente del Servizio Innovazione dott.ssa Licia Romano e il Direttore Tecnico della SISPI ing. S. Morreale.
 
+A questo \ |LINK85|\  (Ciro Spataro) sul piano con un focus sulle competenze digitali dei dipendenti pubblici e dei cittadini.
+
 |
 
 
@@ -773,4 +775,8 @@ L'\ |LINK84|\  è stato presentato il Piano Triennale comunale dell'Informatica 
 .. |LINK84| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=28004" target="_blank">8 luglio 2020 in una conferenza stampa a Palazzo delle Aquile</a>
+
+.. |LINK85| raw:: html
+
+    <a href="https://medium.com/@cirospat/il-piano-triennale-dellinformatica-del-comune-di-palermo-927e74d685c9" target="_blank">link un articolo mio</a>
 
