@@ -124,7 +124,7 @@ Formazione RTD
 Webinar 2020 del FormezPA sulla transizione al digitale
 *******************************************************
 
-(organizzati dal Dipartimento della funzione pubblica, in collaborazione con Formez PA nell'ambito del Progetto Supporto allo sviluppo delle Competenze digitali per la PA finanziato dal PON Governance e Capacità Istituzionale 2014-2020 Asse 1 - Obiettivo specifico 1.3) 
+(organizzati dal Dipartimento della funzione pubblica, in collaborazione con Formez PA nell'ambito del Progetto Supporto allo sviluppo delle \ |STYLE1|\  per la PA finanziato dal PON Governance e Capacità Istituzionale 2014-2020 Asse 1 - Obiettivo specifico 1.3) 
 
 * 12/05/2020 \ |LINK16|\ 
 
@@ -153,10 +153,16 @@ RTD Comune di Palermo - attività svolte
 
     * \ |LINK25|\ .
 
+* Realizzazione, nel marzo 2020, e aggiornamento del \ |LINK26|\ .
+
+* Redazione del \ |LINK27|\  e adozione con Delibera di Giunta n. 149 del 29 giugno 2020.
+
 .. bottom of content
 
 
 .. |STYLE0| replace:: **Video webinar su RTD anno 2019**
+
+.. |STYLE1| replace:: **competenze digitali**
 
 
 .. |REPLACE1| raw:: html
@@ -299,4 +305,12 @@ RTD Comune di Palermo - attività svolte
 .. |LINK25| raw:: html
 
     <a href="https://www.blogsicilia.it/palermo/il-futuro-dei-servizi-pubblici-e-digitale-a-palermo-giornata-di-formazione-con-forum-pa-video/504185/" target="_blank">Il futuro dei servizi pubblici è digitale, a Palermo giornata di formazione con “Forum PA” (video di Blog Sicilia)</a>
+
+.. |LINK26| raw:: html
+
+    <a href="https://sites.google.com/comune.palermo.it/lavoroagile" target="_blank">portale degli attrezzi digitali per permettere ai dipendenti e dirigenti del Comune di Palermo di lavorare da remoto in modalità agile</a>
+
+.. |LINK27| raw:: html
+
+    <a href="https://cirospat.readthedocs.io/it/latest/piano_triennale_informatica_comune_palermo_2020-2022_delibera_GC_149_29-06-2020.html" target="_blank">Piano triennale comunale per l'Informatica 2020-2022</a>
 
