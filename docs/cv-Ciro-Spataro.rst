@@ -4,7 +4,7 @@
 Curriculum Vitae
 ################
 
-``aggiornato al 21 maggio 2020``
+``aggiornato al 18 luglio 2020``
 
 
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -134,9 +134,11 @@ Curriculum Vitae
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                      |* Pubblicazioni articoli Pubblica Amministrazione Digitale sulla community \ |LINK25|\ .                                                                                                                                                                                                                                                                    |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                      |* Redazione del \ |LINK26|\ .                                                                                                                                                                                                                                                                                                                               |
+|                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                      |\ |STYLE40|\ :                                                                                                                                                                                                                                                                                                                                              |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* Compa FVG Centro di competenza per la pubblica amministrazione Friuli Venezia Giulia, 22 giugno 2018,  \ |LINK26|\ .                                                                                                                                                                                                                                      |
+|                                                                                      |* Compa FVG Centro di competenza per la pubblica amministrazione Friuli Venezia Giulia, 22 giugno 2018,  \ |LINK27|\ .                                                                                                                                                                                                                                      |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                      |* Redazione FPA, gennaio 2019. Come pubblicare documenti online con il format di 'Read the Docs' per fruire testi anche su dispositivi mobili e con efficaci sistema di ricerca tag nel testo.                                                                                                                                                              |
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -144,24 +146,24 @@ Curriculum Vitae
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |interessi / \ |STYLE42|\                                                              |photography, trekking, mtbiking, snorkelling, tutorial, civic hacking                                                                                                                                                                                                                                                                                       |
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|attivo in reti                                                                        |* \ |LINK27|\  per l'attuazione dell'Agenda Digitale nella Pubblica Amministrazione                                                                                                                                                                                                                                                                         |
+|attivo in reti                                                                        |* \ |LINK28|\  per l'attuazione dell'Agenda Digitale nella Pubblica Amministrazione                                                                                                                                                                                                                                                                         |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|\ |STYLE43|\                                                                          |* \ |LINK28|\  open data network - \ |LINK29|\                                                                                                                                                                                                                                                                                                              |
+|\ |STYLE43|\                                                                          |* \ |LINK29|\  open data network - \ |LINK30|\                                                                                                                                                                                                                                                                                                              |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* \ |LINK30|\  articoli sulla Pubblica Amministrazione digitale                                                                                                                                                                                                                                                                                             |
-|                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* \ |LINK31|\                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                      |* \ |LINK31|\  articoli sulla Pubblica Amministrazione digitale                                                                                                                                                                                                                                                                                             |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                      |* \ |LINK32|\                                                                                                                                                                                                                                                                                                                                               |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* \ |LINK33|\  e Agenda Digitale                                                                                                                                                                                                                                                                                                                            |
+|                                                                                      |* \ |LINK33|\                                                                                                                                                                                                                                                                                                                                               |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* \ |LINK34|\                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                      |* \ |LINK34|\  e Agenda Digitale                                                                                                                                                                                                                                                                                                                            |
+|                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                      |* \ |LINK35|\                                                                                                                                                                                                                                                                                                                                               |
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|profilo / \ |STYLE44|\                                                                |\ |LINK35|\                                                                                                                                                                                                                                                                                                                                                 |
+|profilo / \ |STYLE44|\                                                                |\ |LINK36|\                                                                                                                                                                                                                                                                                                                                                 |
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Il CV è disponibile a questo \ |LINK36|\  per essere scaricato in diversi formati (``pdf``, ``odt``, ``docx``).
+Il CV è disponibile a questo \ |LINK37|\  per essere scaricato in diversi formati (``pdf``, ``odt``, ``docx``).
 
 
 .. bottom of content
@@ -360,45 +362,49 @@ Il CV è disponibile a questo \ |LINK36|\  per essere scaricato in diversi forma
 
 .. |LINK26| raw:: html
 
-    <a href="https://compa.fvg.it/Risorse-per-te/Video-Gallery/opendataFVG-2018/Ciro-Spataro" target="_blank">percorso open data del comune di Palermo</a>
+    <a href="https://cirospat.readthedocs.io/it/latest/piano_triennale_informatica_comune_palermo_2020-2022_delibera_GC_149_29-06-2020.html" target="_blank">Piano triennale per l’Informatica del Comune di Palermo 2020-2022</a>
 
 .. |LINK27| raw:: html
 
-    <a href="https://forum.italia.it/u/cirospat/activity" target="_blank">forum DocsItalia</a>
+    <a href="https://compa.fvg.it/Risorse-per-te/Video-Gallery/opendataFVG-2018/Ciro-Spataro" target="_blank">percorso open data del comune di Palermo</a>
 
 .. |LINK28| raw:: html
 
-    <a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a>
+    <a href="https://forum.italia.it/u/cirospat/activity" target="_blank">forum DocsItalia</a>
 
 .. |LINK29| raw:: html
 
-    <a href="https://groups.google.com/forum/#!forum/opendatasicilia" target="_blank">mailing list opendatasicilia</a>
+    <a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a>
 
 .. |LINK30| raw:: html
 
-    <a href="https://medium.com/@cirospat/latest" target="_blank">medium.com/@cirospat</a>
+    <a href="https://groups.google.com/forum/#!forum/opendatasicilia" target="_blank">mailing list opendatasicilia</a>
 
 .. |LINK31| raw:: html
 
-    <a href="https://twitter.com/cirospat" target="_blank">twitter.com/cirospat</a>
+    <a href="https://medium.com/@cirospat/latest" target="_blank">medium.com/@cirospat</a>
 
 .. |LINK32| raw:: html
 
-    <a href="https://www.linkedin.com/in/cirospataro/" target="_blank">linkedin.com/in/cirospataro</a>
+    <a href="https://twitter.com/cirospat" target="_blank">twitter.com/cirospat</a>
 
 .. |LINK33| raw:: html
 
-    <a href="https://www.facebook.com/groups/384577025038311/" target="_blank">Pubblica Amministrazione Digitale</a>
+    <a href="https://www.linkedin.com/in/cirospataro/" target="_blank">linkedin.com/in/cirospataro</a>
 
 .. |LINK34| raw:: html
 
-    <a href="https://www.facebook.com/groups/cad.ancitel/" target="_blank">Codice Amministrazione Digitale</a>
+    <a href="https://www.facebook.com/groups/384577025038311/" target="_blank">Pubblica Amministrazione Digitale</a>
 
 .. |LINK35| raw:: html
 
-    <a href="https://cirospat.readthedocs.io" target="_blank">cirospat.readthedocs.io</a>
+    <a href="https://www.facebook.com/groups/cad.ancitel/" target="_blank">Codice Amministrazione Digitale</a>
 
 .. |LINK36| raw:: html
+
+    <a href="https://cirospat.readthedocs.io" target="_blank">cirospat.readthedocs.io</a>
+
+.. |LINK37| raw:: html
 
     <a href="https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA" target="_blank">link</a>
 
