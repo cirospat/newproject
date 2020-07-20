@@ -136,6 +136,16 @@ Webinar 2020 del FormezPA sulla transizione al digitale
 
 * 16/06/2020 \ |LINK20|\ 
 
+* 23/06/2020 \ |LINK21|\ 
+
+* 30/06/2020 \ |LINK22|\ 
+
+* 07/07/2020 \ |LINK23|\ 
+
+* 14/07/2020 \ |LINK24|\ 
+
+* 21/07/2020 \ |LINK25|\ 
+
 |
 
 .. _h4777144564346b74103369267965183:
@@ -143,19 +153,19 @@ Webinar 2020 del FormezPA sulla transizione al digitale
 RTD Comune di Palermo - attività svolte
 ***************************************
 
-* \ |LINK21|\ ;
+* \ |LINK26|\ ;
 
-* \ |LINK22|\  in collaborazione con il Team Trasformazione Digitale. Guarda i resoconti video dell'evento: 
+* \ |LINK27|\  in collaborazione con il Team Trasformazione Digitale. Guarda i resoconti video dell'evento: 
 
-    * \ |LINK23|\  
+    * \ |LINK28|\  
 
-    * \ |LINK24|\  
+    * \ |LINK29|\  
 
-    * \ |LINK25|\ .
+    * \ |LINK30|\ .
 
-* Realizzazione, nel marzo 2020, e aggiornamento del \ |LINK26|\ .
+* Realizzazione, nel marzo 2020, e aggiornamento del \ |LINK31|\ .
 
-* Redazione del \ |LINK27|\  e adozione con Delibera di Giunta n. 149 del 29 giugno 2020.
+* Redazione del \ |LINK32|\  e adozione con Delibera di Giunta n. 149 del 29 giugno 2020.
 
 .. bottom of content
 
@@ -288,29 +298,49 @@ RTD Comune di Palermo - attività svolte
 
 .. |LINK21| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/1PM18t1E8e79WERgwqwwQKPOKeVC3liNBpB0nwSZgA5o/edit?usp=sharing" target="_blank">Giornata informativa/formativa ai dirigenti comunali (3-4-5 dicembre 2018)</a>
+    <a href="http://eventipa.formez.it/node/248973" target="_blank">Produrre, valutare e gestire documenti informatici</a>
 
 .. |LINK22| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/1O0Cr2X6XUEBf9Oswl3eMaglAivu6u1f0q8WUZGKDTRc/edit?usp=sharing" target="_blank">Evento pubblico del 30 ottobre 2019 per la diffusione per la cultura e cittadinanza digitale</a>
+    <a href="http://eventipa.formez.it/node/253366" target="_blank">Conoscere gli open data</a>
 
 .. |LINK23| raw:: html
 
-    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA (video di Gianni Dominici)</a>
+    <a href="http://eventipa.formez.it/node/257510" target="_blank">Conoscere l’identità digitale</a>
 
 .. |LINK24| raw:: html
 
-    <a href="https://www.palermotoday.it/attualita/servizi-pubblici-digitali-app-io-pagopa.html" target="_blank">Servizi pubblici digitali dall'app IO a PagoPA: ecco cosa cambia per i cittadini (video di PalermoToday)</a>
+    <a href="http://eventipa.formez.it/node/260907" target="_blank">Erogare servizi online</a>
 
 .. |LINK25| raw:: html
 
-    <a href="https://www.blogsicilia.it/palermo/il-futuro-dei-servizi-pubblici-e-digitale-a-palermo-giornata-di-formazione-con-forum-pa-video/504185/" target="_blank">Il futuro dei servizi pubblici è digitale, a Palermo giornata di formazione con “Forum PA” (video di Blog Sicilia)</a>
+    <a href="http://eventipa.formez.it/node/263407" target="_blank">Proteggere i dispositivi</a>
 
 .. |LINK26| raw:: html
 
-    <a href="https://sites.google.com/comune.palermo.it/lavoroagile" target="_blank">portale degli attrezzi digitali per permettere ai dipendenti e dirigenti del Comune di Palermo di lavorare da remoto in modalità agile</a>
+    <a href="https://docs.google.com/presentation/d/1PM18t1E8e79WERgwqwwQKPOKeVC3liNBpB0nwSZgA5o/edit?usp=sharing" target="_blank">Giornata informativa/formativa ai dirigenti comunali (3-4-5 dicembre 2018)</a>
 
 .. |LINK27| raw:: html
+
+    <a href="https://docs.google.com/presentation/d/1O0Cr2X6XUEBf9Oswl3eMaglAivu6u1f0q8WUZGKDTRc/edit?usp=sharing" target="_blank">Evento pubblico del 30 ottobre 2019 per la diffusione per la cultura e cittadinanza digitale</a>
+
+.. |LINK28| raw:: html
+
+    <a href="https://www.linkedin.com/posts/gstagno_workshop-palermo-servizi-activity-6595649776035872768-feKR" target="_blank">Linkedin Direttore Generale FPA (video di Gianni Dominici)</a>
+
+.. |LINK29| raw:: html
+
+    <a href="https://www.palermotoday.it/attualita/servizi-pubblici-digitali-app-io-pagopa.html" target="_blank">Servizi pubblici digitali dall'app IO a PagoPA: ecco cosa cambia per i cittadini (video di PalermoToday)</a>
+
+.. |LINK30| raw:: html
+
+    <a href="https://www.blogsicilia.it/palermo/il-futuro-dei-servizi-pubblici-e-digitale-a-palermo-giornata-di-formazione-con-forum-pa-video/504185/" target="_blank">Il futuro dei servizi pubblici è digitale, a Palermo giornata di formazione con “Forum PA” (video di Blog Sicilia)</a>
+
+.. |LINK31| raw:: html
+
+    <a href="https://sites.google.com/comune.palermo.it/lavoroagile" target="_blank">portale degli attrezzi digitali per permettere ai dipendenti e dirigenti del Comune di Palermo di lavorare da remoto in modalità agile</a>
+
+.. |LINK32| raw:: html
 
     <a href="https://cirospat.readthedocs.io/it/latest/piano_triennale_informatica_comune_palermo_2020-2022_delibera_GC_149_29-06-2020.html" target="_blank">Piano triennale comunale per l'Informatica 2020-2022</a>
 
