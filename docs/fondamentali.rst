@@ -1011,5 +1011,5 @@ Dal \ |LINK95|\ , queste le misure per accelerare la digitalizzazione della PA.
 
 .. |LINK95| raw:: html
 
-    <a href="https://innovazione.gov.it/misure-su-innovazione-digitale-nel-decreto-semplificazioni/" target="_blank">sito del Ministero Innovazione Tecnologica e Digitalizzazione</a>
+    <a href="https://innovazione.gov.it/gazzetta-ufficiale-misure-su-innovazione-digitale-nel-decreto-semplificazioni/" target="_blank">sito del Ministero Innovazione Tecnologica e Digitalizzazione</a>
 
