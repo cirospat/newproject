@@ -561,7 +561,19 @@ Dal \ |LINK95|\ , queste le misure per accelerare la digitalizzazione della PA.
 
 * I dati dei concessionari pubblici alla PA
 
-* Diritto a innovare.
+* Diritto a innovare
+
+* Piattaforma digitale per notifica atti della PA
+
+* Un unico permesso di circolazione su tutto il territorio nazionale per la mobilità delle persone con disabilità
+
+* Arrivano esperti nelle amministrazioni per guidare i processi di trasformazione digitale
+
+* Regole di condotta tecnologica per le amministrazioni
+
+* Banda ultra larga (per agevolare il posizionamento della fibra il decreto estende l’utilizzo della cosiddetta “microtrincea”)
+
+* 5G (I sindaci non potranno introdurre limitazioni alla localizzazione sul proprio territorio di stazioni radio base per reti di comunicazioni elettroniche di qualunque tipologia e non potranno fissare limiti di esposizione a campi elettrici, magnetici ed elettromagnetici diversi rispetto a quelli stabiliti dallo Stato).
 
 --------
 
