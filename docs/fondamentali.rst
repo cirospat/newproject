@@ -567,7 +567,7 @@ Dal \ |LINK95|\ , queste le misure per accelerare la digitalizzazione della PA.
 
 * Un unico permesso di circolazione su tutto il territorio nazionale per la mobilità delle persone con disabilità
 
-* Arrivano esperti nelle amministrazioni per guidare i processi di trasformazione digitale
+* Arrivano esperti nelle amministrazioni per guidare i processi di trasformazione digitale (... le pubbliche amministrazioni possono assumere temporaneamente esperti, dotati di esperienza e qualificazione professionale nello sviluppo e nella gestione di processi complessi di trasformazione digitale)
 
 * Regole di condotta tecnologica per le amministrazioni
 
