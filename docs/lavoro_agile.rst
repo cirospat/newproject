@@ -6,6 +6,9 @@ Lavoro Agile - Smart Working
 
 In questa sezione vengono illustrate le norme emanate in occasione dell'emergenza \ |STYLE0|\  del marzo 2020 e le azioni poste in essere per realizzare il "\ |STYLE1|\ " al Comune di Palermo.
 
+
+|REPLACE1|
+
 |
 
 .. _h2465c4a8ef3858e44a6491b57:
@@ -183,6 +186,10 @@ Le attività del comune di Palermo
 
 .. |STYLE30| replace:: **Direttiva del Segretario Generale del 12 marzo 2020**
 
+
+.. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="2000px" frameBorder="0" src="https://sites.google.com/comune.palermo.it/lavoroagile/normativa-nazionale-lavoro-agile"></iframe>
 
 .. |LINK1| raw:: html
 
