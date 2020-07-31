@@ -621,6 +621,8 @@ Decreto di adozione della "Strategia Nazionale per le Competenze Digitali" del M
 
 \ |LINK123|\  (31 luglio 2020).
 
+\ |LINK124|\ .
+
 Quattro sono gli assi di intervento della Strategia:
 
 * \ |STYLE11|\  - per lo sviluppo delle competenze digitali all’interno dei cicli d’istruzione per i giovani, con il coordinamento del Ministero dell’Istruzione e del Ministero dell’Università e della Ricerca.
@@ -1202,4 +1204,8 @@ Quattro sono gli assi di intervento della Strategia:
 .. |LINK123| raw:: html
 
     <a href="https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/" target="_blank">L’Italia ha la sua Strategia Nazionale per le Competenze Digitali</a>
+
+.. |LINK124| raw:: html
+
+    <a href="https://innovazione.gov.it/assets/docs/DTD-1277-A-ALL1.pdf" target="_blank">Link al documento del decreto</a>
 
