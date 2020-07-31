@@ -537,7 +537,7 @@ Da AGID le \ |LINK92|\ . L’indice, istituito dall’\ |LINK93|\ , contiene i d
 Innovazione digitale nella PA dal Decreto Legge sulle Semplificazioni (luglio 2020)
 ***********************************************************************************
 
-Dal \ |LINK95|\ , queste le misure per accelerare la digitalizzazione della PA.
+Dal \ |LINK95|\ , queste le misure rilevanti per accelerare la digitalizzazione della PA.
 
 * Solo SPID o Carte d’identità elettronica per accedere a tutti i servizi pubblici online, entro il 28 febbraio 2021 per tutti gli Enti pubblici. Rimane fermo l'utilizzo delle credenziali già rilasciate dalle PA fino alla loro naturale scadenza e, comunque, non oltre il 30 settembre 2021 (\ |LINK96|\ )
 
@@ -573,9 +573,42 @@ Dal \ |LINK95|\ , queste le misure per accelerare la digitalizzazione della PA.
 
 * Banda ultra larga (per agevolare il posizionamento della fibra il decreto estende l’utilizzo della cosiddetta “microtrincea”)
 
-* 5G (I sindaci non potranno introdurre limitazioni alla localizzazione sul proprio territorio di stazioni radio base per reti di comunicazioni elettroniche di qualunque tipologia e non potranno fissare limiti di esposizione a campi elettrici, magnetici ed elettromagnetici diversi rispetto a quelli stabiliti dallo Stato).
+* 5G (I sindaci non potranno introdurre limitazioni alla localizzazione sul proprio territorio di stazioni radio base per reti di comunicazioni elettroniche di qualunque tipologia e non potranno fissare limiti di esposizione a campi elettrici, magnetici ed elettromagnetici diversi rispetto a quelli stabiliti dallo Stato) (\ |LINK105|\ )
 
-Vedi anche il \ |LINK105|\ .
+
+..  Important:: 
+
+    Vedi anche il \ |LINK106|\  nei seguenti articoli:
+    
+    * \ |LINK107|\ 
+    
+    * \ |LINK108|\ 
+    
+    * \ |LINK109|\ 
+    
+    * \ |LINK110|\ 
+    
+    * \ |LINK111|\ 
+    
+    * \ |LINK112|\ 
+    
+    * \ |LINK113|\ 
+    
+    * \ |LINK114|\ 
+    
+    * \ |LINK115|\ 
+    
+    * \ |LINK116|\ 
+    
+    * \ |LINK117|\ 
+    
+    * \ |LINK118|\ 
+    
+    * \ |LINK119|\ 
+    
+    * \ |LINK120|\ 
+    
+    * \ |LINK121|\ 
 
 --------
 
@@ -1065,5 +1098,69 @@ Vedi anche il \ |LINK105|\ .
 
 .. |LINK105| raw:: html
 
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395229" target="_blank">art.38</a>
+
+.. |LINK106| raw:: html
+
     <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm" target="_blank">Dossier di documentazione del D.L. 76/2020 della Camera dei Deputati</a>
+
+.. |LINK107| raw:: html
+
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395215" target="_blank">Articolo 24 (Identità digitale, domicilio digitale, accesso ai servizi digitali)</a>
+
+.. |LINK108| raw:: html
+
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395216" target="_blank">Articolo 25 (Conservazione dei documenti informatici e gestione dell'identità digitale)</a>
+
+.. |LINK109| raw:: html
+
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395217" target="_blank">Articolo 26 (Piattaforma per la notificazione digitale degli atti della pubblica amministrazione)</a>
+
+.. |LINK110| raw:: html
+
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395218" target="_blank">Articolo 27 (Misure per la semplificazione e la diffusione della firma elettronica  avanzata  e dell’identità digitale per l’accesso ai servizi bancari)</a>
+
+.. |LINK111| raw:: html
+
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395219" target="_blank">Articolo 28 (Semplificazione della notificazione e comunicazione telematica degli atti in materia civile, penale, amministrativa, contabile e stragiudiziale)</a>
+
+.. |LINK112| raw:: html
+
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395220" target="_blank">Articolo 29 (Disposizioni per favorire l'accesso dei soggetti disabili agli strumenti informatici e piattaforma unica nazionale informatica di targhe associate a permessi di circolazione dei titolari di contrassegni)</a>
+
+.. |LINK113| raw:: html
+
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395221" target="_blank">Articolo 30 (Misure di semplificazione in materia anagrafica)</a>
+
+.. |LINK114| raw:: html
+
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395222" target="_blank">Articolo 31 (Sistemi informativi delle pubbliche amministrazioni e lavoro agile; sull'Agenzia per l'Italia digitale; sul difensore civico digitale; obblighi di comunicazione in caso di affidamento di forniture ricadenti nel perimetro di sicurezza nazionale cibernetica; istituzione di una nuova direzione centrale presso il Ministero dell'interno; su una funzione di SOGEI)</a>
+
+.. |LINK115| raw:: html
+
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395223" target="_blank">Articolo 32 (Codice di condotta tecnologica; esperti)</a>
+
+.. |LINK116| raw:: html
+
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395224" target="_blank">Articolo 33 (Disponibilità e interoperabilità dei dati  delle pubbliche amministrazioni e dei concessionari di servizi pubblici)</a>
+
+.. |LINK117| raw:: html
+
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395225" target="_blank">Articolo 34 (Piattaforma digitale nazionale dati)</a>
+
+.. |LINK118| raw:: html
+
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395226" target="_blank">Articolo 35  (In materia di CED delle pubbliche amministrazioni)</a>
+
+.. |LINK119| raw:: html
+
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395227" target="_blank">Articolo 36 (Misure di semplificazione amministrativa per l'innovazione)</a>
+
+.. |LINK120| raw:: html
+
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395228" target="_blank">Articolo 37 (Disposizioni per favorire l’utilizzo della posta elettronica certificata nei rapporti tra Amministrazione, imprese e professionisti)</a>
+
+.. |LINK121| raw:: html
+
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395229" target="_blank">Articolo 38 (Misure di semplificazione per reti e servizi di comunicazioni elettroniche)</a>
 
