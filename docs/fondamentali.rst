@@ -532,10 +532,10 @@ Da AGID le \ |LINK92|\ . L’indice, istituito dall’\ |LINK93|\ , contiene i d
 
 --------
 
-.. _h19860a6f70b64501a441477565a3:
+.. _h191a302b231457503a446957701b6530:
 
-Innovazione digitale nella PA dal Decreto Legge sulle Semplificazioni (luglio 2020)
-***********************************************************************************
+Innovazione digitale nella PA dal Decreto Legge 76/2020 sulle Semplificazioni (luglio 2020)
+*******************************************************************************************
 
 Dal \ |LINK95|\ , queste le misure rilevanti per accelerare la digitalizzazione della PA.
 
@@ -609,6 +609,8 @@ Dal \ |LINK95|\ , queste le misure rilevanti per accelerare la digitalizzazione 
     * \ |LINK120|\ 
     
     * \ |LINK121|\ 
+
+Un utile e interessante dossier della Camera dei Deputati del 24 luglio 2020 sulla \ |LINK122|\  alla luce del DL 76/2020.
 
 --------
 
@@ -1163,4 +1165,8 @@ Dal \ |LINK95|\ , queste le misure rilevanti per accelerare la digitalizzazione 
 .. |LINK121| raw:: html
 
     <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395229" target="_blank">Articolo 38 (Misure di semplificazione per reti e servizi di comunicazioni elettroniche)</a>
+
+.. |LINK122| raw:: html
+
+    <a href="https://www.camera.it/temiap/documentazione/temi/pdf/1104999.pdf" target="_blank">trasformazione digitale della pubblica amministrazione</a>
 
