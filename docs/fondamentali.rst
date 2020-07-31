@@ -614,6 +614,25 @@ Un utile e interessante dossier della Camera dei Deputati del 24 luglio 2020 sul
 
 --------
 
+.. _h1ab7c53297a614175127d4562f1554:
+
+Decreto di adozione della "Strategia Nazionale per le Competenze Digitali" del Ministero per l’innovazione tecnologica e la digitalizzazione.
+*********************************************************************************************************************************************
+
+\ |LINK123|\  (31 luglio 2020).
+
+Quattro sono gli assi di intervento della Strategia:
+
+* \ |STYLE11|\  - per lo sviluppo delle competenze digitali all’interno dei cicli d’istruzione per i giovani, con il coordinamento del Ministero dell’Istruzione e del Ministero dell’Università e della Ricerca.
+
+* \ |STYLE12|\  - per garantire \ |STYLE13|\ , incluse le competenze per l’e-leadership, con il coordinamento del Ministero dello Sviluppo Economico e del Ministro per la Pubblica Amministrazione.
+
+* \ |STYLE14|\  - per potenziare la capacità del Paese di sviluppare competenze per nuovi mercati e nuove possibilità di occupazione, in gran parte legate alle tecnologie emergenti e al possesso delle competenze indispensabili per i lavori del futuro, con il coordinamento del Ministero dell’Università e Ricerca e del Ministero dello Sviluppo Economico.
+
+* \ |STYLE15|\  - per sviluppare le competenze digitali necessarie a esercitare i diritti di cittadinanza e la partecipazione consapevole alla vita democratica, con il coordinamento del Ministro per l’Innovazione tecnologica e la Digitalizzazione (MID).
+
+--------
+
 
 |REPLACE3|
 
@@ -647,6 +666,16 @@ Un utile e interessante dossier della Camera dei Deputati del 24 luglio 2020 sul
 .. |STYLE9| replace:: *(Adriano Avenia, AGID).*
 
 .. |STYLE10| replace:: *A queste linee guida dovranno riferirsi gli enti pubblici per la redazione/aggiornamento dei manuali di formazione, gestione e conservazione del documento informatico*
+
+.. |STYLE11| replace:: **Istruzione e Formazione Superiore**
+
+.. |STYLE12| replace:: **Forza lavoro attiva**
+
+.. |STYLE13| replace:: **competenze digitali adeguate sia nel settore privato che nel settore pubblico**
+
+.. |STYLE14| replace:: **Competenze specialistiche ICT**
+
+.. |STYLE15| replace:: **Cittadini**
 
 
 .. |REPLACE1| raw:: html
@@ -1169,4 +1198,8 @@ Un utile e interessante dossier della Camera dei Deputati del 24 luglio 2020 sul
 .. |LINK122| raw:: html
 
     <a href="https://www.camera.it/temiap/documentazione/temi/pdf/1104999.pdf" target="_blank">trasformazione digitale della pubblica amministrazione</a>
+
+.. |LINK123| raw:: html
+
+    <a href="https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/" target="_blank">L’Italia ha la sua Strategia Nazionale per le Competenze Digitali</a>
 
