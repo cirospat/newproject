@@ -1663,6 +1663,12 @@ In sintesi la situazione attuale:
 
 * Incremento dell’utilizzo di internet, con particolare riferimento ad alcune attività essenziali (inclusi i servizi di eGovernment) e alle categorie svantaggiate
 
+
++----------------------------------------------------------------------------------------------------------------------------------------+
+|A breve (entro la fine del 2020) si è in attesa del Piano Operativo per le competenze digitali, da parte del Ministero dell'innovazione.|
++----------------------------------------------------------------------------------------------------------------------------------------+
+
+
 .. bottom of content
 
 
