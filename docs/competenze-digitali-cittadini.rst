@@ -1645,17 +1645,17 @@ In sintesi la situazione attuale:
 
 \ |STYLE59|\ 
 
-#. Percorsi formativi all’interno delle Istituzioni Scolastiche 
+#. \ |STYLE60|\  (in sinergia con le scuole che si aprono al territorio e potenziano le iniziative di alfabetizzazione digitale, in particolare all’interno delle attività per l’educazione permanente dei CPIA)
 
-#. Percorsi formativi nel circuito educativo non formale 
+#. \ |STYLE61|\  (basati sulla valorizzazione del lifelong learning, con piattaforme di apprendimento online che accompagnino la crescita del livello di competenza)
 
-#. Percorso “della strada” - Formazione di competenze sul territorio 
+#. \ |STYLE62|\  (basata sul ruolo dei quartieri, delle comunità locali e degli spazi pubblici, come le biblioteche, per creare reti di punti di accesso assistiti e presídi di facilitazione digitale, in maniera pervasiva, lì dove è possibile supportare l’accesso alla rete e ai servizi digitali pubblici)
 
-#. Percorsi di comunicazione 
+#. \ |STYLE63|\  (basati sulla convinzione che i processi di alfabetizzazione e di sensibilizzazione necessitino di un’attività di comunicazione continua, anche con supporto sistematico dei mass-media, di carattere strettamente funzionale all’obiettivo e non meramente promozionale)
 
-#. Percorso dell’inclusione digitale
+#. \ |STYLE64|\  (con una serie di misure dedicate a gruppi sociali svantaggiati quali anziani, persone con un bassa istruzione o basso reddito, persone con disabilità, anche tramite gli strumenti di ampia diffusione e semplice fruizione come quelli radiofonici e televisivi e interventi specifici di facilitazione digitale)
 
-\ |STYLE60|\ 
+\ |STYLE65|\ 
 
 * Aumento dei cittadini e della popolazione attiva con competenze digitali almeno di base
 
@@ -1792,7 +1792,17 @@ In sintesi la situazione attuale:
 
 .. |STYLE59| replace:: **LINEE DI INTERVENTO**
 
-.. |STYLE60| replace:: **IMPATTO**
+.. |STYLE60| replace:: **Percorsi formativi all’interno delle Istituzioni Scolastiche**
+
+.. |STYLE61| replace:: **Percorsi formativi nel circuito educativo non formale**
+
+.. |STYLE62| replace:: **Percorso “della strada” - Formazione di competenze sul territorio**
+
+.. |STYLE63| replace:: **Percorsi di comunicazione**
+
+.. |STYLE64| replace:: **Percorso dell’inclusione digitale**
+
+.. |STYLE65| replace:: **IMPATTO**
 
 
 .. |REPLACE1| raw:: html
