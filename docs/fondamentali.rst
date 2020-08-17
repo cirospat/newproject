@@ -440,10 +440,10 @@ Documenti di Riferimento per la sicurezza nel procurement ICT:
 
 --------
 
-.. _h5926215c436647565937122943611f4a:
+.. _h406e4131b262c105651d19535c472e:
 
-Il modello Cloud della PA: come acquisire servizi cloud qualificati
-*******************************************************************
+Il modello Cloud della PA: come acquisire servizi cloud qualificati. Manuale di abilitazione al cloud.
+******************************************************************************************************
 
 
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -458,6 +458,8 @@ Il modello Cloud della PA: come acquisire servizi cloud qualificati
 
 \ |LINK81|\ . 
 
+\ |LINK82|\  per accompagnare le pubbliche amministrazioni nell’intero percorso che va dall’identificazione degli applicativi da migrare fino alla valutazione degli indicatori di risultato a migrazione avvenuta. 
+
 --------
 
 .. _h28535a132e16623520616917176c6939:
@@ -465,11 +467,11 @@ Il modello Cloud della PA: come acquisire servizi cloud qualificati
 Competenze digitali per la PA
 *****************************
 
-Iniziativa promossa dal Dipartimento della funzione pubblica nell’ambito del \ |LINK82|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione.
+Iniziativa promossa dal Dipartimento della funzione pubblica nell’ambito del \ |LINK83|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione.
 
 Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi.
 
-\ |LINK83|\ .
+\ |LINK84|\ .
 
 --------
 
@@ -478,9 +480,9 @@ Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente d
 Linee Guida sulla formazione, gestione e conservazione dei documenti informatici
 ********************************************************************************
 
-\ |LINK84|\  (dal sito AGID). 
+\ |LINK85|\  (dal sito AGID). 
 
-Le \ |LINK85|\  (su Docs Italia) sono emanate secondo la procedura prevista dall’art. 71 “\ |LINK86|\ ” del Codice dell’Amministrazione digitale (CAD) e hanno il duplice scopo di:
+Le \ |LINK86|\  (su Docs Italia) sono emanate secondo la procedura prevista dall’art. 71 “\ |LINK87|\ ” del Codice dell’Amministrazione digitale (CAD) e hanno il duplice scopo di:
 
 #. aggiornare le regole tecniche attualmente in vigore sulla formazione, protocollazione, gestione e conservazione dei documenti informatici precedentemente regolate nei DPCM del 2013 e 2014;
 
@@ -497,11 +499,11 @@ Regole Tecniche per la sottoscrizione elettronica di documenti ai sensi dell’a
 
 Regolano le modalità atte a garantire la sicurezza, integrità e immodificabilità del documento e, in maniera manifesta e inequivoca, la sua riconducibilità all’autore.
 
-\ |LINK87|\ 
-
 \ |LINK88|\ 
 
 \ |LINK89|\ 
+
+\ |LINK90|\ 
 
 --------
 
@@ -510,7 +512,7 @@ Regolano le modalità atte a garantire la sicurezza, integrità e immodificabili
 Linee Guida per l’identificazione degli utenti da parte delle PA (AGID)
 ***********************************************************************
 
-\ |LINK90|\   -  \ |LINK91|\ 
+\ |LINK91|\   -  \ |LINK92|\ 
 
 --------
 
@@ -519,7 +521,7 @@ Linee Guida per l’identificazione degli utenti da parte delle PA (AGID)
 Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 ********************************************************************************
 
-\ |LINK92|\  include un ampio excursus relativo all’evoluzione dell’informatica pubblica nella direzione di un progresso verso il Digital Government, un'analisi incentrata principalmente su tre cardini: il CAD, ovvero il Codice dell’Amministrazione  Digitale,  l’Agenda  Digitale italiana  e  il  Piano  Triennale  per l’informatica.
+\ |LINK93|\  include un ampio excursus relativo all’evoluzione dell’informatica pubblica nella direzione di un progresso verso il Digital Government, un'analisi incentrata principalmente su tre cardini: il CAD, ovvero il Codice dell’Amministrazione  Digitale,  l’Agenda  Digitale italiana  e  il  Piano  Triennale  per l’informatica.
 
 --------
 
@@ -528,9 +530,9 @@ Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 Linee Guida sull'indice nazionale dei domicili digitali delle persone fisiche e degli altri enti di diritto privato non tenuti all’iscrizione in albi professionali o nel Registro Imprese
 ******************************************************************************************************************************************************************************************
 
-Da AGID le \ |LINK93|\ . L’indice, istituito dall’\ |LINK94|\ , contiene i domicili digitali delle persone fisiche e degli altri enti di diritto privato non tenuti all’iscrizione in albi professionali o nel registro delle imprese.
+Da AGID le \ |LINK94|\ . L’indice, istituito dall’\ |LINK95|\ , contiene i domicili digitali delle persone fisiche e degli altri enti di diritto privato non tenuti all’iscrizione in albi professionali o nel registro delle imprese.
 
-\ |LINK95|\ . Le Linee Guida sono in consultazione pubblica fino al 10 luglio 2020.
+\ |LINK96|\ . Le Linee Guida sono in consultazione pubblica fino al 10 luglio 2020.
 
 --------
 
@@ -539,29 +541,29 @@ Da AGID le \ |LINK93|\ . L’indice, istituito dall’\ |LINK94|\ , contiene i d
 Innovazione digitale nella PA dal Decreto Legge 76/2020 sulle Semplificazioni (luglio 2020)
 *******************************************************************************************
 
-Dal \ |LINK96|\ , queste le misure rilevanti per accelerare la digitalizzazione della PA.
+Dal \ |LINK97|\ , queste le misure rilevanti per accelerare la digitalizzazione della PA.
 
-* Solo SPID o Carte d’identità elettronica per accedere a tutti i servizi pubblici online, entro il 28 febbraio 2021 per tutti gli Enti pubblici. Rimane fermo l'utilizzo delle credenziali già rilasciate dalle PA fino alla loro naturale scadenza e, comunque, non oltre il 30 settembre 2021 (\ |LINK97|\ )
+* Solo SPID o Carte d’identità elettronica per accedere a tutti i servizi pubblici online, entro il 28 febbraio 2021 per tutti gli Enti pubblici. Rimane fermo l'utilizzo delle credenziali già rilasciate dalle PA fino alla loro naturale scadenza e, comunque, non oltre il 30 settembre 2021 (\ |LINK98|\ )
 
-* L’app IO sarà l’unico canale per accedere dallo smartphone ai servizi pubblici resi in digitale (\ |LINK98|\ )
+* L’app IO sarà l’unico canale per accedere dallo smartphone ai servizi pubblici resi in digitale (\ |LINK99|\ )
 
-* SPID e Carta d'identità elettronica (CIE) equivalgono all’esibizione di un documento di identità (\ |LINK99|\ )
+* SPID e Carta d'identità elettronica (CIE) equivalgono all’esibizione di un documento di identità (\ |LINK100|\ )
 
-* IO come strumento di autocertificazione e presentazione istanze (\ |LINK100|\ )
+* IO come strumento di autocertificazione e presentazione istanze (\ |LINK101|\ )
 
-* Semplificazione per il rilascio della Carta d’identità elettronica (anche prima della scadenza di quella cartacea) (\ |LINK101|\ )
+* Semplificazione per il rilascio della Carta d’identità elettronica (anche prima della scadenza di quella cartacea) (\ |LINK102|\ )
 
 * Lavoro agile nella Pubblica Amministrazione (applicativi tali da permettere il lavoro del personale da remoto)
 
-* Interventi per favorire l’accesso delle persone disabili agli strumenti informatici (\ |LINK102|\ )
+* Interventi per favorire l’accesso delle persone disabili agli strumenti informatici (\ |LINK103|\ )
 
 * La Pubblica Amministrazione e i cittadini comunicano online (modalità prioritaria)
 
-* Semplificazione per la piattaforma digitale nazionale dati (\ |LINK103|\ )
+* Semplificazione per la piattaforma digitale nazionale dati (\ |LINK104|\ )
 
 * Verso il cloud nazionale
 
-* I dati dei concessionari pubblici alla PA (\ |LINK104|\ )
+* I dati dei concessionari pubblici alla PA (\ |LINK105|\ )
 
 * Diritto a innovare
 
@@ -571,18 +573,16 @@ Dal \ |LINK96|\ , queste le misure rilevanti per accelerare la digitalizzazione 
 
 * Arrivano esperti nelle amministrazioni per guidare i processi di trasformazione digitale (... le pubbliche amministrazioni possono assumere temporaneamente esperti, dotati di esperienza e qualificazione professionale nello sviluppo e nella gestione di processi complessi di trasformazione digitale) 
 
-* Regole di condotta tecnologica per le amministrazioni (\ |LINK105|\ )
+* Regole di condotta tecnologica per le amministrazioni (\ |LINK106|\ )
 
 * Banda ultra larga (per agevolare il posizionamento della fibra il decreto estende l’utilizzo della cosiddetta “microtrincea”)
 
-* 5G (I sindaci non potranno introdurre limitazioni alla localizzazione sul proprio territorio di stazioni radio base per reti di comunicazioni elettroniche di qualunque tipologia e non potranno fissare limiti di esposizione a campi elettrici, magnetici ed elettromagnetici diversi rispetto a quelli stabiliti dallo Stato) (\ |LINK106|\ )
+* 5G (I sindaci non potranno introdurre limitazioni alla localizzazione sul proprio territorio di stazioni radio base per reti di comunicazioni elettroniche di qualunque tipologia e non potranno fissare limiti di esposizione a campi elettrici, magnetici ed elettromagnetici diversi rispetto a quelli stabiliti dallo Stato) (\ |LINK107|\ )
 
 
 ..  Important:: 
 
-    Vedi anche il \ |LINK107|\  nei seguenti articoli:
-    
-    * \ |LINK108|\ 
+    Vedi anche il \ |LINK108|\  nei seguenti articoli:
     
     * \ |LINK109|\ 
     
@@ -611,8 +611,10 @@ Dal \ |LINK96|\ , queste le misure rilevanti per accelerare la digitalizzazione 
     * \ |LINK121|\ 
     
     * \ |LINK122|\ 
+    
+    * \ |LINK123|\ 
 
-Un utile e interessante dossier della Camera dei Deputati del 24 luglio 2020 sulla \ |LINK123|\  alla luce del DL 76/2020.
+Un utile e interessante dossier della Camera dei Deputati del 24 luglio 2020 sulla \ |LINK124|\  alla luce del DL 76/2020.
 
 --------
 
@@ -621,9 +623,9 @@ Un utile e interessante dossier della Camera dei Deputati del 24 luglio 2020 sul
 Decreto di adozione della "Strategia Nazionale per le Competenze Digitali" del Ministero per l’innovazione tecnologica e la digitalizzazione.
 *********************************************************************************************************************************************
 
-\ |LINK124|\  (31 luglio 2020).
+\ |LINK125|\  (31 luglio 2020).
 
-\ |LINK125|\ .
+\ |LINK126|\ .
 
 Quattro sono gli assi di intervento della Strategia:
 
@@ -1041,67 +1043,67 @@ Quattro sono gli assi di intervento della Strategia:
 
 .. |LINK82| raw:: html
 
-    <a href="http://www.pongovernance1420.gov.it/" target="_blank">Programma Operativo Nazionale “Governance e Capacità Istituzionale 2014-2020"</a>
+    <a href="https://docs.italia.it/italia/manuale-di-abilitazione-al-cloud/manuale-di-abilitazione-al-cloud-docs/it/bozza/index.html" target="_blank">Manuale di abilitazione al cloud</a>
 
 .. |LINK83| raw:: html
 
-    <a href="http://www.competenzedigitali.gov.it" target="_blank">Link alla piattaforma online per le "competenze digitali" a cura della Funzione Pubblica</a>
+    <a href="http://www.pongovernance1420.gov.it/" target="_blank">Programma Operativo Nazionale “Governance e Capacità Istituzionale 2014-2020"</a>
 
 .. |LINK84| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/10/17/consultazione-linee-guida-sulla-formazione-gestione-conservazione-documenti" target="_blank">Strumento essenziale per la digitalizzazione delle pratiche amministrative</a>
+    <a href="http://www.competenzedigitali.gov.it" target="_blank">Link alla piattaforma online per le "competenze digitali" a cura della Funzione Pubblica</a>
 
 .. |LINK85| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs" target="_blank">Linee Guida</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/10/17/consultazione-linee-guida-sulla-formazione-gestione-conservazione-documenti" target="_blank">Strumento essenziale per la digitalizzazione delle pratiche amministrative</a>
 
 .. |LINK86| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo7_art71.html" target="_blank">Regole tecniche</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs" target="_blank">Linee Guida</a>
 
 .. |LINK87| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-spid-firma-docs/it/stabile/" target="_blank">Regole Tecniche circa la sottoscrizione elettronica di documenti tramite SPID</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo7_art71.html" target="_blank">Regole tecniche</a>
 
 .. |LINK88| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_122208_725_1.html" target="_blank">Determinazione n.157/2020 del 23 marzo 2020 dell'AGID - Emanazione delle Linee Guida per la sottoscrizione elettronica di documenti ai sensi dell’art. 20 del CAD</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-spid-firma-docs/it/stabile/" target="_blank">Regole Tecniche circa la sottoscrizione elettronica di documenti tramite SPID</a>
 
 .. |LINK89| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/03/26/spid-emanate-linee-guida-firmare-i-documenti-online" target="_blank">Grazie alle Linee Guida, la firma con Spid avrà lo stesso valore giuridico di quella autografa, consentendo ai cittadini di sottoscrivere atti e contratti. Uno strumento che si va ad aggiungere alla firma elettronica qualificata favorendo il processo di dematerializzazione dei documenti</a>
+    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_122208_725_1.html" target="_blank">Determinazione n.157/2020 del 23 marzo 2020 dell'AGID - Emanazione delle Linee Guida per la sottoscrizione elettronica di documenti ai sensi dell’art. 20 del CAD</a>
 
 .. |LINK90| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/index.php?id_oggetto=28&id_doc=122120&id_sez_ori=0&template_ori=1" target="_blank">Linee Guida</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/03/26/spid-emanate-linee-guida-firmare-i-documenti-online" target="_blank">Grazie alle Linee Guida, la firma con Spid avrà lo stesso valore giuridico di quella autografa, consentendo ai cittadini di sottoscrivere atti e contratti. Uno strumento che si va ad aggiungere alla firma elettronica qualificata favorendo il processo di dematerializzazione dei documenti</a>
 
 .. |LINK91| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/11/25/spid-emanate-linee-guida-lidentificazione-degli-utenti-parte-pa" target="_blank">Comunicato stampa</a>
+    <a href="https://trasparenza.agid.gov.it/index.php?id_oggetto=28&id_doc=122120&id_sez_ori=0&template_ori=1" target="_blank">Linee Guida</a>
 
 .. |LINK92| raw:: html
 
-    <a href="https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=01147fe7-0659-4be4-80c7-a226c3dbb98f" target="_blank">Il documento</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/11/25/spid-emanate-linee-guida-lidentificazione-degli-utenti-parte-pa" target="_blank">Comunicato stampa</a>
 
 .. |LINK93| raw:: html
 
-    <a href="https://docs.italia.it/AgID/domicilio-digitale/lg-domiciliodigitalecittadino-docs/it/stabile/index.html.#" target="_blank">Linee Guida Indice nazionale dei domicili digitali delle persone fisiche</a>
+    <a href="https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=01147fe7-0659-4be4-80c7-a226c3dbb98f" target="_blank">Il documento</a>
 
 .. |LINK94| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/_rst/capo1_sezione2_art6-quater.html" target="_blank">art. 6-quater del CAD</a>
+    <a href="https://docs.italia.it/AgID/domicilio-digitale/lg-domiciliodigitalecittadino-docs/it/stabile/index.html.#" target="_blank">Linee Guida Indice nazionale dei domicili digitali delle persone fisiche</a>
 
 .. |LINK95| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/06/08/indice-domicili-digitali-persone-fisiche-degli-altri-enti-diritto-privato" target="_blank">Comunicato dell'AGID</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/_rst/capo1_sezione2_art6-quater.html" target="_blank">art. 6-quater del CAD</a>
 
 .. |LINK96| raw:: html
 
-    <a href="https://innovazione.gov.it/gazzetta-ufficiale-misure-su-innovazione-digitale-nel-decreto-semplificazioni/" target="_blank">sito del Ministero Innovazione Tecnologica e Digitalizzazione</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/06/08/indice-domicili-digitali-persone-fisiche-degli-altri-enti-diritto-privato" target="_blank">Comunicato dell'AGID</a>
 
 .. |LINK97| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395215" target="_blank">art.24</a>
+    <a href="https://innovazione.gov.it/gazzetta-ufficiale-misure-su-innovazione-digitale-nel-decreto-semplificazioni/" target="_blank">sito del Ministero Innovazione Tecnologica e Digitalizzazione</a>
 
 .. |LINK98| raw:: html
 
@@ -1121,97 +1123,101 @@ Quattro sono gli assi di intervento della Strategia:
 
 .. |LINK102| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395220" target="_blank">art.29</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395215" target="_blank">art.24</a>
 
 .. |LINK103| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395225" target="_blank">art.34</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395220" target="_blank">art.29</a>
 
 .. |LINK104| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395224" target="_blank">art.33</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395225" target="_blank">art.34</a>
 
 .. |LINK105| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395223" target="_blank">art.32</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395224" target="_blank">art.33</a>
 
 .. |LINK106| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395229" target="_blank">art.38</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395223" target="_blank">art.32</a>
 
 .. |LINK107| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm" target="_blank">Dossier di documentazione del D.L. 76/2020 della Camera dei Deputati</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395229" target="_blank">art.38</a>
 
 .. |LINK108| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395215" target="_blank">Articolo 24 (Identità digitale, domicilio digitale, accesso ai servizi digitali)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm" target="_blank">Dossier di documentazione del D.L. 76/2020 della Camera dei Deputati</a>
 
 .. |LINK109| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395216" target="_blank">Articolo 25 (Conservazione dei documenti informatici e gestione dell'identità digitale)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395215" target="_blank">Articolo 24 (Identità digitale, domicilio digitale, accesso ai servizi digitali)</a>
 
 .. |LINK110| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395217" target="_blank">Articolo 26 (Piattaforma per la notificazione digitale degli atti della pubblica amministrazione)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395216" target="_blank">Articolo 25 (Conservazione dei documenti informatici e gestione dell'identità digitale)</a>
 
 .. |LINK111| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395218" target="_blank">Articolo 27 (Misure per la semplificazione e la diffusione della firma elettronica  avanzata  e dell’identità digitale per l’accesso ai servizi bancari)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395217" target="_blank">Articolo 26 (Piattaforma per la notificazione digitale degli atti della pubblica amministrazione)</a>
 
 .. |LINK112| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395219" target="_blank">Articolo 28 (Semplificazione della notificazione e comunicazione telematica degli atti in materia civile, penale, amministrativa, contabile e stragiudiziale)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395218" target="_blank">Articolo 27 (Misure per la semplificazione e la diffusione della firma elettronica  avanzata  e dell’identità digitale per l’accesso ai servizi bancari)</a>
 
 .. |LINK113| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395220" target="_blank">Articolo 29 (Disposizioni per favorire l'accesso dei soggetti disabili agli strumenti informatici e piattaforma unica nazionale informatica di targhe associate a permessi di circolazione dei titolari di contrassegni)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395219" target="_blank">Articolo 28 (Semplificazione della notificazione e comunicazione telematica degli atti in materia civile, penale, amministrativa, contabile e stragiudiziale)</a>
 
 .. |LINK114| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395221" target="_blank">Articolo 30 (Misure di semplificazione in materia anagrafica)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395220" target="_blank">Articolo 29 (Disposizioni per favorire l'accesso dei soggetti disabili agli strumenti informatici e piattaforma unica nazionale informatica di targhe associate a permessi di circolazione dei titolari di contrassegni)</a>
 
 .. |LINK115| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395222" target="_blank">Articolo 31 (Sistemi informativi delle pubbliche amministrazioni e lavoro agile; sull'Agenzia per l'Italia digitale; sul difensore civico digitale; obblighi di comunicazione in caso di affidamento di forniture ricadenti nel perimetro di sicurezza nazionale cibernetica; istituzione di una nuova direzione centrale presso il Ministero dell'interno; su una funzione di SOGEI)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395221" target="_blank">Articolo 30 (Misure di semplificazione in materia anagrafica)</a>
 
 .. |LINK116| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395223" target="_blank">Articolo 32 (Codice di condotta tecnologica; esperti)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395222" target="_blank">Articolo 31 (Sistemi informativi delle pubbliche amministrazioni e lavoro agile; sull'Agenzia per l'Italia digitale; sul difensore civico digitale; obblighi di comunicazione in caso di affidamento di forniture ricadenti nel perimetro di sicurezza nazionale cibernetica; istituzione di una nuova direzione centrale presso il Ministero dell'interno; su una funzione di SOGEI)</a>
 
 .. |LINK117| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395224" target="_blank">Articolo 33 (Disponibilità e interoperabilità dei dati  delle pubbliche amministrazioni e dei concessionari di servizi pubblici)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395223" target="_blank">Articolo 32 (Codice di condotta tecnologica; esperti)</a>
 
 .. |LINK118| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395225" target="_blank">Articolo 34 (Piattaforma digitale nazionale dati)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395224" target="_blank">Articolo 33 (Disponibilità e interoperabilità dei dati  delle pubbliche amministrazioni e dei concessionari di servizi pubblici)</a>
 
 .. |LINK119| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395226" target="_blank">Articolo 35  (In materia di CED delle pubbliche amministrazioni)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395225" target="_blank">Articolo 34 (Piattaforma digitale nazionale dati)</a>
 
 .. |LINK120| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395227" target="_blank">Articolo 36 (Misure di semplificazione amministrativa per l'innovazione)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395226" target="_blank">Articolo 35  (In materia di CED delle pubbliche amministrazioni)</a>
 
 .. |LINK121| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395228" target="_blank">Articolo 37 (Disposizioni per favorire l’utilizzo della posta elettronica certificata nei rapporti tra Amministrazione, imprese e professionisti)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395227" target="_blank">Articolo 36 (Misure di semplificazione amministrativa per l'innovazione)</a>
 
 .. |LINK122| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395229" target="_blank">Articolo 38 (Misure di semplificazione per reti e servizi di comunicazioni elettroniche)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395228" target="_blank">Articolo 37 (Disposizioni per favorire l’utilizzo della posta elettronica certificata nei rapporti tra Amministrazione, imprese e professionisti)</a>
 
 .. |LINK123| raw:: html
 
-    <a href="https://www.camera.it/temiap/documentazione/temi/pdf/1104999.pdf" target="_blank">trasformazione digitale della pubblica amministrazione</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395229" target="_blank">Articolo 38 (Misure di semplificazione per reti e servizi di comunicazioni elettroniche)</a>
 
 .. |LINK124| raw:: html
 
-    <a href="https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/" target="_blank">L’Italia ha la sua Strategia Nazionale per le Competenze Digitali</a>
+    <a href="https://www.camera.it/temiap/documentazione/temi/pdf/1104999.pdf" target="_blank">trasformazione digitale della pubblica amministrazione</a>
 
 .. |LINK125| raw:: html
+
+    <a href="https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/" target="_blank">L’Italia ha la sua Strategia Nazionale per le Competenze Digitali</a>
+
+.. |LINK126| raw:: html
 
     <a href="https://innovazione.gov.it/assets/docs/DTD-1277-A-ALL1.pdf" target="_blank">Link al documento del decreto</a>
 
