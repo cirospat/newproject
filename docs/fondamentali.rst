@@ -1161,7 +1161,7 @@ Quattro sono gli assi di intervento della Strategia:
 
 .. |LINK94| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531504230O__OAllegato+5+metadati.pdf" target="_blank">Allegato 5 metadati.pdf</a>
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531504230O__OAllegato+5+metadati.pdf" target="_blank">Allegato 5 metadati</a>
 
 .. |LINK95| raw:: html
 
