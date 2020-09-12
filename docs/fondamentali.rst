@@ -508,30 +508,32 @@ Le \ |LINK86|\  (su Docs Italia) sono emanate secondo la procedura prevista dall
 
 * Allegato: \ |LINK95|\  (10/09/2020 - 369 kb - pdf) 
 
-.. _h4b7c4e3042231d744e264683f293336:
 
-A partire dalla data di applicazione delle "Linee Guida sulla formazione, gestione e conservazione dei documenti informatici", sono abrogati:
-=============================================================================================================================================
-
-* il \ |LINK96|\ , contenente “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici”; 
-
-* il \ |LINK97|\ , contenente “Regole tecniche in materia di sistema di conservazione”.
-
-Per quanto concerne il \ |LINK98|\ , contenente “Regole tecniche per il protocollo informatico”, a partire dalla data di applicazione delle Linee guida \ |STYLE14|\ :
-
-* \ |LINK99|\ \ |STYLE15|\ 
-
-* \ |LINK100|\ \ |STYLE16|\ 
-
-* \ |LINK101|\ \ |STYLE17|\ 
-
-* \ |LINK102|\ \ |STYLE18|\ 
-
-* \ |LINK103|\ \ |STYLE19|\ 
-
-* \ |LINK104|\ \ |STYLE20|\ 
-
-Sempre a far data dalla data di applicazione delle Linee guida, la \ |LINK105|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” \ |STYLE21|\  \ |STYLE22|\  “\ |LINK106|\ ” del presente documento.
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|IMPORTANTE                                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                         |
+|A partire dalla data di applicazione delle "Linee Guida sulla formazione, gestione e conservazione dei documenti informatici", sono abrogati:                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                         |
+|* il \ |LINK96|\ , contenente “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici”;                                                                                                                             |
+|                                                                                                                                                                                                                                                                                                         |
+|* il \ |LINK97|\ , contenente “Regole tecniche in materia di sistema di conservazione”.                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                                                                         |
+|Per quanto concerne il \ |LINK98|\ , contenente “Regole tecniche per il protocollo informatico”, a partire dalla data di applicazione delle Linee guida \ |STYLE14|\ :                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                         |
+|* \ |LINK99|\ \ |STYLE15|\                                                                                                                                                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                         |
+|* \ |LINK100|\ \ |STYLE16|\                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                         |
+|* \ |LINK101|\ \ |STYLE17|\                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                         |
+|* \ |LINK102|\ \ |STYLE18|\                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                         |
+|* \ |LINK103|\ \ |STYLE19|\                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                         |
+|* \ |LINK104|\ \ |STYLE20|\                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                         |
+|Sempre a far data dalla data di applicazione delle Linee guida, la \ |LINK105|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” \ |STYLE21|\  \ |STYLE22|\  “\ |LINK106|\ ” del presente documento.|
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 --------
 
