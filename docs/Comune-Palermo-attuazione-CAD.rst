@@ -306,19 +306,23 @@ Dal marzo 2020, in seguito all'emergenza Covid19, una consistente percentuale de
 
 |
 
-Da aprile 2020 è stato istituito un \ |STYLE50|\  dell'Amministrazione. \ |LINK81|\ .
+Da marzo 2020 i servizi dello Sportello Unico Edilizia Privata possono essere \ |LINK81|\ .
 
 |
 
-Dal Giugno 2020 è possibile \ |STYLE51|\ , oltre che con l'identità digitale SPID, \ |STYLE52|\  \ |LINK82|\ .
+Da aprile 2020 è stato istituito un \ |STYLE50|\  dell'Amministrazione. \ |LINK82|\ .
 
 |
 
-Il 29 giugno 2020 la Giunta Comunale, con Deliberazione n. 149/2020 ha approvato il \ |LINK83|\  in conformità al Codice dell’Amministrazione Digitale, di cui al D.Lgs. 82/2005 e successive modifiche e integrazioni, e al Piano nazionale triennale per l’informatica 2019-2021, pubblicato dall’Agenzia per l’Italia Digitale (AGID).
+Dal Giugno 2020 è possibile \ |STYLE51|\ , oltre che con l'identità digitale SPID, \ |STYLE52|\  \ |LINK83|\ .
 
-L'\ |LINK84|\  è stato presentato il Piano Triennale comunale dell'Informatica a cura dell'Assessore all'Innovazione Petralia Camassa, la Dirigente del Servizio Innovazione dott.ssa Licia Romano e il Direttore Tecnico della SISPI ing. S. Morreale.
+|
 
-A questo \ |LINK85|\  (Ciro Spataro) sul piano con un focus sulle competenze digitali dei dipendenti pubblici e dei cittadini.
+Il 29 giugno 2020 la Giunta Comunale, con Deliberazione n. 149/2020 ha approvato il \ |LINK84|\  in conformità al Codice dell’Amministrazione Digitale, di cui al D.Lgs. 82/2005 e successive modifiche e integrazioni, e al Piano nazionale triennale per l’informatica 2019-2021, pubblicato dall’Agenzia per l’Italia Digitale (AGID).
+
+L'\ |LINK85|\  è stato presentato il Piano Triennale comunale dell'Informatica a cura dell'Assessore all'Innovazione Petralia Camassa, la Dirigente del Servizio Innovazione dott.ssa Licia Romano e il Direttore Tecnico della SISPI ing. S. Morreale.
+
+A questo \ |LINK86|\  (Ciro Spataro) sul piano con un focus sulle competenze digitali dei dipendenti pubblici e dei cittadini.
 
 |
 
@@ -762,21 +766,25 @@ A questo \ |LINK85|\  (Ciro Spataro) sul piano con un focus sulle competenze dig
 
 .. |LINK81| raw:: html
 
-    <a href="https://www.comune.palermo.it/prenotazione-servizi-online.php" target="_blank">Servizi Online per il cittadino - Prenotazione appuntamenti</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=4&id=26622" target="_blank">pagati con PagoPA</a>
 
 .. |LINK82| raw:: html
 
-    <a href="https://sso.comune.palermo.it/auth/realms/sispi4pa/protocol/openid-connect/auth?response_type=code&client_id=was9&scope=openid%20email%20profile&state=967949395_1591794216654&redirect_uri=https%3A%2F%2Fservizionline.comune.palermo.it%3A443%2Foidcclient%2Fsispi4pa" target="_blank">CIE</a>
+    <a href="https://www.comune.palermo.it/prenotazione-servizi-online.php" target="_blank">Servizi Online per il cittadino - Prenotazione appuntamenti</a>
 
 .. |LINK83| raw:: html
 
-    <a href="https://cirospat.readthedocs.io/it/latest/piano_triennale_informatica_comune_palermo_2020-2022_delibera_GC_149_29-06-2020.html" target="_blank">Piano comunale triennale per l'Informatica 2020-2022</a>
+    <a href="https://sso.comune.palermo.it/auth/realms/sispi4pa/protocol/openid-connect/auth?response_type=code&client_id=was9&scope=openid%20email%20profile&state=967949395_1591794216654&redirect_uri=https%3A%2F%2Fservizionline.comune.palermo.it%3A443%2Foidcclient%2Fsispi4pa" target="_blank">CIE</a>
 
 .. |LINK84| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=28004" target="_blank">8 luglio 2020 in una conferenza stampa a Palazzo delle Aquile</a>
+    <a href="https://cirospat.readthedocs.io/it/latest/piano_triennale_informatica_comune_palermo_2020-2022_delibera_GC_149_29-06-2020.html" target="_blank">Piano comunale triennale per l'Informatica 2020-2022</a>
 
 .. |LINK85| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=28004" target="_blank">8 luglio 2020 in una conferenza stampa a Palazzo delle Aquile</a>
+
+.. |LINK86| raw:: html
 
     <a href="https://medium.com/@cirospat/il-piano-triennale-dellinformatica-del-comune-di-palermo-927e74d685c9" target="_blank">link un articolo mio</a>
 
