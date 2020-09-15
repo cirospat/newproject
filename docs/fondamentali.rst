@@ -684,6 +684,49 @@ Quattro sono gli assi di intervento della Strategia:
 
 --------
 
+.. _hc64d773a335d523849172a3b772c20:
+
+Linea di indirizzo sulla interoperabilità tecnica. Circolare AGID n. 1/2020 del 9 settembre 2020.
+*************************************************************************************************
+
+\ |LINK146|\ . I documenti individuano le tecnologie e gli standard che le Pubbliche Amministrazioni devono tenere in considerazione nella realizzazione dei propri sistemi informatici, al fine di permettere il coordinamento informatico dei dati tra le amministrazioni nonché tra i gestori di servizi pubblici e i soggetti privati e l’Unione Europea. 
+
+La Linea di indirizzo sull’interoperabilità tecnica contribuisce alla definizione del \ |STYLE28|\  (in breve ModI), in coerenza con il nuovo \ |STYLE29|\  (in breve EIF) oggetto della Comunicazione COM (2017) 134 della Commissione Europea del 23 marzo 2017.
+
+La presente Circolare \ |STYLE30|\  proseguendo nel processo di aggiornamento avviato con la determinazione AGID 219/2017, nelle more delle predisposizione, ai sensi dell’articolo 71 del CAD, delle Linee Guida in materia.
+
+La Linea di indirizzo sull’interoperabilità tecnica è applicabile ai soli servizi digitali realizzati da una Pubblica Amministrazione.
+
+La Linea di indirizzo sull’interoperabilità tecnica provvede a:
+
+* \ |STYLE31|\ , indirizzando le scelte architetturali di interoperabilità delle PA; 
+
+* \ |STYLE32|\  che semplifichino e abilitino l’utilizzo dei dati e dei servizi digitali; 
+
+* \ |STYLE33|\  per favorire la separazione dei livelli di backend e frontend, con logiche aperte e standard pubblici che garantiscano ad altri attori, pubblici e privati, accessibilità e massima interoperabilità di dati e servizi digitali;
+
+* \ |STYLE34|\ ;
+
+* \ |STYLE35|\ .
+
+Allegati:
+
+* Allegato: \ |LINK147|\  (15/09/2020 - 3258 kb - pdf) 
+
+* Allegato: \ |LINK148|\  (15/09/2020 - 803 kb - pdf) 
+
+* Allegato: \ |LINK149|\  (15/09/2020 - 968 kb - pdf) 
+
+* Allegato: \ |LINK150|\  (15/09/2020 - 617 kb - pdf) 
+
+* Allegato: \ |LINK151|\  (15/09/2020 - 349 kb - pdf) 
+
+* Allegato: \ |LINK152|\  (15/09/2020 - 497 kb - pdf) 
+
+* Allegato: \ |LINK153|\  (15/09/2020 - 3825 kb - pdf) 
+
+--------
+
 
 |REPLACE3|
 
@@ -751,6 +794,22 @@ Quattro sono gli assi di intervento della Strategia:
 .. |STYLE26| replace:: **Competenze specialistiche ICT**
 
 .. |STYLE27| replace:: **Cittadini**
+
+.. |STYLE28| replace:: **Modello di Interoperabilità della PA**
+
+.. |STYLE29| replace:: **European Interoperability Framework**
+
+.. |STYLE30| replace:: **aggiorna il Sistema pubblico di cooperazione (SPCoop)**
+
+.. |STYLE31| replace:: **definire le modalità di integrazione tra le PA, e tra queste cittadini e imprese**
+
+.. |STYLE32| replace:: **individuare le scelte tecnologiche che favoriscano lo sviluppo, da parte delle PA, cittadini e imprese, di soluzioni applicative innovative**
+
+.. |STYLE33| replace:: **promuovere l’adozione dell’approccio “API first”**
+
+.. |STYLE34| replace:: **privilegiare standard tecnologici, de iure e de facto, che soddisfino l’esigenza di rendere sicure le interazioni tra le PA e tra queste, cittadini e imprese**
+
+.. |STYLE35| replace:: **favorire l’interazione tra PA e tra queste, cittadini e imprese, attraverso un approccio Contract-First**
 
 
 .. |REPLACE1| raw:: html
@@ -1365,4 +1424,36 @@ Quattro sono gli assi di intervento della Strategia:
 .. |LINK145| raw:: html
 
     <a href="https://innovazione.gov.it/assets/docs/DTD-1277-A-ALL1.pdf" target="_blank">Link al documento del decreto</a>
+
+.. |LINK146| raw:: html
+
+    <a href="https://trasparenza.agid.gov.it/archivio19_regolamenti_0_5386.html" target="_blank">Link Circolare AGID</a>
+
+.. |LINK147| raw:: html
+
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157220O__OCircolare+1-2020+Linea+di+indirizzo+interoperabilit%E0+tecnica.pdf" target="_blank">Circolare 1-2020 Linea di indirizzo interoperabilità tecnica.pdf</a>
+
+.. |LINK148| raw:: html
+
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157180O__O00_Linea+di+indirizzo+interoperabilit%E0+tecnica.pdf" target="_blank">00_Linea di indirizzo interoperabilità tecnica.pdf</a>
+
+.. |LINK149| raw:: html
+
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157160O__O01_Pattern+interazione.pdf" target="_blank">01_Pattern interazione.pdf</a>
+
+.. |LINK150| raw:: html
+
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157160O__O02_Pattern+sicurezza.pdf" target="_blank">02_Pattern sicurezza.pdf</a>
+
+.. |LINK151| raw:: html
+
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157160O__O03_Profili+di+interoperabilit%E0.pdf" target="_blank">03_Profili di interoperabilità.pdf</a>
+
+.. |LINK152| raw:: html
+
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157180O__O04_Raccomandazioni+di+implementazione.pdf" target="_blank">04_Raccomandazioni di implementazione.pdf</a>
+
+.. |LINK153| raw:: html
+
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157220O__ODT+DG+n.+406+-9+sett+2020-+Circolare+1-2020+Linea+di+indirizzo+interoperabilit%E0+tecnica.pdf" target="_blank">DT DG n. 406 - 9 sett 2020- Circolare 1-2020 Linea di indirizzo interoperabilità tecnica.pdf</a>
 
