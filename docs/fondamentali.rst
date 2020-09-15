@@ -903,7 +903,7 @@ Allegati:
 
 .. |LINK14| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/master/index.html" target="_blank">Linee Guida</a>
+    <a href="http://lg-modellointeroperabilita.readthedocs.io/it/latest/index.html" target="_blank">Linee Guida</a>
 
 .. |LINK15| raw:: html
 
@@ -1443,7 +1443,7 @@ Allegati:
 
 .. |LINK149| raw:: html
 
-    <a href="http://lg-patrimonio-pubblico.readthedocs.io" target="_blank">Linee Guida in materia</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/bozza/index.html" target="_blank">Linee Guida in materia</a>
 
 .. |LINK150| raw:: html
 
