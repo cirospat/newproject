@@ -515,9 +515,12 @@ Le \ |LINK89|\  (su Docs Italia) sono emanate secondo la procedura prevista dall
 .. admonition:: i chiarimenti sulle nuove linee guida
 
     i \ |LINK100|\  l'entrata in vigore (\ |STYLE17|\ ) e la data di attuazione (\ |STYLE18|\ ), oltre ad alcune correzioni di seguito elencate:
-    - con riferimento allo \ |STYLE19|\  si segnala una errata corrige al paragrafo 4.7 del documento di Linee guida dove per mero errore materiale si indica la versione 2010. Intenzionalmente, al paragrafo 4.2 non è stata specificata la data per significare che la versione dello standard deve riferirsi all'ultima versione corrente, ovvero quella del 2020;
-    - con riferimento allo \ |STYLE20|\  si comunica una errata corrige all'allegato 4 Standard e Specifiche tecniche dove per mero errore materiale si indica la versione 2011 in luogo di quelle rispettivamente aggiornate del 2020 e del 2019;
-    - con riferimento allo \ |STYLE21|\  si comunica una errata corrige all'allegato 4 Standard e Specifiche tecniche dove per mero errore materiale si indica la versione V1.2.1 in luogo della V1.3.1.
+    
+    * con riferimento allo \ |STYLE19|\  si segnala una errata corrige al paragrafo 4.7 del documento di Linee guida dove per mero errore materiale si indica la versione 2010. Intenzionalmente, al paragrafo 4.2 non è stata specificata la data per significare che la versione dello standard deve riferirsi all'ultima versione corrente, ovvero quella del 2020; 
+    
+    * con riferimento allo \ |STYLE20|\  si comunica una errata corrige all'allegato 4 Standard e Specifiche tecniche dove per mero errore materiale si indica la versione 2011 in luogo di quelle rispettivamente aggiornate del 2020 e del 2019; 
+    
+    * con riferimento allo \ |STYLE21|\  si comunica una errata corrige all'allegato 4 Standard e Specifiche tecniche dove per mero errore materiale si indica la versione V1.2.1 in luogo della V1.3.1.
 
  
 
