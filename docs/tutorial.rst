@@ -110,13 +110,13 @@ Webinar sulla costruzione di un 'progetto europeo'
 Manuali vari 
 =============
 
-➽ \ |LINK17|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni)
+➽ \ |LINK17|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni).
 
-➽ \ |LINK18|\  in uso al Comune di Palermo
+➽ \ |LINK18|\  in uso al Comune di Palermo.
 
-➽ \ |LINK19|\  del comune di Palermo
+➽ \ |LINK19|\  del comune di Palermo.
 
-➽ \ |LINK20|\  (\ |STYLE8|\ , \ |STYLE9|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK21|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK22|\ ]
+➽ \ |LINK20|\  (\ |STYLE8|\ , \ |STYLE9|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK21|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK22|\ ]. Vedi anche la \ |LINK23|\ .
 
 
 |REPLACE8|
@@ -280,4 +280,8 @@ Manuali vari
 .. |LINK22| raw:: html
 
     <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
+
+.. |LINK23| raw:: html
+
+    <a href="https://www.html.it/guide/moodle-learning-platform-la-guida/" target="_blank">guida a Moodle Learning Platform</a>
 
