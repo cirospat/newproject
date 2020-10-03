@@ -9,6 +9,8 @@ Fondamentali per la #PA digitale
 
 .. _bookmark-id-5ak5khujvzst:
 
+Questa sezione contiene i principali riferimenti normativi per la digitalizzazione dei processi e dei servizi della Pubblica Amministrazione. Si tratta principalmente di LINEE GUIDA dell'Agenzia per l'Italia Digitale (AGID) e strumenti necessari alle PA, resi disponibili del Ministero dell'Innovazione Tecnologica e della Digitalizzazione, per attuare l'agenda digitale.
+
 
 .. toctree::  
     :maxdepth: 3
@@ -81,7 +83,7 @@ Piano Triennale per l'Informatica nella Pubblica Amministrazione
 Ciclo di webinar dedicati all'innovazione digitale organizzato da FormezPA nell'ambito della convenzione con AGID "Italia Login" servizi digitali.
 **************************************************************************************************************************************************
 
-\ |LINK10|\ 
+\ |LINK10|\ , con videoregistrazioni e materiali in formato pdf usati durante i webinar. 
 
 --------
 
@@ -482,7 +484,7 @@ Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente d
 Linee Guida sulla formazione, gestione e conservazione dei documenti informatici
 ********************************************************************************
 
-\ |LINK88|\  (dal sito AGID). 
+\ |STYLE13|\  \ |LINK88|\  (dal sito AGID). 
 
 Le \ |LINK89|\  (su Docs Italia) sono emanate secondo la procedura prevista dall’art. 71 “\ |LINK90|\ ” del Codice dell’Amministrazione digitale (CAD) e hanno il duplice scopo di:
 
@@ -490,11 +492,11 @@ Le \ |LINK89|\  (su Docs Italia) sono emanate secondo la procedura prevista dall
 
 #. fornire una cornice unica di regolazione sulla materia, in coerenza con la disciplina dei Beni culturali.
 
-(\ |STYLE13|\ ).
+(\ |STYLE14|\ ).
 
-\ |STYLE14|\ 
+\ |STYLE15|\ 
 
-\ |STYLE15|\ : Il \ |STYLE16|\  sono state pubblicate dall'AGID in versione definitiva le "\ |LINK91|\ ".
+\ |STYLE16|\   Sono state pubblicate dall'AGID in versione definitiva le "\ |LINK91|\ ".
 
 * \ |LINK92|\  (10/09/2020 - 749 kb - pdf) 
 
@@ -781,13 +783,13 @@ Allegati:
 
 .. |STYLE12| replace:: *(Adriano Avenia, AGID).*
 
-.. |STYLE13| replace:: *A queste linee guida dovranno riferirsi gli enti pubblici per la redazione/aggiornamento dei manuali di formazione, gestione e conservazione del documento informatico*
+.. |STYLE13| replace:: **17/10/2019 -**
 
-.. |STYLE14| replace:: **↓**
+.. |STYLE14| replace:: *A queste linee guida dovranno riferirsi gli enti pubblici per la redazione/aggiornamento dei manuali di formazione, gestione e conservazione del documento informatico*
 
-.. |STYLE15| replace:: **NOTA**
+.. |STYLE15| replace:: **↓**
 
-.. |STYLE16| replace:: **9 settembre 2020**
+.. |STYLE16| replace:: **9/09/2020 -**
 
 .. |STYLE17| replace:: **10 settembre 2020**
 
@@ -1271,7 +1273,7 @@ Allegati:
 
 .. |LINK99| raw:: html
 
-    <a href="https://www.agid.gov.it/it/domande-frequenti/documento-informatico" target="_blank">Una breve sintesi e alcuni importanti chiarimenti a cura dell'AGID</a>
+    <a href="https://www.agid.gov.it/it/domande-frequenti/documento-informatico" target="_blank">Una sintesi (FAQ) e alcuni importanti chiarimenti a cura dell'AGID</a>
 
 .. |LINK100| raw:: html
 
