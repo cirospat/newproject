@@ -793,7 +793,7 @@ Allegati:
 
 .. |STYLE16| replace:: **9/09/2020 -**
 
-.. |STYLE17| replace:: **20.10.2020 -**
+.. |STYLE17| replace:: **20/10/2020 -**
 
 .. |STYLE18| replace:: **10 settembre 2020**
 
