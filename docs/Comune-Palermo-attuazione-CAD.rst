@@ -306,7 +306,7 @@ Dal marzo 2020, in seguito all'emergenza Covid19, una consistente percentuale de
 
 |
 
-Da marzo 2020 i servizi dello Sportello Unico Edilizia Privata possono essere \ |LINK81|\ .
+Dal marzo 2020 i servizi dello Sportello Unico Edilizia Privata possono essere \ |LINK81|\ .
 
 |
 
@@ -314,11 +314,11 @@ Da aprile 2020 è stato istituito un \ |STYLE50|\  erogati dall'Amministrazione.
 
 |
 
-Da aprile 2020 è  disponibile sul portale \ |LINK83|\  un assistente virtuale che aiuta il cittadino nella comprensione di argomenti sull'emergenza sanitaria del Covid.
+Da aprile 2020 è  disponibile sul portale \ |LINK83|\  un assistente virtuale che aiuta il cittadino nella comprensione di argomenti sull'emergenza sanitaria del Covid19.
 
 |
 
-Dal Giugno 2020 è possibile \ |STYLE51|\ , oltre che con l'identità digitale SPID, \ |STYLE52|\  \ |LINK84|\ .
+Dal giugno 2020 è possibile \ |STYLE51|\ , oltre che con l'identità digitale SPID, \ |STYLE52|\  \ |LINK84|\ .
 
 |
 
@@ -774,7 +774,7 @@ Dal 26 ottobre 2020 \ |LINK88|\ . Consentirà ai cittadini di effettuare il camb
 
 .. |LINK81| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=4&id=26622" target="_blank">pagati con PagoPA</a>
+    <a href="https://www.comune.palermo.it/noticext.php?cat=4&id=26622" target="_blank">pagati con il servizio dei pagamenti elettronici PagoPA</a>
 
 .. |LINK82| raw:: html
 
