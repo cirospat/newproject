@@ -330,6 +330,10 @@ A questo \ |LINK87|\  (Ciro Spataro) sul piano con un focus sulle competenze dig
 
 |
 
+Dal 26 ottobre 2020 \ |LINK88|\ . Consentirà ai cittadini di effettuare il cambio per l'intero nucleo familiare all'interno del territorio cittadino. La modalità di accesso online consente di assolvere, contestualmente, anche alle dichiarazioni TARI correlate al cambio di domicilio.
+
+|
+
 
 .. bottom of content
 
@@ -795,4 +799,8 @@ A questo \ |LINK87|\  (Ciro Spataro) sul piano con un focus sulle competenze dig
 .. |LINK87| raw:: html
 
     <a href="https://medium.com/@cirospat/il-piano-triennale-dellinformatica-del-comune-di-palermo-927e74d685c9" target="_blank">link un articolo mio</a>
+
+.. |LINK88| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=29316" target="_blank">online il servizio di cambio domicilio</a>
 
