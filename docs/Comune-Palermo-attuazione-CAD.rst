@@ -336,6 +336,10 @@ Dal 26 ottobre 2020 \ |LINK91|\ . Consentirà ai cittadini di effettuare il camb
 
 |
 
+Dal 29 ottobre 2020 con una Delibera di Giunta, l'Amministrazione avvia un'iniziativa informatica che \ |LINK92|\  e l'estrazione di certificati anagrafici. Il Comune rende disponibile al Professionista iscritto all’Ordine le seguenti tipologie di certificati anagrafici con “timbro digitale”: residenza; stato di famiglia.
+
+|
+
 
 .. bottom of content
 
@@ -817,4 +821,8 @@ Dal 26 ottobre 2020 \ |LINK91|\ . Consentirà ai cittadini di effettuare il camb
 .. |LINK91| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=29316" target="_blank">online il servizio di cambio domicilio</a>
+
+.. |LINK92| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=29411" target="_blank">consente all'Ordine professionale degli Avvocati l'accesso alla banca dati dell'anagrafe comunale</a>
 
