@@ -167,6 +167,41 @@ RTD Comune di Palermo - attività svolte
 
 * Redazione del \ |LINK32|\  e adozione con Delibera di Giunta n. 149 del 29 giugno 2020.
 
+|
+
+.. _h3c784b7614f5c49236bca18255c:
+
+Formazione RTD da la #PAdigitale (2020)
+***************************************
+
+Da \ |LINK33|\  + \ |LINK34|\  ogni martedì di ottobre e novembre 2020, un webinar gratuito per approfondire, con taglio pratico, i temi caldi della digitalizzazione, visti dalla prospettiva di un \ |LINK35|\ . I webinar sono consultabili anche registrati.
+
+\ |LINK36|\ .
+
+|
+
+.. _h11624e11424447a5b3341172774521f:
+
+Formazione RTD da AGID (2020)
+*****************************
+
+\ |LINK37|\ . Temi trattati:
+
+* Accessibilità
+
+* Procurement
+
+* Infrastrutture ICT
+
+* SPID e identità digitali
+
+* Spesa ICT nelle PA
+
+* Riuso e open source
+
+|
+
+
 .. bottom of content
 
 
@@ -343,4 +378,24 @@ RTD Comune di Palermo - attività svolte
 .. |LINK32| raw:: html
 
     <a href="https://cirospat.readthedocs.io/it/latest/piano_triennale_informatica_comune_palermo_2020-2022_delibera_GC_149_29-06-2020.html" target="_blank">Piano triennale comunale per l'Informatica 2020-2022</a>
+
+.. |LINK33| raw:: html
+
+    <a href="https://twitter.com/diritto2punto0" target="_blank">@diritto2punto0</a>
+
+.. |LINK34| raw:: html
+
+    <a href="https://twitter.com/hashtag/PAdigitale?src=hashtag_click" target="_blank">#PAdigitale</a>
+
+.. |LINK35| raw:: html
+
+    <a href="https://twitter.com/hashtag/RTD?src=hashtag_click" target="_blank">#RTD</a>
+
+.. |LINK36| raw:: html
+
+    <a href="https://www.lapadigitale.it/rtd-academy/" target="_blank">Link al sito RTD Accademy</a>
+
+.. |LINK37| raw:: html
+
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/11/02/rtd-al-il-primo-ciclo-formazione-agid-crui" target="_blank">Formazione dal 10 novembre al 15 dicembre 2020 da AGID + CRUI</a>
 
