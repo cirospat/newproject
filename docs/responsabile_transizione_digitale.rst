@@ -199,6 +199,8 @@ Formazione RTD da AGID (2020)
 
 * Riuso e open source
 
+1° webinar (Il Piano Triennale per l’informatica nella PA 2020 - 2022: scadenze, adempimenti e novità per le PA - 10 novembre 2020) - \ |LINK38|\  - \ |LINK39|\ .
+
 |
 
 
@@ -398,4 +400,12 @@ Formazione RTD da AGID (2020)
 .. |LINK37| raw:: html
 
     <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/11/02/rtd-al-il-primo-ciclo-formazione-agid-crui" target="_blank">Formazione dal 10 novembre al 15 dicembre 2020 da AGID + CRUI</a>
+
+.. |LINK38| raw:: html
+
+    <a href="https://www.crui.it/archivio-notizie/i%C2%B0-ciclo-di-formazione-agid-%E2%80%93-crui-per-rtd-202011021047.html" target="_blank">link ai materiali</a>
+
+.. |LINK39| raw:: html
+
+    <a href="https://www.youtube.com/watch?v=Sc-EDRnWlSY" target="_blank">link alla videoregistrazione</a>
 
