@@ -201,6 +201,8 @@ Formazione RTD da AGID (2020)
 
 1° webinar (Il Piano Triennale per l’informatica nella PA 2020 - 2022: scadenze, adempimenti e novità per le PA - 10 novembre 2020) - \ |LINK38|\  - \ |LINK39|\ .
 
+2° webinar (Il ruolo e la valorizzazione dei dati nella PA – 17 novembre 2020) - \ |LINK40|\  - \ |LINK41|\ .
+
 |
 
 
@@ -408,4 +410,12 @@ Formazione RTD da AGID (2020)
 .. |LINK39| raw:: html
 
     <a href="https://www.youtube.com/watch?v=Sc-EDRnWlSY" target="_blank">link alla videoregistrazione</a>
+
+.. |LINK40| raw:: html
+
+    <a href="https://www.fondazionecrui.it/wp-content/uploads/2020/11/3_Il-ruolo-e-la-valorizzazione-dei-dati-nella-PA_Slide.pdf" target="_blank">link ai materiali</a>
+
+.. |LINK41| raw:: html
+
+    <a href="https://youtu.be/Bl0SfUgWg-s" target="_blank">link alla videoregistrazione</a>
 
