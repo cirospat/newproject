@@ -340,6 +340,10 @@ Dal 29 ottobre 2020 con la Delibera di Giunta n. 269/2020, l'Amministrazione avv
 
 |
 
+Il 23 novembre 2020 è stato firmato l'Accordo tra Comune di Palermo e Camera di Commercio per l' adozione della piattaforma “Impresa In Un Giorno”.  Il portale "\ |STYLE53|\ " permette agli interessati la trasmissione al Suap  di tutte le tipologie di pratiche di competenza dello stesso Sportello, guidati da un sistema esperto che conduce l'utente alla formulazione finale della pratica, allegando tutti i documenti necessari e permettendo il pagamento degli eventuali oneri con \ |STYLE54|\  fino alla \ |STYLE55|\  della stessa e all’invio al Suap del Comune di Palermo. \ |LINK93|\ .
+
+|
+
 
 .. bottom of content
 
@@ -449,6 +453,12 @@ Dal 29 ottobre 2020 con la Delibera di Giunta n. 269/2020, l'Amministrazione avv
 .. |STYLE51| replace:: **accedere ai servizi online del comune di Palermo**
 
 .. |STYLE52| replace:: **anche con la Carta d'Identità Elettronica**
+
+.. |STYLE53| replace:: **ImpresaInUnGiorno**
+
+.. |STYLE54| replace:: **PagoPA**
+
+.. |STYLE55| replace:: **firma digitale**
 
 
 .. |REPLACE1| raw:: html
@@ -825,4 +835,8 @@ Dal 29 ottobre 2020 con la Delibera di Giunta n. 269/2020, l'Amministrazione avv
 .. |LINK92| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=29411" target="_blank">consente all'Ordine professionale degli Avvocati l'accesso alla banca dati dell'anagrafe comunale</a>
+
+.. |LINK93| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=29680" target="_blank">Comunicato stampa</a>
 
