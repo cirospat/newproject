@@ -171,9 +171,6 @@ Il 3,4,5 Dicembre 2018 lo staff del Responsabile Transizione al digitale effettu
 2019
 ----
 
-
-|REPLACE1|
-
 \ |STYLE30|\  Utilizzo del web service \ |LINK36|\  per valutare i livelli di rischi a cui sono esposti i servizi digitali del comune di Palermo e per attivare eventuali azioni volte a mitigare o annullare i rischi individuati. Con la collaborazione della Società SISPI SpA. L'azione fa parte del \ |STYLE31|\ , \ |LINK37|\ .
 
 |
@@ -231,7 +228,7 @@ Il 14 settembre 2019 il comune di Palermo è subentarato all'\ |STYLE37|\  \ |LI
 
 Il \ |LINK44|\  il comune di Palermo diventa operativo nella sperimentazione dell'\ |STYLE40|\  \ |LINK45|\ , permettendo ai cittadini dotati di identità digitale SPID di avviare l'uso dell'applicazione per dispositivi mobili. IO rappresenta a livello nazionale il punto di accesso unico ai servizi digitali della Pubblica Amministrazione, ai sensi dell’\ |LINK46|\  \ |LINK47|\ . Al \ |LINK48|\  è possibile consultare l'elenco dei servizi comunali di Palermo agganciati all'app nazionale IO.  A questo \ |LINK49|\  è possibile candidarsi per essere \ |LINK50|\  a Palermo. \ |LINK51|\  e dell'utilità dell'applicazione. Il \ |LINK52|\  il comune ha rinnovato l'invito all'adesione all'app IO.
 
-|REPLACE2|
+|REPLACE1|
 
 Il processo di digitalizzazione del comune di Palermo è \ |LINK53|\  (articolo del 16 ottobre di FPA a cura di Marina Bassi).
 
@@ -462,9 +459,6 @@ Il 23 novembre 2020 è stato firmato l'Accordo tra Comune di Palermo e Camera di
 
 
 .. |REPLACE1| raw:: html
-
-    <img src="https://www.sicurezzait.gov.it/cyber/wp-content/uploads/2019/09/001-hacker-150x150.png" width=100 />  <span class="footer_small">Risk Tool Assesment</span>
-.. |REPLACE2| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/zrKOS2LiWTU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
