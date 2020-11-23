@@ -30,7 +30,7 @@ Le attività del comune di Palermo
 La norma
 ********
 
-La norma sul Lavoro Agile è riportata a questo \ |LINK4|\  del portale degli attrezzi digitali del comune di Palermo.
+La norma sul Lavoro Agile è riportata a questo [\ |LINK4|\ ] del portale degli attrezzi digitali del comune di Palermo.
 
 |
 
@@ -57,5 +57,5 @@ La norma sul Lavoro Agile è riportata a questo \ |LINK4|\  del portale degli at
 
 .. |LINK4| raw:: html
 
-    <a href="https://sites.google.com/comune.palermo.it/lavoroagile/normativa-nazionale-lavoro-agile" target="_blank">link</a>
+    <a href="https://sites.google.com/comune.palermo.it/lavoroagile/normativa-nazionale-e-comunale-lavoro-agile" target="_blank">link</a>
 
