@@ -555,6 +555,9 @@ Le \ |LINK90|\  (su Docs Italia) sono emanate secondo la procedura prevista dall
 |Sempre a far data dalla data di applicazione delle Linee guida, la \ |LINK113|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” \ |STYLE30|\  \ |STYLE31|\  “\ |LINK114|\ ” del presente documento.|
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
+
+|REPLACE2|
+
 --------
 
 .. _h766477a121e4866161d3c536824759:
@@ -748,7 +751,7 @@ Allegati:
 --------
 
 
-|REPLACE2|
+|REPLACE3|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -858,6 +861,11 @@ Allegati:
 
     <img src="https://img.shields.io/badge/fondamentali-amministrazione_digitale-blue.svg?style=popout&logo=Read%20the%20Docs" />
 .. |REPLACE2| raw:: html
+
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/A_smdqx0NZU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <b> Webinar Formazione, gestione e conservazione dei documenti informatici: cosa cambia con le nuove linee guida AGID – 1 dicembre 2020 </b> <br></br>
+    <a href="https://www.fondazionecrui.it/wp-content/uploads/2020/12/Webinar-Agid-CRUI_01-12-2020_Servizio-Documentali-wecompress.com_.pptx">Presentazione</a>
+.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
