@@ -440,8 +440,7 @@ Cards
 
 \ |LINK89|\ 
 
-
-|REPLACE5|
+--------
 
 .. _h174c79c39577e65293f6b5738726d5c:
 
@@ -463,6 +462,17 @@ Unire PDF
 \ |STYLE8|\ 
 
 \ |STYLE9|\ . Si tratta, infatti, di un’app che consente di visualizzare i file PDF e intervenire su di essi in vari modi, andandoli a convertire, unire ecc. È gratuita e facile da usare. Per effettuarne il download sul tuo dispositivo, accedi alla \ |LINK96|\ 
+
+--------
+
+.. _h225bd2729b5f536b2e442259197a52:
+
+Carousel
+========
+
+https://getbootstrap.com/docs/4.0/components/carousel/
+
+|REPLACE5|
 
 
 .. bottom of content
@@ -503,62 +513,33 @@ Unire PDF
     <p><span style="background-color: #105618; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Altri Geocoder</span></p>
 .. |REPLACE5| raw:: html
 
-    <div class="card border-primary mb-3" style="max-width: 18rem;">
-      <div class="card-header">Header</div>
-      <div class="card-body text-primary">
-        <h5 class="card-title">Primary card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="d-block w-100" src="..." alt="First slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="..." alt="Second slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="..." alt="Third slide">
+        </div>
       </div>
+      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
     </div>
-    <div class="card border-secondary mb-3" style="max-width: 18rem;">
-      <div class="card-header">Header</div>
-      <div class="card-body text-secondary">
-        <h5 class="card-title">Secondary card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      </div>
-    </div>
-    <div class="card border-success mb-3" style="max-width: 18rem;">
-      <div class="card-header">Header</div>
-      <div class="card-body text-success">
-        <h5 class="card-title">Success card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      </div>
-    </div>
-    <div class="card border-danger mb-3" style="max-width: 18rem;">
-      <div class="card-header">Header</div>
-      <div class="card-body text-danger">
-        <h5 class="card-title">Danger card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      </div>
-    </div>
-    <div class="card border-warning mb-3" style="max-width: 18rem;">
-      <div class="card-header">Header</div>
-      <div class="card-body text-warning">
-        <h5 class="card-title">Warning card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      </div>
-    </div>
-    <div class="card border-info mb-3" style="max-width: 18rem;">
-      <div class="card-header">Header</div>
-      <div class="card-body text-info">
-        <h5 class="card-title">Info card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      </div>
-    </div>
-    <div class="card border-light mb-3" style="max-width: 18rem;">
-      <div class="card-header">Header</div>
-      <div class="card-body">
-        <h5 class="card-title">Light card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      </div>
-    </div>
-    <div class="card border-dark mb-3" style="max-width: 18rem;">
-      <div class="card-header">Header</div>
-      <div class="card-body text-dark">
-        <h5 class="card-title">Dark card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      </div>
-    </div>
+    
 
 .. |LINK1| raw:: html
 
