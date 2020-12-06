@@ -443,6 +443,27 @@ Cards
 
 |REPLACE5|
 
+.. _h174c79c39577e65293f6b5738726d5c:
+
+Unire PDF
+=========
+
+\ |LINK90|\ 
+
+* PDFTK Builder \ |LINK91|\  
+
+* Online2PDF \ |LINK92|\  
+
+* \ |LINK93|\  — servizio Web gratuito e che non richiede registrazioni. Permette di unire e modificare i file PDF in vari modi. Da notare che non consente di caricare file aventi un peso superiore ai 100 MB. Eventualmente, però, è possibile aggirare questa limitazione passando a uno dei piani a pagamento (con costi a partire da 6 euro/mese), i quali consentono di sbloccare anche altre funzionalità extra.
+
+* \ |LINK94|\  — si tratta di un altro servizio Web gratuito e che non necessita di registrazione e permette di intervenire sui documenti PDF unendoli, oltre che convertendoli, dividendoli, alleggerendoli, sbloccandoli ecc. Non applica limitazioni per quel che concerne il peso massimo dei file.
+
+* \ |LINK95|\  — è un’altra soluzione per unire i file PDF via Web e tramite la quale è eventualmente possibile apportare varie ulteriori modifiche ai documenti caricati. È gratis, non richiede registrazione e non pone limiti per l’upload.
+
+\ |STYLE8|\ 
+
+\ |STYLE9|\ . Si tratta, infatti, di un’app che consente di visualizzare i file PDF e intervenire su di essi in vari modi, andandoli a convertire, unire ecc. È gratuita e facile da usare. Per effettuarne il download sul tuo dispositivo, accedi alla \ |LINK96|\ 
+
 
 .. bottom of content
 
@@ -462,6 +483,10 @@ Cards
 .. |STYLE6| replace:: **⇒ Nominatim Openstreetmap**
 
 .. |STYLE7| replace:: **Generatore di Feed:**
+
+.. |STYLE8| replace:: **Su Android**
+
+.. |STYLE9| replace:: **PDFelement**
 
 
 .. |REPLACE1| raw:: html
@@ -890,4 +915,32 @@ Cards
 .. |LINK89| raw:: html
 
     <a href="https://getbootstrap.com/docs/4.0/components/card/#border" target="_blank">https://getbootstrap.com/docs/4.0/components/card/#border</a>
+
+.. |LINK90| raw:: html
+
+    <a href="https://www.aranzulla.it/come-unire-due-pdf-923476.html" target="_blank">https://www.aranzulla.it/come-unire-due-pdf-923476.html</a>
+
+.. |LINK91| raw:: html
+
+    <a href="http://angusj.com/pdftkb/#pdftkbuilder" target="_blank">http://angusj.com/pdftkb/#pdftkbuilder</a>
+
+.. |LINK92| raw:: html
+
+    <a href="http://online2pdf.com/" target="_blank">http://online2pdf.com/</a>
+
+.. |LINK93| raw:: html
+
+    <a href="https://www.ilovepdf.com/it/unire_pdf" target="_blank">iLovePDF</a>
+
+.. |LINK94| raw:: html
+
+    <a href="https://pdfcandy.com/it/merge-pdf.html" target="_blank">PDF Candy</a>
+
+.. |LINK95| raw:: html
+
+    <a href="https://tools.pdf24.org/it/unire-pdf" target="_blank">PDF24</a>
+
+.. |LINK96| raw:: html
+
+    <a href="https://play.google.com/store/apps/details?id=com.wondershare.pdfelement&hl=it" target="_blank">relativa sezione del Play Store</a>
 
