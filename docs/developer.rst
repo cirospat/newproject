@@ -474,6 +474,68 @@ https://getbootstrap.com/docs/4.0/components/carousel/
 
 |REPLACE5|
 
+|
+
+.. _h3d5e7e425c116114e331b3e663c3b47:
+
+Directives in Read the Docs
+===========================
+
+
+.. class:: importante
+
+    una prova di contenuto dentro una generic ``directive``.
+    Questa è la renderizzazione su pagine web a seguito del commit su Github
+
+:download:`Questo link è per il download del logo di FPA<https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/>`.
+
+.. centered:: Questo è un testo centrato. Questo è un testo centrato. Questo è un testo centrato
+
+    
+
+
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|:Author: David Goodger                                                                                                                                                                                          |
+|                                                                                                                                                                                                                |
+|:Address: 123 Example Street, Example, EX  Canada, A1B 2C3, 123 Example Street, Example, EX  Canada, A1B 2C3, 123 Example Street, Example, EX  Canada, A1B 2C3, 123 Example Street, Example, EX  Canada, A1B 2C3|
+|                                                                                                                                                                                                                |
+|:Contact: docutils-develop@lists.sourceforge.net                                                                                                                                                                |
+|                                                                                                                                                                                                                |
+|:Authors: Me; Myself; I                                                                                                                                                                                         |
+|                                                                                                                                                                                                                |
+|:Author: David Goodger                                                                                                                                                                                          |
+|                                                                                                                                                                                                                |
+|:Address: 123 Example Street, Example, EX  Canada, A1B 2C3                                                                                                                                                      |
+|                                                                                                                                                                                                                |
+|:Contact: docutils-develop@lists.sourceforge.net                                                                                                                                                                |
+|                                                                                                                                                                                                                |
+|:Authors: Me; Myself; I                                                                                                                                                                                         |
+|                                                                                                                                                                                                                |
+|:Authors: Me; Myself; I                                                                                                                                                                                         |
+|                                                                                                                                                                                                                |
+|:Authors: Me; Myself; I                                                                                                                                                                                         |
+|                                                                                                                                                                                                                |
+|:Author: David Goodger                                                                                                                                                                                          |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+:Author: David Goodger
+
+:Address: 123 Example Street, Example, EX  Canada, A1B 2C3, 123 Example Street, Example, EX  Canada, A1B 2C3
+
+:Contact: docutils-develop@lists.sourceforge.net
+
+:Authors: Me; Myself; I
+
+:Author: David Goodger
+
+:Address: 123 Example Street, Example, EX  Canada, A1B 2C3
+
+:Contact: docutils-develop@lists.sourceforge.net
+
+:Authors: Me; Myself; I
+
+:guilabel:`Qualche azione`  viene renderizzata così come la leggi, ma la devi scrivere così: ``:guilabel:`Qualche azione```
+
 
 .. bottom of content
 
