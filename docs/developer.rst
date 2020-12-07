@@ -542,25 +542,15 @@ Assuming you have Python already, install Sphinx locally::
 
 |
 
-Assuming that
+Directives can be used within aliases::
 
-.. code-block:: rest
+    .. |logo| image:: img/logo_comune_Palermo.png
 
-    \*\*\*\*\*
+        :width: 20pt
 
-    Title
+        :height: 20pt
 
-    \*\*\*\*\*
-
-    subtitle
-
-    ########
-
-    subsubtitle
-
-    \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-    and so on
+Using this image alias, you can insert it easily in the text `|logo|`, like this |logo|. This is especially useful when dealing with complicated code.
 
 
 .. bottom of content
