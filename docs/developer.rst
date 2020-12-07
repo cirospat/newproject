@@ -19,6 +19,9 @@ developer
 
 |REPLACE2|
 
+
+|REPLACE3|
+
 |
 
 .. _ha4a69c15721f287c7e3f4245326:
@@ -274,7 +277,7 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 =========================================================
 
 
-|REPLACE3|
+|REPLACE4|
 
 ⇒ \ |LINK54|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
 
@@ -287,7 +290,7 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK55|\ .
 
 
-|REPLACE4|
+|REPLACE5|
 
 * \ |LINK56|\  con Openstreetmap tramite OnData
 
@@ -472,7 +475,7 @@ Carousel
 
 https://getbootstrap.com/docs/4.0/components/carousel/
 
-|REPLACE5|
+|REPLACE6|
 
 |
 
@@ -582,14 +585,17 @@ Using this image alias, you can insert it easily in the text `|logo|`, like this
     <div style="width: 650px; height: 500px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
 .. |REPLACE2| raw:: html
 
-    <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=925&q=80" /> Art by Lønfeldt
+    <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
 .. |REPLACE3| raw:: html
 
-    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
+    <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=925&q=80" /> Art by Lønfeldt
 .. |REPLACE4| raw:: html
 
-    <p><span style="background-color: #105618; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Altri Geocoder</span></p>
+    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
 .. |REPLACE5| raw:: html
+
+    <p><span style="background-color: #105618; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Altri Geocoder</span></p>
+.. |REPLACE6| raw:: html
 
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
