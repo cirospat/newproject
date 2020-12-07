@@ -536,6 +536,10 @@ Directives in Read the Docs
 
 :guilabel:`Qualche azione`  viene renderizzata così come la leggi, ma la devi scrivere così: ``:guilabel:`Qualche azione```
 
+Assuming you have Python already, install Sphinx locally::
+
+    $ pip install sphinx sphinx-autobuild
+
 
 .. bottom of content
 
