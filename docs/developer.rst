@@ -540,6 +540,28 @@ Assuming you have Python already, install Sphinx locally::
 
     $ pip install sphinx sphinx-autobuild
 
+|
+
+Assuming that
+
+.. code-block:: rest
+
+    \*\*\*\*\*
+
+    Title
+
+    \*\*\*\*\*
+
+    subtitle
+
+    ########
+
+    subsubtitle
+
+    \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+    and so on
+
 
 .. bottom of content
 
