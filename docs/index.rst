@@ -37,7 +37,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 |REPLACE4|
 
-\ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. \ |LINK7|\ . "\ |STYLE3|\ " è un format che si presta ottimamente alla rappresentazione e pubblicazione online di manuali e documentazione dove si rende necessario fornire spiegazioni e approfondimenti. 
+\ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design ``Read the Docs``. \ |LINK7|\ . :guilabel:`Read the Docs` è un format che si presta ottimamente alla rappresentazione e pubblicazione online di manuali e documentazione dove si rende necessario fornire spiegazioni e approfondimenti. 
 
 |REPLACE5|
 
@@ -113,7 +113,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|Per visualizzare e consultare correttamente i contenuti su questo portale sono necessari i seguenti requisiti minimi. \ |STYLE4|\ : PC con scheda video SVGA. Monitor a risoluzione minima di 1024x768 pixel con almeno 65.536 colori. \ |STYLE5|\ : Risoluzione minima di 360 x 640 px (modello di riferimento "Samsung Galaxy S3"). \ |STYLE6|\ : ottimizzazione per Microsoft Internet Explorer vers. 11.0 e successive vers., Microsoft Edge vers. 25.1 e immediatamente successive, Mozilla Firefox vers. 50.0 e successive, Chrome vers. 40.0 o successiva, Opera vers. 48.0 o successiva e Safari vers.9.0 o successiva.|
+|Per visualizzare e consultare correttamente i contenuti su questo portale sono necessari i seguenti requisiti minimi. \ |STYLE3|\ : PC con scheda video SVGA. Monitor a risoluzione minima di 1024x768 pixel con almeno 65.536 colori. \ |STYLE4|\ : Risoluzione minima di 360 x 640 px (modello di riferimento "Samsung Galaxy S3"). \ |STYLE5|\ : ottimizzazione per Microsoft Internet Explorer vers. 11.0 e successive vers., Microsoft Edge vers. 25.1 e immediatamente successive, Mozilla Firefox vers. 50.0 e successive, Chrome vers. 40.0 o successiva, Opera vers. 48.0 o successiva e Safari vers.9.0 o successiva.|
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
@@ -126,13 +126,11 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |STYLE2| replace:: **La visualizzazione dei contenuti su questo portale è costruita**
 
-.. |STYLE3| replace:: **Read the Docs**
+.. |STYLE3| replace:: **Risoluzione video desktop**
 
-.. |STYLE4| replace:: **Risoluzione video desktop**
+.. |STYLE4| replace:: **Navigazione su Mobile**
 
-.. |STYLE5| replace:: **Navigazione su Mobile**
-
-.. |STYLE6| replace:: **Navigazione su PC**
+.. |STYLE5| replace:: **Navigazione su PC**
 
 
 .. |REPLACE1| raw:: html
