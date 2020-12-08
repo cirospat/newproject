@@ -8,18 +8,20 @@ Ciro Spataro pro-file
 
 \ |IMG1|\  ``cultura della documentazione`` 
 
-In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti.
+In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
 
 
 |REPLACE2|
 
 * \ |LINK1|\ ;
 
+    * competenze UO transizione al digitale: in attuazione di quanto previsto dal C.A.D., l’U.O. assume qualsiasi iniziativa e misura conforme ad agenda digitale e/o proposta in materia di sviluppo e innovazione tecnologica con riferimento a tutte le Aree dell’Amministrazione e delle relative attività, ivi comprese quelle che coinvolgono le società c/o Enti partecipati. Supporto al Dirigente nella progettazione, pianificazione e coordinamento delle attività relative ai progetti innovativi, alla pubblicazione dei dati, anche sulla sezione open data, coordinando tutti gli uffici dell’Amministrazione. Coordinamento degli adempimenti in capo al dirigente e al servizio Innovazione relativi in materia di pubblicazione, trasparenza, conservazione digitale e relative al C.A.D. Avvio e Gestione della procedura di digitalizzazione delle note tramite procedura Libro Firma Digitale e ogni altro adempimento relativo all’ambito del passaggio al digitale.
+
 * \ |LINK2|\ ; \ |LINK3|\ ; \ |LINK4|\ ;
 
 * \ |LINK5|\ .
 
-* Questo portale contribuisce alla costruzione della "\ |LINK6|\ ", iniziativa del Ministero per l'Innovazione Tecnologica e la Digitalizzazione 
+* Questo portale contribuisce alla costruzione della "\ |LINK6|\ ", iniziativa del Ministero per l'Innovazione Tecnologica e la Digitalizzazione. 
 
 
 |REPLACE3|
@@ -28,7 +30,7 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 * l’ ``innovazione`` di ``processo`` e di ``servizio``; 
 
-* le ``competenze digitali`` dei dirigenti e dipendenti pubblici; 
+* le ``competenze digitali`` dei dirigenti e dipendenti della Pubblica Amministrazione; 
 
 * la ``cultura digitale`` e la ``cittadinanza digitale``.
 
