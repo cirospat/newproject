@@ -15,8 +15,6 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 * \ |LINK1|\ ;
 
-    * competenze UO transizione al digitale: in attuazione di quanto previsto dal C.A.D., l’U.O. assume qualsiasi iniziativa e misura conforme ad agenda digitale e/o proposta in materia di sviluppo e innovazione tecnologica con riferimento a tutte le Aree dell’Amministrazione e delle relative attività, ivi comprese quelle che coinvolgono le società c/o Enti partecipati. Supporto al Dirigente nella progettazione, pianificazione e coordinamento delle attività relative ai progetti innovativi, alla pubblicazione dei dati, anche sulla sezione open data, coordinando tutti gli uffici dell’Amministrazione. Coordinamento degli adempimenti in capo al dirigente e al servizio Innovazione relativi in materia di pubblicazione, trasparenza, conservazione digitale e relative al C.A.D. Avvio e Gestione della procedura di digitalizzazione delle note tramite procedura Libro Firma Digitale e ogni altro adempimento relativo all’ambito del passaggio al digitale.
-
 * \ |LINK2|\ ; \ |LINK3|\ ; \ |LINK4|\ ;
 
 * \ |LINK5|\ .
