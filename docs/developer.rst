@@ -519,6 +519,8 @@ Directives in Read the Docs
 |:Authors: Me; Myself; I                                                                                                                                                                                         |
 |                                                                                                                                                                                                                |
 |:Author: David Goodger                                                                                                                                                                                          |
+|                                                                                                                                                                                                                |
+|:Link utili: \ |LINK97|\ , \ |LINK98|\                                                                                                                                                                          |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 :Author: David Goodger
@@ -1008,4 +1010,12 @@ Using this image alias, you can insert it easily in the text `|logo|`, like this
 .. |LINK96| raw:: html
 
     <a href="https://play.google.com/store/apps/details?id=com.wondershare.pdfelement&hl=it" target="_blank">relativa sezione del Play Store</a>
+
+.. |LINK97| raw:: html
+
+    <a href="https://www.comune.palermo.it/unita.php?apt=4&uo=2188&serv=1056&sett=230" target="_blank">link 1</a>
+
+.. |LINK98| raw:: html
+
+    <a href="https://www.comune.palermo.it/" target="_blank">link 2</a>
 
