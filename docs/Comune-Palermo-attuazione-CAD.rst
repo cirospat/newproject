@@ -341,7 +341,7 @@ Il 23 novembre 2020 è stato firmato l'Accordo tra Comune di Palermo e Camera di
 
 |
 
-\ |STYLE56|\ .  La \ |LINK94|\  ha ottenuto  dall'ente di certificazione DNV GL – Business Assurance  la \ |LINK95|\   per la gestione delle informazioni personali in ottemperanza al (GDPR). \ |LINK96|\ .
+\ |STYLE56|\ .  La \ |LINK94|\  il 9 dicembre 2020 ha ottenuto  dall'ente di certificazione DNV GL – Business Assurance  la \ |LINK95|\   per la gestione delle informazioni personali in ottemperanza al (GDPR). \ |LINK96|\ .
 
 |
 
