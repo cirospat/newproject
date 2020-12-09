@@ -341,7 +341,7 @@ Il 23 novembre 2020 è stato firmato l'Accordo tra Comune di Palermo e Camera di
 
 |
 
-\ |STYLE56|\ .  La Sispi ha ottenuto  dall'ente di certificazione DNV GL – Business Assurance  la \ |LINK94|\   per la gestione delle informazioni personali in ottemperanza al (GDPR). \ |LINK95|\ .
+\ |STYLE56|\ .  La \ |LINK94|\  ha ottenuto  dall'ente di certificazione DNV GL – Business Assurance  la \ |LINK95|\   per la gestione delle informazioni personali in ottemperanza al (GDPR). \ |LINK96|\ .
 
 |
 
@@ -842,9 +842,13 @@ Il 23 novembre 2020 è stato firmato l'Accordo tra Comune di Palermo e Camera di
 
 .. |LINK94| raw:: html
 
-    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=29832" target="_blank">certificazione ISO/IEC 27701:2019</a>
+    <a href="https://www.sispi.it/" target="_blank">Sispi</a>
 
 .. |LINK95| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=29832" target="_blank">certificazione ISO/IEC 27701:2019</a>
+
+.. |LINK96| raw:: html
 
     <a href="https://www.comune.palermo.it/js/server/uploads/_09122020140549.pdf" target="_blank">Certificato ISO</a>
 
