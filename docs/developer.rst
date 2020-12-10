@@ -580,6 +580,51 @@ Using this image alias, you can insert it easily in the text `|logo|`, like this
        return ``rosso``, return a :class:`nero` object,
 
 
+.. tabs:: 
+
+     .. code-tab:: a
+    
+        prova1
+            prova 2
+                prova 3
+                    prova 4
+    
+     .. code-tab:: b
+    
+        public override void _UnhandledInput(InputEvent @event)
+        {
+            if (@event is InputEventKey eventKey)
+                if (eventKey.Pressed && eventKey.Keycode == (int)KeyList.Escape)
+                    GetTree().Quit();
+        }
+
+.. tabs::
+
+ .. code-tab:: gdscript GDScript
+
+    func _unhandled_input(event):
+
+        if event is InputEventKey:
+
+            if event.pressed and event.keycode == KEY_ESCAPE:
+
+                get_tree().quit()
+
+ .. code-tab:: csharp
+
+    public override void _UnhandledInput(InputEvent @event)
+
+    {
+
+        if (@event is InputEventKey eventKey)
+
+            if (eventKey.Pressed && eventKey.Keycode == (int)KeyList.Escape)
+
+                GetTree().Quit();
+
+    }
+
+
 .. bottom of content
 
 
