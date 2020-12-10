@@ -572,7 +572,7 @@ Directives in Read the Docs
 --------
 
 
-.. method:: io
+.. method:: io=(prova)
 
     This method is called for each request that goes through the download middleware. 
     
