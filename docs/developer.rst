@@ -538,13 +538,13 @@ Directives in Read the Docs
 :Authors: Me; Myself; I
 
 
-.. sidebar:: argomento
-    :subtitle: sotto argomento
+.. sidebar:: Argomento
+    :subtitle: Sotto argomento
 
-    This is a sidebar.  It is for text outside the flow of the main text. This is a sidebar.  It is for text outside the flow of the main text. 
+    Questo è il ``sidebar``.  Si usa per il testo al di fuori del flusso del testo principale. Questa è una casella. laterale. Si usa per il testo al di fuori del flusso del testo principale. Questa è una casella.
     
-    .. rubric:: This is a rubric inside a sidebar
-    Sidebars often appears beside the main text with a border and background color.
+    .. rubric:: Questa è una rubrica dentro la ``sidebar``
+    Le barre laterali vengono spesso visualizzate accanto al testo principale con un bordo e un colore grigio chiaro (solitamente) di sfondo.
 
 :guilabel:`Qualche azione`  viene renderizzata così come la leggi, ma la devi scrivere così: ``:guilabel:`Qualche azione```
 
@@ -553,8 +553,6 @@ Directives in Read the Docs
 :kbd:`nero` viene renderizzata così come la leggi, ma la devi scrivere così: ``:kbd:`nero```
 
 :data:`prova3` viene renderizzata così come la leggi, ma la devi scrivere così: ``:data:`prova3```
-
-:term:`psycho` viene renderizzata così come la leggi, ma la devi scrivere così: ``:term:`psycho```
 
 -
 
