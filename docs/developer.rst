@@ -560,13 +560,11 @@ Using this image alias, you can insert it easily in the text `|logo|`, like this
 --------
 
 
-.. method:: processo
+.. method:: io (prova)
 
-    This method is called for each request that goes through the download
-       middleware.
+    This method is called for each request that goes through the download middleware. This method is called for each request that goes through the download middleware.
     
-       :meth:`process_request` should either: return ``None``, return a
-       :class:`prova` object,
+       :meth:`nero` e return ``rosso``, return a :class:`prova` object,
 
 
 .. bottom of content
