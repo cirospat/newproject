@@ -545,6 +545,8 @@ Directives in Read the Docs
 
 :kbd:`nero` viene renderizzata così come la leggi, ma la devi scrivere così: ``:kbd:`nero```
 
+:data:`prova3` viene renderizzata così come la leggi, ma la devi scrivere così: ``:data:`prova3```
+
 
 .. glossary::   
 
