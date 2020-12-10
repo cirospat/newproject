@@ -567,7 +567,7 @@ Using this image alias, you can insert it easily in the text `|logo|`, like this
        :meth:`nero` e return ``rosso``, return a :class:`prova` object,
 
 
-.. class:: io (prova)
+.. classe:: io 
 
     This method is called for each request that goes through the download middleware. 
     
