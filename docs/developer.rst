@@ -557,6 +557,17 @@ Directives can be used within aliases::
 
 Using this image alias, you can insert it easily in the text `|logo|`, like this |logo|. This is especially useful when dealing with complicated code.
 
+--------
+
+
+.. method:: processo
+
+    This method is called for each request that goes through the download
+       middleware.
+    
+       :meth:`process_request` should either: return ``None``, return a
+       :class:`prova` object,
+
 
 .. bottom of content
 
