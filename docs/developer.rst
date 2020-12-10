@@ -541,21 +541,7 @@ Directives in Read the Docs
 
 :guilabel:`Qualche azione`  viene renderizzata così come la leggi, ma la devi scrivere così: ``:guilabel:`Qualche azione```
 
-Assuming you have Python already, install Sphinx locally::
-
-    $ pip install sphinx sphinx-autobuild
-
-|
-
-Directives can be used within aliases::
-
-    .. |logo| image:: img/logo_comune_Palermo.png
-
-        :width: 20pt
-
-        :height: 20pt
-
-Using this image alias, you can insert it easily in the text `|logo|`, like this |logo|. This is especially useful when dealing with complicated code.
+:class:`nero` object
 
 --------
 
@@ -578,49 +564,6 @@ Using this image alias, you can insert it easily in the text `|logo|`, like this
        This method is called for each request that goes through the download middleware.
     
        return ``rosso``, return a :class:`nero` object,
-
-
-.. tab:: 
-
-     .. code-tab:: a
-    
-        prova1
-            prova 2
-                prova 3
-                    prova 4
-
-     .. code-tab:: b
-    
-        prova1
-            prova 2
-                prova 3
-                    prova 4
-
-.. tabs::
-
- .. code-tab:: gdscript GDScript
-
-    func _unhandled_input(event):
-
-        if event is InputEventKey:
-
-            if event.pressed and event.keycode == KEY_ESCAPE:
-
-                get_tree().quit()
-
- .. code-tab:: csharp
-
-    public override void _UnhandledInput(InputEvent @event)
-
-    {
-
-        if (@event is InputEventKey eventKey)
-
-            if (eventKey.Pressed && eventKey.Keycode == (int)KeyList.Escape)
-
-                GetTree().Quit();
-
-    }
 
 
 .. bottom of content
