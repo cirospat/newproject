@@ -580,7 +580,7 @@ Using this image alias, you can insert it easily in the text `|logo|`, like this
        return ``rosso``, return a :class:`nero` object,
 
 
-.. tabs:: 
+.. tab:: 
 
      .. code-tab:: a
     
@@ -588,15 +588,13 @@ Using this image alias, you can insert it easily in the text `|logo|`, like this
             prova 2
                 prova 3
                     prova 4
-    
+
      .. code-tab:: b
     
-        public override void _UnhandledInput(InputEvent @event)
-        {
-            if (@event is InputEventKey eventKey)
-                if (eventKey.Pressed && eventKey.Keycode == (int)KeyList.Escape)
-                    GetTree().Quit();
-        }
+        prova1
+            prova 2
+                prova 3
+                    prova 4
 
 .. tabs::
 
