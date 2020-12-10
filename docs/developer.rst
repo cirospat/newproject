@@ -494,8 +494,6 @@ Directives in Read the Docs
 
 .. centered:: Questo è un testo centrato. Questo è un testo centrato. Questo è un testo centrato
 
-    
-
 
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |:Author: David Goodger                                                                                                                                                                                          |
@@ -539,6 +537,15 @@ Directives in Read the Docs
 
 :Authors: Me; Myself; I
 
+
+.. sidebar:: argomento
+    :subtitle: sotto argomento
+
+    This is a sidebar.  It is for text outside the flow of the main text. This is a sidebar.  It is for text outside the flow of the main text. 
+    
+    .. rubric:: This is a rubric inside a sidebar
+    Sidebars often appears beside the main text with a border and background color.
+
 :guilabel:`Qualche azione`  viene renderizzata così come la leggi, ma la devi scrivere così: ``:guilabel:`Qualche azione```
 
 :class:`nero` viene renderizzata così come la leggi, ma la devi scrivere così: ``:class:`nero```
@@ -547,7 +554,7 @@ Directives in Read the Docs
 
 :data:`prova3` viene renderizzata così come la leggi, ma la devi scrivere così: ``:data:`prova3```
 
-:term:`Writing` viene renderizzata così come la leggi, ma la devi scrivere così: ``:term:`Writing```
+:term:`psycho` viene renderizzata così come la leggi, ma la devi scrivere così: ``:term:`psycho```
 
 -
 
