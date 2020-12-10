@@ -541,9 +541,9 @@ Directives in Read the Docs
 
 :guilabel:`Qualche azione`  viene renderizzata così come la leggi, ma la devi scrivere così: ``:guilabel:`Qualche azione```
 
-:class:`nero` oggetto
+:class:`nero` viene renderizzata così come la leggi, ma la devi scrivere così: ``:class:`nero```
 
-:kbd:`nero` oggetto diverso
+:kbd:`nero` viene renderizzata così come la leggi, ma la devi scrivere così: ``:kbd:`nero```
 
 --------
 
