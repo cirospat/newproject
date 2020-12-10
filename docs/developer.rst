@@ -547,6 +547,10 @@ Directives in Read the Docs
 
 :data:`prova3` viene renderizzata così come la leggi, ma la devi scrivere così: ``:data:`prova3```
 
+:term:`Writing` viene renderizzata così come la leggi, ma la devi scrivere così: ``:term:`Writing```
+
+-
+
 
 .. glossary::   
     :class:`Documentation`
@@ -557,6 +561,8 @@ Directives in Read the Docs
     
     :class:`Writing`
        The process of putting thoughts into a medium for other people to :term:`read <Reading>`.
+
+-
 
 --------
 
