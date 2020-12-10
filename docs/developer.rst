@@ -545,22 +545,17 @@ Directives in Read the Docs
 
 :kbd:`nero` viene renderizzata così come la leggi, ma la devi scrivere così: ``:kbd:`nero```
 
-:meth:`prova (prova)` viene renderizzata così come la leggi, ma la devi scrivere così: `` :meth:`prova (prova)```
-
 
 .. glossary::   
 
-    environment
-          A structure where information about all documents under the root is
-          saved, and used for cross-referencing.  The environment is pickled
-          after the parsing stage, so that successive runs only need to read
-          and parse new and changed documents.
+    Documentation
+       Provides users with the knowledge they need to use something.
     
-       source directory
-          The directory which, including its subdirectories, contains all
-          source files for one Sphinx project.
+    Reading
+       The process of taking information into ones mind through the use of eyes.
     
-    
+    Writing
+       The process of putting thoughts into a medium for other people to :term:`read <Reading>`.
 
 --------
 
