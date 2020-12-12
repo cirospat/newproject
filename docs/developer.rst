@@ -539,12 +539,9 @@ Directives in Read the Docs
 
 
 .. sidebar:: Argomento
-
-        .. \ |STYLE10|\ ::
-    
     :subtitle: Sotto argomento
 
-    Questo è il ``sidebar``.  \ |STYLE11|\  il testo al di fuori del flusso del testo principale. Questa è una casella. laterale. Si usa per il testo al di fuori del flusso del testo principale. Questa è una casella.
+    Questo è il ``sidebar``.  \ |STYLE10|\  il testo al di fuori del flusso del testo principale. Questa è una casella. laterale. Si usa per il testo al di fuori del flusso del testo principale. Questa è una casella.
     
     .. rubric:: Questa è una rubrica dentro il ``sidebar``
     Le barre laterali vengono spesso visualizzate accanto al testo principale con un bordo e un colore grigio chiaro (solitamente) di sfondo.
@@ -618,9 +615,7 @@ Directives in Read the Docs
 
 .. |STYLE9| replace:: **PDFelement**
 
-.. |STYLE10| replace:: **centered**
-
-.. |STYLE11| replace:: **Si usa per**
+.. |STYLE10| replace:: **Si usa per**
 
 
 .. |REPLACE1| raw:: html
