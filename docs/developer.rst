@@ -539,6 +539,7 @@ Directives in Read the Docs
 
 
 .. sidebar:: Argomento
+    :float: center
     :subtitle: Sotto argomento
 
     Questo è il ``sidebar``.  \ |STYLE10|\  il testo al di fuori del flusso del testo principale. Questa è una casella. laterale. Si usa per il testo al di fuori del flusso del testo principale. Questa è una casella.
@@ -620,7 +621,7 @@ Directives in Read the Docs
 
 .. |REPLACE1| raw:: html
 
-    <div style="width: 450px; height: 350px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
+    <div style="width: 550px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
 .. |REPLACE2| raw:: html
 
     <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
