@@ -147,6 +147,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 .. |REPLACE3| raw:: html
 
     <div style="width: 650px; height: 500px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
+    word cloud di questo portale
 .. |REPLACE4| raw:: html
 
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Ambiti principali</span></strong>
