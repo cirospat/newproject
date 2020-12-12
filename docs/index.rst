@@ -24,9 +24,6 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 |REPLACE3|
 
-
-|REPLACE4|
-
 * i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
 
 * l’ ``innovazione`` di ``processo`` e di ``servizio``; 
@@ -38,18 +35,18 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali, utili nell'ambiente di lavoro al comune di Palermo.
 
 
-|REPLACE5|
+|REPLACE4|
 
 \ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design :guilabel:`Read the Docs`. \ |LINK7|\ . 
 
 :guilabel:`Read the Docs` è un format che si presta ottimamente alla rappresentazione e pubblicazione online di manuali e documentazione dove si rende necessario fornire spiegazioni e approfondimenti. 
 
-|REPLACE6|
+|REPLACE5|
 
 --------
 
 
-|REPLACE7|
+|REPLACE6|
 
 .. toctree::
   :maxdepth: 2
@@ -114,7 +111,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 +--------------------------------------------------------------------------------+
 
 
-|REPLACE8|
+|REPLACE7|
 
 
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -146,15 +143,12 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Reti di impegno</span></strong>
 .. |REPLACE3| raw:: html
 
-    <div style="width: 350px; height: 250px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
-.. |REPLACE4| raw:: html
-
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Ambiti principali</span></strong>
-.. |REPLACE5| raw:: html
+.. |REPLACE4| raw:: html
 
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Lo stile di questo portale</span></strong> 
     <a href="https://readthedocs.org" target="_blank" rel="noopener" title="Read the Docs"><img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_documentation_online-blue.svg?style=popout&logo=Read%20the%20Docs" /></a>
-.. |REPLACE6| raw:: html
+.. |REPLACE5| raw:: html
 
     <img src="https://img.shields.io/badge/%22Google_doc%22-for_text_editing-green.svg?style=popout&logo=google%20drive&logoColor=green" />
     </br>
@@ -162,10 +156,10 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     </br>
     <img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_publishing_online-blue.svg?style=popout&logo=Read%20the%20Docs" />
     <p><a href="http://googledocs.readthedocs.io" target="_blank" rel="noopener" title="tutorial: Google docs to Read the Docs"><img src="https://googledocs.readthedocs.io/it/latest/_images/gdocs-rtd_1.png" /></a></p>
-.. |REPLACE7| raw:: html
+.. |REPLACE6| raw:: html
 
     <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 1px 9px; border-radius: 4px;">Indice dei contenuti</span></span></strong></h3>
-.. |REPLACE8| raw:: html
+.. |REPLACE7| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
