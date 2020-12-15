@@ -149,5 +149,5 @@ catalogo Read the Docs a cura di Ciro Spataro
 
 .. |LINK23| raw:: html
 
-    <a href="https://libro-bianco-cantiere-smartcity-fpa-2020.readthedocs.io/" target="_blank">Libro Bianco per le smart cities 2020 ForumPA</a>
+    <a href="https://librobianco-responsive-city-fpa-2020.readthedocs.io/" target="_blank">Libro Bianco responsive cities 2020 ForumPA</a>
 
