@@ -52,7 +52,13 @@ Curriculum Vitae
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                      |* \ |LINK9|\  exchange of good practices in urban management.                                                                                                                                                                                                                                                                                               |
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|principali mansioni e responsabilità  /  \ |STYLE12|\                                 |Tecnico nella redazione e gestione di progetti negli ambiti della sostenibilità nelle aree urbane (fino al 2013), dell'innovazione tecnologica, digitalizzazione dei processi/servizi e open data (dal 2014 in poi).                                                                                                                                        |
+|principali mansioni e responsabilità  /  \ |STYLE12|\                                 |Tecnico nella redazione e gestione di progetti negli ambiti della sostenibilità nelle aree urbane fino al 2013, e dal 2014 nell'ambito dell'innovazione tecnologica, digitalizzazione dei processi/servizi e open data.                                                                                                                                     |
+|                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                      |Da aprile 2020 \ |LINK10|\  dei progetti di Agenda Urbana del PO FESR Sicilia 2014-2020 (obiettivo tematico 2 agenda digitale):                                                                                                                                                                                                                             |
+|                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                      |* AU_PA_2.2.1 Piattaforma di servizi di collaborazione inter–amministrativa                                                                                                                                                                                                                                                                                 |
+|                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                      |* AU_PA_2.2.3 Piattaforma di gestione documentale integrata nei sistemi verticali delle Pubbliche Amministrazioni.                                                                                                                                                                                                                                          |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                      |\ |STYLE13|\                                                                                                                                                                                                                                                                                                                                                |
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -80,7 +86,7 @@ Curriculum Vitae
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |\ |STYLE33|\                                                                          |                                                                                                                                                                                                                                                                                                                                                            |
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|formazione                                                                            |* \ |LINK10|\                                                                                                                                                                                                                                                                                                                                               |
+|formazione                                                                            |* \ |LINK11|\                                                                                                                                                                                                                                                                                                                                               |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
 |\ |STYLE34|\                                                                          |* Produzione, gestione e conservazione dei documenti digitali e/o digitalizzati (II Livello) - percorso INPS_Valore_PA - Università Lumsa in collaborazione con Formel, 2019.                                                                                                                                                                               |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
@@ -106,39 +112,39 @@ Curriculum Vitae
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                      |\ |STYLE35|\ :                                                                                                                                                                                                                                                                                                                                              |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* Partecipazione al corso online del FormezPA sugli open data, 2014 \ |LINK11|\ .                                                                                                                                                                                                                                                                           |
+|                                                                                      |* Partecipazione al corso online del FormezPA sugli open data, 2014 \ |LINK12|\ .                                                                                                                                                                                                                                                                           |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* Partecipazione  al corso  online  del  FormezPA sugli open data,  2015 \ |LINK12|\ .                                                                                                                                                                                                                                                                      |
+|                                                                                      |* Partecipazione  al corso  online  del  FormezPA sugli open data,  2015 \ |LINK13|\ .                                                                                                                                                                                                                                                                      |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* Partecipazione  al corso   online   del   Formez   sull'e-leadership, 2015 \ |LINK13|\ .                                                                                                                                                                                                                                                                  |
+|                                                                                      |* Partecipazione  al corso   online   del   Formez   sull'e-leadership, 2015 \ |LINK14|\ .                                                                                                                                                                                                                                                                  |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* Partecipazione da relatore al webinar del Formez sulla pubblicazione documentale della PA su \ |LINK14|\ ,  \ |LINK15|\ .                                                                                                                                                                                                                                 |
+|                                                                                      |* Partecipazione da relatore al webinar del Formez sulla pubblicazione documentale della PA su \ |LINK15|\ ,  \ |LINK16|\ .                                                                                                                                                                                                                                 |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* Realizzazione e aggiornamento di una piattaforma di \ |LINK16|\ .                                                                                                                                                                                                                                                                                         |
+|                                                                                      |* Realizzazione e aggiornamento di una piattaforma di \ |LINK17|\ .                                                                                                                                                                                                                                                                                         |
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|abilità tecniche                                                                      |* Uso di database per \ |LINK17|\ .                                                                                                                                                                                                                                                                                                                         |
+|abilità tecniche                                                                      |* Uso di database per \ |LINK18|\ .                                                                                                                                                                                                                                                                                                                         |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
 |\ |STYLE36|\                                                                          |* Uso dei servizi Google Drive servizi per la produttività quotidiana.                                                                                                                                                                                                                                                                                      |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* Uso della piattaforme \ |LINK18|\  e \ |LINK19|\  per la pubblicazione documentale delle Pubbliche Amministrazioni, secondo le \ |LINK20|\ .                                                                                                                                                                                                              |
+|                                                                                      |* Uso della piattaforme \ |LINK19|\  e \ |LINK20|\  per la pubblicazione documentale delle Pubbliche Amministrazioni, secondo le \ |LINK21|\ .                                                                                                                                                                                                              |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                      |* Competenze organizzative e di monitoraggio attività con l'ausilio di indicatori, acquisite durante l'esperienza di gestione dei progetti di partenariato transnazionale co-finanziati dall'UE.                                                                                                                                                            |
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |partecipazione a convegni e seminari, pubblicazioni, collaborazione a riviste, ecc. / |\ |STYLE38|\ :                                                                                                                                                                                                                                                                                                                                              |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|\ |STYLE37|\                                                                          |* Redazione delle Linee Guida comunali open data in maniera partecipata, adottate dal Comune di Palermo con Deliberazione di GM n. \ |LINK21|\  e n. \ |LINK22|\ .                                                                                                                                                                                          |
+|\ |STYLE37|\                                                                          |* Redazione delle Linee Guida comunali open data in maniera partecipata, adottate dal Comune di Palermo con Deliberazione di GM n. \ |LINK22|\  e n. \ |LINK23|\ .                                                                                                                                                                                          |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* Realizzazione e aggiornamento del  \ |LINK23|\  per i referenti open data del Comune di Palermo.                                                                                                                                                                                                                                                          |
+|                                                                                      |* Realizzazione e aggiornamento del  \ |LINK24|\  per i referenti open data del Comune di Palermo.                                                                                                                                                                                                                                                          |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* Pubblicazione articoli sulla community online degli Innovatori della Pubblica Amministrazione. \ |LINK24|\ .                                                                                                                                                                                                                                              |
+|                                                                                      |* Pubblicazione articoli sulla community online degli Innovatori della Pubblica Amministrazione. \ |LINK25|\ .                                                                                                                                                                                                                                              |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* Pubblicazioni articoli Pubblica Amministrazione Digitale sulla community \ |LINK25|\ .                                                                                                                                                                                                                                                                    |
+|                                                                                      |* Pubblicazioni articoli Pubblica Amministrazione Digitale sulla community \ |LINK26|\ .                                                                                                                                                                                                                                                                    |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* Redazione del \ |LINK26|\ .                                                                                                                                                                                                                                                                                                                               |
+|                                                                                      |* Redazione del \ |LINK27|\ .                                                                                                                                                                                                                                                                                                                               |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                      |\ |STYLE39|\ :                                                                                                                                                                                                                                                                                                                                              |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* Compa FVG Centro di competenza per la pubblica amministrazione Friuli Venezia Giulia, 22 giugno 2018,  \ |LINK27|\ .                                                                                                                                                                                                                                      |
+|                                                                                      |* Compa FVG Centro di competenza per la pubblica amministrazione Friuli Venezia Giulia, 22 giugno 2018,  \ |LINK28|\ .                                                                                                                                                                                                                                      |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                      |* Redazione FPA, gennaio 2019. Come pubblicare documenti online con il format di 'Read the Docs' per fruire testi anche su dispositivi mobili e con efficaci sistema di ricerca tag nel testo.                                                                                                                                                              |
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -146,24 +152,24 @@ Curriculum Vitae
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |interessi / \ |STYLE41|\                                                              |photography, trekking, mtbiking, snorkelling, tutorial, civic hacking                                                                                                                                                                                                                                                                                       |
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|attivo in reti                                                                        |* \ |LINK28|\  per l'attuazione dell'Agenda Digitale nella Pubblica Amministrazione                                                                                                                                                                                                                                                                         |
+|attivo in reti                                                                        |* \ |LINK29|\  per l'attuazione dell'Agenda Digitale nella Pubblica Amministrazione                                                                                                                                                                                                                                                                         |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|\ |STYLE42|\                                                                          |* \ |LINK29|\  open data network - \ |LINK30|\                                                                                                                                                                                                                                                                                                              |
+|\ |STYLE42|\                                                                          |* \ |LINK30|\  open data network - \ |LINK31|\                                                                                                                                                                                                                                                                                                              |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* \ |LINK31|\  articoli sulla Pubblica Amministrazione digitale                                                                                                                                                                                                                                                                                             |
-|                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* \ |LINK32|\                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                      |* \ |LINK32|\  articoli sulla Pubblica Amministrazione digitale                                                                                                                                                                                                                                                                                             |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
 |                                                                                      |* \ |LINK33|\                                                                                                                                                                                                                                                                                                                                               |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* \ |LINK34|\  e Agenda Digitale                                                                                                                                                                                                                                                                                                                            |
+|                                                                                      |* \ |LINK34|\                                                                                                                                                                                                                                                                                                                                               |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                      |* \ |LINK35|\                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                      |* \ |LINK35|\  e Agenda Digitale                                                                                                                                                                                                                                                                                                                            |
+|                                                                                      |                                                                                                                                                                                                                                                                                                                                                            |
+|                                                                                      |* \ |LINK36|\                                                                                                                                                                                                                                                                                                                                               |
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|profilo / \ |STYLE43|\                                                                |\ |LINK36|\                                                                                                                                                                                                                                                                                                                                                 |
+|profilo / \ |STYLE43|\                                                                |\ |LINK37|\                                                                                                                                                                                                                                                                                                                                                 |
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Il CV è disponibile a questo \ |LINK37|\  per essere scaricato in diversi formati aperti (``pdf``, ``odt``, ``docx``).
+Il CV è disponibile a questo \ |LINK38|\  per essere scaricato in diversi formati aperti (``pdf``, ``odt``, ``docx``).
 
 
 .. bottom of content
@@ -195,7 +201,7 @@ Il CV è disponibile a questo \ |LINK37|\  per essere scaricato in diversi forma
 
 .. |STYLE12| replace:: *main functions and responsibilities*
 
-.. |STYLE13| replace:: *Technician involved in projects management related  to sustainability in urban areas, innovation technology, digital services and open data.*
+.. |STYLE13| replace:: *Technician involved in project management related  to sustainability in urban areas till 2013, and starting from 2014 in innovation technology, digital services and open data.*
 
 .. |STYLE14| replace:: *attitudes*
 
@@ -296,113 +302,117 @@ Il CV è disponibile a questo \ |LINK37|\  per essere scaricato in diversi forma
 
 .. |LINK10| raw:: html
 
-    <a href="https://drive.google.com/file/d/0B6CeRtv_wk8XZWM1Nzc1OWYtMGJiYi00YjFjLWIyYTktZWM3N2I2MmYyYWU4/view" target="_blank">Partecipazione a percorsi formativi</a>
+    <a href="https://it.wikipedia.org/wiki/Responsabile_unico_del_procedimento" target="_blank">RUP</a>
 
 .. |LINK11| raw:: html
 
-    <a href="http://eventipa.formez.it/node/29227" target="_blank">eventipa.formez.it/node/29227</a>
+    <a href="https://drive.google.com/file/d/0B6CeRtv_wk8XZWM1Nzc1OWYtMGJiYi00YjFjLWIyYTktZWM3N2I2MmYyYWU4/view" target="_blank">Partecipazione a percorsi formativi</a>
 
 .. |LINK12| raw:: html
 
-    <a href="http://eventipa.formez.it/node/57587" target="_blank">eventipa.formez.it/node/57587</a>
+    <a href="http://eventipa.formez.it/node/29227" target="_blank">eventipa.formez.it/node/29227</a>
 
 .. |LINK13| raw:: html
 
-    <a href="http://eventipa.formez.it/node/57584" target="_blank">eventipa.formez.it/node/57584</a>
+    <a href="http://eventipa.formez.it/node/57587" target="_blank">eventipa.formez.it/node/57587</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://docs.italia.it" target="_blank">Docs Italia</a>
+    <a href="http://eventipa.formez.it/node/57584" target="_blank">eventipa.formez.it/node/57584</a>
 
 .. |LINK15| raw:: html
 
-    <a href="http://eventipa.formez.it/node/148190" target="_blank">eventipa.formez.it/node/148190</a>
+    <a href="https://docs.italia.it" target="_blank">Docs Italia</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://sites.google.com/view/opendataformazione" target="_blank">formazione open data</a>
+    <a href="http://eventipa.formez.it/node/148190" target="_blank">eventipa.formez.it/node/148190</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://cirospat.github.io/maps/" target="_blank">la costruzione di mappe interattive</a>
+    <a href="https://sites.google.com/view/opendataformazione" target="_blank">formazione open data</a>
 
 .. |LINK18| raw:: html
 
-    <a href="http://readthedocs.io/" target="_blank">Read the Docs</a>
+    <a href="https://cirospat.github.io/maps/" target="_blank">la costruzione di mappe interattive</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://docs.italia.it" target="_blank">Docs Italia</a>
+    <a href="http://readthedocs.io/" target="_blank">Read the Docs</a>
 
 .. |LINK20| raw:: html
 
-    <a href="http://guida-docs-italia.readthedocs.io/it/latest/" target="_blank">linee guida del Team Trasformazione Digitale (AgID)</a>
+    <a href="https://docs.italia.it" target="_blank">Docs Italia</a>
 
 .. |LINK21| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/normative/_13122013090000.pdf" target="_blank">252/2013</a>
+    <a href="http://guida-docs-italia.readthedocs.io/it/latest/" target="_blank">linee guida del Team Trasformazione Digitale (AgID)</a>
 
 .. |LINK22| raw:: html
 
-    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">97/2017</a>
+    <a href="https://www.comune.palermo.it/js/server/normative/_13122013090000.pdf" target="_blank">252/2013</a>
 
 .. |LINK23| raw:: html
 
-    <a href="https://sites.google.com/view/opendataformazione" target="_blank">portale didattico su open data</a>
+    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">97/2017</a>
 
 .. |LINK24| raw:: html
 
-    <a href="http://www.innovatoripa.it/blogs/cirospataro" target="_blank">http://www.innovatoripa.it/blogs/cirospataro</a>
+    <a href="https://sites.google.com/view/opendataformazione" target="_blank">portale didattico su open data</a>
 
 .. |LINK25| raw:: html
 
-    <a href="https://medium.com/@cirospat/latest" target="_blank">Medium</a>
+    <a href="http://www.innovatoripa.it/blogs/cirospataro" target="_blank">http://www.innovatoripa.it/blogs/cirospataro</a>
 
 .. |LINK26| raw:: html
 
-    <a href="https://cirospat.readthedocs.io/it/latest/piano_triennale_informatica_comune_palermo_2020-2022_delibera_GC_149_29-06-2020.html" target="_blank">Piano triennale per l’Informatica del Comune di Palermo 2020-2022</a>
+    <a href="https://medium.com/@cirospat/latest" target="_blank">Medium</a>
 
 .. |LINK27| raw:: html
 
-    <a href="https://compa.fvg.it/Risorse-per-te/Video-Gallery/opendataFVG-2018/Ciro-Spataro" target="_blank">percorso open data del comune di Palermo</a>
+    <a href="https://cirospat.readthedocs.io/it/latest/piano_triennale_informatica_comune_palermo_2020-2022_delibera_GC_149_29-06-2020.html" target="_blank">Piano triennale per l’Informatica del Comune di Palermo 2020-2022</a>
 
 .. |LINK28| raw:: html
 
-    <a href="https://forum.italia.it/u/cirospat/activity" target="_blank">forum DocsItalia</a>
+    <a href="https://compa.fvg.it/Risorse-per-te/Video-Gallery/opendataFVG-2018/Ciro-Spataro" target="_blank">percorso open data del comune di Palermo</a>
 
 .. |LINK29| raw:: html
 
-    <a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a>
+    <a href="https://forum.italia.it/u/cirospat/activity" target="_blank">forum DocsItalia</a>
 
 .. |LINK30| raw:: html
 
-    <a href="https://groups.google.com/forum/#!forum/opendatasicilia" target="_blank">mailing list opendatasicilia</a>
+    <a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a>
 
 .. |LINK31| raw:: html
 
-    <a href="https://medium.com/@cirospat/latest" target="_blank">medium.com/@cirospat</a>
+    <a href="https://groups.google.com/forum/#!forum/opendatasicilia" target="_blank">mailing list opendatasicilia</a>
 
 .. |LINK32| raw:: html
 
-    <a href="https://twitter.com/cirospat" target="_blank">twitter.com/cirospat</a>
+    <a href="https://medium.com/@cirospat/latest" target="_blank">medium.com/@cirospat</a>
 
 .. |LINK33| raw:: html
 
-    <a href="https://www.linkedin.com/in/cirospataro/" target="_blank">linkedin.com/in/cirospataro</a>
+    <a href="https://twitter.com/cirospat" target="_blank">twitter.com/cirospat</a>
 
 .. |LINK34| raw:: html
 
-    <a href="https://www.facebook.com/groups/384577025038311/" target="_blank">Pubblica Amministrazione Digitale</a>
+    <a href="https://www.linkedin.com/in/cirospataro/" target="_blank">linkedin.com/in/cirospataro</a>
 
 .. |LINK35| raw:: html
 
-    <a href="https://www.facebook.com/groups/cad.ancitel/" target="_blank">Codice Amministrazione Digitale</a>
+    <a href="https://www.facebook.com/groups/384577025038311/" target="_blank">Pubblica Amministrazione Digitale</a>
 
 .. |LINK36| raw:: html
 
-    <a href="https://cirospat.readthedocs.io" target="_blank">cirospat.readthedocs.io</a>
+    <a href="https://www.facebook.com/groups/cad.ancitel/" target="_blank">Codice Amministrazione Digitale</a>
 
 .. |LINK37| raw:: html
+
+    <a href="https://cirospat.readthedocs.io" target="_blank">cirospat.readthedocs.io</a>
+
+.. |LINK38| raw:: html
 
     <a href="https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA" target="_blank">link</a>
 
