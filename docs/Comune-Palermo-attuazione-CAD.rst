@@ -345,6 +345,11 @@ Il 23 novembre 2020 è stato firmato l'Accordo tra Comune di Palermo e Camera di
 
 |
 
+\ |STYLE57|\ . \ |LINK97|\ . Palermo consegue la doppia “A” nel rating della trasformazione digitale “avanzata”, risulta prima per gli “open data", ed è nella “top ten” per l'offerta dei "servizi on line" (8° posto complessivo, unico capoluogo metropolitano del Sud) e per la “trasparenza”(10°).
+
+
+|
+
 
 .. bottom of content
 
@@ -462,6 +467,8 @@ Il 23 novembre 2020 è stato firmato l'Accordo tra Comune di Palermo e Camera di
 .. |STYLE55| replace:: **firma digitale**
 
 .. |STYLE56| replace:: **Alla Società comunale in house per i servizi informatici, Sispi SPA, la certificazione ISO per la gestione delle informazioni personali**
+
+.. |STYLE57| replace:: **Palermo scala 64 posizioni in un anno e si colloca al 13° posto tra le 107 città capoluogo italiane nella iCityRank 2020 (report a cura di FPA)**
 
 
 .. |REPLACE1| raw:: html
@@ -851,4 +858,8 @@ Il 23 novembre 2020 è stato firmato l'Accordo tra Comune di Palermo e Camera di
 .. |LINK96| raw:: html
 
     <a href="https://www.comune.palermo.it/js/server/uploads/_09122020140549.pdf" target="_blank">Certificato ISO</a>
+
+.. |LINK97| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=29921" target="_blank">Dal 77° posto del 2019 al 13° del 2020</a>
 
