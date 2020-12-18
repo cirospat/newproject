@@ -591,7 +591,15 @@ Directives in Read the Docs
     
        return ``rosso``, return a :class:`nero` object,
 
-:u-textClean:`u-textClean`
+.. confval:: collapse_navigation
+
+    :type: boolean
+
+    :default: ``True``
+
+    With this enabled, navigation entries are not expandable -- the ``[+]``
+
+    icons next to each entry are removed.
 
 
 .. bottom of content
