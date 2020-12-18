@@ -591,8 +591,6 @@ Directives in Read the Docs
     
        return ``rosso``, return a :class:`nero` object,
 
-option :py:\`cirospat <\ |LINK99|\ >\`,  you can set
-
 
 .. bottom of content
 
@@ -1056,8 +1054,4 @@ option :py:\`cirospat <\ |LINK99|\ >\`,  you can set
 .. |LINK98| raw:: html
 
     <a href="https://www.comune.palermo.it/" target="_blank">link 2</a>
-
-.. |LINK99| raw:: html
-
-    <a href="https://cirospat.readthedocs.io" target="_blank">https://cirospat.readthedocs.io</a>
 
