@@ -591,7 +591,7 @@ Directives in Read the Docs
     
        return ``rosso``, return a :class:`nero` object,
 
-option :py:confval:\`cirospat <\ |LINK99|\ >\`,  you can set
+option :py:\`cirospat <\ |LINK99|\ >\`,  you can set
 
 
 .. bottom of content
