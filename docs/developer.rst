@@ -591,7 +591,7 @@ Directives in Read the Docs
     
        return ``rosso``, return a :class:`nero` object,
 
-:tag-item:`tag-item`
+:u-textClean:`u-textClean`
 
 
 .. bottom of content
