@@ -487,15 +487,17 @@ Carousel
 Directives in Read the Docs
 ===========================
 
+:guilabel:`Queste ed altre indicazioni per Read the Docs si tovano anche a` \ |LINK99|\  
+
 
 .. class:: importante
 
     una prova di contenuto dentro una generic ``directive``.
     Questa è la renderizzazione su pagine web a seguito del commit su Github
 
-:download:\`Questo link è per il download <\ |LINK99|\ >\`.
+:download:\`Questo link è per il download <\ |LINK100|\ >\`.
 
-si scrive così: ``:download:`Questo link è per il download <\ |LINK100|\ >```
+si scrive così: ``:download:`Questo link è per il download <\ |LINK101|\ >```
 
 
 .. centered:: Questo è un testo centrato.
@@ -528,7 +530,7 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 |                                                                                                                                                                                                                |
 |:Author: David Goodger                                                                                                                                                                                          |
 |                                                                                                                                                                                                                |
-|:Link utili: \ |LINK101|\ , \ |LINK102|\                                                                                                                                                                        |
+|:Link utili: \ |LINK102|\ , \ |LINK103|\                                                                                                                                                                        |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 \ |STYLE11|\ 
@@ -1048,7 +1050,7 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 .. |LINK99| raw:: html
 
-    <a href="https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/" target="_blank">https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/</a>
+    <a href="https://schema-tipo.readthedocs.io/" target="_blank">https://schema-tipo.readthedocs.io/</a>
 
 .. |LINK100| raw:: html
 
@@ -1056,9 +1058,13 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 .. |LINK101| raw:: html
 
-    <a href="https://www.comune.palermo.it/unita.php?apt=4&uo=2188&serv=1056&sett=230" target="_blank">link 1</a>
+    <a href="https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/" target="_blank">https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/</a>
 
 .. |LINK102| raw:: html
+
+    <a href="https://www.comune.palermo.it/unita.php?apt=4&uo=2188&serv=1056&sett=230" target="_blank">link 1</a>
+
+.. |LINK103| raw:: html
 
     <a href="https://www.comune.palermo.it/" target="_blank">link 2</a>
 
