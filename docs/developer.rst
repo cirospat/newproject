@@ -4,7 +4,10 @@
 developer
 *********
 
-\ |LINK1|\   una pagina dove colleziono utilità per fini di sviluppo e creatività digitale -
+
++-------------------------------------------------------------------------------------------------------------------------------------------+
+|\ |LINK1|\  è una pagina dove colleziono utilità per fini di sviluppo e creatività digitale. La pagina doc sorgente è a questo \ |LINK2|\ .|
++-------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 .. toctree::  
@@ -29,7 +32,7 @@ developer
 CATALOGO DI TUTTE LE MAPPE DI CIRO SPATARO E DI GB VITRANO
 ==========================================================
 
-\ |LINK2|\  
+\ |LINK3|\  
 
 --------
 
@@ -38,27 +41,27 @@ CATALOGO DI TUTTE LE MAPPE DI CIRO SPATARO E DI GB VITRANO
 MAPPE PALERMO
 =============
 
-* \ |LINK3|\  my google maps
+* \ |LINK4|\  my google maps
 
-* \ |LINK4|\  (pagina FB con mappe su Palermo)
+* \ |LINK5|\  (pagina FB con mappe su Palermo)
 
-* \ |LINK5|\  (mappe varie di Ciro)
+* \ |LINK6|\  (mappe varie di Ciro)
 
-* \ |LINK6|\  (contenitore di oltre 100 mappe su Palermo, su Petrusino)
+* \ |LINK7|\  (contenitore di oltre 100 mappe su Palermo, su Petrusino)
 
-* \ |LINK7|\  (sito mappe di Palermo utili a turisti)
+* \ |LINK8|\  (sito mappe di Palermo utili a turisti)
 
-* \ |LINK8|\  (OMIRA su Umap cirospat) 
+* \ |LINK9|\  (OMIRA su Umap cirospat) 
 
-* \ |LINK9|\  elezioni2017_Palermo da Guenter Richter
+* \ |LINK10|\  elezioni2017_Palermo da Guenter Richter
 
-* \ |LINK10|\  e relativo bot telegram #rifiutocivico
+* \ |LINK11|\  e relativo bot telegram #rifiutocivico
 
-* \ |LINK11|\  mapillary cirospat
+* \ |LINK12|\  mapillary cirospat
 
-* \ |LINK12|\  Palermo su mapillary
+* \ |LINK13|\  Palermo su mapillary
 
-* \ |LINK13|\  Palermo airbnb gen_2018 (Gianni Vitrano)
+* \ |LINK14|\  Palermo airbnb gen_2018 (Gianni Vitrano)
 
 --------
 
@@ -67,29 +70,29 @@ MAPPE PALERMO
 MAPPE PALERMO STORICA EFFETTO LENTE INGRANDIMENTO E ALTRE MAPPE INTERESSANTI
 ============================================================================
 
-* \ |LINK14|\  (GBVitrano Palermo IGM 1:25000)
+* \ |LINK15|\  (GBVitrano Palermo IGM 1:25000)
 
-* \ |LINK15|\  carta tecnica comune Palermo
+* \ |LINK16|\  carta tecnica comune Palermo
 
-* \ |LINK16|\  (GBVitrano Omira 1:5000)
+* \ |LINK17|\  (GBVitrano Omira 1:5000)
 
-* \ |LINK17|\   PRG2025 (su Petrusino)
+* \ |LINK18|\   PRG2025 (su Petrusino)
 
-* \ |LINK18|\  (elenco mappe 2-3D di GBVitrano su Github SiciliaHub)
+* \ |LINK19|\  (elenco mappe 2-3D di GBVitrano su Github SiciliaHub)
 
-* \ |LINK19|\   (Hubsicilia - Omira Irta e Sas con OSM e RealVista su Gitub SiciliaHub, con metadati mappa su barra laterale)
+* \ |LINK20|\   (Hubsicilia - Omira Irta e Sas con OSM e RealVista su Gitub SiciliaHub, con metadati mappa su barra laterale)
 
-* \ |LINK20|\  (variante general eal PRG 2004 con cerchio)
+* \ |LINK21|\  (variante general eal PRG 2004 con cerchio)
 
-* \ |LINK21|\  (catasto centro storico 1887 con cerchio)
+* \ |LINK22|\  (catasto centro storico 1887 con cerchio)
 
-* \ |LINK22|\  (PRG scehma masima su PRG 2004 con cerchio)
+* \ |LINK23|\  (PRG scehma masima su PRG 2004 con cerchio)
 
-* \ |LINK23|\    \ |LINK24|\    (Piano protezione civile Palermo)
+* \ |LINK24|\    \ |LINK25|\    (Piano protezione civile Palermo)
 
-* \ |LINK25|\   (stile petrusino)
+* \ |LINK26|\   (stile petrusino)
 
-* \ |LINK26|\   (stile petrusino, ultimo gen 2018) - hub di diverse mappe di Palermo a cura di GBVitrano iniziato gli ultimi giorni di dic. del 2017
+* \ |LINK27|\   (stile petrusino, ultimo gen 2018) - hub di diverse mappe di Palermo a cura di GBVitrano iniziato gli ultimi giorni di dic. del 2017
 
 --------
 
@@ -98,13 +101,13 @@ MAPPE PALERMO STORICA EFFETTO LENTE INGRANDIMENTO E ALTRE MAPPE INTERESSANTI
 SERVIZI DI WEBMAPPING ALTERNATIVI A UMAP
 ========================================
 
-\ |LINK27|\  (che preferisco) 
+\ |LINK28|\  (che preferisco) 
 
-\ |LINK28|\  (intramontabile) 
+\ |LINK29|\  (intramontabile) 
 
-\ |LINK29|\  (questo però è un plugin per wordpress) 
+\ |LINK30|\  (questo però è un plugin per wordpress) 
 
-\ |LINK30|\  (a pagamento)
+\ |LINK31|\  (a pagamento)
 
 --------
 
@@ -113,11 +116,11 @@ SERVIZI DI WEBMAPPING ALTERNATIVI A UMAP
 FILTRI CON "DATE" NELLE FUNZIONI DI RICERCA (QUERY) DA USARE NEI GOOGLE SPREADSHEET
 ===================================================================================
 
-\ |LINK31|\ 
+\ |LINK32|\ 
 
 Usare il formato YYYY-MM-DD.
 
-The \ |LINK32|\  function converts it to the required format for the Query formula by specifying a format of "yyyy-mm-dd":
+The \ |LINK33|\  function converts it to the required format for the Query formula by specifying a format of "yyyy-mm-dd":
 
 .. code:: 
 
@@ -146,7 +149,7 @@ Substitute the TODAY() function into our formula:
 
 \ |STYLE1|\ 
 
-\ |LINK33|\ 
+\ |LINK34|\ 
 
 .. _h5979383b6f422d6f1a3f404a4258253f:
 
@@ -182,21 +185,21 @@ Combine the IMAGE and HYPERLINK functions to create clickable images
 SFONDI TILES PER MAPPE UMAP
 ===========================
 
-* lista di tiles per sfondi   \ |LINK34|\  
+* lista di tiles per sfondi   \ |LINK35|\  
 
-* tiles vari da usare  \ |LINK35|\  
+* tiles vari da usare  \ |LINK36|\  
 
-* satellite tile ESRI - World Imagery \ |LINK36|\  
+* satellite tile ESRI - World Imagery \ |LINK37|\  
 
-* satellite tile Google \ |LINK37|\  
+* satellite tile Google \ |LINK38|\  
 
-* tile con sfondo satellite da mapbox/satellite-v9 con API: \ |LINK38|\   (senza nomi strade)
+* tile con sfondo satellite da mapbox/satellite-v9 con API: \ |LINK39|\   (senza nomi strade)
 
-* \ |LINK39|\  (con nomi strade)
+* \ |LINK40|\  (con nomi strade)
 
-* SERVIZIO ONLINE CREAZIONE DI TILES DA IMMAGINI  Mapwarper \ |LINK40|\  
+* SERVIZIO ONLINE CREAZIONE DI TILES DA IMMAGINI  Mapwarper \ |LINK41|\  
 
-* \ |LINK41|\  tile: https://api.mapbox.com/styles/v1/rplln/cjix2cv5l83yz2rmne9icvusx/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoicnBsbG4iLCJhIjoiY2ppeDI5ZTByMDVtMzN1cDRxZWlzamwzcyJ9.Yn6OjT0SStL2tffNloZrdg
+* \ |LINK42|\  tile: https://api.mapbox.com/styles/v1/rplln/cjix2cv5l83yz2rmne9icvusx/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoicnBsbG4iLCJhIjoiY2ppeDI5ZTByMDVtMzN1cDRxZWlzamwzcyJ9.Yn6OjT0SStL2tffNloZrdg
 
 --------
 
@@ -205,32 +208,32 @@ SFONDI TILES PER MAPPE UMAP
 CODICE DA USARE PER MAPPE UMAP
 ==============================
 
-video embedding = {{{\ |LINK42|\ }}}
+video embedding = {{{\ |LINK43|\ }}}
 
-link con testo = [[\ |LINK43|\ |testo del link]] 
+link con testo = [[\ |LINK44|\ |testo del link]] 
 
-immagine = {{\ |LINK44|\ |larghezza}} Immagine 
+immagine = {{\ |LINK45|\ |larghezza}} Immagine 
 
-link a url con icona cliccabile = [[\ |LINK45|\ }}]]
+link a url con icona cliccabile = [[\ |LINK46|\ }}]]
 
-ICONE MAPPE = \ |LINK46|\  
+ICONE MAPPE = \ |LINK47|\  
 
 GOOGLEMAPS = <iframe width='100%' height='500' src="http....   "></iframe>
 
-URL ENCODER E DECODER = \ |LINK47|\  
+URL ENCODER E DECODER = \ |LINK48|\  
 
-POST IMAGE DA LINKARE SU UMAP: \ |LINK48|\  
+POST IMAGE DA LINKARE SU UMAP: \ |LINK49|\  
 
-Icone mappe \ |LINK49|\  ccbysa
+Icone mappe \ |LINK50|\  ccbysa
 
 .. _h1c7b5b1f64462a201813244135465568:
 
 GOOGLE DRIVE SPREADSHEET TO UMAP
 --------------------------------
 
-Video breve per alimentare in modo facile uMap da un foglio elettronico su Google Drive, by Andrea Borruso \ |LINK50|\ 
+Video breve per alimentare in modo facile uMap da un foglio elettronico su Google Drive, by Andrea Borruso \ |LINK51|\ 
 
-Tutorial per fare mappe alimentate da google spreadsheet = \ |LINK51|\  
+Tutorial per fare mappe alimentate da google spreadsheet = \ |LINK52|\  
 
 DB x UMAP con output in csv =
 
@@ -240,9 +243,9 @@ DB x UMAP con output in csv =
 
 | 
 
-.. _h595e66241d682068337c187a521a3c48:
+.. _h26c50456b747a635d2737774d14458:
 
-\ |LINK52|\  e \ |LINK53|\  UMAP AVVISI POLIZIA MUNICIPALE PA
+\ |LINK53|\  e \ |LINK54|\  UMAP AVVISI POLIZIA MUNICIPALE PA
 -------------------------------------------------------------
 
 \ |STYLE5|\ .
@@ -279,7 +282,7 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 
 |REPLACE4|
 
-⇒ \ |LINK54|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
+⇒ \ |LINK55|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
 
 \ |STYLE6|\  API che usa la seguente formula: 
 
@@ -287,36 +290,36 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 
     =JOIN(",", ImportXML(CONCATENATE("http://nominatim.openstreetmap.org/search/?format=xml&q=",A2), "//place[1]/@lat | //place[1]/@lon"))
 
-dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK55|\ .
+dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK56|\ .
 
 
 |REPLACE5|
 
-* \ |LINK56|\  con Openstreetmap tramite OnData
+* \ |LINK57|\  con Openstreetmap tramite OnData
 
-* \ |LINK57|\   con Openstreetmap
-
-* \ |LINK58|\  con Openstreetmap
+* \ |LINK58|\   con Openstreetmap
 
 * \ |LINK59|\  con Openstreetmap
 
-* \ |LINK60|\  con Googlemap
+* \ |LINK60|\  con Openstreetmap
 
-* \ |LINK61|\  by GBVitrano con API Google
+* \ |LINK61|\  con Googlemap
 
 * \ |LINK62|\  by GBVitrano con API Google
 
-* \ |LINK63|\  con le API di Google
+* \ |LINK63|\  by GBVitrano con API Google
 
-    * \ |LINK64|\  con API Google
+* \ |LINK64|\  con le API di Google
 
-* \ |LINK65|\  (google e bing) 
+    * \ |LINK65|\  con API Google
 
-* \ |LINK66|\  con API di Mapquest
+* \ |LINK66|\  (google e bing) 
 
-* \ |LINK67|\  API Mapquest per geocoding (cirospat - caneclaudia2volte)
+* \ |LINK67|\  con API di Mapquest
 
-* \ |LINK68|\  location helper in versione demo di Mapbox
+* \ |LINK68|\  API Mapquest per geocoding (cirospat - caneclaudia2volte)
+
+* \ |LINK69|\  location helper in versione demo di Mapbox
 
 --------
 
@@ -325,9 +328,9 @@ dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK55|\ .
 SENSORE POLVERI SOTTILI COLLEGATO AD UNA RETE ONLINE E DATI SU MAPPA
 ====================================================================
 
-* \ |LINK69|\  (tutorial) - 
+* \ |LINK70|\  (tutorial) - 
 
-* \ |LINK70|\  (mappa con grafici e dati su sensore mio)
+* \ |LINK71|\  (mappa con grafici e dati su sensore mio)
 
 --------
 
@@ -336,7 +339,7 @@ SENSORE POLVERI SOTTILI COLLEGATO AD UNA RETE ONLINE E DATI SU MAPPA
 GIT GUIDE
 =========
 
-just a simple guide for getting started with git. \ |LINK71|\ 
+just a simple guide for getting started with git. \ |LINK72|\ 
 
 --------
 
@@ -345,9 +348,9 @@ just a simple guide for getting started with git. \ |LINK71|\
 REPOSITORY DATA CIRO SPATARO
 ============================
 
-\ |LINK72|\  
-
 \ |LINK73|\  
+
+\ |LINK74|\  
 
 --------
 
@@ -356,7 +359,7 @@ REPOSITORY DATA CIRO SPATARO
 MACHINE LEARNING E ARTIFICIAL INTELLIGENCE
 ==========================================
 
-\ |LINK74|\  un articolo per capire un po
+\ |LINK75|\  un articolo per capire un po
 
 --------
 
@@ -365,7 +368,7 @@ MACHINE LEARNING E ARTIFICIAL INTELLIGENCE
 RICHIESTA FOIA ONLINE
 =====================
 
-\ |LINK75|\  generatore di richieste di accesso civico generalizzato (FOIA) a cura di Giovanni Pirrotta e Giuseppe Ragusa
+\ |LINK76|\  generatore di richieste di accesso civico generalizzato (FOIA) a cura di Giovanni Pirrotta e Giuseppe Ragusa
 
 --------
 
@@ -374,9 +377,9 @@ RICHIESTA FOIA ONLINE
 CSV EDITOR
 ==========
 
-* \ |LINK76|\   download
+* \ |LINK77|\   download
 
-* \ |LINK77|\  editor online sulla falsa riga di Google spreadsheet
+* \ |LINK78|\  editor online sulla falsa riga di Google spreadsheet
 
 --------
 
@@ -385,15 +388,15 @@ CSV EDITOR
 EDITOR ONLINE PER LAVORI CONDIVISI
 ==================================
 
-* \ |LINK78|\  
-
-* \ |LINK79|\ 
+* \ |LINK79|\  
 
 * \ |LINK80|\ 
 
-* \ |LINK81|\  
+* \ |LINK81|\ 
 
 * \ |LINK82|\  
+
+* \ |LINK83|\  
 
 --------
 
@@ -408,13 +411,13 @@ cad= parola da cercare
 
 newscount= il numero delle news da visualizzare come output della query
 
-\ |LINK83|\ 
+\ |LINK84|\ 
 
 \ |STYLE7|\  
 
-* \ |LINK84|\  il mio genratore di feed RSS
+* \ |LINK85|\  il mio genratore di feed RSS
 
-* \ |LINK85|\  - \ |LINK86|\  per costruire Feed per gli eventi Feltrinelli di Palermo
+* \ |LINK86|\  - \ |LINK87|\  per costruire Feed per gli eventi Feltrinelli di Palermo
 
 --------
 
@@ -423,7 +426,7 @@ newscount= il numero delle news da visualizzare come output della query
 Badge img shields
 =================
 
-\ |LINK87|\ 
+\ |LINK88|\ 
 
 --------
 
@@ -432,7 +435,7 @@ Badge img shields
 web service per creare loghi e icone 
 =====================================
 
-\ |LINK88|\  
+\ |LINK89|\  
 
 --------
 
@@ -441,7 +444,7 @@ web service per creare loghi e icone
 Cards
 =====
 
-\ |LINK89|\ 
+\ |LINK90|\ 
 
 --------
 
@@ -450,21 +453,21 @@ Cards
 Unire PDF
 =========
 
-\ |LINK90|\ 
+\ |LINK91|\ 
 
-* PDFTK Builder \ |LINK91|\  
+* PDFTK Builder \ |LINK92|\  
 
-* Online2PDF \ |LINK92|\  
+* Online2PDF \ |LINK93|\  
 
-* \ |LINK93|\  — servizio Web gratuito e che non richiede registrazioni. Permette di unire e modificare i file PDF in vari modi. Da notare che non consente di caricare file aventi un peso superiore ai 100 MB. Eventualmente, però, è possibile aggirare questa limitazione passando a uno dei piani a pagamento (con costi a partire da 6 euro/mese), i quali consentono di sbloccare anche altre funzionalità extra.
+* \ |LINK94|\  — servizio Web gratuito e che non richiede registrazioni. Permette di unire e modificare i file PDF in vari modi. Da notare che non consente di caricare file aventi un peso superiore ai 100 MB. Eventualmente, però, è possibile aggirare questa limitazione passando a uno dei piani a pagamento (con costi a partire da 6 euro/mese), i quali consentono di sbloccare anche altre funzionalità extra.
 
-* \ |LINK94|\  — si tratta di un altro servizio Web gratuito e che non necessita di registrazione e permette di intervenire sui documenti PDF unendoli, oltre che convertendoli, dividendoli, alleggerendoli, sbloccandoli ecc. Non applica limitazioni per quel che concerne il peso massimo dei file.
+* \ |LINK95|\  — si tratta di un altro servizio Web gratuito e che non necessita di registrazione e permette di intervenire sui documenti PDF unendoli, oltre che convertendoli, dividendoli, alleggerendoli, sbloccandoli ecc. Non applica limitazioni per quel che concerne il peso massimo dei file.
 
-* \ |LINK95|\  — è un’altra soluzione per unire i file PDF via Web e tramite la quale è eventualmente possibile apportare varie ulteriori modifiche ai documenti caricati. È gratis, non richiede registrazione e non pone limiti per l’upload.
+* \ |LINK96|\  — è un’altra soluzione per unire i file PDF via Web e tramite la quale è eventualmente possibile apportare varie ulteriori modifiche ai documenti caricati. È gratis, non richiede registrazione e non pone limiti per l’upload.
 
 \ |STYLE8|\ 
 
-\ |STYLE9|\ . Si tratta, infatti, di un’app che consente di visualizzare i file PDF e intervenire su di essi in vari modi, andandoli a convertire, unire ecc. È gratuita e facile da usare. Per effettuarne il download sul tuo dispositivo, accedi alla \ |LINK96|\ 
+\ |STYLE9|\ . Si tratta, infatti, di un’app che consente di visualizzare i file PDF e intervenire su di essi in vari modi, andandoli a convertire, unire ecc. È gratuita e facile da usare. Per effettuarne il download sul tuo dispositivo, accedi alla \ |LINK97|\ 
 
 --------
 
@@ -473,9 +476,7 @@ Unire PDF
 Carousel
 ========
 
-https://getbootstrap.com/docs/4.0/components/carousel/
-
-|REPLACE6|
+\ |LINK98|\ 
 
 |
 
@@ -492,9 +493,9 @@ Directives in Read the Docs
     una prova di contenuto dentro una generic ``directive``.
     Questa è la renderizzazione su pagine web a seguito del commit su Github
 
-:download:\`Questo link è per il download <\ |LINK97|\ >\`.
+:download:\`Questo link è per il download <\ |LINK99|\ >\`.
 
-si scrive così: ``:download:`Questo link è per il download <\ |LINK98|\ >```
+si scrive così: ``:download:`Questo link è per il download <\ |LINK100|\ >```
 
 
 .. centered:: Questo è un testo centrato.
@@ -527,7 +528,7 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 |                                                                                                                                                                                                                |
 |:Author: David Goodger                                                                                                                                                                                          |
 |                                                                                                                                                                                                                |
-|:Link utili: \ |LINK99|\ , \ |LINK100|\                                                                                                                                                                         |
+|:Link utili: \ |LINK101|\ , \ |LINK102|\                                                                                                                                                                        |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 \ |STYLE11|\ 
@@ -579,18 +580,6 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
     
     :class:`Writing`
        The process of putting thoughts into a medium for other people to :term:`read <Reading>`.
-
-
-.. glossary:: 
-
-:class:`Documentation`
-   Provides users with the knowledge they need to use something.
-
-:class:`Reading`
-   The process of taking information into ones mind through the use of eyes.
-
-:class:`Writing`
-   The process of putting thoughts into a medium for other people to :term:`read <Reading>`.
 
 --------
 
@@ -664,35 +653,6 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 .. |REPLACE5| raw:: html
 
     <p><span style="background-color: #105618; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Altri Geocoder</span></p>
-.. |REPLACE6| raw:: html
-
-    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-      <ol class="carousel-indicators">
-        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-      </ol>
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img class="d-block w-100" src="..." alt="First slide">
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100" src="..." alt="Second slide">
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100" src="..." alt="Third slide">
-        </div>
-      </div>
-      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    </div>
-    
 
 .. |LINK1| raw:: html
 
@@ -700,397 +660,405 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 .. |LINK2| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1auVqTh1aeJ1c2DuYUWI1UX0p8OHtupApFEjCXWsmxbA" target="_blank">https://docs.google.com/spreadsheets/d/1auVqTh1aeJ1c2DuYUWI1UX0p8OHtupApFEjCXWsmxbA</a>
+    <a href="https://docs.google.com/document/d/1UBNgDirj7I4cCSZSSLqbygu3U4SM8IoeW0M22HcOBPI" target="_blank">link</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.google.com/maps/d/u/0/?hl=it&authuser=0&action=open" target="_blank">https://www.google.com/maps/d/u/0/?hl=it&authuser=0&action=open</a>
+    <a href="https://docs.google.com/spreadsheets/d/1auVqTh1aeJ1c2DuYUWI1UX0p8OHtupApFEjCXWsmxbA" target="_blank">https://docs.google.com/spreadsheets/d/1auVqTh1aeJ1c2DuYUWI1UX0p8OHtupApFEjCXWsmxbA</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://www.facebook.com/mappedipalermo/" target="_blank">https://www.facebook.com/mappedipalermo/</a>
+    <a href="https://www.google.com/maps/d/u/0/?hl=it&authuser=0&action=open" target="_blank">https://www.google.com/maps/d/u/0/?hl=it&authuser=0&action=open</a>
 
 .. |LINK5| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/user/cirospat/" target="_blank">http://umap.openstreetmap.fr/it/user/cirospat/</a>
+    <a href="https://www.facebook.com/mappedipalermo/" target="_blank">https://www.facebook.com/mappedipalermo/</a>
 
 .. |LINK6| raw:: html
 
-    <a href="http://bit.ly/palermomaps" target="_blank">http://bit.ly/palermomaps</a>
+    <a href="http://umap.openstreetmap.fr/it/user/cirospat/" target="_blank">http://umap.openstreetmap.fr/it/user/cirospat/</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://bit.ly/palermo_maps" target="_blank">http://bit.ly/palermo_maps</a>
+    <a href="http://bit.ly/palermomaps" target="_blank">http://bit.ly/palermomaps</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://u.osmfr.org/m/136197" target="_blank">u.osmfr.org/m/136197</a>
+    <a href="http://bit.ly/palermo_maps" target="_blank">http://bit.ly/palermo_maps</a>
 
 .. |LINK9| raw:: html
 
-    <a href="http://projects.ixmaps.com.s3-website-eu-west-1.amazonaws.com/Palermo_Elezioni/app/Palermo_Elezioni/index_2017_full.html" target="_blank">http://projects.ixmaps.com.s3-website-eu-west-1.amazonaws.com/Palermo_Elezioni/app/Palermo_Elezioni/index_2017_full.html</a>
+    <a href="http://u.osmfr.org/m/136197" target="_blank">u.osmfr.org/m/136197</a>
 
 .. |LINK10| raw:: html
 
-    <a href="http://lrssvt.ns0.it/rifiutocivico/#11/38.1375/13.5733" target="_blank">http://lrssvt.ns0.it/rifiutocivico/#11/38.1375/13.5733</a>
+    <a href="http://projects.ixmaps.com.s3-website-eu-west-1.amazonaws.com/Palermo_Elezioni/app/Palermo_Elezioni/index_2017_full.html" target="_blank">http://projects.ixmaps.com.s3-website-eu-west-1.amazonaws.com/Palermo_Elezioni/app/Palermo_Elezioni/index_2017_full.html</a>
 
 .. |LINK11| raw:: html
 
-    <a href="https://www.mapillary.com/app/user/cirospat?lat=36.82147841468249&lng=15.104561915917657&z=15.017458713501235" target="_blank">https://www.mapillary.com/app/user/cirospat?lat=36.82147841468249&lng=15.104561915917657&z=15.017458713501235</a>
+    <a href="http://lrssvt.ns0.it/rifiutocivico/#11/38.1375/13.5733" target="_blank">http://lrssvt.ns0.it/rifiutocivico/#11/38.1375/13.5733</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://www.mapillary.com/app/?lat=38.12949822320789&lng=13.368035190329692&z=13.561628216364625&menu=false&mapStyle=mapbox_satellite" target="_blank">https://www.mapillary.com/app/?lat=38.12949822320789&lng=13.368035190329692&z=13.561628216364625</a>
+    <a href="https://www.mapillary.com/app/user/cirospat?lat=36.82147841468249&lng=15.104561915917657&z=15.017458713501235" target="_blank">https://www.mapillary.com/app/user/cirospat?lat=36.82147841468249&lng=15.104561915917657&z=15.017458713501235</a>
 
 .. |LINK13| raw:: html
 
-    <a href="http://u.osmfr.org/m/198624/" target="_blank">http://u.osmfr.org/m/198624/</a>
+    <a href="https://www.mapillary.com/app/?lat=38.12949822320789&lng=13.368035190329692&z=13.561628216364625&menu=false&mapStyle=mapbox_satellite" target="_blank">https://www.mapillary.com/app/?lat=38.12949822320789&lng=13.368035190329692&z=13.561628216364625</a>
 
 .. |LINK14| raw:: html
 
-    <a href="http://gbvitrano.it/qgis/pa_carto/" target="_blank">http://gbvitrano.it/qgis/pa_carto/</a>
+    <a href="http://u.osmfr.org/m/198624/" target="_blank">http://u.osmfr.org/m/198624/</a>
 
 .. |LINK15| raw:: html
 
-    <a href="http://github.gbvitrano.it/atlante_ctc_pa/index.html" target="_blank">http://github.gbvitrano.it/atlante_ctc_pa/index.html</a>
+    <a href="http://gbvitrano.it/qgis/pa_carto/" target="_blank">http://gbvitrano.it/qgis/pa_carto/</a>
 
 .. |LINK16| raw:: html
 
-    <a href="http://gbvitrano.it/qgis/carto_storica" target="_blank">http://gbvitrano.it/qgis/carto_storica</a>
+    <a href="http://github.gbvitrano.it/atlante_ctc_pa/index.html" target="_blank">http://github.gbvitrano.it/atlante_ctc_pa/index.html</a>
 
 .. |LINK17| raw:: html
 
-    <a href="http://gbvitrano.it/qgis/pa_carto/prg_2015.php" target="_blank">http://gbvitrano.it/qgis/pa_carto/prg_2015.php</a>
+    <a href="http://gbvitrano.it/qgis/carto_storica" target="_blank">http://gbvitrano.it/qgis/carto_storica</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://github.com/SiciliaHub/mappe" target="_blank">https://github.com/SiciliaHub/mappe</a>
+    <a href="http://gbvitrano.it/qgis/pa_carto/prg_2015.php" target="_blank">http://gbvitrano.it/qgis/pa_carto/prg_2015.php</a>
 
 .. |LINK19| raw:: html
 
-    <a href="http://siciliahub.github.io/mappe/atlante_carto_pa/" target="_blank">http://siciliahub.github.io/mappe/atlante_carto_pa/</a>
+    <a href="https://github.com/SiciliaHub/mappe" target="_blank">https://github.com/SiciliaHub/mappe</a>
 
 .. |LINK20| raw:: html
 
-    <a href="http://egdisegno.studiovitrano.it/variante_generale/Zonizzazione.html" target="_blank">http://egdisegno.studiovitrano.it/variante_generale/Zonizzazione.html</a>
+    <a href="http://siciliahub.github.io/mappe/atlante_carto_pa/" target="_blank">http://siciliahub.github.io/mappe/atlante_carto_pa/</a>
 
 .. |LINK21| raw:: html
 
-    <a href="http://egdisegno.studiovitrano.it/catasto_pa_1887" target="_blank">http://egdisegno.studiovitrano.it/catasto_pa_1887</a>
+    <a href="http://egdisegno.studiovitrano.it/variante_generale/Zonizzazione.html" target="_blank">http://egdisegno.studiovitrano.it/variante_generale/Zonizzazione.html</a>
 
 .. |LINK22| raw:: html
 
-    <a href="http://egdisegno.studiovitrano.it/variante_generale/prg_2015.html" target="_blank">http://egdisegno.studiovitrano.it/variante_generale/prg_2015.html</a>
+    <a href="http://egdisegno.studiovitrano.it/catasto_pa_1887" target="_blank">http://egdisegno.studiovitrano.it/catasto_pa_1887</a>
 
 .. |LINK23| raw:: html
 
-    <a href="http://github.gbvitrano.it/ppc" target="_blank">http://github.gbvitrano.it/ppc</a>
+    <a href="http://egdisegno.studiovitrano.it/variante_generale/prg_2015.html" target="_blank">http://egdisegno.studiovitrano.it/variante_generale/prg_2015.html</a>
 
 .. |LINK24| raw:: html
 
-    <a href="http://siciliahub.github.io/mappe/ppc" target="_blank">http://siciliahub.github.io/mappe/ppc</a>
+    <a href="http://github.gbvitrano.it/ppc" target="_blank">http://github.gbvitrano.it/ppc</a>
 
 .. |LINK25| raw:: html
 
-    <a href="https://siciliahub.github.io/mappe/palermo_hub/index.html" target="_blank">https://siciliahub.github.io/mappe/palermo_hub/index.html</a>
+    <a href="http://siciliahub.github.io/mappe/ppc" target="_blank">http://siciliahub.github.io/mappe/ppc</a>
 
 .. |LINK26| raw:: html
 
-    <a href="https://siciliahub.github.io/palermohub/index.html" target="_blank">https://siciliahub.github.io/palermohub/index.html</a>
+    <a href="https://siciliahub.github.io/mappe/palermo_hub/index.html" target="_blank">https://siciliahub.github.io/mappe/palermo_hub/index.html</a>
 
 .. |LINK27| raw:: html
 
-    <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fmaphub.net%2F&h=ATNg797_CAp5QX8MdtGE2t5QmsZ4zCHG2T6FXg3PFgptOklmzkPnVWpvAhUj6J_DatUI2UTyOL0IFdbo5lPnKtZ8KmtpnHmJUjSgRaflW44uMERy5ZR_RWyvClQEIEJnV1Dmr7IS" target="_blank">https://maphub.net/</a>
+    <a href="https://siciliahub.github.io/palermohub/index.html" target="_blank">https://siciliahub.github.io/palermohub/index.html</a>
 
 .. |LINK28| raw:: html
 
-    <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fcrowdmap.com%2F&h=ATPxCiw6g584R_YPauk3WAaUXxblQ4If-KRQxUpzp1sOELRXRgZuD4mgqqJHJvTNWGzBDJ3x-Q-iwQpKDdjq4fCC8JIjWft_F4JUE5Y23UpSLJ55YxOIi7EMHMV2g3pKAASCHOjN" target="_blank">https://crowdmap.com/</a>
+    <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fmaphub.net%2F&h=ATNg797_CAp5QX8MdtGE2t5QmsZ4zCHG2T6FXg3PFgptOklmzkPnVWpvAhUj6J_DatUI2UTyOL0IFdbo5lPnKtZ8KmtpnHmJUjSgRaflW44uMERy5ZR_RWyvClQEIEJnV1Dmr7IS" target="_blank">https://maphub.net/</a>
 
 .. |LINK29| raw:: html
 
-    <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mapsmarker.com%2F&h=ATPouIz1_8mZonVbTHhYY9OwCeTfZmXSD-9hdJOjGNRfZroByLW72KZ3niNiREDAGi3lLTWW8LG-cCr3R3d3zTQB2QUIJIU2ldiPtc7frt75xiTK56So9_K906Bi_008XjlTFI3S" target="_blank">https://www.mapsmarker.com/</a>
+    <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fcrowdmap.com%2F&h=ATPxCiw6g584R_YPauk3WAaUXxblQ4If-KRQxUpzp1sOELRXRgZuD4mgqqJHJvTNWGzBDJ3x-Q-iwQpKDdjq4fCC8JIjWft_F4JUE5Y23UpSLJ55YxOIi7EMHMV2g3pKAASCHOjN" target="_blank">https://crowdmap.com/</a>
 
 .. |LINK30| raw:: html
 
-    <a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.maptiler.com%2Fgeoeditor%2F&h=ATOIEGdaqbjrDIB4OnZk4GRogoAV7FbenrYuwjgPw3Z10gquAPZYyeXp7DhsN6uqevc_Q_qJjKOXVqhpT2WsM7jiJgCAwZ17llK4NceigsM6vYQjuJ0ObYICn2JHQsujpveAB_3F" target="_blank">http://www.maptiler.com/geoeditor/</a>
+    <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mapsmarker.com%2F&h=ATPouIz1_8mZonVbTHhYY9OwCeTfZmXSD-9hdJOjGNRfZroByLW72KZ3niNiREDAGi3lLTWW8LG-cCr3R3d3zTQB2QUIJIU2ldiPtc7frt75xiTK56So9_K906Bi_008XjlTFI3S" target="_blank">https://www.mapsmarker.com/</a>
 
 .. |LINK31| raw:: html
 
-    <a href="https://www.benlcollins.com/spreadsheets/query-dates/" target="_blank">https://www.benlcollins.com/spreadsheets/query-dates/</a>
+    <a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.maptiler.com%2Fgeoeditor%2F&h=ATOIEGdaqbjrDIB4OnZk4GRogoAV7FbenrYuwjgPw3Z10gquAPZYyeXp7DhsN6uqevc_Q_qJjKOXVqhpT2WsM7jiJgCAwZ17llK4NceigsM6vYQjuJ0ObYICn2JHQsujpveAB_3F" target="_blank">http://www.maptiler.com/geoeditor/</a>
 
 .. |LINK32| raw:: html
 
-    <a href="https://support.google.com/docs/answer/3094139?hl=en" target="_blank">TEXT()</a>
+    <a href="https://www.benlcollins.com/spreadsheets/query-dates/" target="_blank">https://www.benlcollins.com/spreadsheets/query-dates/</a>
 
 .. |LINK33| raw:: html
 
-    <a href="https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/" target="_blank">https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/</a>
+    <a href="https://support.google.com/docs/answer/3094139?hl=en" target="_blank">TEXT()</a>
 
 .. |LINK34| raw:: html
 
-    <a href="http://geomappando.com/maps/OL3_map_tile_provider.html" target="_blank">http://geomappando.com/maps/OL3_map_tile_provider.html</a>
+    <a href="https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/" target="_blank">https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/</a>
 
 .. |LINK35| raw:: html
 
-    <a href="https://leaflet-extras.github.io/leaflet-providers/preview/" target="_blank">https://leaflet-extras.github.io/leaflet-providers/preview/</a>
+    <a href="http://geomappando.com/maps/OL3_map_tile_provider.html" target="_blank">http://geomappando.com/maps/OL3_map_tile_provider.html</a>
 
 .. |LINK36| raw:: html
 
-    <a href="http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}" target="_blank">http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}</a>
+    <a href="https://leaflet-extras.github.io/leaflet-providers/preview/" target="_blank">https://leaflet-extras.github.io/leaflet-providers/preview/</a>
 
 .. |LINK37| raw:: html
 
-    <a href="https://mt1.google.com/vt/lyrs=s&x=%7Bx%7D&y=%7By%7D&z=%7Bz%7D" target="_blank">https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}</a>
+    <a href="http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}" target="_blank">http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}</a>
 
 .. |LINK38| raw:: html
 
-    <a href="http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx" target="_blank">http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx</a>
+    <a href="https://mt1.google.com/vt/lyrs=s&x=%7Bx%7D&y=%7By%7D&z=%7Bz%7D" target="_blank">https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}</a>
 
 .. |LINK39| raw:: html
 
-    <a href="https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yZGFpIiwiYSI6ImtCWWpvY00ifQ.E9g3YhLqDFGkdXx7pKnCWw" target="_blank">https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yZGFpIiwiYSI6ImtCWWpvY00ifQ.E9g3YhLqDFGkdXx7pKnCWw</a>
+    <a href="http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx" target="_blank">http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx</a>
 
 .. |LINK40| raw:: html
 
-    <a href="http://mapwarper.net/" target="_blank">http://mapwarper.net/</a>
+    <a href="https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yZGFpIiwiYSI6ImtCWWpvY00ifQ.E9g3YhLqDFGkdXx7pKnCWw" target="_blank">https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yZGFpIiwiYSI6ImtCWWpvY00ifQ.E9g3YhLqDFGkdXx7pKnCWw</a>
 
 .. |LINK41| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/lete-numerique-de-louis-chadourne_228928#6/41.714/9.426" target="_blank">mappa antica del mondo</a>
+    <a href="http://mapwarper.net/" target="_blank">http://mapwarper.net/</a>
 
 .. |LINK42| raw:: html
 
-    <a href="https://www.youtube.com/embed/_______|250" target="_blank">https://www.youtube.com/embed/_______|250</a>
+    <a href="http://umap.openstreetmap.fr/it/map/lete-numerique-de-louis-chadourne_228928#6/41.714/9.426" target="_blank">mappa antica del mondo</a>
 
 .. |LINK43| raw:: html
 
-    <a href="http://example.com/" target="_blank">http://example.com</a>
+    <a href="https://www.youtube.com/embed/_______|250" target="_blank">https://www.youtube.com/embed/_______|250</a>
 
 .. |LINK44| raw:: html
 
-    <a href="http://immagine.url.it/" target="_blank">http://immagine.url.it</a>
+    <a href="http://example.com/" target="_blank">http://example.com</a>
 
 .. |LINK45| raw:: html
 
-    <a href="http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90" target="_blank">http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90</a>
+    <a href="http://immagine.url.it/" target="_blank">http://immagine.url.it</a>
 
 .. |LINK46| raw:: html
 
-    <a href="http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/" target="_blank">http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/</a>
+    <a href="http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90" target="_blank">http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90</a>
 
 .. |LINK47| raw:: html
 
-    <a href="http://meyerweb.com/eric/tools/dencoder/" target="_blank">http://meyerweb.com/eric/tools/dencoder/</a>
+    <a href="http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/" target="_blank">http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/</a>
 
 .. |LINK48| raw:: html
 
-    <a href="http://postimages.org/" target="_blank">http://postimages.org/</a>
+    <a href="http://meyerweb.com/eric/tools/dencoder/" target="_blank">http://meyerweb.com/eric/tools/dencoder/</a>
 
 .. |LINK49| raw:: html
 
-    <a href="https://mapicons.mapsmarker.com" target="_blank">https://mapicons.mapsmarker.com</a>
+    <a href="http://postimages.org/" target="_blank">http://postimages.org/</a>
 
 .. |LINK50| raw:: html
 
-    <a href="https://www.youtube.com/watch?v=YKZc84WtTd4" target="_blank">https://www.youtube.com/watch?v=YKZc84WtTd4</a>
+    <a href="https://mapicons.mapsmarker.com" target="_blank">https://mapicons.mapsmarker.com</a>
 
 .. |LINK51| raw:: html
 
-    <a href="https://docs.google.com/document/d/1NARnTh4orNbIHEe8uROLYbWoc40nS3cGBpZqxBYFe5I" target="_blank">https://docs.google.com/document/d/1NARnTh4orNbIHEe8uROLYbWoc40nS3cGBpZqxBYFe5I</a>
+    <a href="https://www.youtube.com/watch?v=YKZc84WtTd4" target="_blank">https://www.youtube.com/watch?v=YKZc84WtTd4</a>
 
 .. |LINK52| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1laR9p_Ua0BPCJee5BbHvV7S-tjbmHxhLksUdKnZEW0M/edit#gid=0" target="_blank">DATASET XML</a>
+    <a href="https://docs.google.com/document/d/1NARnTh4orNbIHEe8uROLYbWoc40nS3cGBpZqxBYFe5I" target="_blank">https://docs.google.com/document/d/1NARnTh4orNbIHEe8uROLYbWoc40nS3cGBpZqxBYFe5I</a>
 
 .. |LINK53| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/avvisi-polizia-municipale-sulla-mobilita-di-palerm_135416" target="_blank">MAPPA</a>
+    <a href="https://docs.google.com/spreadsheets/d/1laR9p_Ua0BPCJee5BbHvV7S-tjbmHxhLksUdKnZEW0M/edit#gid=0" target="_blank">DATASET XML</a>
 
 .. |LINK54| raw:: html
 
-    <a href="https://chrome.google.com/webstore/detail/geocode-by-awesome-table/cnhboknahecjdnlkjnlodacdjelippfg" target="_blank">Awesome Table</a>
+    <a href="http://umap.openstreetmap.fr/it/map/avvisi-polizia-municipale-sulla-mobilita-di-palerm_135416" target="_blank">MAPPA</a>
 
 .. |LINK55| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1y01HJEl5RQeSKbzA9TRyNdmHCaac7kNRjYgj3nH7oHo/edit#gid=652519043" target="_blank">Un esempio è qui</a>
+    <a href="https://chrome.google.com/webstore/detail/geocode-by-awesome-table/cnhboknahecjdnlkjnlodacdjelippfg" target="_blank">Awesome Table</a>
 
 .. |LINK56| raw:: html
 
-    <a href="http://geocoder.ondata.it/" target="_blank">http://geocoder.ondata.it/</a>
+    <a href="https://docs.google.com/spreadsheets/d/1y01HJEl5RQeSKbzA9TRyNdmHCaac7kNRjYgj3nH7oHo/edit#gid=652519043" target="_blank">Un esempio è qui</a>
 
 .. |LINK57| raw:: html
 
-    <a href="http://dati.comune.galatone.le.it/geocoder/" target="_blank">http://dati.comune.galatone.le.it/geocoder/</a>
+    <a href="http://geocoder.ondata.it/" target="_blank">http://geocoder.ondata.it/</a>
 
 .. |LINK58| raw:: html
 
-    <a href="http://school.dataninja.it/tools/geocoder-trova-le-coordinate/" target="_blank">http://school.dataninja.it/tools/geocoder-trova-le-coordinate/</a>
+    <a href="http://dati.comune.galatone.le.it/geocoder/" target="_blank">http://dati.comune.galatone.le.it/geocoder/</a>
 
 .. |LINK59| raw:: html
 
-    <a href="http://www.apposta.biz/prove/geocoder.php" target="_blank">http://www.apposta.biz/prove/geocoder.php</a>
+    <a href="http://school.dataninja.it/tools/geocoder-trova-le-coordinate/" target="_blank">http://school.dataninja.it/tools/geocoder-trova-le-coordinate/</a>
 
 .. |LINK60| raw:: html
 
-    <a href="http://it.mygeoposition.com/" target="_blank">http://it.mygeoposition.com/</a>
+    <a href="http://www.apposta.biz/prove/geocoder.php" target="_blank">http://www.apposta.biz/prove/geocoder.php</a>
 
 .. |LINK61| raw:: html
 
-    <a href="https://coseerobe.gbvitrano.it/geocodifica-il-tuo-indirizzo-utility.html" target="_blank">https://coseerobe.gbvitrano.it/geocodifica-il-tuo-indirizzo-utility.html</a>
+    <a href="http://it.mygeoposition.com/" target="_blank">http://it.mygeoposition.com/</a>
 
 .. |LINK62| raw:: html
 
-    <a href="https://siciliahub.github.io/mappe/geolocation/geolocation.html" target="_blank">https://siciliahub.github.io/mappe/geolocation/geolocation.html</a>
+    <a href="https://coseerobe.gbvitrano.it/geocodifica-il-tuo-indirizzo-utility.html" target="_blank">https://coseerobe.gbvitrano.it/geocodifica-il-tuo-indirizzo-utility.html</a>
 
 .. |LINK63| raw:: html
 
-    <a href="https://developers.google.com/maps/documentation/geocoding/start" target="_blank">https://developers.google.com/maps/documentation/geocoding/start</a>
+    <a href="https://siciliahub.github.io/mappe/geolocation/geolocation.html" target="_blank">https://siciliahub.github.io/mappe/geolocation/geolocation.html</a>
 
 .. |LINK64| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1_MH8u1JESQ_Qls5YBcZvlCLKvMmAsiV46b-w3kZQL8Y/edit#gid=0" target="_blank">Foglio mio prova geocode</a>
+    <a href="https://developers.google.com/maps/documentation/geocoding/start" target="_blank">https://developers.google.com/maps/documentation/geocoding/start</a>
 
 .. |LINK65| raw:: html
 
-    <a href="http://www.gpsvisualizer.com/geocode" target="_blank">http://www.gpsvisualizer.com/geocode</a>
+    <a href="https://docs.google.com/spreadsheets/d/1_MH8u1JESQ_Qls5YBcZvlCLKvMmAsiV46b-w3kZQL8Y/edit#gid=0" target="_blank">Foglio mio prova geocode</a>
 
 .. |LINK66| raw:: html
 
-    <a href="http://www.gpsvisualizer.com/geocoder/" target="_blank">http://www.gpsvisualizer.com/geocoder/</a>
+    <a href="http://www.gpsvisualizer.com/geocode" target="_blank">http://www.gpsvisualizer.com/geocode</a>
 
 .. |LINK67| raw:: html
 
-    <a href="https://developer.mapquest.com/user/me/apps" target="_blank">https://developer.mapquest.com/user/me/apps</a>
+    <a href="http://www.gpsvisualizer.com/geocoder/" target="_blank">http://www.gpsvisualizer.com/geocoder/</a>
 
 .. |LINK68| raw:: html
 
-    <a href="https://demos.mapbox.com/location-helper/" target="_blank">https://demos.mapbox.com/location-helper/</a>
+    <a href="https://developer.mapquest.com/user/me/apps" target="_blank">https://developer.mapquest.com/user/me/apps</a>
 
 .. |LINK69| raw:: html
 
-    <a href="http://bit.ly/tutorialkitpolverisottili" target="_blank">http://bit.ly/tutorialkitpolverisottili</a>
+    <a href="https://demos.mapbox.com/location-helper/" target="_blank">https://demos.mapbox.com/location-helper/</a>
 
 .. |LINK70| raw:: html
 
-    <a href="http://bit.ly/pm10pa" target="_blank">http://bit.ly/pm10pa</a>
+    <a href="http://bit.ly/tutorialkitpolverisottili" target="_blank">http://bit.ly/tutorialkitpolverisottili</a>
 
 .. |LINK71| raw:: html
 
-    <a href="http://rogerdudler.github.io/git-guide/" target="_blank">http://rogerdudler.github.io/git-guide</a>
+    <a href="http://bit.ly/pm10pa" target="_blank">http://bit.ly/pm10pa</a>
 
 .. |LINK72| raw:: html
 
-    <a href="https://data.world/cirospat/" target="_blank">data.world/cirospat</a>
+    <a href="http://rogerdudler.github.io/git-guide/" target="_blank">http://rogerdudler.github.io/git-guide</a>
 
 .. |LINK73| raw:: html
 
-    <a href="https://archive.org/details/@ciro_spataro" target="_blank">archive.org/details/@ciro_spataro</a>
+    <a href="https://data.world/cirospat/" target="_blank">data.world/cirospat</a>
 
 .. |LINK74| raw:: html
 
-    <a href="https://google.qwiklabs.com/quests/32" target="_blank">https://google.qwiklabs.com/quests/32</a>
+    <a href="https://archive.org/details/@ciro_spataro" target="_blank">archive.org/details/@ciro_spataro</a>
 
 .. |LINK75| raw:: html
 
-    <a href="http://www.foiapop.it/" target="_blank">www.foiapop.it</a>
+    <a href="https://google.qwiklabs.com/quests/32" target="_blank">https://google.qwiklabs.com/quests/32</a>
 
 .. |LINK76| raw:: html
 
-    <a href="http://comma-chameleon.io/" target="_blank">http://comma-chameleon.io/</a>
+    <a href="http://www.foiapop.it/" target="_blank">www.foiapop.it</a>
 
 .. |LINK77| raw:: html
 
-    <a href="https://ethercalc.org/" target="_blank">https://ethercalc.org/</a>
+    <a href="http://comma-chameleon.io/" target="_blank">http://comma-chameleon.io/</a>
 
 .. |LINK78| raw:: html
 
-    <a href="https://htmlg.com/html-editor/" target="_blank">https://htmlg.com/html-editor/</a>
+    <a href="https://ethercalc.org/" target="_blank">https://ethercalc.org/</a>
 
 .. |LINK79| raw:: html
 
-    <a href="https://www.editpad.org/" target="_blank">https://www.editpad.org/</a>
+    <a href="https://htmlg.com/html-editor/" target="_blank">https://htmlg.com/html-editor/</a>
 
 .. |LINK80| raw:: html
 
-    <a href="https://html-online.com/editor/" target="_blank">https://html-online.com/editor/</a>
+    <a href="https://www.editpad.org/" target="_blank">https://www.editpad.org/</a>
 
 .. |LINK81| raw:: html
 
-    <a href="http://collabedit.com" target="_blank">http://collabedit.com</a>
+    <a href="https://html-online.com/editor/" target="_blank">https://html-online.com/editor/</a>
 
 .. |LINK82| raw:: html
 
-    <a href="https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both" target="_blank">https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both</a>
+    <a href="http://collabedit.com" target="_blank">http://collabedit.com</a>
 
 .. |LINK83| raw:: html
 
-    <a href="http://www.ilquotidianodellapa.it/_aree/feed_advanced.html" target="_blank">http://www.ilquotidianodellapa.it/_aree/feed_advanced.html</a>
+    <a href="https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both" target="_blank">https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both</a>
 
 .. |LINK84| raw:: html
 
-    <a href="https://feedburner.google.com/fb/a/myfeeds" target="_blank">https://feedburner.google.com/fb/a/myfeeds</a>
+    <a href="http://www.ilquotidianodellapa.it/_aree/feed_advanced.html" target="_blank">http://www.ilquotidianodellapa.it/_aree/feed_advanced.html</a>
 
 .. |LINK85| raw:: html
 
-    <a href="https://feed43.com/" target="_blank">Feed43</a>
+    <a href="https://feedburner.google.com/fb/a/myfeeds" target="_blank">https://feedburner.google.com/fb/a/myfeeds</a>
 
 .. |LINK86| raw:: html
 
-    <a href="https://groups.google.com/forum/#!topic/opendatasicilia/mj4rOt3VUNg" target="_blank">vedi tutorial di Andrea Borruso</a>
+    <a href="https://feed43.com/" target="_blank">Feed43</a>
 
 .. |LINK87| raw:: html
 
-    <a href="https://img.shields.io/badge/fondamentali-amministrazione_digitale-red?style=popout&logo=Read%20the%20Docs" target="_blank">https://img.shields.io/badge/fondamentali-amministrazione_digitale-red?style=popout&logo=Read%20the%20Docs</a>
+    <a href="https://groups.google.com/forum/#!topic/opendatasicilia/mj4rOt3VUNg" target="_blank">vedi tutorial di Andrea Borruso</a>
 
 .. |LINK88| raw:: html
 
-    <a href="https://www.canva.com/" target="_blank">https://www.canva.com/</a>
+    <a href="https://img.shields.io/badge/fondamentali-amministrazione_digitale-red?style=popout&logo=Read%20the%20Docs" target="_blank">https://img.shields.io/badge/fondamentali-amministrazione_digitale-red?style=popout&logo=Read%20the%20Docs</a>
 
 .. |LINK89| raw:: html
 
-    <a href="https://getbootstrap.com/docs/4.0/components/card/#border" target="_blank">https://getbootstrap.com/docs/4.0/components/card/#border</a>
+    <a href="https://www.canva.com/" target="_blank">https://www.canva.com/</a>
 
 .. |LINK90| raw:: html
 
-    <a href="https://www.aranzulla.it/come-unire-due-pdf-923476.html" target="_blank">https://www.aranzulla.it/come-unire-due-pdf-923476.html</a>
+    <a href="https://getbootstrap.com/docs/4.0/components/card/#border" target="_blank">https://getbootstrap.com/docs/4.0/components/card/#border</a>
 
 .. |LINK91| raw:: html
 
-    <a href="http://angusj.com/pdftkb/#pdftkbuilder" target="_blank">http://angusj.com/pdftkb/#pdftkbuilder</a>
+    <a href="https://www.aranzulla.it/come-unire-due-pdf-923476.html" target="_blank">https://www.aranzulla.it/come-unire-due-pdf-923476.html</a>
 
 .. |LINK92| raw:: html
 
-    <a href="http://online2pdf.com/" target="_blank">http://online2pdf.com/</a>
+    <a href="http://angusj.com/pdftkb/#pdftkbuilder" target="_blank">http://angusj.com/pdftkb/#pdftkbuilder</a>
 
 .. |LINK93| raw:: html
 
-    <a href="https://www.ilovepdf.com/it/unire_pdf" target="_blank">iLovePDF</a>
+    <a href="http://online2pdf.com/" target="_blank">http://online2pdf.com/</a>
 
 .. |LINK94| raw:: html
 
-    <a href="https://pdfcandy.com/it/merge-pdf.html" target="_blank">PDF Candy</a>
+    <a href="https://www.ilovepdf.com/it/unire_pdf" target="_blank">iLovePDF</a>
 
 .. |LINK95| raw:: html
 
-    <a href="https://tools.pdf24.org/it/unire-pdf" target="_blank">PDF24</a>
+    <a href="https://pdfcandy.com/it/merge-pdf.html" target="_blank">PDF Candy</a>
 
 .. |LINK96| raw:: html
 
-    <a href="https://play.google.com/store/apps/details?id=com.wondershare.pdfelement&hl=it" target="_blank">relativa sezione del Play Store</a>
+    <a href="https://tools.pdf24.org/it/unire-pdf" target="_blank">PDF24</a>
 
 .. |LINK97| raw:: html
 
-    <a href="https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/" target="_blank">https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/</a>
+    <a href="https://play.google.com/store/apps/details?id=com.wondershare.pdfelement&hl=it" target="_blank">relativa sezione del Play Store</a>
 
 .. |LINK98| raw:: html
 
-    <a href="https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/" target="_blank">https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/</a>
+    <a href="https://getbootstrap.com/docs/4.0/components/carousel/" target="_blank">https://getbootstrap.com/docs/4.0/components/carousel/</a>
 
 .. |LINK99| raw:: html
 
-    <a href="https://www.comune.palermo.it/unita.php?apt=4&uo=2188&serv=1056&sett=230" target="_blank">link 1</a>
+    <a href="https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/" target="_blank">https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/</a>
 
 .. |LINK100| raw:: html
+
+    <a href="https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/" target="_blank">https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/</a>
+
+.. |LINK101| raw:: html
+
+    <a href="https://www.comune.palermo.it/unita.php?apt=4&uo=2188&serv=1056&sett=230" target="_blank">link 1</a>
+
+.. |LINK102| raw:: html
 
     <a href="https://www.comune.palermo.it/" target="_blank">link 2</a>
 
