@@ -479,6 +479,8 @@ https://getbootstrap.com/docs/4.0/components/carousel/
 
 |
 
+←  ↑  →  ↓  ↖   ↗   ↘   ↙ 
+
 .. _h3d5e7e425c116114e331b3e663c3b47:
 
 Directives in Read the Docs
@@ -490,9 +492,16 @@ Directives in Read the Docs
     una prova di contenuto dentro una generic ``directive``.
     Questa è la renderizzazione su pagine web a seguito del commit su Github
 
-:download:`Questo link è per il download del logo di FPA<https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/>`.
+:download:\`Questo link è per il download <\ |LINK97|\ >\`.
 
-.. centered:: Questo è un testo centrato. Questo è un testo centrato. Questo è un testo centrato
+si scrive così: ``:download:`Questo link è per il download <\ |LINK98|\ >```
+
+
+.. centered:: Questo è un testo centrato.
+
+si scrive così: ``.. centered:: Questo è un testo centrato.``
+
+\ |STYLE10|\ 
 
 
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -518,8 +527,10 @@ Directives in Read the Docs
 |                                                                                                                                                                                                                |
 |:Author: David Goodger                                                                                                                                                                                          |
 |                                                                                                                                                                                                                |
-|:Link utili: \ |LINK97|\ , \ |LINK98|\                                                                                                                                                                          |
+|:Link utili: \ |LINK99|\ , \ |LINK100|\                                                                                                                                                                         |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+\ |STYLE11|\ 
 
 :Author: David Goodger
 
@@ -537,11 +548,13 @@ Directives in Read the Docs
 
 :Authors: Me; Myself; I
 
+\ |STYLE12|\ 
+
 
 .. sidebar:: Argomento
     :subtitle: Sotto argomento
 
-    Questo è il ``sidebar``.  \ |STYLE10|\  il testo al di fuori del flusso del testo principale. Questa è una casella. laterale. Si usa per il testo al di fuori del flusso del testo principale. Questa è una casella.
+    Questo è il ``sidebar``.  \ |STYLE13|\  il testo al di fuori del flusso del testo principale. Questa è una casella. laterale. Si usa per il testo al di fuori del flusso del testo principale. Questa è una casella.
     
     .. rubric:: Questa è una rubrica dentro il ``sidebar``
     Le barre laterali vengono spesso visualizzate accanto al testo principale con un bordo e un colore grigio chiaro (solitamente) di sfondo.
@@ -554,7 +567,7 @@ Directives in Read the Docs
 
 :data:`prova3` viene renderizzata così come la leggi, ma la devi scrivere così: ``:data:`prova3```
 
--
+--------
 
 
 .. glossary::   
@@ -567,7 +580,17 @@ Directives in Read the Docs
     :class:`Writing`
        The process of putting thoughts into a medium for other people to :term:`read <Reading>`.
 
--
+
+.. glossary:: 
+
+:class:`Documentation`
+   Provides users with the knowledge they need to use something.
+
+:class:`Reading`
+   The process of taking information into ones mind through the use of eyes.
+
+:class:`Writing`
+   The process of putting thoughts into a medium for other people to :term:`read <Reading>`.
 
 --------
 
@@ -590,6 +613,8 @@ Directives in Read the Docs
        This method is called for each request that goes through the download middleware.
     
        return ``rosso``, return a :class:`nero` object,
+
+--------
 
 
 .. bottom of content
@@ -615,7 +640,13 @@ Directives in Read the Docs
 
 .. |STYLE9| replace:: **PDFelement**
 
-.. |STYLE10| replace:: **Si usa per**
+.. |STYLE10| replace:: **Lista di elementi dentro un riquadro ↓**
+
+.. |STYLE11| replace:: **Lista di elementi senza riquadro ↓**
+
+.. |STYLE12| replace:: **Sidebar**
+
+.. |STYLE13| replace:: **Si usa per**
 
 
 .. |REPLACE1| raw:: html
@@ -1049,9 +1080,17 @@ Directives in Read the Docs
 
 .. |LINK97| raw:: html
 
-    <a href="https://www.comune.palermo.it/unita.php?apt=4&uo=2188&serv=1056&sett=230" target="_blank">link 1</a>
+    <a href="https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/" target="_blank">https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/</a>
 
 .. |LINK98| raw:: html
+
+    <a href="https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/" target="_blank">https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/</a>
+
+.. |LINK99| raw:: html
+
+    <a href="https://www.comune.palermo.it/unita.php?apt=4&uo=2188&serv=1056&sett=230" target="_blank">link 1</a>
+
+.. |LINK100| raw:: html
 
     <a href="https://www.comune.palermo.it/" target="_blank">link 2</a>
 
