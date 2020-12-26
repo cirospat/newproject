@@ -45,7 +45,7 @@ La norma sul Lavoro Agile è riportata a questo [\ |LINK4|\ ] del portale degli 
 
 .. |LINK1| raw:: html
 
-    <a href="https://sites.google.com/comune.palermo.it/lavoroagile/normativa-nazionale-lavoro-agile" target="_blank">"lavoro agile" al Comune di Palermo</a>
+    <a href="https://sites.google.com/comune.palermo.it/lavoroagile/normativa-nazionale-e-comunale-lavoro-agile" target="_blank">"lavoro agile" al Comune di Palermo</a>
 
 .. |LINK2| raw:: html
 
