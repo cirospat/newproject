@@ -45,7 +45,7 @@ Anticorruzione, FOIA e trasparenza nella PA
     <a href="https://www.facebook.com/marina.galluzzo.7" target="_blank">Marina Galluzzo</a>
 .. |REPLACE2| raw:: html
 
-    <img src="http://www.foiapop.it/img/foia.jpg" /> </br>
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/foiapop.jpg" /> </br>
     a cura di Giovanni Pirrotta e Giuseppe Ragusa
 
 .. |LINK1| raw:: html
