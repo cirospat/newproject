@@ -585,11 +585,58 @@ Decreto di adozione della «Strategia Nazionale per le Competenze Digitali» del
 
 * Incremento del numero di servizi pubblici digitali destinati a cittadini e soprattutto alle imprese
 
+|
 
-+----------------------------------------------------------------------------------------------------------------------------------------+
-|A breve (entro la fine del 2020) si è in attesa del Piano Operativo per le competenze digitali, da parte del Ministero dell'innovazione.|
-+----------------------------------------------------------------------------------------------------------------------------------------+
+.. _h383b65152b2a37653673b221a531056:
 
+Pubblicato il Piano Operativo della Strategia Nazionale per le competenze digitali, 23 dicembre 2020
+****************************************************************************************************
+
+Dopo aver realizzato un primo e importante traguardo, adottando la Strategia Nazionale per le Competenze Digitali, l’Italia ha ora il suo \ |LINK8|\ .
+
+\ |STYLE60|\ 
+
+Tra gli obiettivi del Piano Operativo da realizzare entro il 2025 ne segnaliamo alcuni il cui conseguimento mira ad avere un impatto rilevante per la crescita del nostro Paese:
+
+* Raggiungere il 70% di popolazione con competenze digitali almeno di base, con un incremento di oltre 13 milioni di cittadini dal 2019 e azzerare il divario di genere;
+
+* duplicare la popolazione in possesso di competenze digitali avanzate (con il 78% di giovani con formazione superiore dimezzando il divario di genere, il 40% dei lavoratori nel settore privato e il 50% di dipendenti pubblici);
+
+* triplicare il numero dei laureati in ICT e quadruplicare quelli di sesso femminile, duplicare la quota di imprese che utilizza i big data;
+
+* incrementare del 50% la quota di PMI che utilizzano specialisti ICT;
+
+* aumentare di cinque volte la quota di popolazione che utilizza servizi digitali pubblici, portandola al 64% e portare ai livelli dei Paesi europei più avanzati, l’utilizzo di Internet anche nelle fasce meno giovani della popolazione (l’84% nella fascia 65-74 anni).
+
+\ |STYLE61|\ 
+
+Il Piano indica le azioni di sistema per l’attuazione delle linee di intervento della \ |LINK9|\  e delinea gli obiettivi, misurabili, per ciascuna azione nell’ambito dei quattro assi individuati:
+
+#. Istruzione e Formazione Superiore - per lo sviluppo delle competenze digitali all’interno dei cicli d’istruzione, con il coordinamento del Ministero dell’Istruzione e del Ministero dell’Università e della Ricerca;
+
+#. Forza lavoro - per garantire competenze digitali adeguate sia nel settore privato che nel settore pubblico, incluse le competenze per l’e-leadership, con il coordinamento del Ministero dello Sviluppo Economico e del Ministro per la Pubblica Amministrazione;
+
+#. Competenze specialistiche ICT - per potenziare la capacità del Paese di sviluppare competenze per mercati emergenti e nuove possibilità di occupazione, in gran parte legate alle tecnologie innovative e al possesso delle competenze indispensabili per i lavori del futuro, con il coordinamento del Ministero dell’Università e Ricerca e del Ministero dello Sviluppo Economico;
+
+#. Cittadini - per sviluppare le competenze digitali necessarie a esercitare i diritti di cittadinanza e la partecipazione consapevole alla vita democratica, con il coordinamento del Ministro per l’innovazione tecnologica e la digitalizzazione).
+
+L’architettura del piano si articola in 4 assi strategici nell’ambito di ciascuno dei quali sono individuate le azioni di breve, medio e lungo termine che attuano le priorità e le linee di intervento definite nella Strategia. Il modello che consente il monitoraggio di tali azioni include un cruscotto di indicatori di impatto generale, suddivisi per ciascun asse, tra fattori abilitanti e risultati da ottenere, nonché indicatori specifici per ciascuna azione.
+
+\ |LINK10|\ 
+
+\ |LINK11|\ 
+
+\ |LINK12|\ 
+
+Gli ALLEGATI con le schede di dettaglio delle azioni del Piano:
+
+* \ |LINK13|\ 
+
+* \ |LINK14|\ 
+
+* \ |LINK15|\ 
+
+* \ |LINK16|\ 
 
 .. bottom of content
 
@@ -714,6 +761,10 @@ Decreto di adozione della «Strategia Nazionale per le Competenze Digitali» del
 
 .. |STYLE59| replace:: **IMPATTO**
 
+.. |STYLE60| replace:: **Gli obiettivi del Piano**
+
+.. |STYLE61| replace:: **Le linee di intervento**
+
 
 .. |LINK1| raw:: html
 
@@ -742,4 +793,40 @@ Decreto di adozione della «Strategia Nazionale per le Competenze Digitali» del
 .. |LINK7| raw:: html
 
     <a href="https://innovazione.gov.it/assets/docs/DTD-1277-A-ALL1.pdf#page=24" target="_blank">Link alla pagina del Decreto concernente le iniziative nel settore dei dipendenti pubblici</a>
+
+.. |LINK8| raw:: html
+
+    <a href="https://repubblicadigitale.innovazione.gov.it/pubblicato-piano-operativo-strategia-nazionale-competenze-digitali/" target="_blank">Piano Operativo</a>
+
+.. |LINK9| raw:: html
+
+    <a href="https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/" target="_blank">Strategia Nazionale</a>
+
+.. |LINK10| raw:: html
+
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Strategia-Nazionale-per-le-competenze-digitali.pdf" target="_blank">IL PIANO COMPLETO</a>
+
+.. |LINK11| raw:: html
+
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Executive-Summary.pdf" target="_blank">LA SINTESI DEL PIANO</a>
+
+.. |LINK12| raw:: html
+
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Infografica.pdf" target="_blank">LA VERSIONE INFOGRAFICA DEL PIANO</a>
+
+.. |LINK13| raw:: html
+
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice1-Istruzione-e-Formazione-superiore.pdf" target="_blank">APPENDICE 1: ISTRUZIONE E FORMAZIONE SUPERIORE</a>
+
+.. |LINK14| raw:: html
+
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice2-Forza-lavoro-attiva.pdf" target="_blank">APPENDICE 2: FORZA LAVORO ATTIVA</a>
+
+.. |LINK15| raw:: html
+
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice3-Competenze-specialistiche-ICT.pdf" target="_blank">APPENDICE 3: COMPETENZE SPECIALISTICHE ICT</a>
+
+.. |LINK16| raw:: html
+
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice4-Cittadini.pdf" target="_blank">APPENDICE 4: CITTADINI</a>
 
