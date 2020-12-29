@@ -486,7 +486,7 @@ Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente d
 
 |
 
-:guilabel:` Piano operativo delle competenze digitali dei dipendenti pubblici e dei cittadini`
+:guilabel:`Piano operativo delle competenze digitali dei dipendenti pubblici e dei cittadini`
 
 .. _h2a3a4056233e6e1f2a2c27d584745f:
 
