@@ -441,6 +441,11 @@ Il modello Cloud della PA: come acquisire servizi cloud qualificati. Manuale di 
 
 --------
 
+
+|REPLACE2|
+
+:guilabel:`Competenze digitali delle professioni in ambito ICT`
+
 .. _h7b371e58673e5166a21764e31327653:
 
 Linee guida delle competenze digitali e per l’armonizzazione delle qualificazioni professionali, delle professioni e dei profili in ambito ICT 
@@ -462,6 +467,8 @@ Linee guida delle competenze digitali e per l’armonizzazione delle qualificazi
 
 |
 
+:guilabel:`Competenze digitali dei dipendenti pubblici`
+
 .. _h2527347e1c1a7d2f194729754c7141:
 
 Competenze digitali per i dipendenti della PA
@@ -479,16 +486,18 @@ Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente d
 
 |
 
+:guilabel:` Piano operativo delle competenze digitali dei dipendenti pubblici e dei cittadini`
+
 .. _h2a3a4056233e6e1f2a2c27d584745f:
 
 Il Piano Operativo della Strategia Nazionale per le competenze digitali, 23 dicembre 2020
 *****************************************************************************************
 
-Dopo aver realizzato un primo e importante traguardo, adottando la Strategia Nazionale per le Competenze Digitali, l’Italia ha ora il suo \ |LINK89|\ .
+Dopo aver adottato la Strategia Nazionale per le Competenze Digitali, l’Italia ha ora il suo \ |LINK89|\ .
 
 \ |STYLE13|\ 
 
-Tra gli obiettivi del Piano Operativo da realizzare entro il 2025 ne segnaliamo alcuni il cui conseguimento mira ad avere un impatto rilevante per la crescita del nostro Paese:
+Tra gli obiettivi del Piano Operativo da realizzare entro il 2025 se ne segnalano alcuni il cui conseguimento mira ad avere un impatto rilevante per la crescita del nostro Paese:
 
 * Raggiungere il 70% di popolazione con competenze digitali almeno di base, con un incremento di oltre 13 milioni di cittadini dal 2019 e azzerare il divario di genere;
 
@@ -504,15 +513,15 @@ Tra gli obiettivi del Piano Operativo da realizzare entro il 2025 ne segnaliamo 
 
 Il Piano indica le azioni di sistema per l’attuazione delle linee di intervento della \ |LINK90|\  e delinea gli obiettivi, misurabili, per ciascuna azione nell’ambito dei quattro assi individuati:
 
-#. Istruzione e Formazione Superiore - per lo sviluppo delle competenze digitali all’interno dei cicli d’istruzione, con il coordinamento del Ministero dell’Istruzione e del Ministero dell’Università e della Ricerca;
+#. \ |STYLE15|\  - per lo sviluppo delle competenze digitali all’interno dei cicli d’istruzione, con il coordinamento del Ministero dell’Istruzione e del Ministero dell’Università e della Ricerca;
 
-#. Forza lavoro - per garantire competenze digitali adeguate sia nel settore privato che nel settore pubblico, incluse le competenze per l’e-leadership, con il coordinamento del Ministero dello Sviluppo Economico e del Ministro per la Pubblica Amministrazione;
+#. \ |STYLE16|\  - per garantire competenze digitali adeguate sia nel settore privato che nel settore pubblico, incluse le competenze per l’e-leadership, con il coordinamento del Ministero dello Sviluppo Economico e del Ministro per la Pubblica Amministrazione;
 
-#. Competenze specialistiche ICT - per potenziare la capacità del Paese di sviluppare competenze per mercati emergenti e nuove possibilità di occupazione, in gran parte legate alle tecnologie innovative e al possesso delle competenze indispensabili per i lavori del futuro, con il coordinamento del Ministero dell’Università e Ricerca e del Ministero dello Sviluppo Economico;
+#. \ |STYLE17|\  - per potenziare la capacità del Paese di sviluppare competenze per mercati emergenti e nuove possibilità di occupazione, in gran parte legate alle tecnologie innovative e al possesso delle competenze indispensabili per i lavori del futuro, con il coordinamento del Ministero dell’Università e Ricerca e del Ministero dello Sviluppo Economico;
 
-#. Cittadini - per sviluppare le competenze digitali necessarie a esercitare i diritti di cittadinanza e la partecipazione consapevole alla vita democratica, con il coordinamento del Ministro per l’innovazione tecnologica e la digitalizzazione).
+#. \ |STYLE18|\  - per sviluppare le competenze digitali necessarie a esercitare i diritti di cittadinanza e la partecipazione consapevole alla vita democratica, con il coordinamento del Ministro per l’innovazione tecnologica e la digitalizzazione).
 
-L’architettura del piano si articola in 4 assi strategici nell’ambito di ciascuno dei quali sono individuate le azioni di breve, medio e lungo termine che attuano le priorità e le linee di intervento definite nella Strategia. Il modello che consente il monitoraggio di tali azioni include un cruscotto di indicatori di impatto generale, suddivisi per ciascun asse, tra fattori abilitanti e risultati da ottenere, nonché indicatori specifici per ciascuna azione.
+L’architettura del piano si articola in \ |STYLE19|\  nell’ambito di ciascuno dei quali sono individuate le azioni di breve, medio e lungo termine che attuano le priorità e le linee di intervento definite nella Strategia. Il modello che consente il monitoraggio di tali azioni include un cruscotto di indicatori di impatto generale, suddivisi per ciascun asse, tra fattori abilitanti e risultati da ottenere, nonché indicatori specifici per ciascuna azione.
 
 \ |LINK91|\ 
 
@@ -537,7 +546,7 @@ Gli ALLEGATI con le schede di dettaglio delle azioni del Piano:
 Linee Guida sulla formazione, gestione e conservazione dei documenti informatici
 ********************************************************************************
 
-\ |STYLE15|\  \ |LINK98|\  (dal sito AGID). 
+\ |STYLE20|\  \ |LINK98|\  (dal sito AGID). 
 
 Le \ |LINK99|\  (su Docs Italia) sono emanate secondo la procedura prevista dall’art. 71 “\ |LINK100|\ ” del Codice dell’Amministrazione digitale (CAD) e hanno il duplice scopo di:
 
@@ -545,13 +554,13 @@ Le \ |LINK99|\  (su Docs Italia) sono emanate secondo la procedura prevista dall
 
 #. fornire una cornice unica di regolazione sulla materia, in coerenza con la disciplina dei Beni culturali.
 
-(\ |STYLE16|\ ).
+(\ |STYLE21|\ ).
 
-\ |STYLE17|\ 
+\ |STYLE22|\ 
 
-\ |STYLE18|\   Sono state pubblicate dall'AGID in versione definitiva le "\ |LINK101|\ ".
+\ |STYLE23|\   Sono state pubblicate dall'AGID in versione definitiva le "\ |LINK101|\ ".
 
-\ |STYLE19|\  \ |LINK102|\  che è stato pubblicato nella \ |LINK103|\  il comunicato sull'adozione delle Linee guida sul documento informatico.
+\ |STYLE24|\  \ |LINK102|\  che è stato pubblicato nella \ |LINK103|\  il comunicato sull'adozione delle Linee guida sul documento informatico.
 
 * \ |LINK104|\  (10/09/2020 - 749 kb - pdf) 
 
@@ -571,13 +580,13 @@ Le \ |LINK99|\  (su Docs Italia) sono emanate secondo la procedura prevista dall
 
 .. admonition:: i chiarimenti sulle nuove linee guida
 
-    i \ |LINK112|\  l'entrata in vigore (\ |STYLE20|\ ) e la data di attuazione (\ |STYLE21|\ ), oltre ad alcune correzioni di seguito elencate:
+    i \ |LINK112|\  l'entrata in vigore (\ |STYLE25|\ ) e la data di attuazione (\ |STYLE26|\ ), oltre ad alcune correzioni di seguito elencate:
     
-    * con riferimento allo \ |STYLE22|\  si segnala una errata corrige al paragrafo 4.7 del documento di Linee guida dove per mero errore materiale si indica la versione 2010. Intenzionalmente, al paragrafo 4.2 non è stata specificata la data per significare che la versione dello standard deve riferirsi all'ultima versione corrente, ovvero quella del 2020; 
+    * con riferimento allo \ |STYLE27|\  si segnala una errata corrige al paragrafo 4.7 del documento di Linee guida dove per mero errore materiale si indica la versione 2010. Intenzionalmente, al paragrafo 4.2 non è stata specificata la data per significare che la versione dello standard deve riferirsi all'ultima versione corrente, ovvero quella del 2020; 
     
-    * con riferimento allo \ |STYLE23|\  si comunica una errata corrige all'allegato 4 Standard e Specifiche tecniche dove per mero errore materiale si indica la versione 2011 in luogo di quelle rispettivamente aggiornate del 2020 e del 2019; 
+    * con riferimento allo \ |STYLE28|\  si comunica una errata corrige all'allegato 4 Standard e Specifiche tecniche dove per mero errore materiale si indica la versione 2011 in luogo di quelle rispettivamente aggiornate del 2020 e del 2019; 
     
-    * con riferimento allo \ |STYLE24|\  si comunica una errata corrige all'allegato 4 Standard e Specifiche tecniche dove per mero errore materiale si indica la versione V1.2.1 in luogo della V1.3.1.
+    * con riferimento allo \ |STYLE29|\  si comunica una errata corrige all'allegato 4 Standard e Specifiche tecniche dove per mero errore materiale si indica la versione V1.2.1 in luogo della V1.3.1.
 
  
 
@@ -591,25 +600,25 @@ Le \ |LINK99|\  (su Docs Italia) sono emanate secondo la procedura prevista dall
 |                                                                                                                                                                                                                                                                                                         |
 |* il \ |LINK114|\ , contenente “Regole tecniche in materia di sistema di conservazione”.                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                                                         |
-|Per quanto concerne il \ |LINK115|\ , a partire dalla data di applicazione delle Linee guida \ |STYLE25|\ :                                                                                                                                                                                              |
+|Per quanto concerne il \ |LINK115|\ , a partire dalla data di applicazione delle Linee guida \ |STYLE30|\ :                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK116|\ \ |STYLE26|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK116|\ \ |STYLE31|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK117|\ \ |STYLE27|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK117|\ \ |STYLE32|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK118|\ \ |STYLE28|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK118|\ \ |STYLE33|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK119|\ \ |STYLE29|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK119|\ \ |STYLE34|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK120|\ \ |STYLE30|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK120|\ \ |STYLE35|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK121|\ \ |STYLE31|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK121|\ \ |STYLE36|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|Sempre a far data dalla data di applicazione delle Linee guida, la \ |LINK122|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” \ |STYLE32|\  \ |STYLE33|\  “\ |LINK123|\ ” del presente documento.|
+|Sempre a far data dalla data di applicazione delle Linee guida, la \ |LINK122|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” \ |STYLE37|\  \ |STYLE38|\  “\ |LINK123|\ ” del presente documento.|
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
-|REPLACE2|
+|REPLACE3|
 
 --------
 
@@ -750,13 +759,13 @@ Decreto di adozione della "Strategia Nazionale per le Competenze Digitali" del M
 
 Quattro sono gli assi di intervento della Strategia:
 
-* \ |STYLE34|\  - per lo sviluppo delle competenze digitali all’interno dei cicli d’istruzione per i giovani, con il coordinamento del Ministero dell’Istruzione e del Ministero dell’Università e della Ricerca.
+* \ |STYLE39|\  - per lo sviluppo delle competenze digitali all’interno dei cicli d’istruzione per i giovani, con il coordinamento del Ministero dell’Istruzione e del Ministero dell’Università e della Ricerca.
 
-* \ |STYLE35|\  - per garantire \ |STYLE36|\ , incluse le competenze per l’e-leadership, con il coordinamento del Ministero dello Sviluppo Economico e del Ministro per la Pubblica Amministrazione.
+* \ |STYLE40|\  - per garantire \ |STYLE41|\ , incluse le competenze per l’e-leadership, con il coordinamento del Ministero dello Sviluppo Economico e del Ministro per la Pubblica Amministrazione.
 
-* \ |STYLE37|\  - per potenziare la capacità del Paese di sviluppare competenze per nuovi mercati e nuove possibilità di occupazione, in gran parte legate alle tecnologie emergenti e al possesso delle competenze indispensabili per i lavori del futuro, con il coordinamento del Ministero dell’Università e Ricerca e del Ministero dello Sviluppo Economico.
+* \ |STYLE42|\  - per potenziare la capacità del Paese di sviluppare competenze per nuovi mercati e nuove possibilità di occupazione, in gran parte legate alle tecnologie emergenti e al possesso delle competenze indispensabili per i lavori del futuro, con il coordinamento del Ministero dell’Università e Ricerca e del Ministero dello Sviluppo Economico.
 
-* \ |STYLE38|\  - per sviluppare le competenze digitali necessarie a esercitare i diritti di cittadinanza e la partecipazione consapevole alla vita democratica, con il coordinamento del Ministro per l’Innovazione tecnologica e la Digitalizzazione (MID).
+* \ |STYLE43|\  - per sviluppare le competenze digitali necessarie a esercitare i diritti di cittadinanza e la partecipazione consapevole alla vita democratica, con il coordinamento del Ministro per l’Innovazione tecnologica e la Digitalizzazione (MID).
 
 --------
 
@@ -767,23 +776,23 @@ Linea di indirizzo sulla "interoperabilità tecnica". Circolare AGID n. 1/2020 d
 
 \ |LINK163|\ . I documenti individuano le tecnologie e gli standard che le Pubbliche Amministrazioni devono tenere in considerazione nella realizzazione dei propri sistemi informatici, al fine di permettere il coordinamento informatico dei dati tra le amministrazioni nonché tra i gestori di servizi pubblici e i soggetti privati e l’Unione Europea. 
 
-La Linea di indirizzo sull’interoperabilità tecnica contribuisce alla definizione del \ |STYLE39|\  (in breve ModI), in coerenza con il nuovo \ |STYLE40|\  (in breve \ |LINK164|\ ) oggetto della Comunicazione COM (2017) 134 della Commissione Europea del 23 marzo 2017.
+La Linea di indirizzo sull’interoperabilità tecnica contribuisce alla definizione del \ |STYLE44|\  (in breve ModI), in coerenza con il nuovo \ |STYLE45|\  (in breve \ |LINK164|\ ) oggetto della Comunicazione COM (2017) 134 della Commissione Europea del 23 marzo 2017.
 
-La Circolare \ |STYLE41|\  proseguendo nel processo di aggiornamento avviato con la \ |LINK165|\ , \ |STYLE42|\ , ai sensi dell’articolo 71 del CAD, \ |STYLE43|\  \ |LINK166|\ .
+La Circolare \ |STYLE46|\  proseguendo nel processo di aggiornamento avviato con la \ |LINK165|\ , \ |STYLE47|\ , ai sensi dell’articolo 71 del CAD, \ |STYLE48|\  \ |LINK166|\ .
 
 La Linea di indirizzo sull’interoperabilità tecnica è applicabile ai soli servizi digitali realizzati da una Pubblica Amministrazione.
 
 La Linea di indirizzo sull’interoperabilità tecnica provvede a:
 
-* \ |STYLE44|\ , indirizzando le scelte architetturali di interoperabilità delle PA; 
+* \ |STYLE49|\ , indirizzando le scelte architetturali di interoperabilità delle PA; 
 
-* \ |STYLE45|\  che semplifichino e abilitino l’utilizzo dei dati e dei servizi digitali; 
+* \ |STYLE50|\  che semplifichino e abilitino l’utilizzo dei dati e dei servizi digitali; 
 
-* \ |STYLE46|\  per favorire la separazione dei livelli di backend e frontend, con logiche aperte e standard pubblici che garantiscano ad altri attori, pubblici e privati, accessibilità e massima interoperabilità di dati e servizi digitali;
+* \ |STYLE51|\  per favorire la separazione dei livelli di backend e frontend, con logiche aperte e standard pubblici che garantiscano ad altri attori, pubblici e privati, accessibilità e massima interoperabilità di dati e servizi digitali;
 
-* \ |STYLE47|\ ;
+* \ |STYLE52|\ ;
 
-* \ |STYLE48|\ .
+* \ |STYLE53|\ .
 
 Allegati:
 
@@ -804,7 +813,7 @@ Allegati:
 --------
 
 
-|REPLACE3|
+|REPLACE4|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -845,73 +854,83 @@ Allegati:
 
 .. |STYLE14| replace:: **Le linee di intervento**
 
-.. |STYLE15| replace:: **17/10/2019 -**
+.. |STYLE15| replace:: **Istruzione e Formazione Superiore**
 
-.. |STYLE16| replace:: *A queste linee guida dovranno riferirsi gli enti pubblici per la redazione/aggiornamento dei manuali di formazione, gestione e conservazione del documento informatico*
+.. |STYLE16| replace:: **Forza lavoro**
 
-.. |STYLE17| replace:: **↓**
+.. |STYLE17| replace:: **Competenze specialistiche ICT**
 
-.. |STYLE18| replace:: **9/09/2020 -**
+.. |STYLE18| replace:: **Cittadini**
 
-.. |STYLE19| replace:: **20/10/2020 -**
+.. |STYLE19| replace:: **4 assi strategici**
 
-.. |STYLE20| replace:: **10 settembre 2020**
+.. |STYLE20| replace:: **17/10/2019 -**
 
-.. |STYLE21| replace:: **entro il 7 giugno 2021**
+.. |STYLE21| replace:: *A queste linee guida dovranno riferirsi gli enti pubblici per la redazione/aggiornamento dei manuali di formazione, gestione e conservazione del documento informatico*
 
-.. |STYLE22| replace:: **standard UNI 11386 - Standard SInCRO**
+.. |STYLE22| replace:: **↓**
 
-.. |STYLE23| replace:: **standard ISO 30300 e ISO 30301**
+.. |STYLE23| replace:: **9/09/2020 -**
 
-.. |STYLE24| replace:: **standard ETSI TS 101 511**
+.. |STYLE24| replace:: **20/10/2020 -**
 
-.. |STYLE25| replace:: **sono abrogate tutte le disposizioni fatte salve le seguenti**
+.. |STYLE25| replace:: **10 settembre 2020**
 
-.. |STYLE26| replace:: **, Oggetto e ambito di applicazione;**
+.. |STYLE26| replace:: **entro il 7 giugno 2021**
 
-.. |STYLE27| replace:: **, Funzionalità;**
+.. |STYLE27| replace:: **standard UNI 11386 - Standard SInCRO**
 
-.. |STYLE28| replace:: **, Formato della segnatura di protocollo;**
+.. |STYLE28| replace:: **standard ISO 30300 e ISO 30301**
 
-.. |STYLE29| replace:: **, Modalità di registrazione dei documenti informatici;**
+.. |STYLE29| replace:: **standard ETSI TS 101 511**
 
-.. |STYLE30| replace:: **, Segnatura di protocollo dei documenti trasmessi;**
+.. |STYLE30| replace:: **sono abrogate tutte le disposizioni fatte salve le seguenti**
 
-.. |STYLE31| replace:: **, Informazioni da includere nella segnatura.**
+.. |STYLE31| replace:: **, Oggetto e ambito di applicazione;**
 
-.. |STYLE32| replace:: **è abrogata**
+.. |STYLE32| replace:: **, Funzionalità;**
 
-.. |STYLE33| replace:: **e sostituita dall’allegato n.6**
+.. |STYLE33| replace:: **, Formato della segnatura di protocollo;**
 
-.. |STYLE34| replace:: **Istruzione e Formazione Superiore**
+.. |STYLE34| replace:: **, Modalità di registrazione dei documenti informatici;**
 
-.. |STYLE35| replace:: **Forza lavoro attiva**
+.. |STYLE35| replace:: **, Segnatura di protocollo dei documenti trasmessi;**
 
-.. |STYLE36| replace:: **competenze digitali adeguate sia nel settore privato che nel settore pubblico**
+.. |STYLE36| replace:: **, Informazioni da includere nella segnatura.**
 
-.. |STYLE37| replace:: **Competenze specialistiche ICT**
+.. |STYLE37| replace:: **è abrogata**
 
-.. |STYLE38| replace:: **Cittadini**
+.. |STYLE38| replace:: **e sostituita dall’allegato n.6**
 
-.. |STYLE39| replace:: **Modello di Interoperabilità della PA**
+.. |STYLE39| replace:: **Istruzione e Formazione Superiore**
 
-.. |STYLE40| replace:: **European Interoperability Framework**
+.. |STYLE40| replace:: **Forza lavoro attiva**
 
-.. |STYLE41| replace:: **aggiorna il Sistema pubblico di cooperazione (SPCoop)**
+.. |STYLE41| replace:: **competenze digitali adeguate sia nel settore privato che nel settore pubblico**
 
-.. |STYLE42| replace:: **nelle more delle predisposizione**
+.. |STYLE42| replace:: **Competenze specialistiche ICT**
 
-.. |STYLE43| replace:: **delle**
+.. |STYLE43| replace:: **Cittadini**
 
-.. |STYLE44| replace:: **definire le modalità di integrazione tra le PA, e tra queste cittadini e imprese**
+.. |STYLE44| replace:: **Modello di Interoperabilità della PA**
 
-.. |STYLE45| replace:: **individuare le scelte tecnologiche che favoriscano lo sviluppo, da parte delle PA, cittadini e imprese, di soluzioni applicative innovative**
+.. |STYLE45| replace:: **European Interoperability Framework**
 
-.. |STYLE46| replace:: **promuovere l’adozione dell’approccio “API first”**
+.. |STYLE46| replace:: **aggiorna il Sistema pubblico di cooperazione (SPCoop)**
 
-.. |STYLE47| replace:: **privilegiare standard tecnologici, de iure e de facto, che soddisfino l’esigenza di rendere sicure le interazioni tra le PA e tra queste, cittadini e imprese**
+.. |STYLE47| replace:: **nelle more delle predisposizione**
 
-.. |STYLE48| replace:: **favorire l’interazione tra PA e tra queste, cittadini e imprese, attraverso un approccio Contract-First**
+.. |STYLE48| replace:: **delle**
+
+.. |STYLE49| replace:: **definire le modalità di integrazione tra le PA, e tra queste cittadini e imprese**
+
+.. |STYLE50| replace:: **individuare le scelte tecnologiche che favoriscano lo sviluppo, da parte delle PA, cittadini e imprese, di soluzioni applicative innovative**
+
+.. |STYLE51| replace:: **promuovere l’adozione dell’approccio “API first”**
+
+.. |STYLE52| replace:: **privilegiare standard tecnologici, de iure e de facto, che soddisfino l’esigenza di rendere sicure le interazioni tra le PA e tra queste, cittadini e imprese**
+
+.. |STYLE53| replace:: **favorire l’interazione tra PA e tra queste, cittadini e imprese, attraverso un approccio Contract-First**
 
 
 .. |REPLACE1| raw:: html
@@ -919,10 +938,13 @@ Allegati:
     <img src="https://img.shields.io/badge/fondamentali-amministrazione_digitale-blue.svg?style=popout&logo=Read%20the%20Docs" />
 .. |REPLACE2| raw:: html
 
+    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">COMPETENZE DIGITALI</span></strong>
+.. |REPLACE3| raw:: html
+
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/A_smdqx0NZU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <b> Webinar Formazione, gestione e conservazione dei documenti informatici: cosa cambia con le nuove linee guida AGID – 1 dicembre 2020 </b> <br></br>
     <a href="https://www.fondazionecrui.it/wp-content/uploads/2020/12/Webinar-Agid-CRUI_01-12-2020_Servizio-Documentali-wecompress.com_.pptx">Presentazione del webinar</a>
-.. |REPLACE3| raw:: html
+.. |REPLACE4| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
