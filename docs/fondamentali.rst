@@ -482,20 +482,20 @@ Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente d
 
 * \ |LINK87|\ .
 
-\ |LINK88|\  (31 luglio 2020).
-
 |
 
-:guilabel:`Piano operativo delle competenze digitali dei dipendenti pubblici e dei cittadini`
+:guilabel:`Strategia nazionale e Piano operativo delle competenze digitali dei dipendenti pubblici e dei cittadini`
 
-.. _h2a3a4056233e6e1f2a2c27d584745f:
+.. _h62494c37473452734204f6d6b197a52:
 
-Il Piano Operativo della Strategia Nazionale per le competenze digitali, 23 dicembre 2020
-*****************************************************************************************
+La Strategia Nazionale e il Piano Operativo per le competenze digitali
+**********************************************************************
 
-Dopo aver adottato la Strategia Nazionale per le Competenze Digitali, l’Italia ha ora il suo \ |LINK89|\ .
+(31 luglio 2020) \ |LINK88|\ . Il \ |LINK89|\  per le competenze digitali. Quattro sono gli assi di intervento della Strategia: 1) \ |STYLE13|\  - 2) \ |STYLE14|\  \ |STYLE15|\  \ |STYLE16|\  - 3) \ |STYLE17|\  -  4) \ |STYLE18|\ .
 
-\ |STYLE13|\ 
+(23 dicembre 2020) Dopo aver adottato la Strategia Nazionale per le Competenze Digitali, l’Italia ha ora il suo \ |LINK90|\ .
+
+\ |STYLE19|\ 
 
 Tra gli obiettivi del Piano Operativo da realizzare entro il 2025 se ne segnalano alcuni il cui conseguimento mira ad avere un impatto rilevante per la crescita del nostro Paese:
 
@@ -509,35 +509,35 @@ Tra gli obiettivi del Piano Operativo da realizzare entro il 2025 se ne segnalan
 
 * aumentare di cinque volte la quota di popolazione che utilizza servizi digitali pubblici, portandola al 64% e portare ai livelli dei Paesi europei più avanzati, l’utilizzo di Internet anche nelle fasce meno giovani della popolazione (l’84% nella fascia 65-74 anni).
 
-\ |STYLE14|\ 
+\ |STYLE20|\ 
 
-Il Piano indica le azioni di sistema per l’attuazione delle linee di intervento della \ |LINK90|\  e delinea gli obiettivi, misurabili, per ciascuna azione nell’ambito dei quattro assi individuati:
+Il Piano indica le azioni di sistema per l’attuazione delle linee di intervento della \ |LINK91|\  e delinea gli obiettivi, misurabili, per ciascuna azione nell’ambito dei quattro assi individuati:
 
-#. \ |STYLE15|\  - per lo sviluppo delle competenze digitali all’interno dei cicli d’istruzione, con il coordinamento del Ministero dell’Istruzione e del Ministero dell’Università e della Ricerca;
+#. \ |STYLE21|\  - per lo sviluppo delle competenze digitali all’interno dei cicli d’istruzione, con il coordinamento del Ministero dell’Istruzione e del Ministero dell’Università e della Ricerca;
 
-#. \ |STYLE16|\  - per garantire competenze digitali adeguate sia nel settore privato che nel settore pubblico, incluse le competenze per l’e-leadership, con il coordinamento del Ministero dello Sviluppo Economico e del Ministro per la Pubblica Amministrazione;
+#. \ |STYLE22|\  - per garantire competenze digitali adeguate sia nel settore privato che nel settore pubblico, incluse le competenze per l’e-leadership, con il coordinamento del Ministero dello Sviluppo Economico e del Ministro per la Pubblica Amministrazione;
 
-#. \ |STYLE17|\  - per potenziare la capacità del Paese di sviluppare competenze per mercati emergenti e nuove possibilità di occupazione, in gran parte legate alle tecnologie innovative e al possesso delle competenze indispensabili per i lavori del futuro, con il coordinamento del Ministero dell’Università e Ricerca e del Ministero dello Sviluppo Economico;
+#. \ |STYLE23|\  - per potenziare la capacità del Paese di sviluppare competenze per mercati emergenti e nuove possibilità di occupazione, in gran parte legate alle tecnologie innovative e al possesso delle competenze indispensabili per i lavori del futuro, con il coordinamento del Ministero dell’Università e Ricerca e del Ministero dello Sviluppo Economico;
 
-#. \ |STYLE18|\  - per sviluppare le competenze digitali necessarie a esercitare i diritti di cittadinanza e la partecipazione consapevole alla vita democratica, con il coordinamento del Ministro per l’innovazione tecnologica e la digitalizzazione).
+#. \ |STYLE24|\  - per sviluppare le competenze digitali necessarie a esercitare i diritti di cittadinanza e la partecipazione consapevole alla vita democratica, con il coordinamento del Ministro per l’innovazione tecnologica e la digitalizzazione).
 
-L’architettura del piano si articola in \ |STYLE19|\  nell’ambito di ciascuno dei quali sono individuate le azioni di breve, medio e lungo termine che attuano le priorità e le linee di intervento definite nella Strategia. Il modello che consente il monitoraggio di tali azioni include un cruscotto di indicatori di impatto generale, suddivisi per ciascun asse, tra fattori abilitanti e risultati da ottenere, nonché indicatori specifici per ciascuna azione.
-
-\ |LINK91|\ 
+L’architettura del piano si articola in \ |STYLE25|\  nell’ambito di ciascuno dei quali sono individuate le azioni di breve, medio e lungo termine che attuano le priorità e le linee di intervento definite nella Strategia. Il modello che consente il monitoraggio di tali azioni include un cruscotto di indicatori di impatto generale, suddivisi per ciascun asse, tra fattori abilitanti e risultati da ottenere, nonché indicatori specifici per ciascuna azione.
 
 \ |LINK92|\ 
 
 \ |LINK93|\ 
 
-Gli ALLEGATI con le schede di dettaglio delle azioni del Piano:
+\ |LINK94|\ 
 
-* \ |LINK94|\ 
+Gli ALLEGATI con le schede di dettaglio delle azioni del Piano:
 
 * \ |LINK95|\ 
 
 * \ |LINK96|\ 
 
 * \ |LINK97|\ 
+
+* \ |LINK98|\ 
 
 --------
 
@@ -546,47 +546,47 @@ Gli ALLEGATI con le schede di dettaglio delle azioni del Piano:
 Linee Guida sulla formazione, gestione e conservazione dei documenti informatici
 ********************************************************************************
 
-\ |STYLE20|\  \ |LINK98|\  (dal sito AGID). 
+\ |STYLE26|\  \ |LINK99|\  (dal sito AGID). 
 
-Le \ |LINK99|\  (su Docs Italia) sono emanate secondo la procedura prevista dall’art. 71 “\ |LINK100|\ ” del Codice dell’Amministrazione digitale (CAD) e hanno il duplice scopo di:
+Le \ |LINK100|\  (su Docs Italia) sono emanate secondo la procedura prevista dall’art. 71 “\ |LINK101|\ ” del Codice dell’Amministrazione digitale (CAD) e hanno il duplice scopo di:
 
 #. aggiornare le regole tecniche attualmente in vigore sulla formazione, protocollazione, gestione e conservazione dei documenti informatici precedentemente regolate nei DPCM del 2013 e 2014;
 
 #. fornire una cornice unica di regolazione sulla materia, in coerenza con la disciplina dei Beni culturali.
 
-(\ |STYLE21|\ ).
+(\ |STYLE27|\ ).
 
-\ |STYLE22|\ 
+\ |STYLE28|\ 
 
-\ |STYLE23|\   Sono state pubblicate dall'AGID in versione definitiva le "\ |LINK101|\ ".
+\ |STYLE29|\   Sono state pubblicate dall'AGID in versione definitiva le "\ |LINK102|\ ".
 
-\ |STYLE24|\  \ |LINK102|\  che è stato pubblicato nella \ |LINK103|\  il comunicato sull'adozione delle Linee guida sul documento informatico.
+\ |STYLE30|\  \ |LINK103|\  che è stato pubblicato nella \ |LINK104|\  il comunicato sull'adozione delle Linee guida sul documento informatico.
 
-* \ |LINK104|\  (10/09/2020 - 749 kb - pdf) 
+* \ |LINK105|\  (10/09/2020 - 749 kb - pdf) 
 
-* Allegato: \ |LINK105|\  (10/09/2020 - 545 kb - pdf) 
+* Allegato: \ |LINK106|\  (10/09/2020 - 545 kb - pdf) 
 
-* Allegato: \ |LINK106|\  (10/09/2020 - 2446 kb - pdf) 
+* Allegato: \ |LINK107|\  (10/09/2020 - 2446 kb - pdf) 
 
-* Allegato: \ |LINK107|\  (10/09/2020 - 429 kb - pdf) 
+* Allegato: \ |LINK108|\  (10/09/2020 - 429 kb - pdf) 
 
-* Allegato: \ |LINK108|\  (10/09/2020 - 294 kb - pdf) 
+* Allegato: \ |LINK109|\  (10/09/2020 - 294 kb - pdf) 
 
-* Allegato: \ |LINK109|\  (10/09/2020 - 809 kb - pdf) 
+* Allegato: \ |LINK110|\  (10/09/2020 - 809 kb - pdf) 
 
-* Allegato: \ |LINK110|\  (10/09/2020 - 369 kb - pdf) 
+* Allegato: \ |LINK111|\  (10/09/2020 - 369 kb - pdf) 
 
-\ |LINK111|\ 
+\ |LINK112|\ 
 
 .. admonition:: i chiarimenti sulle nuove linee guida
 
-    i \ |LINK112|\  l'entrata in vigore (\ |STYLE25|\ ) e la data di attuazione (\ |STYLE26|\ ), oltre ad alcune correzioni di seguito elencate:
+    i \ |LINK113|\  l'entrata in vigore (\ |STYLE31|\ ) e la data di attuazione (\ |STYLE32|\ ), oltre ad alcune correzioni di seguito elencate:
     
-    * con riferimento allo \ |STYLE27|\  si segnala una errata corrige al paragrafo 4.7 del documento di Linee guida dove per mero errore materiale si indica la versione 2010. Intenzionalmente, al paragrafo 4.2 non è stata specificata la data per significare che la versione dello standard deve riferirsi all'ultima versione corrente, ovvero quella del 2020; 
+    * con riferimento allo \ |STYLE33|\  si segnala una errata corrige al paragrafo 4.7 del documento di Linee guida dove per mero errore materiale si indica la versione 2010. Intenzionalmente, al paragrafo 4.2 non è stata specificata la data per significare che la versione dello standard deve riferirsi all'ultima versione corrente, ovvero quella del 2020; 
     
-    * con riferimento allo \ |STYLE28|\  si comunica una errata corrige all'allegato 4 Standard e Specifiche tecniche dove per mero errore materiale si indica la versione 2011 in luogo di quelle rispettivamente aggiornate del 2020 e del 2019; 
+    * con riferimento allo \ |STYLE34|\  si comunica una errata corrige all'allegato 4 Standard e Specifiche tecniche dove per mero errore materiale si indica la versione 2011 in luogo di quelle rispettivamente aggiornate del 2020 e del 2019; 
     
-    * con riferimento allo \ |STYLE29|\  si comunica una errata corrige all'allegato 4 Standard e Specifiche tecniche dove per mero errore materiale si indica la versione V1.2.1 in luogo della V1.3.1.
+    * con riferimento allo \ |STYLE35|\  si comunica una errata corrige all'allegato 4 Standard e Specifiche tecniche dove per mero errore materiale si indica la versione V1.2.1 in luogo della V1.3.1.
 
  
 
@@ -596,25 +596,25 @@ Le \ |LINK99|\  (su Docs Italia) sono emanate secondo la procedura prevista dall
 |                                                                                                                                                                                                                                                                                                         |
 |A partire dalla data di applicazione delle "Linee Guida sulla formazione, gestione e conservazione dei documenti informatici", sono abrogati:                                                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                         |
-|* il \ |LINK113|\ , contenente “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici”;                                                                                                                            |
+|* il \ |LINK114|\ , contenente “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici”;                                                                                                                            |
 |                                                                                                                                                                                                                                                                                                         |
-|* il \ |LINK114|\ , contenente “Regole tecniche in materia di sistema di conservazione”.                                                                                                                                                                                                                 |
+|* il \ |LINK115|\ , contenente “Regole tecniche in materia di sistema di conservazione”.                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                                                         |
-|Per quanto concerne il \ |LINK115|\ , a partire dalla data di applicazione delle Linee guida \ |STYLE30|\ :                                                                                                                                                                                              |
+|Per quanto concerne il \ |LINK116|\ , a partire dalla data di applicazione delle Linee guida \ |STYLE36|\ :                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK116|\ \ |STYLE31|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK117|\ \ |STYLE37|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK117|\ \ |STYLE32|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK118|\ \ |STYLE38|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK118|\ \ |STYLE33|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK119|\ \ |STYLE39|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK119|\ \ |STYLE34|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK120|\ \ |STYLE40|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK120|\ \ |STYLE35|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK121|\ \ |STYLE41|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK121|\ \ |STYLE36|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK122|\ \ |STYLE42|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|Sempre a far data dalla data di applicazione delle Linee guida, la \ |LINK122|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” \ |STYLE37|\  \ |STYLE38|\  “\ |LINK123|\ ” del presente documento.|
+|Sempre a far data dalla data di applicazione delle Linee guida, la \ |LINK123|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” \ |STYLE43|\  \ |STYLE44|\  “\ |LINK124|\ ” del presente documento.|
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
@@ -629,11 +629,11 @@ Regole Tecniche per la sottoscrizione elettronica di documenti ai sensi dell’a
 
 Regolano le modalità atte a garantire la sicurezza, integrità e immodificabilità del documento e, in maniera manifesta e inequivoca, la sua riconducibilità all’autore.
 
-\ |LINK124|\ 
-
 \ |LINK125|\ 
 
 \ |LINK126|\ 
+
+\ |LINK127|\ 
 
 --------
 
@@ -642,7 +642,7 @@ Regolano le modalità atte a garantire la sicurezza, integrità e immodificabili
 Linee Guida per l’identificazione degli utenti da parte delle PA (AGID)
 ***********************************************************************
 
-\ |LINK127|\   -  \ |LINK128|\ 
+\ |LINK128|\   -  \ |LINK129|\ 
 
 --------
 
@@ -651,7 +651,7 @@ Linee Guida per l’identificazione degli utenti da parte delle PA (AGID)
 Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 ********************************************************************************
 
-\ |LINK129|\  include un ampio excursus relativo all’evoluzione dell’informatica pubblica nella direzione di un progresso verso il Digital Government, un'analisi incentrata principalmente su tre cardini: il CAD, ovvero il Codice dell’Amministrazione  Digitale,  l’Agenda  Digitale italiana  e  il  Piano  Triennale  per l’informatica.
+\ |LINK130|\  include un ampio excursus relativo all’evoluzione dell’informatica pubblica nella direzione di un progresso verso il Digital Government, un'analisi incentrata principalmente su tre cardini: il CAD, ovvero il Codice dell’Amministrazione  Digitale,  l’Agenda  Digitale italiana  e  il  Piano  Triennale  per l’informatica.
 
 --------
 
@@ -660,9 +660,9 @@ Referto della Corte dei Conti in materia di informatica pubblica (novembre_2019)
 Linee Guida sull'indice nazionale dei domicili digitali delle persone fisiche e degli altri enti di diritto privato non tenuti all’iscrizione in albi professionali o nel Registro Imprese
 ******************************************************************************************************************************************************************************************
 
-Da AGID le \ |LINK130|\ . L’indice, istituito dall’\ |LINK131|\ , contiene i domicili digitali delle persone fisiche e degli altri enti di diritto privato non tenuti all’iscrizione in albi professionali o nel registro delle imprese.
+Da AGID le \ |LINK131|\ . L’indice, istituito dall’\ |LINK132|\ , contiene i domicili digitali delle persone fisiche e degli altri enti di diritto privato non tenuti all’iscrizione in albi professionali o nel registro delle imprese.
 
-\ |LINK132|\ . Le Linee Guida sono in consultazione pubblica fino al 10 luglio 2020.
+\ |LINK133|\ . Le Linee Guida sono in consultazione pubblica fino al 10 luglio 2020.
 
 --------
 
@@ -671,29 +671,29 @@ Da AGID le \ |LINK130|\ . L’indice, istituito dall’\ |LINK131|\ , contiene i
 Innovazione digitale nella PA dal Decreto Legge 76/2020 sulle Semplificazioni (luglio 2020)
 *******************************************************************************************
 
-Dal \ |LINK133|\ , queste le misure rilevanti per accelerare la digitalizzazione della PA.
+Dal \ |LINK134|\ , queste le misure rilevanti per accelerare la digitalizzazione della PA.
 
-* Solo SPID o Carte d’identità elettronica per accedere a tutti i servizi pubblici online, entro il 28 febbraio 2021 per tutti gli Enti pubblici. Rimane fermo l'utilizzo delle credenziali già rilasciate dalle PA fino alla loro naturale scadenza e, comunque, non oltre il 30 settembre 2021 (\ |LINK134|\ )
+* Solo SPID o Carte d’identità elettronica per accedere a tutti i servizi pubblici online, entro il 28 febbraio 2021 per tutti gli Enti pubblici. Rimane fermo l'utilizzo delle credenziali già rilasciate dalle PA fino alla loro naturale scadenza e, comunque, non oltre il 30 settembre 2021 (\ |LINK135|\ )
 
-* L’app IO sarà l’unico canale per accedere dallo smartphone ai servizi pubblici resi in digitale (\ |LINK135|\ )
+* L’app IO sarà l’unico canale per accedere dallo smartphone ai servizi pubblici resi in digitale (\ |LINK136|\ )
 
-* SPID e Carta d'identità elettronica (CIE) equivalgono all’esibizione di un documento di identità (\ |LINK136|\ )
+* SPID e Carta d'identità elettronica (CIE) equivalgono all’esibizione di un documento di identità (\ |LINK137|\ )
 
-* IO come strumento di autocertificazione e presentazione istanze (\ |LINK137|\ )
+* IO come strumento di autocertificazione e presentazione istanze (\ |LINK138|\ )
 
-* Semplificazione per il rilascio della Carta d’identità elettronica (anche prima della scadenza di quella cartacea) (\ |LINK138|\ )
+* Semplificazione per il rilascio della Carta d’identità elettronica (anche prima della scadenza di quella cartacea) (\ |LINK139|\ )
 
 * Lavoro agile nella Pubblica Amministrazione (applicativi tali da permettere il lavoro del personale da remoto)
 
-* Interventi per favorire l’accesso delle persone disabili agli strumenti informatici (\ |LINK139|\ )
+* Interventi per favorire l’accesso delle persone disabili agli strumenti informatici (\ |LINK140|\ )
 
 * La Pubblica Amministrazione e i cittadini comunicano online (modalità prioritaria)
 
-* Semplificazione per la piattaforma digitale nazionale dati (\ |LINK140|\ )
+* Semplificazione per la piattaforma digitale nazionale dati (\ |LINK141|\ )
 
 * Verso il cloud nazionale
 
-* I dati dei concessionari pubblici alla PA (\ |LINK141|\ )
+* I dati dei concessionari pubblici alla PA (\ |LINK142|\ )
 
 * Diritto a innovare
 
@@ -703,18 +703,16 @@ Dal \ |LINK133|\ , queste le misure rilevanti per accelerare la digitalizzazione
 
 * Arrivano esperti nelle amministrazioni per guidare i processi di trasformazione digitale (... le pubbliche amministrazioni possono assumere temporaneamente esperti, dotati di esperienza e qualificazione professionale nello sviluppo e nella gestione di processi complessi di trasformazione digitale) 
 
-* Regole di condotta tecnologica per le amministrazioni (\ |LINK142|\ )
+* Regole di condotta tecnologica per le amministrazioni (\ |LINK143|\ )
 
 * Banda ultra larga (per agevolare il posizionamento della fibra il decreto estende l’utilizzo della cosiddetta “microtrincea”)
 
-* 5G (I sindaci non potranno introdurre limitazioni alla localizzazione sul proprio territorio di stazioni radio base per reti di comunicazioni elettroniche di qualunque tipologia e non potranno fissare limiti di esposizione a campi elettrici, magnetici ed elettromagnetici diversi rispetto a quelli stabiliti dallo Stato) (\ |LINK143|\ )
+* 5G (I sindaci non potranno introdurre limitazioni alla localizzazione sul proprio territorio di stazioni radio base per reti di comunicazioni elettroniche di qualunque tipologia e non potranno fissare limiti di esposizione a campi elettrici, magnetici ed elettromagnetici diversi rispetto a quelli stabiliti dallo Stato) (\ |LINK144|\ )
 
 
 ..  Important:: 
 
-    Vedi anche il \ |LINK144|\  nei seguenti articoli:
-    
-    * \ |LINK145|\ 
+    Vedi anche il \ |LINK145|\  nei seguenti articoli:
     
     * \ |LINK146|\ 
     
@@ -743,29 +741,10 @@ Dal \ |LINK133|\ , queste le misure rilevanti per accelerare la digitalizzazione
     * \ |LINK158|\ 
     
     * \ |LINK159|\ 
+    
+    * \ |LINK160|\ 
 
-Un utile e interessante dossier della Camera dei Deputati del 24 luglio 2020 sulla \ |LINK160|\  alla luce del DL 76/2020.
-
---------
-
-.. _h1ab7c53297a614175127d4562f1554:
-
-Decreto di adozione della "Strategia Nazionale per le Competenze Digitali" del Ministero per l’innovazione tecnologica e la digitalizzazione.
-*********************************************************************************************************************************************
-
-\ |LINK161|\  (31 luglio 2020).
-
-\ |LINK162|\ .
-
-Quattro sono gli assi di intervento della Strategia:
-
-* \ |STYLE39|\  - per lo sviluppo delle competenze digitali all’interno dei cicli d’istruzione per i giovani, con il coordinamento del Ministero dell’Istruzione e del Ministero dell’Università e della Ricerca.
-
-* \ |STYLE40|\  - per garantire \ |STYLE41|\ , incluse le competenze per l’e-leadership, con il coordinamento del Ministero dello Sviluppo Economico e del Ministro per la Pubblica Amministrazione.
-
-* \ |STYLE42|\  - per potenziare la capacità del Paese di sviluppare competenze per nuovi mercati e nuove possibilità di occupazione, in gran parte legate alle tecnologie emergenti e al possesso delle competenze indispensabili per i lavori del futuro, con il coordinamento del Ministero dell’Università e Ricerca e del Ministero dello Sviluppo Economico.
-
-* \ |STYLE43|\  - per sviluppare le competenze digitali necessarie a esercitare i diritti di cittadinanza e la partecipazione consapevole alla vita democratica, con il coordinamento del Ministro per l’Innovazione tecnologica e la Digitalizzazione (MID).
+Un utile e interessante dossier della Camera dei Deputati del 24 luglio 2020 sulla \ |LINK161|\  alla luce del DL 76/2020.
 
 --------
 
@@ -774,41 +753,41 @@ Quattro sono gli assi di intervento della Strategia:
 Linea di indirizzo sulla "interoperabilità tecnica". Circolare AGID n. 1/2020 del 9 settembre 2020.
 ***************************************************************************************************
 
-\ |LINK163|\ . I documenti individuano le tecnologie e gli standard che le Pubbliche Amministrazioni devono tenere in considerazione nella realizzazione dei propri sistemi informatici, al fine di permettere il coordinamento informatico dei dati tra le amministrazioni nonché tra i gestori di servizi pubblici e i soggetti privati e l’Unione Europea. 
+\ |LINK162|\ . I documenti individuano le tecnologie e gli standard che le Pubbliche Amministrazioni devono tenere in considerazione nella realizzazione dei propri sistemi informatici, al fine di permettere il coordinamento informatico dei dati tra le amministrazioni nonché tra i gestori di servizi pubblici e i soggetti privati e l’Unione Europea. 
 
-La Linea di indirizzo sull’interoperabilità tecnica contribuisce alla definizione del \ |STYLE44|\  (in breve ModI), in coerenza con il nuovo \ |STYLE45|\  (in breve \ |LINK164|\ ) oggetto della Comunicazione COM (2017) 134 della Commissione Europea del 23 marzo 2017.
+La Linea di indirizzo sull’interoperabilità tecnica contribuisce alla definizione del \ |STYLE45|\  (in breve ModI), in coerenza con il nuovo \ |STYLE46|\  (in breve \ |LINK163|\ ) oggetto della Comunicazione COM (2017) 134 della Commissione Europea del 23 marzo 2017.
 
-La Circolare \ |STYLE46|\  proseguendo nel processo di aggiornamento avviato con la \ |LINK165|\ , \ |STYLE47|\ , ai sensi dell’articolo 71 del CAD, \ |STYLE48|\  \ |LINK166|\ .
+La Circolare \ |STYLE47|\  proseguendo nel processo di aggiornamento avviato con la \ |LINK164|\ , \ |STYLE48|\ , ai sensi dell’articolo 71 del CAD, \ |STYLE49|\  \ |LINK165|\ .
 
 La Linea di indirizzo sull’interoperabilità tecnica è applicabile ai soli servizi digitali realizzati da una Pubblica Amministrazione.
 
 La Linea di indirizzo sull’interoperabilità tecnica provvede a:
 
-* \ |STYLE49|\ , indirizzando le scelte architetturali di interoperabilità delle PA; 
+* \ |STYLE50|\ , indirizzando le scelte architetturali di interoperabilità delle PA; 
 
-* \ |STYLE50|\  che semplifichino e abilitino l’utilizzo dei dati e dei servizi digitali; 
+* \ |STYLE51|\  che semplifichino e abilitino l’utilizzo dei dati e dei servizi digitali; 
 
-* \ |STYLE51|\  per favorire la separazione dei livelli di backend e frontend, con logiche aperte e standard pubblici che garantiscano ad altri attori, pubblici e privati, accessibilità e massima interoperabilità di dati e servizi digitali;
+* \ |STYLE52|\  per favorire la separazione dei livelli di backend e frontend, con logiche aperte e standard pubblici che garantiscano ad altri attori, pubblici e privati, accessibilità e massima interoperabilità di dati e servizi digitali;
 
-* \ |STYLE52|\ ;
+* \ |STYLE53|\ ;
 
-* \ |STYLE53|\ .
+* \ |STYLE54|\ .
 
 Allegati:
 
-* Allegato: \ |LINK167|\  (15/09/2020 - 3258 kb - pdf) 
+* Allegato: \ |LINK166|\  (15/09/2020 - 3258 kb - pdf) 
 
-* Allegato: \ |LINK168|\  (15/09/2020 - 803 kb - pdf) 
+* Allegato: \ |LINK167|\  (15/09/2020 - 803 kb - pdf) 
 
-* Allegato: \ |LINK169|\  (15/09/2020 - 968 kb - pdf) 
+* Allegato: \ |LINK168|\  (15/09/2020 - 968 kb - pdf) 
 
-* Allegato: \ |LINK170|\  (15/09/2020 - 617 kb - pdf) 
+* Allegato: \ |LINK169|\  (15/09/2020 - 617 kb - pdf) 
 
-* Allegato: \ |LINK171|\  (15/09/2020 - 349 kb - pdf) 
+* Allegato: \ |LINK170|\  (15/09/2020 - 349 kb - pdf) 
 
-* Allegato: \ |LINK172|\  (15/09/2020 - 497 kb - pdf) 
+* Allegato: \ |LINK171|\  (15/09/2020 - 497 kb - pdf) 
 
-* Allegato: \ |LINK173|\  (15/09/2020 - 3825 kb - pdf) 
+* Allegato: \ |LINK172|\  (15/09/2020 - 3825 kb - pdf) 
 
 --------
 
@@ -850,87 +829,89 @@ Allegati:
 
 .. |STYLE12| replace:: *(Adriano Avenia, AGID).*
 
-.. |STYLE13| replace:: **Gli obiettivi del Piano**
+.. |STYLE13| replace:: **Istruzione e Formazione Superiore**
 
-.. |STYLE14| replace:: **Le linee di intervento**
+.. |STYLE14| replace:: **forza lavoro attiva**
 
-.. |STYLE15| replace:: **Istruzione e Formazione Superiore**
+.. |STYLE15| replace:: **per garantire**
 
-.. |STYLE16| replace:: **Forza lavoro**
+.. |STYLE16| replace:: **competenze digitali adeguate sia nel settore privato che nel settore pubblico**
 
 .. |STYLE17| replace:: **Competenze specialistiche ICT**
 
-.. |STYLE18| replace:: **Cittadini**
+.. |STYLE18| replace:: **Competenze dei Cittadini**
 
-.. |STYLE19| replace:: **4 assi strategici**
+.. |STYLE19| replace:: **Gli obiettivi del Piano**
 
-.. |STYLE20| replace:: **17/10/2019 -**
+.. |STYLE20| replace:: **Le linee di intervento**
 
-.. |STYLE21| replace:: *A queste linee guida dovranno riferirsi gli enti pubblici per la redazione/aggiornamento dei manuali di formazione, gestione e conservazione del documento informatico*
+.. |STYLE21| replace:: **Istruzione e Formazione Superiore**
 
-.. |STYLE22| replace:: **↓**
+.. |STYLE22| replace:: **Forza lavoro**
 
-.. |STYLE23| replace:: **9/09/2020 -**
+.. |STYLE23| replace:: **Competenze specialistiche ICT**
 
-.. |STYLE24| replace:: **20/10/2020 -**
+.. |STYLE24| replace:: **Cittadini**
 
-.. |STYLE25| replace:: **10 settembre 2020**
+.. |STYLE25| replace:: **4 assi strategici**
 
-.. |STYLE26| replace:: **entro il 7 giugno 2021**
+.. |STYLE26| replace:: **17/10/2019 -**
 
-.. |STYLE27| replace:: **standard UNI 11386 - Standard SInCRO**
+.. |STYLE27| replace:: *A queste linee guida dovranno riferirsi gli enti pubblici per la redazione/aggiornamento dei manuali di formazione, gestione e conservazione del documento informatico*
 
-.. |STYLE28| replace:: **standard ISO 30300 e ISO 30301**
+.. |STYLE28| replace:: **↓**
 
-.. |STYLE29| replace:: **standard ETSI TS 101 511**
+.. |STYLE29| replace:: **9/09/2020 -**
 
-.. |STYLE30| replace:: **sono abrogate tutte le disposizioni fatte salve le seguenti**
+.. |STYLE30| replace:: **20/10/2020 -**
 
-.. |STYLE31| replace:: **, Oggetto e ambito di applicazione;**
+.. |STYLE31| replace:: **10 settembre 2020**
 
-.. |STYLE32| replace:: **, Funzionalità;**
+.. |STYLE32| replace:: **entro il 7 giugno 2021**
 
-.. |STYLE33| replace:: **, Formato della segnatura di protocollo;**
+.. |STYLE33| replace:: **standard UNI 11386 - Standard SInCRO**
 
-.. |STYLE34| replace:: **, Modalità di registrazione dei documenti informatici;**
+.. |STYLE34| replace:: **standard ISO 30300 e ISO 30301**
 
-.. |STYLE35| replace:: **, Segnatura di protocollo dei documenti trasmessi;**
+.. |STYLE35| replace:: **standard ETSI TS 101 511**
 
-.. |STYLE36| replace:: **, Informazioni da includere nella segnatura.**
+.. |STYLE36| replace:: **sono abrogate tutte le disposizioni fatte salve le seguenti**
 
-.. |STYLE37| replace:: **è abrogata**
+.. |STYLE37| replace:: **, Oggetto e ambito di applicazione;**
 
-.. |STYLE38| replace:: **e sostituita dall’allegato n.6**
+.. |STYLE38| replace:: **, Funzionalità;**
 
-.. |STYLE39| replace:: **Istruzione e Formazione Superiore**
+.. |STYLE39| replace:: **, Formato della segnatura di protocollo;**
 
-.. |STYLE40| replace:: **Forza lavoro attiva**
+.. |STYLE40| replace:: **, Modalità di registrazione dei documenti informatici;**
 
-.. |STYLE41| replace:: **competenze digitali adeguate sia nel settore privato che nel settore pubblico**
+.. |STYLE41| replace:: **, Segnatura di protocollo dei documenti trasmessi;**
 
-.. |STYLE42| replace:: **Competenze specialistiche ICT**
+.. |STYLE42| replace:: **, Informazioni da includere nella segnatura.**
 
-.. |STYLE43| replace:: **Cittadini**
+.. |STYLE43| replace:: **è abrogata**
 
-.. |STYLE44| replace:: **Modello di Interoperabilità della PA**
+.. |STYLE44| replace:: **e sostituita dall’allegato n.6**
 
-.. |STYLE45| replace:: **European Interoperability Framework**
+.. |STYLE45| replace:: **Modello di Interoperabilità della PA**
 
-.. |STYLE46| replace:: **aggiorna il Sistema pubblico di cooperazione (SPCoop)**
+.. |STYLE46| replace:: **European Interoperability Framework**
 
-.. |STYLE47| replace:: **nelle more delle predisposizione**
+.. |STYLE47| replace:: **aggiorna il Sistema pubblico di cooperazione (SPCoop)**
 
-.. |STYLE48| replace:: **delle**
+.. |STYLE48| replace:: **nelle more delle predisposizione**
 
-.. |STYLE49| replace:: **definire le modalità di integrazione tra le PA, e tra queste cittadini e imprese**
+.. |STYLE49| replace:: **delle**
 
-.. |STYLE50| replace:: **individuare le scelte tecnologiche che favoriscano lo sviluppo, da parte delle PA, cittadini e imprese, di soluzioni applicative innovative**
+.. |STYLE50| replace:: **definire le modalità di integrazione tra le PA, e tra queste cittadini e imprese**
 
-.. |STYLE51| replace:: **promuovere l’adozione dell’approccio “API first”**
+.. |STYLE51| replace:: **individuare le scelte tecnologiche che favoriscano lo sviluppo, da parte delle PA, cittadini e imprese, di soluzioni applicative innovative**
 
-.. |STYLE52| replace:: **privilegiare standard tecnologici, de iure e de facto, che soddisfino l’esigenza di rendere sicure le interazioni tra le PA e tra queste, cittadini e imprese**
+.. |STYLE52| replace:: **promuovere l’adozione dell’approccio “API first”**
 
-.. |STYLE53| replace:: **favorire l’interazione tra PA e tra queste, cittadini e imprese, attraverso un approccio Contract-First**
+.. |STYLE53| replace:: **privilegiare standard tecnologici, de iure e de facto, che soddisfino l’esigenza di rendere sicure le interazioni tra le PA e tra queste, cittadini e imprese**
+
+.. |STYLE54| replace:: **favorire l’interazione tra PA e tra queste, cittadini e imprese, attraverso un approccio Contract-First**
 
 
 .. |REPLACE1| raw:: html
@@ -1324,187 +1305,187 @@ Allegati:
 
 .. |LINK89| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/pubblicato-piano-operativo-strategia-nazionale-competenze-digitali/" target="_blank">Piano Operativo</a>
+    <a href="https://innovazione.gov.it/assets/docs/DTD-1277-A-ALL1.pdf" target="_blank">decreto e la Strategia Nazionale</a>
 
 .. |LINK90| raw:: html
 
-    <a href="https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/" target="_blank">Strategia Nazionale</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/pubblicato-piano-operativo-strategia-nazionale-competenze-digitali/" target="_blank">Piano Operativo</a>
 
 .. |LINK91| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Strategia-Nazionale-per-le-competenze-digitali.pdf" target="_blank">IL PIANO COMPLETO</a>
+    <a href="https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/" target="_blank">Strategia Nazionale</a>
 
 .. |LINK92| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Executive-Summary.pdf" target="_blank">LA SINTESI DEL PIANO</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Strategia-Nazionale-per-le-competenze-digitali.pdf" target="_blank">IL PIANO COMPLETO</a>
 
 .. |LINK93| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Infografica.pdf" target="_blank">LA VERSIONE INFOGRAFICA DEL PIANO</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Executive-Summary.pdf" target="_blank">LA SINTESI DEL PIANO</a>
 
 .. |LINK94| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice1-Istruzione-e-Formazione-superiore.pdf" target="_blank">APPENDICE 1: ISTRUZIONE E FORMAZIONE SUPERIORE</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Infografica.pdf" target="_blank">LA VERSIONE INFOGRAFICA DEL PIANO</a>
 
 .. |LINK95| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice2-Forza-lavoro-attiva.pdf" target="_blank">APPENDICE 2: FORZA LAVORO ATTIVA</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice1-Istruzione-e-Formazione-superiore.pdf" target="_blank">APPENDICE 1: ISTRUZIONE E FORMAZIONE SUPERIORE</a>
 
 .. |LINK96| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice3-Competenze-specialistiche-ICT.pdf" target="_blank">APPENDICE 3: COMPETENZE SPECIALISTICHE ICT</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice2-Forza-lavoro-attiva.pdf" target="_blank">APPENDICE 2: FORZA LAVORO ATTIVA</a>
 
 .. |LINK97| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice4-Cittadini.pdf" target="_blank">APPENDICE 4: CITTADINI</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice3-Competenze-specialistiche-ICT.pdf" target="_blank">APPENDICE 3: COMPETENZE SPECIALISTICHE ICT</a>
 
 .. |LINK98| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/10/17/consultazione-linee-guida-sulla-formazione-gestione-conservazione-documenti" target="_blank">Strumento essenziale per la digitalizzazione delle pratiche amministrative</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice4-Cittadini.pdf" target="_blank">APPENDICE 4: CITTADINI</a>
 
 .. |LINK99| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs" target="_blank">Linee Guida</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/10/17/consultazione-linee-guida-sulla-formazione-gestione-conservazione-documenti" target="_blank">Strumento essenziale per la digitalizzazione delle pratiche amministrative</a>
 
 .. |LINK100| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo7_art71.html" target="_blank">Regole tecniche</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs" target="_blank">Linee Guida</a>
 
 .. |LINK101| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/archivio19_regolamenti_0_5385.html" target="_blank">Linee Guida sulla formazione, gestione e conservazione dei documenti informatici</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo7_art71.html" target="_blank">Regole tecniche</a>
 
 .. |LINK102| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/10/20/pubblicato-gu-il-comunicato-sulladozione-linee-guida-sul-documento-informatico" target="_blank">AGID in data 20/10/2020 ha comunicato</a>
+    <a href="https://trasparenza.agid.gov.it/archivio19_regolamenti_0_5385.html" target="_blank">Linee Guida sulla formazione, gestione e conservazione dei documenti informatici</a>
 
 .. |LINK103| raw:: html
 
-    <a href="http://www.gazzettaufficiale.it/eli/id/2020/10/19/20A05589/sg" target="_blank">Gazzetta Ufficiale n. 259 del 19 ottobre 2020</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/10/20/pubblicato-gu-il-comunicato-sulladozione-linee-guida-sul-documento-informatico" target="_blank">AGID in data 20/10/2020 ha comunicato</a>
 
 .. |LINK104| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531502220O__OLinee+Guida+sul+documento+informatico+.pdf" target="_blank">Linee Guida sul documento informatico</a>
+    <a href="http://www.gazzettaufficiale.it/eli/id/2020/10/19/20A05589/sg" target="_blank">Gazzetta Ufficiale n. 259 del 19 ottobre 2020</a>
 
 .. |LINK105| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531502410O__OAllegato+1+Glossario+dei+termini+e+degli+acronimi.pdf" target="_blank">Allegato 1 Glossario dei termini e degli acronimi</a>
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531502220O__OLinee+Guida+sul+documento+informatico+.pdf" target="_blank">Linee Guida sul documento informatico</a>
 
 .. |LINK106| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531503020O__OAllegato+2++Formati+di+File+e+Riversamento.pdf" target="_blank">Allegato 2  Formati di File e Riversamento</a>
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531502410O__OAllegato+1+Glossario+dei+termini+e+degli+acronimi.pdf" target="_blank">Allegato 1 Glossario dei termini e degli acronimi</a>
 
 .. |LINK107| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531503250O__OAllegato+3+Certificazione+di+processo.pdf" target="_blank">Allegato 3 Certificazione di processo</a>
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531503020O__OAllegato+2++Formati+di+File+e+Riversamento.pdf" target="_blank">Allegato 2  Formati di File e Riversamento</a>
 
 .. |LINK108| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531503510O__OAllegato+4+Standard+e+specifiche+tecniche.pdf" target="_blank">Allegato 4 Standard e specifiche tecniche</a>
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531503250O__OAllegato+3+Certificazione+di+processo.pdf" target="_blank">Allegato 3 Certificazione di processo</a>
 
 .. |LINK109| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531504230O__OAllegato+5+metadati.pdf" target="_blank">Allegato 5 metadati</a>
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531503510O__OAllegato+4+Standard+e+specifiche+tecniche.pdf" target="_blank">Allegato 4 Standard e specifiche tecniche</a>
 
 .. |LINK110| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531504500O__OAllegato+6+Comunicazione+tra+AOO+di+Documenti+Amministrativi+Protocollati.pdf" target="_blank">Allegato 6 Comunicazione tra AOO di Documenti Amministrativi Protocollati</a>
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531504230O__OAllegato+5+metadati.pdf" target="_blank">Allegato 5 metadati</a>
 
 .. |LINK111| raw:: html
 
-    <a href="https://www.agid.gov.it/it/domande-frequenti/documento-informatico" target="_blank">Una sintesi (FAQ) e alcuni importanti chiarimenti a cura dell'AGID</a>
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531504500O__OAllegato+6+Comunicazione+tra+AOO+di+Documenti+Amministrativi+Protocollati.pdf" target="_blank">Allegato 6 Comunicazione tra AOO di Documenti Amministrativi Protocollati</a>
 
 .. |LINK112| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/10/01/nuove-linee-guida-sulla-formazione-gestione-conservazione-documenti-informatici" target="_blank">chiarimenti AGID sulle nuove linee guida riguardano</a>
+    <a href="https://www.agid.gov.it/it/domande-frequenti/documento-informatico" target="_blank">Una sintesi (FAQ) e alcuni importanti chiarimenti a cura dell'AGID</a>
 
 .. |LINK113| raw:: html
 
-    <a href="https://www.gazzettaufficiale.it/eli/id/2015/01/12/15A00107/sg" target="_blank">DPCM 13 novembre 2014</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/10/01/nuove-linee-guida-sulla-formazione-gestione-conservazione-documenti-informatici" target="_blank">chiarimenti AGID sulle nuove linee guida riguardano</a>
 
 .. |LINK114| raw:: html
 
-    <a href="https://www.gazzettaufficiale.it/eli/id/2014/03/12/14A02098/sg" target="_blank">DPCM 3 dicembre 2013</a>
+    <a href="https://www.gazzettaufficiale.it/eli/id/2015/01/12/15A00107/sg" target="_blank">DPCM 13 novembre 2014</a>
 
 .. |LINK115| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_protocollo.pdf" target="_blank">DPCM 3 dicembre 2013, contenente “Regole tecniche per il protocollo informatico”</a>
+    <a href="https://www.gazzettaufficiale.it/eli/id/2014/03/12/14A02098/sg" target="_blank">DPCM 3 dicembre 2013</a>
 
 .. |LINK116| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_protocollo.pdf#page=1" target="_blank">art. 2 comma 1</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_protocollo.pdf" target="_blank">DPCM 3 dicembre 2013, contenente “Regole tecniche per il protocollo informatico”</a>
 
 .. |LINK117| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_protocollo.pdf#page=3" target="_blank">art. 6</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_protocollo.pdf#page=1" target="_blank">art. 2 comma 1</a>
 
 .. |LINK118| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_protocollo.pdf#page=4" target="_blank">art. 9</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_protocollo.pdf#page=3" target="_blank">art. 6</a>
 
 .. |LINK119| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_protocollo.pdf#page=5" target="_blank">art. 18 commi 1 e 5</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_protocollo.pdf#page=4" target="_blank">art. 9</a>
 
 .. |LINK120| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_protocollo.pdf#page=6" target="_blank">art. 20</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_protocollo.pdf#page=5" target="_blank">art. 18 commi 1 e 5</a>
 
 .. |LINK121| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_protocollo.pdf#page=6" target="_blank">art. 21</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_protocollo.pdf#page=6" target="_blank">art. 20</a>
 
 .. |LINK122| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/circolari/circolare_23_gennaio_2013_n.60_segnatura_protocollo_informatico_-_rev_aipa_n.28-2001.pdf" target="_blank">circolare n. 60 del 23 gennaio 2013 dell’AgID</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_protocollo.pdf#page=6" target="_blank">art. 21</a>
 
 .. |LINK123| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531504500O__OAllegato+6+Comunicazione+tra+AOO+di+Documenti+Amministrativi+Protocollati.pdf" target="_blank">Comunicazione tra AOO di documenti amministrativi protocollati</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/circolari/circolare_23_gennaio_2013_n.60_segnatura_protocollo_informatico_-_rev_aipa_n.28-2001.pdf" target="_blank">circolare n. 60 del 23 gennaio 2013 dell’AgID</a>
 
 .. |LINK124| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-spid-firma-docs/it/stabile/" target="_blank">Regole Tecniche circa la sottoscrizione elettronica di documenti tramite SPID</a>
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531504500O__OAllegato+6+Comunicazione+tra+AOO+di+Documenti+Amministrativi+Protocollati.pdf" target="_blank">Comunicazione tra AOO di documenti amministrativi protocollati</a>
 
 .. |LINK125| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_122208_725_1.html" target="_blank">Determinazione n.157/2020 del 23 marzo 2020 dell'AGID - Emanazione delle Linee Guida per la sottoscrizione elettronica di documenti ai sensi dell’art. 20 del CAD</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-spid-firma-docs/it/stabile/" target="_blank">Regole Tecniche circa la sottoscrizione elettronica di documenti tramite SPID</a>
 
 .. |LINK126| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/03/26/spid-emanate-linee-guida-firmare-i-documenti-online" target="_blank">Grazie alle Linee Guida, la firma con Spid avrà lo stesso valore giuridico di quella autografa, consentendo ai cittadini di sottoscrivere atti e contratti. Uno strumento che si va ad aggiungere alla firma elettronica qualificata favorendo il processo di dematerializzazione dei documenti</a>
+    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_122208_725_1.html" target="_blank">Determinazione n.157/2020 del 23 marzo 2020 dell'AGID - Emanazione delle Linee Guida per la sottoscrizione elettronica di documenti ai sensi dell’art. 20 del CAD</a>
 
 .. |LINK127| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/index.php?id_oggetto=28&id_doc=122120&id_sez_ori=0&template_ori=1" target="_blank">Linee Guida</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/03/26/spid-emanate-linee-guida-firmare-i-documenti-online" target="_blank">Grazie alle Linee Guida, la firma con Spid avrà lo stesso valore giuridico di quella autografa, consentendo ai cittadini di sottoscrivere atti e contratti. Uno strumento che si va ad aggiungere alla firma elettronica qualificata favorendo il processo di dematerializzazione dei documenti</a>
 
 .. |LINK128| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/11/25/spid-emanate-linee-guida-lidentificazione-degli-utenti-parte-pa" target="_blank">Comunicato stampa</a>
+    <a href="https://trasparenza.agid.gov.it/index.php?id_oggetto=28&id_doc=122120&id_sez_ori=0&template_ori=1" target="_blank">Linee Guida</a>
 
 .. |LINK129| raw:: html
 
-    <a href="https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=01147fe7-0659-4be4-80c7-a226c3dbb98f" target="_blank">Il documento</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/11/25/spid-emanate-linee-guida-lidentificazione-degli-utenti-parte-pa" target="_blank">Comunicato stampa</a>
 
 .. |LINK130| raw:: html
 
-    <a href="https://docs.italia.it/AgID/domicilio-digitale/lg-domiciliodigitalecittadino-docs/it/stabile/index.html.#" target="_blank">Linee Guida Indice nazionale dei domicili digitali delle persone fisiche</a>
+    <a href="https://www.corteconti.it/HOME/StampaMedia/Notizie/DettaglioNotizia?Id=01147fe7-0659-4be4-80c7-a226c3dbb98f" target="_blank">Il documento</a>
 
 .. |LINK131| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/_rst/capo1_sezione2_art6-quater.html" target="_blank">art. 6-quater del CAD</a>
+    <a href="https://docs.italia.it/AgID/domicilio-digitale/lg-domiciliodigitalecittadino-docs/it/stabile/index.html.#" target="_blank">Linee Guida Indice nazionale dei domicili digitali delle persone fisiche</a>
 
 .. |LINK132| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/06/08/indice-domicili-digitali-persone-fisiche-degli-altri-enti-diritto-privato" target="_blank">Comunicato dell'AGID</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/_rst/capo1_sezione2_art6-quater.html" target="_blank">art. 6-quater del CAD</a>
 
 .. |LINK133| raw:: html
 
-    <a href="https://innovazione.gov.it/gazzetta-ufficiale-misure-su-innovazione-digitale-nel-decreto-semplificazioni/" target="_blank">sito del Ministero Innovazione Tecnologica e Digitalizzazione</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/06/08/indice-domicili-digitali-persone-fisiche-degli-altri-enti-diritto-privato" target="_blank">Comunicato dell'AGID</a>
 
 .. |LINK134| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395215" target="_blank">art.24</a>
+    <a href="https://innovazione.gov.it/gazzetta-ufficiale-misure-su-innovazione-digitale-nel-decreto-semplificazioni/" target="_blank">sito del Ministero Innovazione Tecnologica e Digitalizzazione</a>
 
 .. |LINK135| raw:: html
 
@@ -1524,141 +1505,137 @@ Allegati:
 
 .. |LINK139| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395220" target="_blank">art.29</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395215" target="_blank">art.24</a>
 
 .. |LINK140| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395225" target="_blank">art.34</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395220" target="_blank">art.29</a>
 
 .. |LINK141| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395224" target="_blank">art.33</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395225" target="_blank">art.34</a>
 
 .. |LINK142| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395223" target="_blank">art.32</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395224" target="_blank">art.33</a>
 
 .. |LINK143| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395229" target="_blank">art.38</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm?_1596172703632#_Toc46395223" target="_blank">art.32</a>
 
 .. |LINK144| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm" target="_blank">Dossier di documentazione del D.L. 76/2020 della Camera dei Deputati</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395229" target="_blank">art.38</a>
 
 .. |LINK145| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395215" target="_blank">Articolo 24 (Identità digitale, domicilio digitale, accesso ai servizi digitali)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm" target="_blank">Dossier di documentazione del D.L. 76/2020 della Camera dei Deputati</a>
 
 .. |LINK146| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395216" target="_blank">Articolo 25 (Conservazione dei documenti informatici e gestione dell'identità digitale)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395215" target="_blank">Articolo 24 (Identità digitale, domicilio digitale, accesso ai servizi digitali)</a>
 
 .. |LINK147| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395217" target="_blank">Articolo 26 (Piattaforma per la notificazione digitale degli atti della pubblica amministrazione)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395216" target="_blank">Articolo 25 (Conservazione dei documenti informatici e gestione dell'identità digitale)</a>
 
 .. |LINK148| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395218" target="_blank">Articolo 27 (Misure per la semplificazione e la diffusione della firma elettronica  avanzata  e dell’identità digitale per l’accesso ai servizi bancari)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395217" target="_blank">Articolo 26 (Piattaforma per la notificazione digitale degli atti della pubblica amministrazione)</a>
 
 .. |LINK149| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395219" target="_blank">Articolo 28 (Semplificazione della notificazione e comunicazione telematica degli atti in materia civile, penale, amministrativa, contabile e stragiudiziale)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395218" target="_blank">Articolo 27 (Misure per la semplificazione e la diffusione della firma elettronica  avanzata  e dell’identità digitale per l’accesso ai servizi bancari)</a>
 
 .. |LINK150| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395220" target="_blank">Articolo 29 (Disposizioni per favorire l'accesso dei soggetti disabili agli strumenti informatici e piattaforma unica nazionale informatica di targhe associate a permessi di circolazione dei titolari di contrassegni)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395219" target="_blank">Articolo 28 (Semplificazione della notificazione e comunicazione telematica degli atti in materia civile, penale, amministrativa, contabile e stragiudiziale)</a>
 
 .. |LINK151| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395221" target="_blank">Articolo 30 (Misure di semplificazione in materia anagrafica)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395220" target="_blank">Articolo 29 (Disposizioni per favorire l'accesso dei soggetti disabili agli strumenti informatici e piattaforma unica nazionale informatica di targhe associate a permessi di circolazione dei titolari di contrassegni)</a>
 
 .. |LINK152| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395222" target="_blank">Articolo 31 (Sistemi informativi delle pubbliche amministrazioni e lavoro agile; sull'Agenzia per l'Italia digitale; sul difensore civico digitale; obblighi di comunicazione in caso di affidamento di forniture ricadenti nel perimetro di sicurezza nazionale cibernetica; istituzione di una nuova direzione centrale presso il Ministero dell'interno; su una funzione di SOGEI)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395221" target="_blank">Articolo 30 (Misure di semplificazione in materia anagrafica)</a>
 
 .. |LINK153| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395223" target="_blank">Articolo 32 (Codice di condotta tecnologica; esperti)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395222" target="_blank">Articolo 31 (Sistemi informativi delle pubbliche amministrazioni e lavoro agile; sull'Agenzia per l'Italia digitale; sul difensore civico digitale; obblighi di comunicazione in caso di affidamento di forniture ricadenti nel perimetro di sicurezza nazionale cibernetica; istituzione di una nuova direzione centrale presso il Ministero dell'interno; su una funzione di SOGEI)</a>
 
 .. |LINK154| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395224" target="_blank">Articolo 33 (Disponibilità e interoperabilità dei dati  delle pubbliche amministrazioni e dei concessionari di servizi pubblici)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395223" target="_blank">Articolo 32 (Codice di condotta tecnologica; esperti)</a>
 
 .. |LINK155| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395225" target="_blank">Articolo 34 (Piattaforma digitale nazionale dati)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395224" target="_blank">Articolo 33 (Disponibilità e interoperabilità dei dati  delle pubbliche amministrazioni e dei concessionari di servizi pubblici)</a>
 
 .. |LINK156| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395226" target="_blank">Articolo 35  (In materia di CED delle pubbliche amministrazioni)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395225" target="_blank">Articolo 34 (Piattaforma digitale nazionale dati)</a>
 
 .. |LINK157| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395227" target="_blank">Articolo 36 (Misure di semplificazione amministrativa per l'innovazione)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395226" target="_blank">Articolo 35  (In materia di CED delle pubbliche amministrazioni)</a>
 
 .. |LINK158| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395228" target="_blank">Articolo 37 (Disposizioni per favorire l’utilizzo della posta elettronica certificata nei rapporti tra Amministrazione, imprese e professionisti)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395227" target="_blank">Articolo 36 (Misure di semplificazione amministrativa per l'innovazione)</a>
 
 .. |LINK159| raw:: html
 
-    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395229" target="_blank">Articolo 38 (Misure di semplificazione per reti e servizi di comunicazioni elettroniche)</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395228" target="_blank">Articolo 37 (Disposizioni per favorire l’utilizzo della posta elettronica certificata nei rapporti tra Amministrazione, imprese e professionisti)</a>
 
 .. |LINK160| raw:: html
 
-    <a href="https://www.camera.it/temiap/documentazione/temi/pdf/1104999.pdf" target="_blank">trasformazione digitale della pubblica amministrazione</a>
+    <a href="http://documenti.camera.it/leg18/dossier/testi/D20076.htm#_Toc46395229" target="_blank">Articolo 38 (Misure di semplificazione per reti e servizi di comunicazioni elettroniche)</a>
 
 .. |LINK161| raw:: html
 
-    <a href="https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/" target="_blank">L’Italia ha la sua Strategia Nazionale per le Competenze Digitali</a>
+    <a href="https://www.camera.it/temiap/documentazione/temi/pdf/1104999.pdf" target="_blank">trasformazione digitale della pubblica amministrazione</a>
 
 .. |LINK162| raw:: html
 
-    <a href="https://innovazione.gov.it/assets/docs/DTD-1277-A-ALL1.pdf" target="_blank">Link al documento del decreto</a>
+    <a href="https://trasparenza.agid.gov.it/archivio19_regolamenti_0_5386.html" target="_blank">Link Circolare AGID</a>
 
 .. |LINK163| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/archivio19_regolamenti_0_5386.html" target="_blank">Link Circolare AGID</a>
+    <a href="https://ec.europa.eu/isa2/eif_en" target="_blank">EIF</a>
 
 .. |LINK164| raw:: html
 
-    <a href="https://ec.europa.eu/isa2/eif_en" target="_blank">EIF</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/upload_avvisi/linee_guida_passaggio_nuovo_modello_interoperabilita.pdf" target="_blank">determinazione AGID 219/2017</a>
 
 .. |LINK165| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/upload_avvisi/linee_guida_passaggio_nuovo_modello_interoperabilita.pdf" target="_blank">determinazione AGID 219/2017</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/bozza/index.html" target="_blank">Linee Guida in materia</a>
 
 .. |LINK166| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/bozza/index.html" target="_blank">Linee Guida in materia</a>
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157220O__OCircolare+1-2020+Linea+di+indirizzo+interoperabilit%E0+tecnica.pdf" target="_blank">Circolare 1-2020 Linea di indirizzo interoperabilità tecnica.pdf</a>
 
 .. |LINK167| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157220O__OCircolare+1-2020+Linea+di+indirizzo+interoperabilit%E0+tecnica.pdf" target="_blank">Circolare 1-2020 Linea di indirizzo interoperabilità tecnica.pdf</a>
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157180O__O00_Linea+di+indirizzo+interoperabilit%E0+tecnica.pdf" target="_blank">00_Linea di indirizzo interoperabilità tecnica.pdf</a>
 
 .. |LINK168| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157180O__O00_Linea+di+indirizzo+interoperabilit%E0+tecnica.pdf" target="_blank">00_Linea di indirizzo interoperabilità tecnica.pdf</a>
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157160O__O01_Pattern+interazione.pdf" target="_blank">01_Pattern interazione.pdf</a>
 
 .. |LINK169| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157160O__O01_Pattern+interazione.pdf" target="_blank">01_Pattern interazione.pdf</a>
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157160O__O02_Pattern+sicurezza.pdf" target="_blank">02_Pattern sicurezza.pdf</a>
 
 .. |LINK170| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157160O__O02_Pattern+sicurezza.pdf" target="_blank">02_Pattern sicurezza.pdf</a>
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157160O__O03_Profili+di+interoperabilit%E0.pdf" target="_blank">03_Profili di interoperabilità.pdf</a>
 
 .. |LINK171| raw:: html
 
-    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157160O__O03_Profili+di+interoperabilit%E0.pdf" target="_blank">03_Profili di interoperabilità.pdf</a>
-
-.. |LINK172| raw:: html
-
     <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157180O__O04_Raccomandazioni+di+implementazione.pdf" target="_blank">04_Raccomandazioni di implementazione.pdf</a>
 
-.. |LINK173| raw:: html
+.. |LINK172| raw:: html
 
     <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157220O__ODT+DG+n.+406+-9+sett+2020-+Circolare+1-2020+Linea+di+indirizzo+interoperabilit%E0+tecnica.pdf" target="_blank">DT DG n. 406 - 9 sett 2020- Circolare 1-2020 Linea di indirizzo interoperabilità tecnica.pdf</a>
 
