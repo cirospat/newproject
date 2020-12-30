@@ -791,6 +791,19 @@ Allegati:
 
 --------
 
+.. _h663774b35333b675048217dba2b63:
+
+Corso online gratuito sull'intelligenza artificiale "Elements of AI" rivolto ai cittadini. 
+*******************************************************************************************
+
+\ |LINK173|\ . Creato da Reaktor e dall'Università di Helsinki. Con la collaborazione di Università degli Studi Roma Tre, Ministra per l’Innovazione tecnologica e la digitalizzazione Paola Pisano, Dipartimento per la Trasformazione Digitale, Fondazione COTEC. 
+
+Un corso online gratuito rivolto a tutti coloro che sono interessati a imparare cosa sia l'Intelligenza Artificiale, per cosa possa (e non possa) essere utilizzata e come influenzi le nostre vite. Non sono necessarie conoscenze matematiche o di programmazione avanzate. 
+
+\ |STYLE55|\ : incoraggiare più persone possibili a imparare cosa sia l'Intelligenza Artificiale e i suoi campi di applicazione. I corsi combinano teoria ed esercizi pratici e possono essere seguiti ai ritmi e negli orari preferiti.
+
+--------
+
 
 |REPLACE4|
 
@@ -912,6 +925,8 @@ Allegati:
 .. |STYLE53| replace:: **privilegiare standard tecnologici, de iure e de facto, che soddisfino l’esigenza di rendere sicure le interazioni tra le PA e tra queste, cittadini e imprese**
 
 .. |STYLE54| replace:: **favorire l’interazione tra PA e tra queste, cittadini e imprese, attraverso un approccio Contract-First**
+
+.. |STYLE55| replace:: **Obiettivo**
 
 
 .. |REPLACE1| raw:: html
@@ -1638,4 +1653,8 @@ Allegati:
 .. |LINK172| raw:: html
 
     <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202581157220O__ODT+DG+n.+406+-9+sett+2020-+Circolare+1-2020+Linea+di+indirizzo+interoperabilit%E0+tecnica.pdf" target="_blank">DT DG n. 406 - 9 sett 2020- Circolare 1-2020 Linea di indirizzo interoperabilità tecnica.pdf</a>
+
+.. |LINK173| raw:: html
+
+    <a href="https://www.elementsofai.it/" target="_blank">Elements of AI</a>
 
