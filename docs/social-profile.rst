@@ -78,7 +78,7 @@ territorial mini guide
     -cirospat-lightgray
     .svg?style=popout&amp;logo=youtube&amp;logoColor=red" /></a></p>
     
-    <p><a href="https://medium.com/@cirospat/latest" target="_blank" rel="noopener" title="medium cirospat"><img src="https://img.shields.io/badge/medium
+    <p><a href="https://cirospat.medium.com/" target="_blank" rel="noopener" title="medium cirospat"><img src="https://img.shields.io/badge/medium
     -cirospat-lightgray
     .svg?style=popout&amp;logo=medium&amp;logoColor=yellow" />&nbsp;</a> [articoli sui dati aperti e pubblica amministrazione digitale]&nbsp;<span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
     
