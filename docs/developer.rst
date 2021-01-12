@@ -27,10 +27,10 @@ developer
 
 |
 
-.. _h7933637da52595d1b4c4c369102cb:
+.. _h1466239727d3b553f261c2933487b:
 
-OPEN DATA SELECTOR SU GITHUB
-============================
+LICENZE OPEN DATA SELECTOR SU GITHUB
+====================================
 
 \ |LINK3|\  
 
