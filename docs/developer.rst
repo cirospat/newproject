@@ -632,6 +632,8 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 --------
 
+\ |LINK106|\ 
+
 
 .. bottom of content
 
@@ -1102,4 +1104,8 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 .. |LINK105| raw:: html
 
     <a href="https://www.comune.palermo.it/" target="_blank">link 2</a>
+
+.. |LINK106| raw:: html
+
+    <a href="https://convertcase.net/it/" target="_blank">Convertire il case - Convertire maiuscole a minuscole! (convertcase.net)</a>
 
