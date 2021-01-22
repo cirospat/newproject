@@ -350,6 +350,25 @@ Il 23 novembre 2020 è stato firmato l'Accordo tra Comune di Palermo e Camera di
 
 |
 
+.. _h55b316682b59772e2e5a2d7118322a:
+
+2021
+----
+
+Nel gennaio 2021 sono stati \ |LINK98|\  due progetti di digitalizzazione del comune di Palermo, nell'ambito del Programma Operativo FESR SICILIA 2014-2020, Asse 2 Agenda Digitale.  Il comune di Palermo, Servizio Innovazione nel maggio 2020 ha presentato la propria candidatura secondo gli \ |LINK99|\ . A questo \ |LINK100|\  il comunicato stampa comunale. I due progetti (“\ |STYLE58|\ ” e “\ |STYLE59|\ ”) vengono realizzati dalla Società in house per i servizi informatici SISPI SpA nel 2021 e 2022.
+
+
+|
+
+Nel gennaio 2021 è stato redatto a cura del Servizio Innovazione, UO transizione al digitale, un catalogo delle attività relative ai \ |STYLE60|\ , derivanti da un obiettivo del Segretario Generale assegnato ai dirigenti nel novembre 2020. Il personale degli uffici responsabili di procedimenti amministrativi ha compilato una scheda tabellare con le informazioni sul procedimento amministrativi gestito per competenza. Tutte le schede sono consultabili attraverso un comodo catalogo al seguente \ |LINK101|\ . Le schede rappresentano la base informativa di partenza per la realizzazione di un servizio web di assistenza virtuale per la conoscenza dei procedimenti amministrativi e per la successiva creazione di una piattaforma digitale di gestione documentale trasversale agli uffici comunali (da realizzarsi nel 2021 e 2022 grazie a due progetti finanziati dal PO FESR Sicilia 2014-2020, Asse 2 Agenda Digitale).
+
+|
+
+
+|REPLACE2|
+
+|
+
 
 .. bottom of content
 
@@ -470,10 +489,20 @@ Il 23 novembre 2020 è stato firmato l'Accordo tra Comune di Palermo e Camera di
 
 .. |STYLE57| replace:: **Palermo scala 64 posizioni in un anno e si colloca al 13° posto tra le 107 città capoluogo italiane nella iCityRank 2020 (report a cura di FPA)**
 
+.. |STYLE58| replace:: **realizzazione di una piattaforma di servizi di collaborazione inter-amministrativa**
+
+.. |STYLE59| replace:: **realizzazione di una piattaforma per la gestione documentale integrata nei sistemi verticali della PA**
+
+.. |STYLE60| replace:: **procedimenti amministrativi**
+
 
 .. |REPLACE1| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/zrKOS2LiWTU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+.. |REPLACE2| raw:: html
+
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/aY6fLRn27hM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <span class="footer_small"><a href="http://eventipa.formez.it/node/199190" target="_blank">Semplificazione e Innovazione Digitale, incontro del 22 gennaio 2021 - Ministero Innovazione Tecnologica e Digitalizzazione</a></span>
 
 .. |LINK1| raw:: html
 
@@ -862,4 +891,20 @@ Il 23 novembre 2020 è stato firmato l'Accordo tra Comune di Palermo e Camera di
 .. |LINK97| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=29921" target="_blank">Dal 77° posto del 2019 al 13° del 2020</a>
+
+.. |LINK98| raw:: html
+
+    <a href="http://pti.regione.sicilia.it/portal/page/portal/PIR_PORTALE/PIR_ArchivioLaRegioneInforma/PIR_2021/PIR_Gennaio/PIR_Palermo45milionidieuropertrasformazionedigitale?fbclid=IwAR0SrP8H_6_PbSggFf_dpOhQLGtCpF79WNis8gHKe17klw9EnmtFlxanFEE" target="_blank">finanziati dalla Regione Sicilia</a>
+
+.. |LINK99| raw:: html
+
+    <a href="https://www.comune.palermo.it/agenda-urbana.php" target="_blank">avvisi dell'Asse 2</a>
+
+.. |LINK100| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=30261" target="_blank">link</a>
+
+.. |LINK101| raw:: html
+
+    <a href="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" target="_blank">link</a>
 
