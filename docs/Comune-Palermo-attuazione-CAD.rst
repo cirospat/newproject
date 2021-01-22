@@ -502,7 +502,7 @@ Nel gennaio 2021 è stato redatto a cura del Servizio Innovazione, UO transizion
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/aY6fLRn27hM?t=3612" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    <span class="footer_small"><a href="http://eventipa.formez.it/node/199190" target="_blank">Semplificazione e Innovazione Digitale, incontro del 22 gennaio 2021 - Ministero Innovazione Tecnologica e Digitalizzazione</a></span>
+    <span class="footer_small"><a href="https://innovazione.gov.it/it/linee-guida-decreto-semplificazione/" target="_blank"><b>Semplificazione e Innovazione Digitale, incontro del 22 gennaio 2021 - Ministero Innovazione Tecnologica e Digitalizzazione.</b> Al minuto 1:00:00 un intervento sui risuotati raggiunti da Palermo nel percorso di adesione alle piattaforme nazionali abilitanti all'erogazione dei servizi</a></span>
 
 .. |LINK1| raw:: html
 
