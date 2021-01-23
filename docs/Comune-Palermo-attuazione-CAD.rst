@@ -369,6 +369,10 @@ Nel gennaio 2021 è stato redatto a cura del Servizio Innovazione, UO transizion
 
 |
 
+Lo \ |LINK103|\ . L'utente può prenotare l'appuntamento attraverso il portale online "\ |STYLE61|\ " in uso da tempo, ricevendo in automatico giorno e ora dell'appuntamento ed il link di collegamento con la piattaforma "\ |STYLE62|\ ".
+
+|
+
 
 .. bottom of content
 
@@ -494,6 +498,10 @@ Nel gennaio 2021 è stato redatto a cura del Servizio Innovazione, UO transizion
 .. |STYLE59| replace:: **realizzazione di una piattaforma per la gestione documentale integrata nei sistemi verticali della PA**
 
 .. |STYLE60| replace:: **procedimenti amministrativi**
+
+.. |STYLE61| replace:: **Super@**
+
+.. |STYLE62| replace:: **Google Meet**
 
 
 .. |REPLACE1| raw:: html
@@ -911,4 +919,8 @@ Nel gennaio 2021 è stato redatto a cura del Servizio Innovazione, UO transizion
 .. |LINK102| raw:: html
 
     <a href="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" target="_blank">link</a>
+
+.. |LINK103| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=30366" target="_blank">Sportello Unico per le attività Produttive (SUAP) nel gennaio 2021 avvia il servizio di ricevimento del pubblico in videoconferenza</a>
 
