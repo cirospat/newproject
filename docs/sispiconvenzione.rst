@@ -4,11 +4,11 @@
 Convenzione per lo sviluppo e la conduzione tecnica del sistema informatico e dei sistemi di telecomunicazione comunali 
 ########################################################################################################################
 
-\ |STYLE0|\ 
+\ |STYLE0|\  \ |LINK1|\ 
 
 ..  Note:: 
 
-    La presente versione è per la visualizzazione con lo stile Read the Docs. Per visionare la versione originale, consultare sul portale dei servizi online la Deliberazione di Consiglio Comunale n. 42 del 20.04.2018 (https://servizionline.comune.palermo.it)
+    La presente versione è per la visualizzazione con lo stile Read the Docs. Per visionare la versione originale, consultare sul portale dei servizi online la \ |LINK2|\  (https://servizionline.comune.palermo.it)
 
 
 .. toctree::  
@@ -24,7 +24,15 @@ Convenzione
 
 tra il  Comune di Palermo e SISPI S.p.A. per lo sviluppo e la conduzione tecnica del sistema informatico e di telecomunicazione  del Comune di Palermo
 
-|REPLACE1|
+
+.. admonition:: emendamento del Consiglio comunale n.1
+
+    Nella parte narrativa della \ |LINK3|\ , dopo "\ |STYLE1|\ ", alla fine del secondo capoverso dopo"\ |STYLE2|\ " inserire il seguente testo: "\ |STYLE3|\ ".
+
+
+.. admonition:: emendamento del Consiglio comunale n.2
+
+    Integrare la \ |LINK4|\  con l'allegata "\ |STYLE4|\ ", per farne parte integrante e sostanziale della stessa.
 
 .. _h6d523d1e4743275c7b389331c412b66:
 
@@ -33,39 +41,39 @@ Art. 1	Terminologia
 
 Ai sensi e per gli effetti della presente Convenzione s’intende per:
 
-* Sistema Informatico e di telecomunicazione del Comune, da qui in avanti SITEC: l’insieme di dati, procedure di elaborazione automatica, risorse professionali, servizi specialistici e di formazione, apparecchiature, strumenti tecnici e infrastrutture di telecomunicazione e logistiche impiegati per l’informatizzazione e le telecomunicazioni di tutte le unità organizzative costituenti la struttura dell’Amministrazione comunale di Palermo; inoltre, il SITEC è inteso quale strumento per erogare  servizi all’intera città Metropolitana, ai cittadini ed al sistema delle Società Partecipate del Comune di Palermo. In questo senso, viene inteso quale strumento per la cooperazione applicativa e funzionale, l’interscambio e l’interoperabilità tra le P.A. e gli attori del territorio orientato al governo ed alla integrazione dei servizi informatici e di telecomunicazione per il territorio anche attraverso l’interconnessione dell’Amministrazione comunale con le P.A., i Soggetti Pubblici comunitari, statali e regionali, le strutture sociali ed i privati;
+* \ |STYLE5|\ , da qui in avanti SITEC: l’insieme di dati, procedure di elaborazione automatica, risorse professionali, servizi specialistici e di formazione, apparecchiature, strumenti tecnici e infrastrutture di telecomunicazione e logistiche impiegati per l’informatizzazione e le telecomunicazioni di tutte le unità organizzative costituenti la struttura dell’Amministrazione comunale di Palermo; inoltre, il SITEC è inteso quale strumento per erogare  servizi all’intera città Metropolitana, ai cittadini ed al sistema delle Società Partecipate del Comune di Palermo. In questo senso, viene inteso quale strumento per la cooperazione applicativa e funzionale, l’interscambio e l’interoperabilità tra le P.A. e gli attori del territorio orientato al governo ed alla integrazione dei servizi informatici e di telecomunicazione per il territorio anche attraverso l’interconnessione dell’Amministrazione comunale con le P.A., i Soggetti Pubblici comunitari, statali e regionali, le strutture sociali ed i privati;
 
-* Piano Industriale triennale: è il documento che pianifica l’attività e definisce le linee di azione della Società in relazione agli obiettivi strategici dell’Amministrazione ed alle strategie di sviluppo industriale. In esso vengono, pertanto, individuate: gli scenari di riferimento, gli obiettivi strategici, le priorità e le azioni da realizzare. Il Piano Industriale triennale rappresenta, inoltre, per l’Amministrazione Comunale lo strumento di programmazione triennale della spesa per il SITEC;
+* \ |STYLE6|\ : è il documento che pianifica l’attività e definisce le linee di azione della Società in relazione agli obiettivi strategici dell’Amministrazione ed alle strategie di sviluppo industriale. In esso vengono, pertanto, individuate: gli scenari di riferimento, gli obiettivi strategici, le priorità e le azioni da realizzare. Il Piano Industriale triennale rappresenta, inoltre, per l’Amministrazione Comunale lo strumento di programmazione triennale della spesa per il SITEC;
 
-* Piano Operativo Annuale (POA): è il documento che, in coerenza con gli obiettivi strategici individuati nel Piano Industriale triennale, definisce annualmente gli ambiti di intervento per l’esercizio corrente e le specifiche attività. Il POA viene definito annualmente dalla Società e sottoposto all’approvazione dell’Amministrazione Comunale;
+* \ |STYLE7|\ : è il documento che, in coerenza con gli obiettivi strategici individuati nel Piano Industriale triennale, definisce annualmente gli ambiti di intervento per l’esercizio corrente e le specifiche attività. Il POA viene definito annualmente dalla Società e sottoposto all’approvazione dell’Amministrazione Comunale;
 
-* Conduzione tecnica SITEC: Il servizio che assicura con continuità la piena operatività, sotto il profilo tecnico, funzionale e gestionale, dei sistemi informatici e di telecomunicazione in esercizio al fine di garantire il funzionamento ordinario del SITEC. In particolare, la Conduzione Tecnica assicura la disponibilità dei sistemi centralizzati e distribuiti, il corretto funzionamento delle postazioni di lavoro e della rete di telecomunicazione; la manutenzione delle applicazioni, l’integrità dei dati; il controllo degli accessi; l’assistenza agli utenti; la diffusione di informazioni destinate alla cittadinanza; l'interconnessione tra le strutture comunali e le strutture sociali, la Provincia e tutti gli altri Enti Pubblici statali e regionali interessati allo scambio di dati;
+* \ |STYLE8|\ : Il servizio che assicura con continuità la piena operatività, sotto il profilo tecnico, funzionale e gestionale, dei sistemi informatici e di telecomunicazione in esercizio al fine di garantire il funzionamento ordinario del SITEC. In particolare, la Conduzione Tecnica assicura la disponibilità dei sistemi centralizzati e distribuiti, il corretto funzionamento delle postazioni di lavoro e della rete di telecomunicazione; la manutenzione delle applicazioni, l’integrità dei dati; il controllo degli accessi; l’assistenza agli utenti; la diffusione di informazioni destinate alla cittadinanza; l'interconnessione tra le strutture comunali e le strutture sociali, la Provincia e tutti gli altri Enti Pubblici statali e regionali interessati allo scambio di dati;
 
-* Sviluppo del SITEC: l’insieme degli interventi definiti nel POA, i cui contenuti specifici sono dettagliati in appositi progetti di sviluppo, volti ad estendere ed ampliare le funzionalità, i servizi e le prestazioni del SITEC ovvero l’insieme degli interventi finalizzati alla progettazione e realizzazione di soluzioni e sistemi informatici e telematici di supporto al sistema di servizi di back-office e di front-office e per l’attuazione di processi di e-government, e-democracy e di cooperazione;
+* \ |STYLE9|\ : l’insieme degli interventi definiti nel POA, i cui contenuti specifici sono dettagliati in appositi progetti di sviluppo, volti ad estendere ed ampliare le funzionalità, i servizi e le prestazioni del SITEC ovvero l’insieme degli interventi finalizzati alla progettazione e realizzazione di soluzioni e sistemi informatici e telematici di supporto al sistema di servizi di back-office e di front-office e per l’attuazione di processi di e-government, e-democracy e di cooperazione;
 
-* Progetto esecutivo di sviluppo: documento di progettazione esecutiva, tecnica ed economica nel quale vengono rappresentati, per essere approvati dall’Amministrazione comunale,  gli obiettivi, le modalità di realizzazione, le forniture, le attività di addestramento, i piani di lavoro e le specifiche tecniche di ogni singolo intervento di sviluppo previsto dal POA; 
+* \ |STYLE10|\ : documento di progettazione esecutiva, tecnica ed economica nel quale vengono rappresentati, per essere approvati dall’Amministrazione comunale,  gli obiettivi, le modalità di realizzazione, le forniture, le attività di addestramento, i piani di lavoro e le specifiche tecniche di ogni singolo intervento di sviluppo previsto dal POA; 
 
-* Specifiche di progetto: documenti nei quali sono definiti i requisiti funzionali e le caratteristiche del progetto in relazione sia allo sviluppo del software che dell’architettura tecnica del sistema informatico e telematico;
+* \ |STYLE11|\ : documenti nei quali sono definiti i requisiti funzionali e le caratteristiche del progetto in relazione sia allo sviluppo del software che dell’architettura tecnica del sistema informatico e telematico;
 
-* hardware: il complesso delle apparecchiature elettroniche di elaborazione automatica, archiviazione e di trasmissione dei dati, installate a livello centrale e periferico, ivi comprese le apparecchiature terminali su cui operano gli utenti del sistema, come di seguito definiti;
+* \ |STYLE12|\ : il complesso delle apparecchiature elettroniche di elaborazione automatica, archiviazione e di trasmissione dei dati, installate a livello centrale e periferico, ivi comprese le apparecchiature terminali su cui operano gli utenti del sistema, come di seguito definiti;
 
-* software: il complesso delle strutture logiche di dati ed algoritmi di elaborazione, procedure formali, regole e modalità operative di trattamento e di trasmissione dei dati che, tradotte anche in sequenze modulari di istruzioni codificate interpretabili, memorizzabili ed eseguibili dalle apparecchiature elettroniche impiegate per l’elaborazione automatica dei dati (programmi o moduli software), definiscono e determinano il funzionamento del SITEC;
+* \ |STYLE13|\ : il complesso delle strutture logiche di dati ed algoritmi di elaborazione, procedure formali, regole e modalità operative di trattamento e di trasmissione dei dati che, tradotte anche in sequenze modulari di istruzioni codificate interpretabili, memorizzabili ed eseguibili dalle apparecchiature elettroniche impiegate per l’elaborazione automatica dei dati (programmi o moduli software), definiscono e determinano il funzionamento del SITEC;
 
-* software di ambiente: il software destinato a definire e determinare il funzionamento del SITEC per quanto attiene alle caratteristiche tecniche delle apparecchiature di elaborazione automatica, nonché ad ottimizzarne le prestazioni, in relazione all’uso cui sono destinate e nel quadro dell’architettura tecnica complessiva del SITEC;
+* \ |STYLE14|\ : il software destinato a definire e determinare il funzionamento del SITEC per quanto attiene alle caratteristiche tecniche delle apparecchiature di elaborazione automatica, nonché ad ottimizzarne le prestazioni, in relazione all’uso cui sono destinate e nel quadro dell’architettura tecnica complessiva del SITEC;
 
-* software applicativo: il software destinato a definire e determinare il funzionamento del SITEC per quanto attiene alla struttura logica dei dati e alle modalità di archiviazione e di accesso agli stessi; il flusso dei dati e delle informazioni, le procedure, le funzioni ed i programmi di elaborazione automatica; i passi procedurali a monte ed a valle del trattamento automatico;
+* \ |STYLE15|\ : il software destinato a definire e determinare il funzionamento del SITEC per quanto attiene alla struttura logica dei dati e alle modalità di archiviazione e di accesso agli stessi; il flusso dei dati e delle informazioni, le procedure, le funzioni ed i programmi di elaborazione automatica; i passi procedurali a monte ed a valle del trattamento automatico;
 
-* manutenzione ordinaria, adeguativa, correttiva e migliorativa del software (MAC): ripristino delle funzionalità fornite dal software applicativo in esercizio, venute meno a seguito di malfunzionamenti; mantenimento delle funzionalità presenti a fronte di innovazioni dell’ambiente tecnico; manutenzione ordinaria; mantenimento delle funzionalità presenti a fronte di innovazioni normative secondo le modalità e nei limiti previsti dalla sezione tecnica della presente Convenzione; miglioramento delle prestazioni a parità di funzioni svolte; modifiche come definite nella sezione tecnica della presente Convenzione; rientrano nell’ambito della manutenzione MAC anche gli interventi di manutenzione evolutiva la cui stima di impegno, espressa in giorni/persona, non superi i valori indicati nel POA;
+* \ |STYLE16|\ : ripristino delle funzionalità fornite dal software applicativo in esercizio, venute meno a seguito di malfunzionamenti; mantenimento delle funzionalità presenti a fronte di innovazioni dell’ambiente tecnico; manutenzione ordinaria; mantenimento delle funzionalità presenti a fronte di innovazioni normative secondo le modalità e nei limiti previsti dalla sezione tecnica della presente Convenzione; miglioramento delle prestazioni a parità di funzioni svolte; modifiche come definite nella sezione tecnica della presente Convenzione; rientrano nell’ambito della manutenzione MAC anche gli interventi di manutenzione evolutiva la cui stima di impegno, espressa in giorni/persona, non superi i valori indicati nel POA;
 
-* manutenzione evolutiva del software (MEV): interventi miranti a modificare o incrementare funzionalità esistenti  per migliorare gli aspetti funzionali delle applicazioni o comunque per supportare modifiche non tecniche nei sistemi informativi automatizzati;
+* \ |STYLE17|\ : interventi miranti a modificare o incrementare funzionalità esistenti  per migliorare gli aspetti funzionali delle applicazioni o comunque per supportare modifiche non tecniche nei sistemi informativi automatizzati;
 
-* utenti: soggetti abilitati ad accedere alle informazioni ed ai dati inseriti nel SITEC anche in processi di cooperazione ed interscambio;
+* \ |STYLE18|\ : soggetti abilitati ad accedere alle informazioni ed ai dati inseriti nel SITEC anche in processi di cooperazione ed interscambio;
 
-* Regolamento sulle attività di vigilanza e controllo su Società ed enti partecipati (di seguito anche “Regolamento sul controllo analogo”): il documento approvato dal Consiglio Comunale che disciplina le attività di vigilanza e controllo esercitate dal Comune di Palermo nelle Società ed Enti partecipati, nell’ambito dei generali poteri autoritativi e della specifica potestà normativa conferita allo tesso Comune di Palermo dall’ordinamento giuridico;
+* \ |STYLE19|\  (di seguito anche “Regolamento sul controllo analogo”): il documento approvato dal Consiglio Comunale che disciplina le attività di vigilanza e controllo esercitate dal Comune di Palermo nelle Società ed Enti partecipati, nell’ambito dei generali poteri autoritativi e della specifica potestà normativa conferita allo tesso Comune di Palermo dall’ordinamento giuridico;
 
-* Postazione di Lavoro Informatizzata (PLI): l’insieme delle apparecchiature hardware e software messe a disposizione del Comune. La dotazione standard comprende: PC tipo Client, Stampante b/n A4, dispositivi per la connessione in rete locale, software di base e di ambiente (Sistema Operativo, strumenti di produttività individuale);
+* \ |STYLE20|\ : l’insieme delle apparecchiature hardware e software messe a disposizione del Comune. La dotazione standard comprende: PC tipo Client, Stampante b/n A4, dispositivi per la connessione in rete locale, software di base e di ambiente (Sistema Operativo, strumenti di produttività individuale);
 
-* Allegato Tecnico: il documento nel quale sono descritti i livelli di servizio e le connesse penali relative ai servizi oggetto della presente Convenzione.
+* \ |STYLE21|\ : il documento nel quale sono descritti i livelli di servizio e le connesse penali relative ai servizi oggetto della presente Convenzione.
 
 .. _h7d482d1e73101675606a3596d764363:
 
@@ -80,6 +88,27 @@ Art. 2 Oggetto, efficacia e durata della Convenzione
 
     #. Eventuali variazioni o aggiunte all’oggetto della presente Convenzione, o ai termini in essa previsti, dovranno essere concordate dalle parti e non potranno entrare in vigore senza la preventiva sottoscrizione di entrambe le parti.
 
+
+.. admonition:: emendamento del Consiglio comunale n.3
+
+    All'art.2 comma 2 
+    
+    * aggiungere virgolette alle parole "\ |STYLE22|\ ".
+    
+    * Dopo la parola "\ |STYLE23|\ " eliminare "\ |STYLE24|\ ".
+
+
+.. admonition:: emendamento del Consiglio comunale n.14
+
+    all'art. 2, c. II° abrogare la seguente frase "\ |STYLE25|\ " e aggiungere dopo le parole Convenzione "\ |STYLE26|\ "
+
+
+.. admonition:: emendamento del Consiglio comunale n.17
+
+    integrare comma 2 art.4 della Convenzione per lo sviluppo e la conduzione tecnica del SITEC come segue:
+    
+    * \ |STYLE27|\ 
+
 .. _h1022387566743d6459685d2a2dae63:
 
 Art. 3 Prestazioni della Società per la conduzione tecnica del SITEC
@@ -89,17 +118,17 @@ La conduzione tecnica del SITEC da parte della Società dovrà articolarsi nelle
 
 * Servizi per la Conduzione Operativa del SITEC che dovranno comprendere:
 
-    a) la conduzione operativa delle apparecchiature elettroniche e dei sistemi centrali;
+    \ |STYLE28|\  la conduzione operativa delle apparecchiature elettroniche e dei sistemi centrali;
 
-    b) la conduzione operativa di Lan, Desktop e Sistemi Distribuiti;
+    \ |STYLE29|\  la conduzione operativa di Lan, Desktop e Sistemi Distribuiti;
 
-    c) la conduzione operativa delle apparecchiature e della rete di telecomunicazione;
+    \ |STYLE30|\  la conduzione operativa delle apparecchiature e della rete di telecomunicazione;
 
-    d) la manutenzione ordinaria e straordinaria di tutte le apparecchiature dei precedenti punti a), b), e c);
+    \ |STYLE31|\  la manutenzione ordinaria e straordinaria di tutte le apparecchiature dei precedenti punti a), b), e c);
 
-    e) la gestione dei rapporti con le imprese fornitrici dei vari componenti delle apparecchiature di elaborazione e di rete telematica, al livello centrale e periferico, onde assicurare la tempestiva esecuzione delle attività di manutenzione ordinaria e straordinaria, previste nei contratti stipulati dalla Società, di tutte le apparecchiature e collegamenti;
+    \ |STYLE32|\  la gestione dei rapporti con le imprese fornitrici dei vari componenti delle apparecchiature di elaborazione e di rete telematica, al livello centrale e periferico, onde assicurare la tempestiva esecuzione delle attività di manutenzione ordinaria e straordinaria, previste nei contratti stipulati dalla Società, di tutte le apparecchiature e collegamenti;
 
-    f) lo svolgimento dei servizi di segreteria, di amministrazione, di riproduzione e di gestione magazzino, direttamente connessi allo svolgimento degli adempimenti di cui alla presente Convenzione;
+    \ |STYLE33|\  lo svolgimento dei servizi di segreteria, di amministrazione, di riproduzione e di gestione magazzino, direttamente connessi allo svolgimento degli adempimenti di cui alla presente Convenzione;
 
 * Servizi per la Conduzione Funzionale del SITEC che dovranno comprendere:
 
@@ -174,6 +203,11 @@ Art. 4	Prestazioni della Società per lo sviluppo del SITEC
 
 #. Nell’erogazione dei servizi di sviluppo del SITEC la Società predisporrà idonei Posti di Lavoro Informatizzati, di seguito PLI, come definiti all’art. 1 “Terminologia” e nella misura indicata dal corrispondente progetto esecutivo di sviluppo.
 
+
+.. admonition:: emendamento del Consiglio comunale n.4
+
+    Alla fine dell'articolo 4 comma 1 dopo la parola "\ |STYLE34|\ " aggiungere la frase "\ |STYLE35|\ ";
+
 .. _h3f4e3873792c6c3495536b7a25334d:
 
 Art. 5 Acquisizione e fornitura di beni e servizi per la conduzione tecnica e lo sviluppo del SITEC
@@ -242,6 +276,22 @@ Art. 7 Piano Industriale triennale e Piano Operativo Annuale
 #. Per consentire la determinazione dei necessari impegni di spesa, la Società, entro la fine di ciascun anno, provvederà ad elaborare e a trasmettere all’Amministrazione comunale una proposta di POA. L’Amministrazione comunale potrà esprimere le proprie osservazioni entro i 60 (sessanta) giorni solari successivi, trascorsi i quali la stessa si intenderà approvata. 
 
 #. In caso di necessità o di evidente opportunità le parti possono aggiornare o integrare i Piani Operativi Annuali vigenti, nei limiti consentiti dai corrispettivi contrattuali, fatta salva la facoltà delle parti di concordare, ove necessario, la rideterminazione dei suddetti corrispettivi, per far fronte a ulteriori esigenze non previste nei Piani Operativi Annuali.
+
+
+.. admonition:: emendamento del Consiglio comunale n.5
+
+    All'art. 7 comma 5 al secondo capo verso occorre:
+    
+    * sostituire la parola "\ |STYLE36|\ " con "\ |STYLE37|\ ";
+    
+    * sostituire la parola "\ |STYLE38|\ " con "\ |STYLE39|\ ";
+    
+    * inoltre continuando nella stessa frase dopo "\ |STYLE40|\ " eliminare la frase "\ |STYLE41|\ ";
+
+
+.. admonition:: emendamento del Consiglio comunale n.15
+
+    art. 7 aggiuntivo nel testo al c. VI aggiungere dopo P.O.A. il punto "\ |STYLE42|\ "
 
 .. _h7b7b62723f3bb193d5542455173841:
 
@@ -349,11 +399,11 @@ Art. 14 Corrispettivi, fatturazione e modalità di pagamento
 
         A) per le prestazioni di conduzione tecnica, il corrispettivo complessivo contrattuale pari ad € 11.291.100,00 IVA compresa, oltre a quanto stabilito con la Delibera G.M. 78 del 2/04/2017 e le Determinazioni Dirigenziali n. 112 del 15/05/2017 e n. 142 del 28/12/2017, con le seguenti modalità:   
 
-    * a1\ |STYLE1|\  mensilmente, in via posticipata, il 90% del corrispondente canone mensile indicato nel relativo Piano Operativo Annuale. Il residuo 10% potrà essere fatturato a fine esercizio a seguito di verifica positiva dei rapporti trimestrali. 
+    * a1\ |STYLE43|\  mensilmente, in via posticipata, il 90% del corrispondente canone mensile indicato nel relativo Piano Operativo Annuale. Il residuo 10% potrà essere fatturato a fine esercizio a seguito di verifica positiva dei rapporti trimestrali. 
 
-    * a2\ |STYLE2|\  nel caso in cui le verifiche dei rapporti trimestrali di cui al precedente art. 12 si concludano con la decisione di una riduzione motivata del corrispettivo, l’amministrazione comunale tratterrà la riduzione concordata dalla ritenuta di garanzia del 10%. Qualora tale riduzione dovesse eccedere la garanzia del 10% la Società provvederà ad emettere relativa nota di credito da conguagliare sulla prima liquidazione utile. 
+    * a2\ |STYLE44|\  nel caso in cui le verifiche dei rapporti trimestrali di cui al precedente art. 12 si concludano con la decisione di una riduzione motivata del corrispettivo, l’amministrazione comunale tratterrà la riduzione concordata dalla ritenuta di garanzia del 10%. Qualora tale riduzione dovesse eccedere la garanzia del 10% la Società provvederà ad emettere relativa nota di credito da conguagliare sulla prima liquidazione utile. 
 
-    * a3\ |STYLE3|\  nel caso in cui, alla data del 31 gennaio di ciascun anno, il Piano Operativo Annuale delle attività di conduzione tecnica non venga ancora approvato la Società procede alla fatturazione del servizio reso come indicato nel precedente punto a.1), assumendo come riferimento il canone dell’ultimo mese dell'anno precedente, ridotto del 10%. In questo caso, una volta approvato il Piano Operativo Annuale con il nuovo corrispettivo, la Società emette fatture di conguaglio delle mensilità già fatturate e riprende quindi la normale procedura di fatturazione di cui ai punti precedenti. 
+    * a3\ |STYLE45|\  nel caso in cui, alla data del 31 gennaio di ciascun anno, il Piano Operativo Annuale delle attività di conduzione tecnica non venga ancora approvato la Società procede alla fatturazione del servizio reso come indicato nel precedente punto a.1), assumendo come riferimento il canone dell’ultimo mese dell'anno precedente, ridotto del 10%. In questo caso, una volta approvato il Piano Operativo Annuale con il nuovo corrispettivo, la Società emette fatture di conguaglio delle mensilità già fatturate e riprende quindi la normale procedura di fatturazione di cui ai punti precedenti. 
 
         B) per le prestazioni di sviluppo, il corrispettivo pari all’importo definito nei progetti esecutivi di sviluppo accettati dall’Amministrazione e, comunque, nei limiti dei massimali previsti nel POA di riferimento, con le seguenti modalità:
 
@@ -364,6 +414,16 @@ Art. 14 Corrispettivi, fatturazione e modalità di pagamento
     * b.3-  L’amministrazione si impegna a comunicare gli esiti delle verifiche di congruità entro 90 giorni dal ricevimento del progetto esecutivo di sviluppo inviato dalla Società.
 
 2.  A fronte delle fatture emesse dalla Società, l’Amministrazione comunale procede alla liquidazione ed al pagamento degli importi fatturati nei termini ed alle condizioni previste dalle norme vigenti per i pagamenti delle pubbliche amministrazioni.
+
+
+.. admonition:: emendamento del Consiglio comunale n.6
+
+    All'art. 14 comma 1 lettera b) sotto lettera b1) dopo la parola "\ |STYLE46|\ ", occorre aggiungere la seguente frase "\ |STYLE47|\ 
+
+
+.. admonition:: sub emendamento 1 del Consiglio comunale all'emendamento n. 13
+
+    Al posto della cifra di "\ |STYLE48|\ " scrivere "\ |STYLE49|\ " e aggiungere subito dopo la frase "\ |STYLE50|\ "
 
 .. _h3264792c4674261b1214b44b112513:
 
@@ -411,7 +471,6 @@ Art 18 Livelli di servizio, monitoraggio e penali
 
 #. Nell’erogazione dei servizi oggetto della presente convenzione la Società dovrà garantire adeguati livelli di servizio (SLA). I livelli di servizio vengono distinti nelle seguenti classi:
 
-
 +------+------------------------------------------------------------------------------------------------------------+
 |classe|descrizione                                                                                                 |
 +------+------------------------------------------------------------------------------------------------------------+
@@ -446,9 +505,15 @@ Art 18 Livelli di servizio, monitoraggio e penali
 
 4. Sono escluse dal calcolo dei livelli di servizio:
 
-    * Le interruzioni dovute ad interventi concordati. 
+* Le interruzioni dovute ad interventi concordati. 
 
-    * Le conseguenze di cause di forza maggiore comunque non imputabili a colpa della società. 
+* Le conseguenze di cause di forza maggiore comunque non imputabili a colpa della società. 
+
+
+.. admonition:: emendamento del Consiglio comunale n.16
+
+    all'art. 18 inserire al comma 5 il testo come segue:
+    "\ |STYLE51|\ "
 
 .. _h725522122862b61a40ad72481254:
 
@@ -527,18 +592,142 @@ Le parti convengono di sottoscrivere specificatamente gli articoli 1, 2, 3, 4, 5
 +-----------------+------------------+
 
 
+.. admonition:: Ordine del giorno del Consiglio comunale n.1 - approvato
+
+    Il Consiglio impegna il Sindaco, la Giunta e gli Uffici competenti a dare massima pubblicità al Piano di Protezione Civile della Città di Palermo anche sulla "home page" del sito istituzionale del Comune.
+
+
+.. admonition:: Ordine del giorno del Consiglio comunale n.2 - approvato
+
+    Il Consiglio impegna il Sindaco, l'Assessore competente e l'Amministrazione Comunale: A sviluppare e rendere operativa nel termine di sei  mesi un app scaricabile sui  moderni sistemi di comunicazione e di informazione (telefonini, pc, tablet, etc..) ove il cittadino possa apprendere le iniziative che le Società Partecipate del Comune di Palermo intraprendono e tutti gli specifici servizi offerti quali ad esempio la consultazione delle multe.
+
+
+.. admonition:: Ordine del giorno del Consiglio comunale n.3 - approvato
+
+    Il Consiglio Comunale impegna la Società partecipata SISPI ad intraprendere sin da subito le attività di analisi e verifica delle procedure relative del Servizio notifiche delle sanzioni del C.d.S al fine di individuare le modalità  per mezzo delle quali poter svolgere le suddette attività prioritariamente con le risorse professionali rinvenibili all'interno dell'Amministrazione previa la necessaria formazione.
+
+
 .. bottom of content
 
 
-.. |STYLE0| replace:: **La Convenzione è stata approvata con Deliberazione di Consiglio Comunale n. 42 del 20.04.2018**
+.. |STYLE0| replace:: **La Convenzione è stata approvata con**
 
-.. |STYLE1| replace:: **-**
+.. |STYLE1| replace:: **DATO ATTO che**
 
-.. |STYLE2| replace:: **-**
+.. |STYLE2| replace:: **intervenute**
 
-.. |STYLE3| replace:: **-**
+.. |STYLE3| replace:: **e nelle more della rivisitazione delle Convenzioni di tutte le Società partecipate Comunali, anche già approvate e vigenti, al fine di rendere omogenee le stesse nelle previsioni**
+
+.. |STYLE4| replace:: **Relazione Illustrativa delle ragioni e della sussistenza dei requisiti previsto per l'affidamento in house providing della Conduzione Tecnica e Sviluppo del SITEC**
+
+.. |STYLE5| replace:: **Sistema Informatico e di telecomunicazione del Comune**
+
+.. |STYLE6| replace:: **Piano Industriale triennale**
+
+.. |STYLE7| replace:: **Piano Operativo Annuale (POA)**
+
+.. |STYLE8| replace:: **Conduzione tecnica SITEC**
+
+.. |STYLE9| replace:: **Sviluppo del SITEC**
+
+.. |STYLE10| replace:: **Progetto esecutivo di sviluppo**
+
+.. |STYLE11| replace:: **Specifiche di progetto**
+
+.. |STYLE12| replace:: **Hardware**
+
+.. |STYLE13| replace:: **Software**
+
+.. |STYLE14| replace:: **Software di ambiente**
+
+.. |STYLE15| replace:: **Software applicativo**
+
+.. |STYLE16| replace:: **Manutenzione ordinaria, adeguativa, correttiva e migliorativa del software (MAC)**
+
+.. |STYLE17| replace:: **Manutenzione evolutiva del software (MEV)**
+
+.. |STYLE18| replace:: **Utenti**
+
+.. |STYLE19| replace:: **Regolamento sulle attività di vigilanza e controllo su Società ed enti partecipati**
+
+.. |STYLE20| replace:: **Postazione di Lavoro Informatizzata (PLI)**
+
+.. |STYLE21| replace:: **Allegato Tecnico**
+
+.. |STYLE22| replace:: **ulteriori servizi**
+
+.. |STYLE23| replace:: **affidarsi**
+
+.. |STYLE24| replace:: **anche**
+
+.. |STYLE25| replace:: **ovvero secondo specifiche modalità che saranno all'uopo individuate in relazione alle specificità dell'oggetto dell'affidamento**
+
+.. |STYLE26| replace:: **previa comunicazione al Consiglio Comunale**
+
+.. |STYLE27| replace:: **Gestione servizio notifiche, gs Deliberazione di C.C. n. 224 del 11.03.2011, che sancisce una preventiva ricognizione interna del personale, all'uopo da destinare, prima di procedere all'affidamento del servizio a mezzo di bando pubblico**
+
+.. |STYLE28| replace:: **a)**
+
+.. |STYLE29| replace:: **b)**
+
+.. |STYLE30| replace:: **c)**
+
+.. |STYLE31| replace:: **d)**
+
+.. |STYLE32| replace:: **e)**
+
+.. |STYLE33| replace:: **f)**
+
+.. |STYLE34| replace:: **Società**
+
+.. |STYLE35| replace:: **ivi compresi gli ulteriori servizi di cui al comma 2 del precedente articolo 2**
+
+.. |STYLE36| replace:: **l'Amministrazione comunale**
+
+.. |STYLE37| replace:: **Il Settore delle Società Partecipate**
+
+.. |STYLE38| replace:: **potrà**
+
+.. |STYLE39| replace:: **dovrà**
+
+.. |STYLE40| replace:: **entro i 60 (sessanta giorni solari successivi**
+
+.. |STYLE41| replace:: **trascorsi i quali la stessa si intenderà approvata**
+
+.. |STYLE42| replace:: **tale rideterminazione dei suddetti corrispettivi deve contenere un accurata analisi preventiva e descrittiva sulle cause che lo hanno generato**
+
+.. |STYLE43| replace:: **-**
+
+.. |STYLE44| replace:: **-**
+
+.. |STYLE45| replace:: **-**
+
+.. |STYLE46| replace:: **progetto**
+
+.. |STYLE47| replace:: **ovvero, in ragione della specificità dell'oggetto dell'affidamento - ai sensi di quanto previsto al comma 2 dell'art. 2 - secondo specifiche modalità stabilite all'atto dell'affidamento,".**
+
+.. |STYLE48| replace:: **11.200.000**
+
+.. |STYLE49| replace:: **11.291.000**
+
+.. |STYLE50| replace:: **oltre a quanto stabilito dalla Delibera GM n. 78 del 2.04.2017 e le determinazioni Dirigenziali n. 112 del 15.05.2017 e n. 142 del 28.12.2017**
+
+.. |STYLE51| replace:: **il monitoraggio dei livelli di servizio e degli indicatori di qualità delle prestazioni rese deve essere svolto attraverso un'applicazione web resa disponibile alla figura dirigenziale di riferimento preposta al controllo, che deve collegare i servizi ai relativi indicatori selezionati per monitorare gli obblighi assunti dalla società**
 
 
-.. |REPLACE1| raw:: html
+.. |LINK1| raw:: html
 
-    <img src="https://elezioni.comune.palermo.it/img/aqu_79.png" />   <img src="http://www.sispi.it/sispi-theme/images/pic/sispi-logo-home.png" />  
+    <a href="https://drive.google.com/file/d/1PdLktrcIeMnSa8e1D1lVFlFIZBdEKN-v/view?usp=sharing" target="_blank">Deliberazione di Consiglio Comunale n. 42 del 20.04.2018</a>
+
+.. |LINK2| raw:: html
+
+    <a href="https://drive.google.com/file/d/1PdLktrcIeMnSa8e1D1lVFlFIZBdEKN-v/view?usp=sharing" target="_blank">Deliberazione di Consiglio Comunale n. 42 del 20.04.2018</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://drive.google.com/file/d/1PdLktrcIeMnSa8e1D1lVFlFIZBdEKN-v/view?usp=sharing" target="_blank">proposta deliberativa</a>
+
+.. |LINK4| raw:: html
+
+    <a href="https://drive.google.com/file/d/1PdLktrcIeMnSa8e1D1lVFlFIZBdEKN-v/view?usp=sharing" target="_blank">proposta deliberativa</a>
+
