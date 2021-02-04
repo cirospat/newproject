@@ -373,6 +373,10 @@ Lo \ |LINK105|\ . L'utente può prenotare l'appuntamento attraverso il portale o
 
 |
 
+\ |LINK106|\ , fa un sintetico report sull'adesione del comune di Palermo alle piattaforme nazionali abilitanti all'erogazione dei servizi locali (PagoPA, SPID, ANPR e app IO). 
+
+|
+
 
 .. bottom of content
 
@@ -931,4 +935,8 @@ Lo \ |LINK105|\ . L'utente può prenotare l'appuntamento attraverso il portale o
 .. |LINK105| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=30366" target="_blank">Sportello Unico per le attività Produttive (SUAP) nel gennaio 2021 avvia il servizio di ricevimento del pubblico in videoconferenza</a>
+
+.. |LINK106| raw:: html
+
+    <a href="https://innovazione.gov.it/PAdigitale-protagonisti-palermo/" target="_blank">Un articolo, data 4 febbraio 2021, del Ministero per l'Innovazione Tecnologica e la digitalizzazione</a>
 
