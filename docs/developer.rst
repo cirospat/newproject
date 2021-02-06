@@ -634,6 +634,119 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 \ |LINK106|\ 
 
+--------
+
+.. tabs::
+
+   .. tab:: Read the Docs Community
+
+      In order to setup your custom domain, follow these steps:
+
+      #. For a subdomain like ``docs.example.com``, add a CNAME record in your DNS that points the domain to ``readthedocs.io``.
+
+         For a root domain like ``example.com`` use an ANAME or ALIAS record pointing to ``readthedocs.io``.
+
+      #. Go the :guilabel:`Admin` tab of your project
+
+      #. Click on :guilabel:`Domains`
+
+      #. Enter your domain and click on :guilabel:`Add`
+
+      By default, we provide a validated SSL certificate for the domain.
+
+      This service is generously provided by Cloudflare.
+
+      The SSL certificate issuance can take about one hour,
+
+      you can see the status of the certificate on the domain page in your project.
+
+      As an example, fabric's DNS record looks like this:
+
+      .. prompt:: bash $, auto
+
+         $ dig CNAME +short docs.fabfile.org
+
+         readthedocs.io.
+
+   .. tab:: Read the Docs for Business
+
+      In order to setup your custom domain, follow these steps:
+
+      #. Go the :guilabel:`Admin` tab of your project
+
+      #. Click on :guilabel:`Domains`
+
+      #. Enter your domain and click on :guilabel:`Add`
+
+      #. Follow the steps shown on the domain page.
+
+         This will require adding 2 DNS records, one pointing your custom domain to our servers,
+
+         and another allowing us to provision an SSL certificate.
+
+      By default, we provide a validated SSL certificate for the domain.
+
+      The SSL certificate issuance can take a few days,
+
+      you can see the status of the certificate on the domain page in your project.
+
+      .. note::
+
+         Some older setups configured a CNAME record pointing to         ``<organization-slug>.users.readthedocs.com``.
+
+         These domains will continue to resolve.
+
+
+.. tab:: argument
+
+    
+       .. tab:: Read the Docs Community
+    
+          In order to setup your custom domain, follow these steps:
+    
+          #. For a subdomain like ``docs.example.com``, add a CNAME record in your DNS that points the domain to ``readthedocs.io``.
+             For a root domain like ``example.com`` use an ANAME or ALIAS record pointing to ``readthedocs.io``.
+          #. Go the :guilabel:`Admin` tab of your project
+          #. Click on :guilabel:`Domains`
+          #. Enter your domain and click on :guilabel:`Add`
+    
+          By default, we provide a validated SSL certificate for the domain.
+          This service is generously provided by Cloudflare.
+          The SSL certificate issuance can take about one hour,
+          you can see the status of the certificate on the domain page in your project.
+    
+          As an example, fabric's DNS record looks like this:
+    
+          .. prompt:: bash $, auto
+    
+             $ dig CNAME +short docs.fabfile.org
+             readthedocs.io.
+    
+       .. tab:: Read the Docs for Business
+    
+          In order to setup your custom domain, follow these steps:
+    
+          #. Go the :guilabel:`Admin` tab of your project
+          #. Click on :guilabel:`Domains`
+          #. Enter your domain and click on :guilabel:`Add`
+          #. Follow the steps shown on the domain page.
+             This will require adding 2 DNS records, one pointing your custom domain to our servers,
+             and another allowing us to provision an SSL certificate.
+    
+          By default, we provide a validated SSL certificate for the domain.
+          The SSL certificate issuance can take a few days,
+          you can see the status of the certificate on the domain page in your project.
+    
+          .. note::
+    
+             Some older setups configured a CNAME record pointing to         ``<organization-slug>.users.readthedocs.com``.
+             These domains will continue to resolve.
+    
+
+    
+
+    
+
 
 .. bottom of content
 
