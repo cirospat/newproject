@@ -333,7 +333,7 @@ Dal 26 ottobre 2020 \ |LINK93|\ . Consentirà ai cittadini di effettuare il camb
 
 |
 
-Dal 29 ottobre 2020 con la Delibera di Giunta n. 269/2020, l'Amministrazione avvia un'iniziativa informatica che \ |LINK94|\  e l'estrazione di certificati anagrafici. Il Comune rende disponibile al Professionista iscritto all’Ordine le seguenti tipologie di certificati anagrafici con “timbro digitale”: residenza; stato di famiglia.
+Dal 29 ottobre 2020 con la Delibera di Giunta n. 269/2020, l'Amministrazione avvia un'iniziativa informatica che \ |LINK94|\  e l'estrazione di certificati anagrafici. Il Comune rende disponibile al Professionista iscritto all’Ordine le seguenti tipologie di certificati anagrafici con “timbro digitale”: residenza; stato di famiglia. Alla data del 10 febbraio 2021, risultano estratti n. 5.282 certificati anagrafici.
 
 |
 
