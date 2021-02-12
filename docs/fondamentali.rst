@@ -1020,7 +1020,7 @@ Un corso online gratuito rivolto a tutti coloro che sono interessati a imparare 
 
 .. |LINK14| raw:: html
 
-    <a href="https://developers.italia.it/it/software/" target="_blank">Catalogo</a>
+    <a href="https://developers.italia.it/it/software" target="_blank">Catalogo</a>
 
 .. |LINK15| raw:: html
 
