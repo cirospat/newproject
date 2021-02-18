@@ -9,23 +9,12 @@ Mappe
 
 |
 
-.. _h731718451137537a2d1f10425f4ef8:
-
-Catalogo mappe elaborate da Ciro Spataro
-========================================
-
-\ |LINK1|\ 
-
-|REPLACE2|
-
-|
-
 .. _h2b3c5572b581522d5625845501771:
 
 Petrusino, catalogo mappe curato dalla community di Opendatasicilia
 ===================================================================
 
-\ |IMG1|\  \ |LINK2|\  concentrato principalmente sul territorio della Sicilia e Palermo -  a cura della comunità di \ |LINK3|\ .
+\ |IMG1|\  \ |LINK1|\  concentrato principalmente sul territorio della Sicilia e Palermo -  a cura della comunità di \ |LINK2|\ .
 
 |
 
@@ -34,7 +23,20 @@ Petrusino, catalogo mappe curato dalla community di Opendatasicilia
 Palermo-hub, atlante storico di Palermo
 =======================================
 
-\ |LINK4|\  (a cura di \ |LINK5|\ ).
+\ |LINK3|\  (a cura di \ |LINK4|\ ).
+
+|
+
+.. _h731718451137537a2d1f10425f4ef8:
+
+Catalogo mappe elaborate da Ciro Spataro
+========================================
+
+\ |LINK5|\ 
+
+|REPLACE2|
+
+|
 
 --------
 
@@ -80,23 +82,23 @@ Palermo-hub, atlante storico di Palermo
 
 .. |LINK1| raw:: html
 
-    <a href="https://cirospat.github.io/maps" target="_blank">Catalogo</a>
+    <a href="http://petrusino.opendatasicilia.it/" target="_blank">Catalogo mappe di Petrusino</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://petrusino.opendatasicilia.it/" target="_blank">Catalogo mappe di Petrusino</a>
+    <a href="http://opendatasicilia.it" target="_blank">Opendatasicilia</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://opendatasicilia.it" target="_blank">Opendatasicilia</a>
+    <a href="http://siciliahub.github.io/palermohub/index_atlante.html" target="_blank">Atlante delle carte tecniche storiche di Palermo</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://siciliahub.github.io/palermohub/index_atlante.html" target="_blank">Atlante delle carte tecniche storiche di Palermo</a>
+    <a href="https://coseerobe.gbvitrano.it/" target="_blank">Giovan Battista Vitrano</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://coseerobe.gbvitrano.it/" target="_blank">Giovan Battista Vitrano</a>
+    <a href="https://cirospat.github.io/maps" target="_blank">Catalogo</a>
 
 
 .. |IMG1| image:: static/mappe_1.png
