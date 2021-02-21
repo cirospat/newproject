@@ -16,6 +16,10 @@ developer
 
     developer
 
+trovare la pagina esatta in un pdf online:
+
+nel web è ``<A HREF="http://www.example.com/myfile.pdf#page=4">``
+
 
 |REPLACE1|
 
@@ -697,7 +701,7 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
          These domains will continue to resolve.
 
 
-.. tab:: argument
+.. tab:: 
 
     
        .. tab:: Read the Docs Community
