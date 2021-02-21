@@ -16,9 +16,7 @@ developer
 
     developer
 
-trovare la pagina esatta in un pdf online:
-
-nel web è ``<A HREF="http://www.example.com/myfile.pdf#page=4">``
+:guilabel:`trovare la pagina esatta in un pdf online`: nel web è ``<A HREF="http://www.example.com/myfile.pdf#page=4">``
 
 
 |REPLACE1|
