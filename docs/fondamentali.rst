@@ -944,7 +944,7 @@ Un corso online gratuito rivolto a tutti coloro che sono interessati a imparare 
     <img src="https://img.shields.io/badge/fondamentali-amministrazione_digitale-blue.svg?style=popout&logo=Read%20the%20Docs" />
 .. |REPLACE2| raw:: html
 
-    <img src="https://pbs.twimg.com/media/Eum3GeJXcAApUCD?format=jpg" width="550" />
+    <img src="https://pbs.twimg.com/media/Eum3GeJXcAApUCD?format=jpg" width="650" />
 .. |REPLACE3| raw:: html
 
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">COMPETENZE DIGITALI</span></strong>
