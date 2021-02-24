@@ -721,7 +721,7 @@ Le parti convengono di sottoscrivere specificatamente gli articoli 1, 2, 3, 4, 5
 .. |REPLACE1| raw:: html
 
     <img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/SISPI/main/delibere%20comunali%20SISPI/delibera%20Consiglio%20Comunale%20Convenzione%20SISPI%20n.%2042_2018/indicatori_economici_convenzione_sispi_2018.jpg" />  <br>
-    <a href="https://drive.google.com/file/d/1sCRd9whrVGwX4Na4r7oBnGVp6IZSKtWo/view?usp=sharing" target="_blank">Tabella indicatori economici Convenzione SISPI (Deliberazione C.C. 42/2018)</a>
+    <a href="https://drive.google.com/file/d/1sCRd9whrVGwX4Na4r7oBnGVp6IZSKtWo/view?usp=sharing" target="_blank">Tabella "indicatori economici" allegata alla Convenzione SISPI (Deliberazione C.C. 42/2018)</a>
 
 .. |LINK1| raw:: html
 
