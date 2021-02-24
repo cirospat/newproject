@@ -416,6 +416,9 @@ Art. 14 Corrispettivi, fatturazione e modalità di pagamento
 2.  A fronte delle fatture emesse dalla Società, l’Amministrazione comunale procede alla liquidazione ed al pagamento degli importi fatturati nei termini ed alle condizioni previste dalle norme vigenti per i pagamenti delle pubbliche amministrazioni.
 
 
+|REPLACE1|
+
+
 .. admonition:: emendamento del Consiglio comunale n.6
 
     All'art. 14 comma 1 lettera b) sotto lettera b1) dopo la parola "\ |STYLE46|\ ", occorre aggiungere la seguente frase "\ |STYLE47|\ 
@@ -714,6 +717,11 @@ Le parti convengono di sottoscrivere specificatamente gli articoli 1, 2, 3, 4, 5
 
 .. |STYLE51| replace:: **il monitoraggio dei livelli di servizio e degli indicatori di qualità delle prestazioni rese deve essere svolto attraverso un'applicazione web resa disponibile alla figura dirigenziale di riferimento preposta al controllo, che deve collegare i servizi ai relativi indicatori selezionati per monitorare gli obblighi assunti dalla società**
 
+
+.. |REPLACE1| raw:: html
+
+    <img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/SISPI/main/delibere%20comunali%20SISPI/delibera%20Consiglio%20Comunale%20Convenzione%20SISPI%20n.%2042_2018/indicatori_economici_convenzione_sispi_2018.jpg" />  <br>
+    <a href="https://drive.google.com/file/d/1sCRd9whrVGwX4Na4r7oBnGVp6IZSKtWo/view?usp=sharing" target="_blank">Tabella indicatori economici Convenzione SISPI (Deliberazione C.C. 42/2018)</a>
 
 .. |LINK1| raw:: html
 
