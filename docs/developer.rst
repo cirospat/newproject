@@ -93,67 +93,67 @@ Tool
 |
 
 
-+------------------------------------------------------------------------------------------+
-|:online photo editor:    \ |LINK4|\                                                       |
-|                                                                                          |
-|:markdown:    \ |LINK5|\                                                                  |
-|                                                                                          |
-|:hackmd:    \ |LINK6|\                                                                    |
-|                                                                                          |
-|:google dataset search:     \ |LINK7|\                                                    |
-|                                                                                          |
-|:add this social:      \ |LINK8|\                                                         |
-|                                                                                          |
-|:html editor online:     \ |LINK9|\                                                       |
-|                                                                                          |
-|:html editor online:     \ |LINK10|\                                                      |
-|                                                                                          |
-|:html editor online:     \ |LINK11|\                                                      |
-|                                                                                          |
-|:editor online:    \ |LINK12|\                                                            |
-|                                                                                          |
-|:colori codici html:     \ |LINK13|\                                                      |
-|                                                                                          |
-|:URL Decoder/Encoder:    \ |LINK14|\                                                      |
-|                                                                                          |
-|:feed burner:    \ |LINK15|\                                                              |
-|                                                                                          |
-|:pdf to excel:     \ |LINK16|\                                                            |
-|                                                                                          |
-|:time mapper:    \ |LINK17|\                                                              |
-|                                                                                          |
-|:geocoder OnData:    \ |LINK18|\                                                          |
-|                                                                                          |
-|:geocoder GBVitrano:    \ |LINK19|\                                                       |
-|                                                                                          |
-|:geocoder appostabiz:    \ |LINK20|\                                                      |
-|                                                                                          |
-|:geocoder rules Google:    \ |LINK21|\                                                    |
-|                                                                                          |
-|:maps with words:    \ |LINK22|\                                                          |
-|                                                                                          |
-|:qr code generator:    \ |LINK23|\                                                        |
-|                                                                                          |
-|:post image to get url:    \ |LINK24|\  (non molto attendibile, non resta nel tempo l'url)|
-|                                                                                          |
-|:IFTTT recipes:    \ |LINK25|\                                                            |
-|                                                                                          |
-|:tabula by OnData:    \ |LINK26|\                                                         |
-|                                                                                          |
-|:OSM geojson:    \ |LINK27|\                                                              |
-|                                                                                          |
-|:icon for maps:    \ |LINK28|\                                                            |
-|                                                                                          |
-|:image video:    \ |LINK29|\                                                              |
-|                                                                                          |
-|:translating text:    \ |LINK30|\                                                         |
-|                                                                                          |
-|:freccia top: \ |LINK31|\                                                                 |
-|                                                                                          |
-|:markdown: \ |LINK32|\                                                                    |
-|                                                                                          |
-|:comma chameleon: \ |LINK33|\                                                             |
-+------------------------------------------------------------------------------------------+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|:online photo editor:    \ |LINK4|\                                                                                                                                                                                                                           |
+|                                                                                                                                                                                                                                                              |
+|:markdown:    \ |LINK5|\                                                                                                                                                                                                                                      |
+|                                                                                                                                                                                                                                                              |
+|:hackmd:    \ |LINK6|\                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                              |
+|:google dataset search:     \ |LINK7|\                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                              |
+|:add this social:      \ |LINK8|\                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                              |
+|:html editor online:     \ |LINK9|\                                                                                                                                                                                                                           |
+|                                                                                                                                                                                                                                                              |
+|:html editor online:     \ |LINK10|\                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                              |
+|:html editor online:     \ |LINK11|\                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                              |
+|:editor online:    \ |LINK12|\                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                              |
+|:colori codici html:     \ |LINK13|\                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                              |
+|:URL Decoder/Encoder:    \ |LINK14|\                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                              |
+|:feed burner:    \ |LINK15|\                                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                              |
+|:pdf to excel:     \ |LINK16|\                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                              |
+|:time mapper:    \ |LINK17|\                                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                              |
+|:geocoder OnData:    \ |LINK18|\                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                              |
+|:geocoder GBVitrano:    \ |LINK19|\                                                                                                                                                                                                                           |
+|                                                                                                                                                                                                                                                              |
+|:geocoder appostabiz:    \ |LINK20|\                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                              |
+|:geocoder rules Google:    \ |LINK21|\                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                              |
+|:maps with words:    \ |LINK22|\                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                              |
+|:qr code generator:    \ |LINK23|\                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                              |
+|:post image to get url:    \ |LINK24|\  (non molto attendibile, non resta nel tempo l'url come dimostrato in alciuni esempi avvenuti in passato di immagini embeddate dentro mappe UMAP che dopo mesi non erano più visibili, quindi è preferibile non usarlo)|
+|                                                                                                                                                                                                                                                              |
+|:IFTTT recipes:    \ |LINK25|\                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                              |
+|:tabula by OnData:    \ |LINK26|\                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                              |
+|:OSM geojson:    \ |LINK27|\                                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                              |
+|:icon for maps:    \ |LINK28|\                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                              |
+|:image video:    \ |LINK29|\                                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                              |
+|:translating text:    \ |LINK30|\                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                              |
+|:freccia top: \ |LINK31|\                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                                                                                              |
+|:markdown: \ |LINK32|\                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                              |
+|:comma chameleon: \ |LINK33|\                                                                                                                                                                                                                                 |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 |
 
