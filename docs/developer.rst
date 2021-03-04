@@ -110,6 +110,7 @@ Immagini wordart da incorporare
 
 |REPLACE2|
 
+immagine singola (non wordart)
 
 |REPLACE3|
 
