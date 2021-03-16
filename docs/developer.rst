@@ -1,4 +1,6 @@
 
+|REPLACE1|
+
 .. _h5e72237b1d2f21437415232c67367c3d:
 
 developer
@@ -105,14 +107,14 @@ Immagini wordart da incorporare
 ===============================
 
 
-|REPLACE1|
-
-
 |REPLACE2|
+
+
+|REPLACE3|
 
 immagine singola (non wordart)
 
-|REPLACE3|
+|REPLACE4|
 
 |
 
@@ -394,7 +396,7 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 =========================================================
 
 
-|REPLACE4|
+|REPLACE5|
 
 ⇒ \ |LINK58|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
 
@@ -407,7 +409,7 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK59|\ .
 
 
-|REPLACE5|
+|REPLACE6|
 
 * \ |LINK60|\  con Openstreetmap tramite OnData
 
@@ -762,17 +764,23 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 .. |REPLACE1| raw:: html
 
-    <div style="width: 550px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
+    <iframe title="Incidenza cumulativa settimanale dei contagi " aria-label="chart" id="datawrapper-chart-GqOS4" src="https://datawrapper.dwcdn.net/GqOS4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="854"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}(); </script>
+    <br>
+    Incidenza cumulativa settimanale dei contagi Covid19 (elaborazione by 
+    <a href="https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/" target="_blank">onData</a>)
 .. |REPLACE2| raw:: html
 
-    <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
+    <div style="width: 550px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
 .. |REPLACE3| raw:: html
 
-    <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700" /> Art by Lønfeldt
+    <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
 .. |REPLACE4| raw:: html
 
-    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
+    <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700" /> Art by Lønfeldt
 .. |REPLACE5| raw:: html
+
+    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
+.. |REPLACE6| raw:: html
 
     <p><span style="background-color: #105618; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Altri Geocoder</span></p>
 
