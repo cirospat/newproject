@@ -769,8 +769,8 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
     <iframe title="Incidenza cumulativa settimanale dei contagi " aria-label="chart" id="datawrapper-chart-GqOS4" src="https://datawrapper.dwcdn.net/GqOS4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="854"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}(); </script>
     <br>
-    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Incidenza cumulativa settimanale dei contagi Covid19</span> </p> (elaborazione by 
-    <a href="https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/" target="_blank">onData</a>)
+    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Incidenza cumulativa settimanale dei contagi Covid19</span> (elaborazione by 
+    <a href="https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/" target="_blank">onData</a>)</p>
 .. |REPLACE2| raw:: html
 
     <div style="width: 550px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
