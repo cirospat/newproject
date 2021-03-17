@@ -9,11 +9,6 @@ developer
 |\ |LINK1|\  è una pagina "scomposta" per collezionare utilità a fini di sviluppo e creatività digitale. La pagina doc sorgente è a questo \ |LINK2|\ .|
 +------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-.. _h596f5c3c6a21404f233d626064b35e:
-
-COVID19 - INCIDENZA CUMULATIVA SETTIMANALE (250 SU 100.000 PER ZONA ROSSA DELLA REGIONE)
-========================================================================================
-
 
 |REPLACE1|
 
