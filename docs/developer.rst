@@ -9,6 +9,11 @@ developer
 |\ |LINK1|\  è una pagina "scomposta" per collezionare utilità a fini di sviluppo e creatività digitale. La pagina doc sorgente è a questo \ |LINK2|\ .|
 +------------------------------------------------------------------------------------------------------------------------------------------------------+
 
+.. _h596f5c3c6a21404f233d626064b35e:
+
+COVID19 - INCIDENZA CUMULATIVA SETTIMANALE (250 SU 100.000 PER ZONA ROSSA DELLA REGIONE)
+========================================================================================
+
 
 |REPLACE1|
 
@@ -17,21 +22,21 @@ developer
 
 .. toctree::  
     :maxdepth: 3
-    :caption: dev
+    :caption: developer-index
 
     developer
 
-.. _h414eb21d2874612182955a71235:
+.. _h72d42583f311f5e651d63297c2a3241:
 
-Trovare pagina esatta in un PDF online
-======================================
+TROVARE LA PAGINA ESATTA IN UN "PDF" ONLINE
+===========================================
 
 :guilabel:`trovare la pagina esatta in un pdf online`: nel web è \`\`<A HREF="\ |LINK3|\ ">\`\`
 
-.. _h497834274c21267e7c276a274f3e2763:
+.. _h2866226144767b2f692f47265f136112:
 
-Tool utili
-==========
+TOOL UTILI A VARI SCOPI
+=======================
 
 
 +--------------------------------------+------------------------------------------------------------------------------------------+
@@ -104,10 +109,10 @@ Tool utili
 
 |
 
-.. _h28641a1677d741626281be4c5c642b:
+.. _h751b2931741323284c5c4a3838177578:
 
-Immagini wordart da incorporare
-===============================
+IMMAGINI DI "WORDART" DA INCORPORARE IN PAGINE HTML
+===================================================
 
 
 |REPLACE2|
@@ -286,10 +291,10 @@ Query di Andrea Borruso
 
 --------
 
-.. _h386c10261440441c2374124f3d34445:
+.. _h2e6bf777f3b7c456721c4a642c6731:
 
-IMMAGINI DENTRO GOOGLE DRIVE SPREADSHEET
-========================================
+IMMAGINI DA INSERIRE DENTRO GOOGLE DRIVE SPREADSHEET
+====================================================
 
 Combine the IMAGE and HYPERLINK functions to create clickable images
 
@@ -345,10 +350,10 @@ POST IMAGE DA LINKARE SU UMAP: \ |LINK52|\
 
 Icone mappe \ |LINK53|\  ccbysa
 
-.. _h1c7b5b1f64462a201813244135465568:
+.. _h137a471d1b8051c2113064614b3128:
 
-GOOGLE DRIVE SPREADSHEET TO UMAP
---------------------------------
+TUTORIAL PER COLLEGARE GOOGLE DRIVE SPREADSHEET A UMAP
+------------------------------------------------------
 
 Video breve per alimentare in modo facile uMap da un foglio elettronico su Google Drive, by Andrea Borruso \ |LINK54|\ 
 
@@ -362,10 +367,10 @@ DB x UMAP con output in csv =
 
 | 
 
-.. _h6282a527f449417a5a49261c2a5c6a:
+.. _h336a830182b70155822797f545b5416:
 
-\ |LINK56|\  e \ |LINK57|\  UMAP AVVISI POLIZIA MUNICIPALE PA
--------------------------------------------------------------
+\ |LINK56|\  e \ |LINK57|\  UMAP AVVISI POLIZIA MUNICIPALE PA - VISUALIZZARE MAPPE CON INFO SU DATA ODIERNA
+-----------------------------------------------------------------------------------------------------------
 
 \ |STYLE6|\ .
 
@@ -442,10 +447,10 @@ dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK59|\ .
 
 --------
 
-.. _h59432417563a5658746a24186d4d63c:
+.. _h15576629522575377fc241563703761:
 
-SENSORE POLVERI SOTTILI COLLEGATO AD UNA RETE ONLINE E DATI SU MAPPA
-====================================================================
+SENSORE PER RILEVAMENTO POLVERI SOTTILI COLLEGATO AD UNA RETE ONLINE E DATI SU MAPPA
+====================================================================================
 
 * \ |LINK73|\  (tutorial) - 
 
@@ -473,10 +478,10 @@ REPOSITORY DATA CIRO SPATARO
 
 --------
 
-.. _h2778167b752037aa551c4b182d05:
+.. _h59132737784e35526c5cd79694f751:
 
-MACHINE LEARNING E ARTIFICIAL INTELLIGENCE
-==========================================
+MACHINE LEARNING E ARTIFICIAL INTELLIGENCE - FORMAZIONE
+=======================================================
 
 \ |LINK78|\  un articolo per capire un po
 
@@ -533,37 +538,37 @@ newscount= il numero delle news da visualizzare come output della query
 
 --------
 
-.. _h231f6c11635e136146664a627213879:
+.. _h38525de1e2a82c7c23754656512165:
 
-Badge img shields
+BADGE IMG SHIELDS
 =================
 
 \ |LINK91|\ 
 
 --------
 
-.. _h3d4153661183e671395d2c4b706f3b:
+.. _h2e787a1e7963211e762f1b764e793546:
 
-web service per creare loghi e icone 
-=====================================
+WEB SERVICE PER CREARE LOGHI E ICONE  
+======================================
 
 \ |LINK92|\  
 
 --------
 
-.. _h337f7b59693822377f7601745347c:
+.. _h2a642c1812441669203543407f675c17:
 
-Cards
+CARDS
 =====
 
 \ |LINK93|\ 
 
 --------
 
-.. _h174c79c39577e65293f6b5738726d5c:
+.. _hb29132a38756e144453345d273a3115:
 
-Unire PDF
-=========
+UNIRE PIÙ PDF
+=============
 
 \ |LINK94|\ 
 
@@ -583,28 +588,28 @@ Unire PDF
 
 --------
 
-.. _h225bd2729b5f536b2e442259197a52:
+.. _h6c3817c6479359652777131677048:
 
-Carousel
+CAROUSEL
 ========
 
 \ |LINK101|\ 
 
 |
 
-.. _h43285e3371156d6d376234246c773a7:
+.. _h4f6c3b694a716e387e1c5f7c6f86f44:
 
-Freccie
+FRECCIE
 =======
 
 ←  ↑  →  ↓  ↖   ↗   ↘   ↙ 
 
 |
 
-.. _h3d5e7e425c116114e331b3e663c3b47:
+.. _h5e29163ea672d78656516c34414c75:
 
-Directives in Read the Docs
-===========================
+DIRECTIVES PER "READ THE DOCS"
+==============================
 
 :guilabel:`Queste ed altre indicazioni per Read the Docs si tovano anche a` \ |LINK102|\  
 
@@ -770,7 +775,7 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
     <iframe title="Incidenza cumulativa settimanale dei contagi " aria-label="chart" id="datawrapper-chart-GqOS4" src="https://datawrapper.dwcdn.net/GqOS4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="854"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}(); </script>
     <br>
     <span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Incidenza cumulativa settimanale dei contagi Covid19</span> (elaborazione by 
-    <a href="https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/" target="_blank">onData</a>)
+    <a href="https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/" target="_blank"><b>onData</b></a>)
 .. |REPLACE2| raw:: html
 
     <div style="width: 550px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
