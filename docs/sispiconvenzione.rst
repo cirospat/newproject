@@ -185,13 +185,13 @@ Art. 4	Prestazioni della Società per lo sviluppo del SITEC
 
     * sviluppo di applicazioni informatiche, telematiche e di architetture di telecomunicazione, integrazione di applicazioni prodotte da terzi e adeguamento dell’architettura tecnica dei sistemi per:
 
-    * l’automazione di nuove aree di intervento;
+    * - l’automazione di nuove aree di intervento;
 
-    * la sostituzione di procedure obsolete;
+    * - la sostituzione di procedure obsolete;
 
-    * le modifiche e le integrazioni delle procedure, dell’architettura tecnica del Sistema Informatico e delle infrastrutture di telecomunicazione dell’Amministrazione Comunale anche con riferimento ai servizi innovativi, ivi compresi quelli erogati per il tramite del sistema delle Società partecipate, da erogare nei confronti della cittadinanza di tutta l’Area Metropolitana; 
+    * - le modifiche e le integrazioni delle procedure, dell’architettura tecnica del Sistema Informatico e delle infrastrutture di telecomunicazione dell’Amministrazione Comunale anche con riferimento ai servizi innovativi, ivi compresi quelli erogati per il tramite del sistema delle Società partecipate, da erogare nei confronti della cittadinanza di tutta l’Area Metropolitana; 
 
-    * dotare l’Amministrazione di “strumenti e soluzioni tecniche hardware e software per l’accesso ad informazioni e servizi automatizzati da parte delle persone disabili” (L. 4 del 9/1/2004 – c.d. Legge Stanca);
+    * - dotare l’Amministrazione di “strumenti e soluzioni tecniche hardware e software per l’accesso ad informazioni e servizi automatizzati da parte delle persone disabili” (L. 4 del 9/1/2004 – c.d. Legge Stanca);
 
     * installazione ed avviamento operativo delle nuove procedure automatizzate;
 
@@ -608,6 +608,8 @@ Le parti convengono di sottoscrivere specificatamente gli articoli 1, 2, 3, 4, 5
 .. admonition:: Ordine del giorno del Consiglio comunale n.3 - approvato
 
     Il Consiglio Comunale impegna la Società partecipata SISPI ad intraprendere sin da subito le attività di analisi e verifica delle procedure relative del Servizio notifiche delle sanzioni del C.d.S al fine di individuare le modalità  per mezzo delle quali poter svolgere le suddette attività prioritariamente con le risorse professionali rinvenibili all'interno dell'Amministrazione previa la necessaria formazione.
+
+--------
 
 
 .. bottom of content
