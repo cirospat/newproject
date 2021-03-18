@@ -177,21 +177,21 @@ ed inoltre assicura:
 Art. 4	Prestazioni della Società per lo sviluppo del SITEC
 **********************************************************
 
-#. Il presente articolo regola tutti gli affidamenti per attività di sviluppo che l’Amministrazione comunale, nel periodo di vigenza delle presente Convenzione, affiderà in house alla Società, ivi compresi gli ulteriori servizi di cui al c. 2 del precedente art. 2.
+1. Il presente articolo regola tutti gli affidamenti per attività di sviluppo che l’Amministrazione comunale, nel periodo di vigenza delle presente Convenzione, affiderà in house alla Società, ivi compresi gli ulteriori servizi di cui al c. 2 del precedente art. 2.
 
-#. Le prestazioni relative allo sviluppo del SITEC saranno definite nel Piano Industriale triennale predisposto dalla Società e sottoposto, secondo le previsioni statutarie e del “Regolamento sulle attività di vigilanza e controllo su Società ed enti partecipati”, all’approvazione del Consiglio Comunale di Palermo, secondo le modalità di cui al successivo art. 7. In particolare, tali prestazioni potranno comprendere le seguenti attività:
+2. Le prestazioni relative allo sviluppo del SITEC saranno definite nel Piano Industriale triennale predisposto dalla Società e sottoposto, secondo le previsioni statutarie e del “Regolamento sulle attività di vigilanza e controllo su Società ed enti partecipati”, all’approvazione del Consiglio Comunale di Palermo, secondo le modalità di cui al successivo art. 7. In particolare, tali prestazioni potranno comprendere le seguenti attività:
 
 * consulenza e assistenza tecnica all’Amministrazione comunale nella pianificazione dell’evoluzione del SITEC e nell’esecuzione di studi e di elaborazioni di dati su materie e problematiche concernenti lo stesso e, più in generale, le infrastrutture informatiche e di telecomunicazione della città, anche in riferimento ai servizi da rendere attraverso il sistema delle Società partecipate;
 
 * sviluppo di applicazioni informatiche, telematiche e di architetture di telecomunicazione, integrazione di applicazioni prodotte da terzi e adeguamento dell’architettura tecnica dei sistemi per:
 
-    * - l’automazione di nuove aree di intervento;
+    * l’automazione di nuove aree di intervento;
 
-    * - la sostituzione di procedure obsolete;
+    * la sostituzione di procedure obsolete;
 
-    * - le modifiche e le integrazioni delle procedure, dell’architettura tecnica del Sistema Informatico e delle infrastrutture di telecomunicazione dell’Amministrazione Comunale anche con riferimento ai servizi innovativi, ivi compresi quelli erogati per il tramite del sistema delle Società partecipate, da erogare nei confronti della cittadinanza di tutta l’Area Metropolitana; 
+    * le modifiche e le integrazioni delle procedure, dell’architettura tecnica del Sistema Informatico e delle infrastrutture di telecomunicazione dell’Amministrazione Comunale anche con riferimento ai servizi innovativi, ivi compresi quelli erogati per il tramite del sistema delle Società partecipate, da erogare nei confronti della cittadinanza di tutta l’Area Metropolitana; 
 
-    * - dotare l’Amministrazione di “strumenti e soluzioni tecniche hardware e software per l’accesso ad informazioni e servizi automatizzati da parte delle persone disabili” (L. 4 del 9/1/2004 – c.d. Legge Stanca);
+    * dotare l’Amministrazione di “strumenti e soluzioni tecniche hardware e software per l’accesso ad informazioni e servizi automatizzati da parte delle persone disabili” (L. 4 del 9/1/2004 – c.d. Legge Stanca);
 
 * installazione ed avviamento operativo delle nuove procedure automatizzate;
 
@@ -199,9 +199,9 @@ Art. 4	Prestazioni della Società per lo sviluppo del SITEC
 
 * immissione di nuove tecnologie a supporto della strategie evolutive e relative attività di prototipazione.
 
-#. Per lo sviluppo del SITEC la Società deve mettere a disposizione, obbligandosi ad adeguarli e aggiornarli, i sistemi elaborativi necessari, in ambiente mainframe, dipartimentale e personale, per lo sviluppo e la manutenzione del software. Tali sistemi di sviluppo s’intendono comprensivi delle apparecchiature hardware, del software specialistico, nonché dell’idoneo software di ambiente, del personale tecnico ed operativo addetto alla conduzione dei sistemi di sviluppo stesso e dei necessari materiali di consumo secondo le modalità e i quantitativi indicati nei progetti esecutivi di sviluppo di cui all’art.1.
+3. Per lo sviluppo del SITEC la Società deve mettere a disposizione, obbligandosi ad adeguarli e aggiornarli, i sistemi elaborativi necessari, in ambiente mainframe, dipartimentale e personale, per lo sviluppo e la manutenzione del software. Tali sistemi di sviluppo s’intendono comprensivi delle apparecchiature hardware, del software specialistico, nonché dell’idoneo software di ambiente, del personale tecnico ed operativo addetto alla conduzione dei sistemi di sviluppo stesso e dei necessari materiali di consumo secondo le modalità e i quantitativi indicati nei progetti esecutivi di sviluppo di cui all’art.1.
 
-#. Nell’erogazione dei servizi di sviluppo del SITEC la Società predisporrà idonei Posti di Lavoro Informatizzati, di seguito PLI, come definiti all’art. 1 “Terminologia” e nella misura indicata dal corrispondente progetto esecutivo di sviluppo.
+4. Nell’erogazione dei servizi di sviluppo del SITEC la Società predisporrà idonei Posti di Lavoro Informatizzati, di seguito PLI, come definiti all’art. 1 “Terminologia” e nella misura indicata dal corrispondente progetto esecutivo di sviluppo.
 
 
 .. admonition:: emendamento del Consiglio comunale n.4
