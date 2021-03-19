@@ -26,7 +26,9 @@ developer
 TROVARE LA PAGINA ESATTA IN UN "PDF" ONLINE
 ===========================================
 
-:guilabel:`trovare la pagina esatta in un pdf online`: nel web è \`\`<A HREF="\ |LINK3|\ ">\`\`
+:guilabel:`trovare la pagina esatta in un pdf online`: nel web è 
+
+\`\`<A HREF="\ |LINK3|\ ">\`\`
 
 .. _h2866226144767b2f692f47265f136112:
 
