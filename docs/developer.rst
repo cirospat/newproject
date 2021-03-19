@@ -26,7 +26,7 @@ developer
 TROVARE LA PAGINA ESATTA IN UN "PDF" ONLINE
 ===========================================
 
-:guilabel:`trovare la pagina esatta in un pdf online`: nel web è :class:\`\ |LINK3|\ \` 
+:guilabel:`trovare la pagina esatta in un pdf online`: nel web è \ |LINK3|\  cioè dopo :class:`.pdf` digitare :class:`.pdf`#page=4` dove dopo :class:`=` si scrive il numero della pagina alla quale si vuole che venga visualizzata direttamente all'apertura del file in formato ``pdf\`\`
 
 .. _h2866226144767b2f692f47265f136112:
 
@@ -797,7 +797,7 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 .. |LINK3| raw:: html
 
-    <a href="http://www.example.com/myfile.pdf#page=4" target="_blank">http://www.example.com/myfile.pdf#page=4</a>
+    <a href="http://www.example.com/myfile.pdf#page=4" target="_blank">www.example.com/myfile.pdf#page=4</a>
 
 .. |LINK4| raw:: html
 
