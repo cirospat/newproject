@@ -474,17 +474,7 @@ Art 18 Livelli di servizio, monitoraggio e penali
 
 #. Nell’erogazione dei servizi oggetto della presente convenzione la Società dovrà garantire adeguati livelli di servizio (SLA). I livelli di servizio vengono distinti nelle seguenti classi:
 
-+------+------------------------------------------------------------------------------------------------------------+
-|classe|descrizione                                                                                                 |
-+------+------------------------------------------------------------------------------------------------------------+
-|A     |Classe critica alla quale sono associate percentuali di penale crescenti in base alla ricorrenza.           |
-+------+------------------------------------------------------------------------------------------------------------+
-|B     |Classe mediamente critica alla quale sono associate percentuali di penale crescenti in base alla ricorrenza.|
-+------+------------------------------------------------------------------------------------------------------------+
-|C     |Classe non critica alla quale sono associate percentuali di penale crescenti in base alla ricorrenza.       |
-+------+------------------------------------------------------------------------------------------------------------+
-|D     |Classe non critica alla quale non sono associate penali.                                                    |
-+------+------------------------------------------------------------------------------------------------------------+
+|REPLACE2|
 
 2. Ciascun livello di servizio dovrà essere misurabile  in funzione dei seguenti parametri: 
 
@@ -579,20 +569,12 @@ Art. 24 Foro competente
 #. Per qualsiasi controversia il Foro competente è quello di Palermo
 
 
-+-----------------+-----------------+
-|L’Amministrazione|La SISPI         |
-|                 |                 |
-|_______________  |_________________|
-+-----------------+-----------------+
+|REPLACE3|
 
 Le parti convengono di sottoscrivere specificatamente gli articoli 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 della presente Convenzione ai sensi e per gli effetti degli art.li 1341 e 1342 del Codice Civile.
 
 
-+-----------------+------------------+
-|L’Amministrazione|La SISPI          |
-|                 |                  |
-|_______________  |__________________|
-+-----------------+------------------+
+|REPLACE4|
 
 
 .. admonition:: Ordine del giorno del Consiglio comunale n.1 - approvato
@@ -654,46 +636,12 @@ Art. 3 - Modifiche al capitolo “\ |LINK7|\ ” dell’Allegato tecnico alla Co
 La tabella “Indicatori economici”, allegata alla Convenzione, è sostituita come segue:
 
 
-+--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
-|                                                        |CORRISPETTIVI                |DECURTAZIONI (SISPI) a seguito della Deliberazione C.C. n. 385/2020|NUOVI CORRISPETTIVI|
-|SERVIZIO CONDUZIONE TECNICA                             |Deliberazione C.C. n. 42/2018|                                                                   |                   |
-+========================================================+=============================+===================================================================+===================+
-|CONDUZIONE OPERATIVA	                                   |		                           |                                                                   |                   |
-+--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
-|Conduzione operativa Sistema di Elaborazione Centrale	  |1.125.000                    |250.672                                                            |874.327            |
-+--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
-|Conduzione Operativa dei server Centralizzati	          |2.074.000                    |123.000                                                            |1.951.000          |
-|                                                        |                             |                                                                   |                   |
-+--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
-|Conduzione Operativa LAN e Desktop (Sistemi Distribuiti)|2.048.000                    |195.000                                                            |1.853.000          |
-+--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
-|Network e TLC Management                                |326.000                      |0                                                                  |326.000            |
-+--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
-|\ |STYLE55|\                                            |                             |                                                                   |                   |
-+--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
-|Manutenzione MEV SW applicativo                         |580.000	                     |40.000                                                             |540.000            |
-+--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
-|Servizi web                                             |249.000	                     |21.000                                                             |228.000            |
-+--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
-|Supporto operazioni utente                              |2.638.000                    |190.000                                                            |2.448.000          |
-+--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
-|\ |STYLE56|\                                            |                             |                                                                   |                   |
-+--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
-|Call Center e Customer Support                          |215.000                      |0                                                                  |215.000            |
-+--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
-|TOTALE senza IVA                                        |9.255.000                    |819.672                                                            |8.435.327          |
-+--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
-|TOTALE con IVA                                          |11.291.100,00                |1.000.000,00                                                       |10.291.100,00      |
-+--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
+|REPLACE5|
 
 Restano invariate tutte le altre disposizioni della Convenzione approvata con Deliberazione di C.C. n. 42/2018, che non formano oggetto di modifica con il presente atto.
 
 
-+-----------------------------+------------------------+
-|Per il Comune di Palermo     |Per la Società SISPI SpA|
-+-----------------------------+------------------------+
-|                             |                        |
-+-----------------------------+------------------------+
+|REPLACE6|
 
  
 
@@ -813,15 +761,65 @@ Restano invariate tutte le altre disposizioni della Convenzione approvata con De
 
 .. |STYLE54| replace:: **atto integrativo del contratto di servizio**
 
-.. |STYLE55| replace:: **CONDUZIONE FUNZIONALE**
-
-.. |STYLE56| replace:: **CALL CENTER E CUSTOMER SUPPORT**
-
 
 .. |REPLACE1| raw:: html
 
     <img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/SISPI/main/delibere%20comunali%20SISPI/delibera%20Consiglio%20Comunale%20Convenzione%20SISPI%20n.%2042_2018/indicatori_economici_convenzione_sispi_2018.jpg" />  <br>
     <a href="https://drive.google.com/file/d/1sCRd9whrVGwX4Na4r7oBnGVp6IZSKtWo/view?usp=sharing" target="_blank">Tabella "indicatori economici" allegata alla Convenzione SISPI (Deliberazione C.C. 42/2018)</a>
+.. |REPLACE2| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:92%">
+    <tbody>
+    <tr><td style="width:14%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>classe</p></td><td style="width:87%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>descrizione</p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>A</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Classe critica alla quale sono associate percentuali di penale crescenti in base alla ricorrenza. </p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>B</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Classe mediamente critica alla quale sono associate percentuali di penale crescenti in base alla ricorrenza.</p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>C</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Classe non critica alla quale sono associate percentuali di penale crescenti in base alla ricorrenza.</p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>D</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Classe non critica alla quale non sono associate penali.</p></td></tr>
+    </tbody></table>
+
+.. |REPLACE3| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:44%">
+    <tbody>
+    <tr><td style="width:50%;vertical-align:Top;border:solid 0.5px #cccccc"><p>L’Amministrazione</p><p>_______________</p></td><td style="width:50%;vertical-align:Top;border:solid 0.5px #cccccc"><p>La SISPI</p><p>_________________</p></td></tr>
+    </tbody></table>
+
+.. |REPLACE4| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:44%">
+    <tbody>
+    <tr><td style="width:48%;vertical-align:Top;border:solid 0.5px #b7b7b7"><p>L’Amministrazione</p><p>_______________</p></td><td style="width:52%;vertical-align:Top;border:solid 0.5px #b7b7b7"><p>La SISPI</p><p>__________________</p></td></tr>
+    </tbody></table>
+
+.. |REPLACE5| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <thead>
+    <tr><th style="width:39%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p><p>SERVIZIO CONDUZIONE TECNICA</p></th><th style="width:19%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>CORRISPETTIVI</p><p>Deliberazione C.C. n. 42/2018</p></th><th style="width:22%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>DECURTAZIONI (SISPI) a seguito della Deliberazione C.C. n. 385/2020</p></th><th style="width:19%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>NUOVI CORRISPETTIVI</p></th></tr>
+    </thead><tbody>
+    <tr><th style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>CONDUZIONE OPERATIVA	</p></th><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>		</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>Conduzione operativa Sistema di Elaborazione Centrale	</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>1.125.000</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>250.672</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>874.327</p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>Conduzione Operativa dei server Centralizzati	</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>2.074.000</p><p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>123.000</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>1.951.000</p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>Conduzione Operativa LAN e Desktop (Sistemi Distribuiti)</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>2.048.000</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>195.000</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>1.853.000</p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>Network e TLC Management</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>326.000</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>326.000</p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p><span style="font-weight:bold">CONDUZIONE FUNZIONALE</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="font-size:11px;font-family:Arial"></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="font-size:11px;font-family:Arial"></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="font-size:11px;font-family:Arial"></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>Manutenzione MEV SW applicativo</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>580.000	</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>40.000</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>540.000</p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>Servizi web</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>249.000	</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>21.000</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>228.000</p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>Supporto operazioni utente</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>2.638.000</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>190.000</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>2.448.000</p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p><span style="font-weight:bold">CALL CENTER E CUSTOMER SUPPORT</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="font-size:11px;font-family:Arial"></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="font-size:11px;font-family:Arial"></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="font-size:11px;font-family:Arial"></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>Call Center e Customer Support</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>215.000</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>0</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>215.000</p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>TOTALE senza IVA</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>9.255.000</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>819.672</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>8.435.327</p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>TOTALE con IVA</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>11.291.100,00</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>1.000.000,00</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>10.291.100,00</p></td></tr>
+    </tbody></table>
+
+.. |REPLACE6| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:99%">
+    <tbody>
+    <tr><td style="width:50%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Per il Comune di Palermo     </p></td><td style="width:50%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Per la Società SISPI SpA</p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p></td></tr>
+    </tbody></table>
+
 
 .. |LINK1| raw:: html
 
