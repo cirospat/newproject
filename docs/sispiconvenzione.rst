@@ -611,6 +611,93 @@ Le parti convengono di sottoscrivere specificatamente gli articoli 1, 2, 3, 4, 5
 
 --------
 
+.. _h34264222751237257717b6322e649:
+
+Delibera di G.C. n. 71 del  23.03.2021: approvazione Atto Integrativo alla Convenzione con la Società in house SISPI SpA per la decurtazione di euro 1.000.000 dall'anno 2021
+*****************************************************************************************************************************************************************************
+
+
+..  Important:: 
+
+    La \ |LINK5|\  ha stabilito una \ |STYLE52|\  incluso Iva, dal corrispettivo previsto dalla Convenzione approvata (con deliberazione di C.C. n. 42/2018) per la fornitura dei servizi di conduzione tecnica dei sistemi informativi SITEC (capitolo 3970/10 del bilancio - PDC: 1, 3, 2, 19, 0 - CONDUZIONE TECNICA DEL SITEC INFORMATIZZAZIONE E TELEMATICA SERVIZI COMUNALI). La riduzione si applica alla Società SISPI SpA a decorrere dall'esercizio finanziario 2021.
+    
+    Con \ |STYLE53|\  è stato approvato il Piano triennale 2020-2022 obiettivi strategici assegnati alla Governance Società SISPI S.p.a. disponendosi altresì  di: "Conferire mandato al Dirigente competente per l'attività di controllo economico gestionale sul contratto di servizio della partecipata “SISPI S.p.A.” di avviare le idonee attività istruttorie finalizzate ad attuare la riduzione dei corrispettivi, nel corso dell'esercizio 2021, in conformità alla precitata direttiva del Sindaco, e ciò previa ricognizione da effettuarsi sulle voci di corrispettivo relative ad ogni singolo ambito di attività o di intervento disciplinato in seno al vigente contratto di servizio. La predetta riduzione dovrà essere operata attraverso la predisposizione di un \ |STYLE54|\  da sottoporre alla giunta comunale entro il termine del 28.02.2021."
+    
+    Con \ |LINK6|\  è stato approvato il seguente Atto Integrativo alla Convenzione con la Società SISPI SpA.
+
+.. _h6fb206d1045455f2c3e50416c79a14:
+
+ATTO INTEGRATIVO ALLA CONVENZIONE SISPI APPROVATA CON DELIBERAZIONE DI C.C. N. 42/2018 
+=======================================================================================
+
+.. _h60f3a575a6468506c53441a6b144d3e:
+
+Art.1 - Premessa
+----------------
+
+La premessa costituisce parte integrante e sostanziale della presente appendice alla Convenzione, di seguito denominata per brevità “atto integrativo 2021”.
+
+.. _h1e5f695938352f1a7013df60345b3a:
+
+Art.2 - Corrispettivi, fatturazioni e modalità di pagamento
+-----------------------------------------------------------
+
+L’articolo 14, comma 1, lettera a) è modificato come segue: 
+
+“[…] per le prestazioni di conduzione tecnica, il corrispettivo complessivo contrattuale pari ad euro 10.291.100,00 Iva compresa con decorrenza dall'esercizio finanziario 2021  […]”.
+
+.. _h6e67412c35291c3f42957723a3b1877:
+
+Art. 3 - Modifiche al capitolo “\ |LINK7|\ ” dell’Allegato tecnico alla Convenzione 
+------------------------------------------------------------------------------------
+
+La tabella “Indicatori economici”, allegata alla Convenzione, è sostituita come segue:
+
++--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
+|                                                        |CORRISPETTIVI                |DECURTAZIONI (SISPI) a seguito della Deliberazione C.C. n. 385/2020|NUOVI CORRISPETTIVI|
+|SERVIZIO CONDUZIONE TECNICA                             |Deliberazione C.C. n. 42/2018|                                                                   |                   |
++========================================================+=============================+===================================================================+===================+
+|CONDUZIONE OPERATIVA	                                   |		                           |                                                                   |                   |
++--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
+|Conduzione operativa Sistema di Elaborazione Centrale	  |1.125.000                    |250.672                                                            |874.327            |
++--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
+|Conduzione Operativa dei server Centralizzati	          |2.074.000                    |123.000                                                            |1.951.000          |
+|                                                        |                             |                                                                   |                   |
++--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
+|Conduzione Operativa LAN e Desktop (Sistemi Distribuiti)|2.048.000                    |195.000                                                            |1.853.000          |
++--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
+|Network e TLC Management                                |326.000                      |0                                                                  |326.000            |
++--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
+|\ |STYLE55|\                                            |                             |                                                                   |                   |
++--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
+|Manutenzione MEV SW applicativo                         |580.000	                     |40.000                                                             |540.000            |
++--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
+|Servizi web                                             |249.000	                     |21.000                                                             |228.000            |
++--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
+|Supporto operazioni utente                              |2.638.000                    |190.000                                                            |2.448.000          |
++--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
+|\ |STYLE56|\                                            |                             |                                                                   |                   |
++--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
+|Call Center e Customer Support                          |215.000                      |0                                                                  |215.000            |
++--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
+|\ |STYLE57|\                                            |\ |STYLE58|\                 |\ |STYLE59|\                                                       |\ |STYLE60|\       |
++--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
+|\ |STYLE61|\                                            |\ |STYLE62|\                 |\ |STYLE63|\                                                       |\ |STYLE64|\       |
++--------------------------------------------------------+-----------------------------+-------------------------------------------------------------------+-------------------+
+
+Restano invariate tutte le altre disposizioni della Convenzione approvata con Deliberazione di C.C. n. 42/2018, che non formano oggetto di modifica con il presente atto.
+
+
++-----------------------------+------------------------+
+|Per il Comune di Palermo     |Per la Società SISPI SpA|
++-----------------------------+------------------------+
+|                             |                        |
++-----------------------------+------------------------+
+
+ 
+
+                                                                     
+
 
 .. bottom of content
 
@@ -719,6 +806,32 @@ Le parti convengono di sottoscrivere specificatamente gli articoli 1, 2, 3, 4, 5
 
 .. |STYLE51| replace:: **il monitoraggio dei livelli di servizio e degli indicatori di qualità delle prestazioni rese deve essere svolto attraverso un'applicazione web resa disponibile alla figura dirigenziale di riferimento preposta al controllo, che deve collegare i servizi ai relativi indicatori selezionati per monitorare gli obblighi assunti dalla società**
 
+.. |STYLE52| replace:: **riduzione di euro 1.000.000,00**
+
+.. |STYLE53| replace:: **Deliberazione di Giunta Comunale n. 15 del 29.01.2021**
+
+.. |STYLE54| replace:: **atto integrativo del contratto di servizio**
+
+.. |STYLE55| replace:: **CONDUZIONE FUNZIONALE**
+
+.. |STYLE56| replace:: **CALL CENTER E CUSTOMER SUPPORT**
+
+.. |STYLE57| replace:: **TOTALE senza IVA**
+
+.. |STYLE58| replace:: **9.255.000**
+
+.. |STYLE59| replace:: **819.672**
+
+.. |STYLE60| replace:: **8.435.327**
+
+.. |STYLE61| replace:: **TOTALE con IVA**
+
+.. |STYLE62| replace:: **11.291.100,00**
+
+.. |STYLE63| replace:: **1.000.000,00**
+
+.. |STYLE64| replace:: **10.291.100,00**
+
 
 .. |REPLACE1| raw:: html
 
@@ -740,4 +853,16 @@ Le parti convengono di sottoscrivere specificatamente gli articoli 1, 2, 3, 4, 5
 .. |LINK4| raw:: html
 
     <a href="https://drive.google.com/file/d/1PdLktrcIeMnSa8e1D1lVFlFIZBdEKN-v/view?usp=sharing" target="_blank">proposta deliberativa</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://drive.google.com/file/d/1DEnmrfyHW_5eVHdD9wGP6ETU7CKQA-O2/view?usp=sharing" target="_blank">Deliberazione di Consiglio Comunale n. 385 del 30.12.2020</a>
+
+.. |LINK6| raw:: html
+
+    <a href="https://drive.google.com/file/d/1ttoxns4-C0Bijo_NdWUNM__9YM_f4Cb5/view?usp=sharing" target="_blank">Deliberazione di G.C. n. 71 del 23.03.2021</a>
+
+.. |LINK7| raw:: html
+
+    <a href="https://drive.google.com/file/d/1sCRd9whrVGwX4Na4r7oBnGVp6IZSKtWo/view?usp=sharing" target="_blank">Indicatori economici</a>
 
