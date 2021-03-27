@@ -92,7 +92,7 @@ Redazione partecipata del \ |LINK11|\ . ``cc by``
 
 \ |LINK28|\  (informazioni tratte dalle carte dei servizi e dal sito web istituzionale) ``cc by sa`` - [interfaccia di navigazione \ |LINK29|\ ]
 
-\ |LINK30|\  versione dicembre 2020 (da una ricognizione interna del dicembre 2020)  ``cc by sa`` -  [interfaccia di navigazione \ |LINK31|\ ]
+\ |LINK30|\  versione dicembre 2020 (da una ricognizione del dicembre 2020)  ``cc by sa`` -  [interfaccia di navigazione \ |LINK31|\ ]
 
 \ |LINK32|\  versione ottobre 2011 (dalla Deliberazione C.C. 608 del 27.10.2011)  ``cc by sa`` - [interfaccia di navigazione \ |LINK33|\ ]
 
