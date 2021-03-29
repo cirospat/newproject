@@ -4,10 +4,7 @@
 developer
 *********
 
-
-+------------------------------------------------------------------------------------------------------------------------------------------------------+
-|\ |LINK1|\  è una pagina "scomposta" per collezionare utilità a fini di sviluppo e creatività digitale. La pagina doc sorgente è a questo \ |LINK2|\ .|
-+------------------------------------------------------------------------------------------------------------------------------------------------------+
+\ |LINK1|\  è una pagina "scomposta" per collezionare utilità a fini di sviluppo e creatività digitale. La pagina doc sorgente è a questo \ |LINK2|\ .
 
 
 |REPLACE1|
