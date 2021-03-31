@@ -279,7 +279,7 @@ Formazione RTD da AGID (2020)
 Formazione RTD dal FormezPA (2021)
 **********************************
 
-Un utile e interessante ciclo di webinar formativi sull'attività del responsabile della Transizione Digitale negli enti pubblici, organizzato dal FormezPA. I materiali (video e presentazioni pdf) dei webinar sono consultabili al seguente link: \ |LINK47|\ . Si accede con le credenziali personali per la fruizione dei contenuti formativi del FormezPA (accedi con :class:` DFPAuth`).
+Un utile e interessante ciclo di webinar formativi sull'attività del responsabile della Transizione Digitale negli enti pubblici, organizzato dal FormezPA. I materiali (video e presentazioni pdf) dei webinar sono consultabili al seguente link: \ |LINK47|\ . Si accede con le credenziali personali per la fruizione dei contenuti formativi del FormezPA (accedi con :class:`DFPAuth`).
 
 * 17/02/21 - \ |LINK48|\ 
 
