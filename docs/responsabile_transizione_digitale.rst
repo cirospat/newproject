@@ -274,6 +274,33 @@ Formazione RTD da AGID (2020)
 
 |
 
+.. _h5d3b5a493427c3f347c1ef4742677:
+
+Formazione RTD dal FormezPA (2021)
+**********************************
+
+Un utile e interessante ciclo di webinar formativi sull'attività del responsabile della Transizione Digitale negli enti pubblici, organizzato dal FormezPA. I materiali (video e presentazioni pdf) dei webinar sono consultabili al seguente link: \ |LINK47|\ . Si accede con le credenziali personali per la fruizione dei contenuti formativi del FormezPA (accedi con :class:` DFPAuth`).
+
+* 17/02/21 - \ |LINK48|\ 
+
+* 24/02/21 - \ |LINK49|\ 
+
+* 03/03/21 - \ |LINK50|\ 
+
+* 10/03/21 - \ |LINK51|\ 
+
+* 17/03/21 - \ |LINK52|\ 
+
+* 24/03/21 - \ |LINK53|\ 
+
+* 31/03/21 - \ |LINK54|\ 
+
+* 07/04/21 - \ |LINK55|\ 
+
+* 14/04/21 - \ |LINK56|\ 
+
+|
+
 
 .. bottom of content
 
@@ -547,4 +574,44 @@ Formazione RTD da AGID (2020)
 .. |LINK46| raw:: html
 
     <a href="https://youtu.be/sDP9c6tobpM" target="_blank">link alla video registrazione</a>
+
+.. |LINK47| raw:: html
+
+    <a href="http://learn.formez.it/course/view.php?id=196" target="_blank">I Responsabili per la Transizione al Digitale e l'Innovazione negli Enti Locali</a>
+
+.. |LINK48| raw:: html
+
+    <a href="http://eventipa.formez.it/node/293144" target="_blank">"Il Responsabile per la transizione al digitale tra Piano Triennale per l’informatica nella PA e DL Semplificazioni"</a>
+
+.. |LINK49| raw:: html
+
+    <a href="http://eventipa.formez.it/node/294186" target="_blank">"Il Piano Triennale per l’informatica nella PA: dalla strategia all’applicazione"</a>
+
+.. |LINK50| raw:: html
+
+    <a href="http://eventipa.formez.it/node/294191" target="_blank">"Come applicare il Piano Triennale in un Ente Locale"</a>
+
+.. |LINK51| raw:: html
+
+    <a href="http://eventipa.formez.it/node/294192" target="_blank">"Formazione, gestione e conservazione dei documenti informatici"</a>
+
+.. |LINK52| raw:: html
+
+    <a href="http://eventipa.formez.it/node/294204" target="_blank">"Digitalizzare i processi negli Enti Locali"</a>
+
+.. |LINK53| raw:: html
+
+    <a href="http://eventipa.formez.it/node/294205" target="_blank">"La sicurezza informatica: proteggere il patrimonio informativo dell’Amministrazione"</a>
+
+.. |LINK54| raw:: html
+
+    <a href="http://eventipa.formez.it/node/294206" target="_blank">"Il sito web: comunicare con i cittadini rispettando le normative"</a>
+
+.. |LINK55| raw:: html
+
+    <a href="http://eventipa.formez.it/node/294207" target="_blank">"I dati nella Pubblica Amministrazione"</a>
+
+.. |LINK56| raw:: html
+
+    <a href="http://eventipa.formez.it/node/294210" target="_blank">"L’Open Government"</a>
 
