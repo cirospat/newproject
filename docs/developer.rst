@@ -790,7 +790,7 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
     <a href="https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/" target="_blank"><b>onData</b></a>)
 .. |REPLACE2| raw:: html
 
-    <iframe src="https://datastudio.google.com/u/0/reporting/cbe9dfa7-2c81-4204-9918-fb00e8ce8b09/page/0sn7B?s=rs5RRz6cShU" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;></iframe>
+    <iframe src="https://datastudio.google.com/u/0/reporting/cbe9dfa7-2c81-4204-9918-fb00e8ce8b09/page/0sn7B?s=rs5RRz6cShU" frameborder="0"></iframe>
 .. |REPLACE3| raw:: html
 
     <div style="width: 550px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
