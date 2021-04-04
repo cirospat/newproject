@@ -6,13 +6,13 @@ developer
 
 \ |LINK1|\  è una pagina "scomposta" per collezionare utilità a fini di sviluppo e creatività digitale. La pagina doc sorgente è a questo \ |LINK2|\ .
 
+\ |STYLE0|\  - \ |LINK3|\ 
+
 
 |REPLACE1|
 
 
 |REPLACE2|
-
-\ |LINK3|\ 
 
 |
 
@@ -108,7 +108,7 @@ TOOL UTILI A VARI SCOPI
 |con plugin per chrome                            |\ |LINK7|\                                                                                |
 |                                                 |                                                                                          |
 +-------------------------------------------------+------------------------------------------------------------------------------------------+
-|\ |STYLE0|\  funzioni su Fogli Google spreadsheet|\ |LINK8|\                                                                                |
+|\ |STYLE1|\  funzioni su Fogli Google spreadsheet|\ |LINK8|\                                                                                |
 +-------------------------------------------------+------------------------------------------------------------------------------------------+
 |Markup Validation Service                        |\ |LINK9|\                                                                                |
 +-------------------------------------------------+------------------------------------------------------------------------------------------+
@@ -231,7 +231,7 @@ SERVIZI DI WEBMAPPING ALTERNATIVI A UMAP
 
 \ |LINK42|\  (a pagamento)
 
-\ |LINK43|\  \ |STYLE1|\ 
+\ |LINK43|\  \ |STYLE2|\ 
 
 * Enter a latitude/longitude
 
@@ -275,7 +275,7 @@ The output of this formula is a date in the desired format:
 
     2000-01-01
 
-\ |STYLE2|\ 
+\ |STYLE3|\ 
 
 Substitute the TODAY() function into our formula:
 
@@ -283,7 +283,7 @@ Substitute the TODAY() function into our formula:
 
     =QUERY(Data!$A$1:$H$136,"select C, B where B > date '"&TEXT(TODAY(),"yyyy-mm-dd")&"'",1)
 
-\ |STYLE3|\ 
+\ |STYLE4|\ 
 
 \ |LINK46|\ 
 
@@ -296,7 +296,7 @@ Query di Andrea Borruso
 +---+------------+--------------------------------------------------+-------------------------------------------------------------------------------------+
 |   |A           |B                                                 |C                                                                                    |
 +---+------------+--------------------------------------------------+-------------------------------------------------------------------------------------+
-|1  |\ |STYLE4|\ |\ |STYLE5|\                                       |\ |STYLE6|\                                                                          |
+|1  |\ |STYLE5|\ |\ |STYLE6|\                                       |\ |STYLE7|\                                                                          |
 +---+------------+--------------------------------------------------+-------------------------------------------------------------------------------------+
 |2  |05/12/2019  |``=if(A2="";"";TEXT(DATEVALUE(A2);"yyyy-mm-dd"))``|``=query("select * where (B > date '"&text(TODAY();"yyyy-mm-dd")&"' OR R = '') ";1)``|
 +---+------------+--------------------------------------------------+-------------------------------------------------------------------------------------+
@@ -384,7 +384,7 @@ DB x UMAP con output in csv =
 \ |LINK65|\  e \ |LINK66|\  UMAP AVVISI POLIZIA MUNICIPALE PA - VISUALIZZARE MAPPE CON INFO SU DATA ODIERNA
 -----------------------------------------------------------------------------------------------------------
 
-\ |STYLE7|\ .
+\ |STYLE8|\ .
 
 
 .. code:: 
@@ -420,7 +420,7 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 
 ⇒ \ |LINK67|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
 
-\ |STYLE8|\  API che usa la seguente formula: 
+\ |STYLE9|\  API che usa la seguente formula: 
 
 .. code:: 
 
@@ -542,7 +542,7 @@ newscount= il numero delle news da visualizzare come output della query
 
 \ |LINK96|\ 
 
-\ |STYLE9|\  
+\ |STYLE10|\  
 
 * \ |LINK97|\  il mio genratore di feed RSS
 
@@ -594,9 +594,9 @@ UNIRE PIÙ PDF
 
 * \ |LINK108|\  — è un’altra soluzione per unire i file PDF via Web e tramite la quale è eventualmente possibile apportare varie ulteriori modifiche ai documenti caricati. È gratis, non richiede registrazione e non pone limiti per l’upload.
 
-\ |STYLE10|\ 
+\ |STYLE11|\ 
 
-\ |STYLE11|\ . Si tratta, infatti, di un’app che consente di visualizzare i file PDF e intervenire su di essi in vari modi, andandoli a convertire, unire ecc. È gratuita e facile da usare. Per effettuarne il download sul tuo dispositivo, accedi alla \ |LINK109|\ 
+\ |STYLE12|\ . Si tratta, infatti, di un’app che consente di visualizzare i file PDF e intervenire su di essi in vari modi, andandoli a convertire, unire ecc. È gratuita e facile da usare. Per effettuarne il download sul tuo dispositivo, accedi alla \ |LINK109|\ 
 
 --------
 
@@ -640,7 +640,7 @@ si scrive così: ``:download:`Questo link è per il download <\ |LINK113|\ >```
 
 si scrive così: ``.. centered:: Questo è un testo centrato.``
 
-\ |STYLE12|\ 
+\ |STYLE13|\ 
 
 
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -669,7 +669,7 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 |:Link utili: \ |LINK114|\ , \ |LINK115|\                                                                                                                                                                        |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-\ |STYLE13|\ 
+\ |STYLE14|\ 
 
 :Author: David Goodger
 
@@ -687,13 +687,13 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 :Authors: Me; Myself; I
 
-\ |STYLE14|\ 
+\ |STYLE15|\ 
 
 
 .. sidebar:: Argomento
     :subtitle: Sotto argomento
 
-    Questo è il ``sidebar``.  \ |STYLE15|\  il testo al di fuori del flusso del testo principale. Questa è una casella. laterale. Si usa per il testo al di fuori del flusso del testo principale. Questa è una casella.
+    Questo è il ``sidebar``.  \ |STYLE16|\  il testo al di fuori del flusso del testo principale. Questa è una casella. laterale. Si usa per il testo al di fuori del flusso del testo principale. Questa è una casella.
     
     .. rubric:: Questa è una rubrica dentro il ``sidebar``
     Le barre laterali vengono spesso visualizzate accanto al testo principale con un bordo e un colore grigio chiaro (solitamente) di sfondo.
@@ -751,37 +751,39 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 .. bottom of content
 
 
-.. |STYLE0| replace:: **SPLIT**
+.. |STYLE0| replace:: **Covid19**
 
-.. |STYLE1| replace:: **Lat/long finderSearch for an address**
+.. |STYLE1| replace:: **SPLIT**
 
-.. |STYLE2| replace:: **Using today’s date as a filter**
+.. |STYLE2| replace:: **Lat/long finderSearch for an address**
 
-.. |STYLE3| replace:: **Vedi anche le Query**
+.. |STYLE3| replace:: **Using today’s date as a filter**
 
-.. |STYLE4| replace:: **data**
+.. |STYLE4| replace:: **Vedi anche le Query**
 
-.. |STYLE5| replace:: **standardDate**
+.. |STYLE5| replace:: **data**
 
-.. |STYLE6| replace:: **query per esporre le celle con date ancora da venire e le celle con valore "null" (celle vuote senza valori)**
+.. |STYLE6| replace:: **standardDate**
 
-.. |STYLE7| replace:: **Da un foglio Google ad una mappa uMap in cui vengono visualizzati solo gli avvisi della data odierna**
+.. |STYLE7| replace:: **query per esporre le celle con date ancora da venire e le celle con valore "null" (celle vuote senza valori)**
 
-.. |STYLE8| replace:: **⇒ Nominatim Openstreetmap**
+.. |STYLE8| replace:: **Da un foglio Google ad una mappa uMap in cui vengono visualizzati solo gli avvisi della data odierna**
 
-.. |STYLE9| replace:: **Generatore di Feed:**
+.. |STYLE9| replace:: **⇒ Nominatim Openstreetmap**
 
-.. |STYLE10| replace:: **Su Android**
+.. |STYLE10| replace:: **Generatore di Feed:**
 
-.. |STYLE11| replace:: **PDFelement**
+.. |STYLE11| replace:: **Su Android**
 
-.. |STYLE12| replace:: **Lista di elementi dentro un riquadro ↓**
+.. |STYLE12| replace:: **PDFelement**
 
-.. |STYLE13| replace:: **Lista di elementi senza riquadro ↓**
+.. |STYLE13| replace:: **Lista di elementi dentro un riquadro ↓**
 
-.. |STYLE14| replace:: **Sidebar**
+.. |STYLE14| replace:: **Lista di elementi senza riquadro ↓**
 
-.. |STYLE15| replace:: **Si usa per**
+.. |STYLE15| replace:: **Sidebar**
+
+.. |STYLE16| replace:: **Si usa per**
 
 
 .. |REPLACE1| raw:: html
@@ -820,7 +822,7 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 .. |LINK3| raw:: html
 
-    <a href="https://datastudio.google.com/u/0/reporting/cbe9dfa7-2c81-4204-9918-fb00e8ce8b09/page/0sn7B" target="_blank">Infografica di Dennis</a>
+    <a href="https://datastudio.google.com/u/0/reporting/cbe9dfa7-2c81-4204-9918-fb00e8ce8b09/page/0sn7B" target="_blank">Infografica Google Datastudio di Dennis</a>
 
 .. |LINK4| raw:: html
 
