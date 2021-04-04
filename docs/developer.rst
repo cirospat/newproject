@@ -792,7 +792,7 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
     <a href="https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/" target="_blank"><b>onData</b></a>)
 .. |REPLACE2| raw:: html
 
-    <iframe src="https://www.curaitalia.it" width="850"></iframe>
+    <iframe src="https://www.curaitalia.it" width="970"; height="1000"></iframe>
 .. |REPLACE3| raw:: html
 
     <div style="width: 550px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
