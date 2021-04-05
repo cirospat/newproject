@@ -11,13 +11,15 @@ developer
 |Covid19 |
 +--------+
 
-:Dennis:               \ |LINK3|\ 
+:Dennis: \ |LINK3|\ 
 
-:OnData:              \ |LINK4|\ 
+:OnData: \ |LINK4|\ 
 
-:Riccardo Borchi: \ |LINK5|\ 
+:Riccardo 
 
-:Governo:             \ |LINK6|\ 
+Borchi: \ |LINK5|\ 
+
+:Governo: \ |LINK6|\ 
 
 ↓
 
