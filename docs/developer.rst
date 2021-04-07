@@ -768,6 +768,9 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 --------
 
 
+|REPLACE8|
+
+
 .. bottom of content
 
 
@@ -828,6 +831,9 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 .. |REPLACE7| raw:: html
 
     <p><span style="background-color: #105618; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Altri Geocoder</span></p>
+.. |REPLACE8| raw:: html
+
+    <iframe title="polveri sottili monitoraggio zona Fiera Mediterraneo " src="https://italy.maps.sensor.community/#9/37.5285/14.2212" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="854"></iframe>
 
 .. |LINK1| raw:: html
 
