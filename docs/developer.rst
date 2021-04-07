@@ -771,6 +771,9 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 |REPLACE8|
 
 
+|REPLACE9|
+
+
 .. bottom of content
 
 
@@ -834,6 +837,9 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 .. |REPLACE8| raw:: html
 
     <iframe title="polveri sottili monitoraggio zona Fiera Mediterraneo " src="https://italy.maps.sensor.community/#9/37.5285/14.2212" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="854"></iframe>
+.. |REPLACE9| raw:: html
+
+    <iframe title="polveri sottili monitoraggio zona Fiera Mediterraneo " src="https://maps.sensor.community/grafana/d-solo/000000004/single-sensor-view?orgId=1&panelId=2&var-node=821" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="854"></iframe>
 
 .. |LINK1| raw:: html
 
