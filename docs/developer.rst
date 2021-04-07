@@ -23,9 +23,9 @@ developer
 
 * Protezione Civile Nazionale: \ |LINK8|\ 
 
-* Protezione Civile Sicilia: \ |LINK9|\ 
+* Protezione Civile Nazionale: \ |LINK9|\ 
 
-* Protezione Civile Nazionale: \ |LINK10|\ 
+* Protezione Civile Sicilia: \ |LINK10|\ 
 
 * Piersoft Paolicelli: \ |LINK11|\ 
 
@@ -877,11 +877,11 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 .. |LINK9| raw:: html
 
-    <a href="https://drpcsicilia.maps.arcgis.com/apps/opsdashboard/index.html#/e9ba8a03150f486a8ff06a1ca7b6278e" target="_blank">mappa Covid</a>
+    <a href="https://github.com/pcm-dpc/COVID-19" target="_blank">dati Covid su repo GitHub</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://github.com/pcm-dpc/COVID-19" target="_blank">dati Covid su repo GitHub</a>
+    <a href="https://drpcsicilia.maps.arcgis.com/apps/opsdashboard/index.html#/e9ba8a03150f486a8ff06a1ca7b6278e" target="_blank">mappa Covid</a>
 
 .. |LINK11| raw:: html
 
