@@ -31,6 +31,9 @@ developer
 
 |REPLACE1|
 
+
+|REPLACE2|
+
 |
 
 
@@ -144,14 +147,14 @@ IMMAGINI DI "WORDART" DA INCORPORARE IN PAGINE HTML
 ===================================================
 
 
-|REPLACE2|
-
-
 |REPLACE3|
+
+
+|REPLACE4|
 
 immagine singola (non wordart)
 
-|REPLACE4|
+|REPLACE5|
 
 |
 
@@ -433,7 +436,7 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 =========================================================
 
 
-|REPLACE5|
+|REPLACE6|
 
 ⇒ \ |LINK74|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
 
@@ -446,7 +449,7 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK75|\ .
 
 
-|REPLACE6|
+|REPLACE7|
 
 * \ |LINK76|\  con Openstreetmap tramite OnData
 
@@ -809,17 +812,20 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
     <a href="https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/" target="_blank"><b>onData</b></a>)
 .. |REPLACE2| raw:: html
 
-    <div style="width: 550px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
+    <iframe title="Sicilia: comuni in zona rossa" aria-label="Mappa" id="datawrapper-chart-KcM9c" src="https://datawrapper.dwcdn.net/KcM9c/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="791"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}(); </script>
 .. |REPLACE3| raw:: html
 
-    <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
+    <div style="width: 550px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
 .. |REPLACE4| raw:: html
 
-    <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700" /> Art by Lønfeldt
+    <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
 .. |REPLACE5| raw:: html
 
-    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
+    <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700" /> Art by Lønfeldt
 .. |REPLACE6| raw:: html
+
+    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
+.. |REPLACE7| raw:: html
 
     <p><span style="background-color: #105618; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Altri Geocoder</span></p>
 
