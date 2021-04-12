@@ -837,10 +837,10 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
     <iframe title="Incidenza cumulativa settimanale dei contagi " aria-label="chart" id="datawrapper-chart-GqOS4" src="https://datawrapper.dwcdn.net/7IDDT/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="854"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}(); </script>
 .. |REPLACE4| raw:: html
 
-    <iframe src="https://datawrapper.dwcdn.net/zRz2B/24/" frameborder="0" height="700"></iframe>
+    <iframe src="https://datawrapper.dwcdn.net/zRz2B/24/" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="700"></iframe>
 .. |REPLACE5| raw:: html
 
-    <iframe src="https://datawrapper.dwcdn.net/gGfnq/5/" frameborder="0" height="700"></iframe>
+    <iframe src="https://datawrapper.dwcdn.net/gGfnq/5/" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="700"></iframe>
 .. |REPLACE6| raw:: html
 
     <div style="width: 550px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
