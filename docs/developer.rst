@@ -7,9 +7,9 @@ developer
 \ |LINK1|\  è una pagina "scomposta" per collezionare utilità a fini di sviluppo e creatività digitale. La pagina doc sorgente è a questo \ |LINK2|\ .
 
 
-+--------+
-|Covid19 |
-+--------+
++-----------------+
+|Covid19: risorse |
++-----------------+
 
 * Dennis Angemi: \ |LINK3|\ 
 
