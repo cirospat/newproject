@@ -893,7 +893,7 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 .. |REPLACE14| raw:: html
 
     mappe storiche by Napo <br>
-    <iframe src="https://napo.github.io/trentotimetravelmaps/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="700"></iframe>
+    <iframe src="https://napo.github.io/trentotimetravelmaps/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="850"></iframe>
     <br>
     https://github.com/napo/trentotimetravelmaps (codice)
     <br>
