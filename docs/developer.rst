@@ -807,6 +807,9 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 |REPLACE13|
 
 
+|REPLACE14|
+
+
 .. bottom of content
 
 
@@ -887,6 +890,14 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
     polveri sottili monitoraggio zona Fiera Mediterraneo <br>
     <iframe src="https://maps.sensor.community/grafana/d-solo/000000004/single-sensor-view?orgId=1&panelId=2&var-node=821" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="700"></iframe>
+.. |REPLACE14| raw:: html
+
+    mappe storiche by Napo <br>
+    <iframe src="https://napo.github.io/trentotimetravelmaps/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="700"></iframe>
+    <br>
+    https://github.com/napo/trentotimetravelmaps (codice)
+    <br>
+    https://napo.github.io/trentotimetravelmaps/  (servizio)
 
 .. |LINK1| raw:: html
 
