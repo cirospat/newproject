@@ -472,11 +472,12 @@ Art. 17 Responsabilità della Società ed obblighi nei confronti dei propri dipe
 Art 18 Livelli di servizio, monitoraggio e penali
 *************************************************
 
-#. Nell’erogazione dei servizi oggetto della presente convenzione la Società dovrà garantire adeguati livelli di servizio (SLA). I livelli di servizio vengono distinti nelle seguenti classi:
+\ |STYLE51|\ . Nell’erogazione dei servizi oggetto della presente convenzione la Società dovrà garantire adeguati livelli di servizio (SLA). I livelli di servizio vengono distinti nelle seguenti classi:
+
 
 |REPLACE2|
 
-2. Ciascun livello di servizio dovrà essere misurabile  in funzione dei seguenti parametri: 
+\ |STYLE52|\ . Ciascun livello di servizio dovrà essere misurabile  in funzione dei seguenti parametri: 
 
 * Definizione: descrizione del parametro di servizio.
 
@@ -494,9 +495,9 @@ Art 18 Livelli di servizio, monitoraggio e penali
 
 * Fonte informativa: specifica la fonte da dove sono rilevati i dati per il calcolo del livello di servizio offerto.
 
-3. Il mancato rispetto dei livelli di servizio comporterà l’applicazione delle penali differenziate in funzione della tipologia del servizio come definita nell’Allegato tecnico che costituisce parte integrante della presente Convenzione.
+\ |STYLE53|\ . Il mancato rispetto dei livelli di servizio comporterà l’applicazione delle penali differenziate in funzione della tipologia del servizio come definita nell’Allegato tecnico che costituisce parte integrante della presente Convenzione.
 
-4. Sono escluse dal calcolo dei livelli di servizio:
+\ |STYLE54|\ . Sono escluse dal calcolo dei livelli di servizio:
 
 * Le interruzioni dovute ad interventi concordati. 
 
@@ -506,7 +507,7 @@ Art 18 Livelli di servizio, monitoraggio e penali
 .. admonition:: emendamento del Consiglio comunale n.16
 
     all'art. 18 inserire al comma 5 il testo come segue:
-    "\ |STYLE51|\ "
+    "\ |STYLE55|\ "
 
 .. _h725522122862b61a40ad72481254:
 
@@ -601,9 +602,9 @@ Delibera di G.C. n. 71 del  23.03.2021: approvazione Atto Integrativo alla Conve
 
 ..  Important:: 
 
-    La \ |LINK5|\  ha stabilito una \ |STYLE52|\  incluso Iva, dal corrispettivo previsto dalla Convenzione approvata (con deliberazione di C.C. n. 42/2018) per la fornitura dei servizi di conduzione tecnica dei sistemi informativi SITEC (capitolo 3970/10 del bilancio - PDC: 1, 3, 2, 19, 0 - CONDUZIONE TECNICA DEL SITEC INFORMATIZZAZIONE E TELEMATICA SERVIZI COMUNALI). La riduzione si applica alla Società SISPI SpA a decorrere dall'esercizio finanziario 2021.
+    La \ |LINK5|\  ha stabilito una \ |STYLE56|\  incluso Iva, dal corrispettivo previsto dalla Convenzione approvata (con deliberazione di C.C. n. 42/2018) per la fornitura dei servizi di conduzione tecnica dei sistemi informativi SITEC (capitolo 3970/10 del bilancio - PDC: 1, 3, 2, 19, 0 - CONDUZIONE TECNICA DEL SITEC INFORMATIZZAZIONE E TELEMATICA SERVIZI COMUNALI). La riduzione si applica alla Società SISPI SpA a decorrere dall'esercizio finanziario 2021.
     
-    Con \ |STYLE53|\  è stato approvato il Piano triennale 2020-2022 obiettivi strategici assegnati alla Governance Società SISPI S.p.a. disponendosi altresì  di: "Conferire mandato al Dirigente competente per l'attività di controllo economico gestionale sul contratto di servizio della partecipata “SISPI S.p.A.” di avviare le idonee attività istruttorie finalizzate ad attuare la riduzione dei corrispettivi, nel corso dell'esercizio 2021, in conformità alla precitata direttiva del Sindaco, e ciò previa ricognizione da effettuarsi sulle voci di corrispettivo relative ad ogni singolo ambito di attività o di intervento disciplinato in seno al vigente contratto di servizio. La predetta riduzione dovrà essere operata attraverso la predisposizione di un \ |STYLE54|\  da sottoporre alla giunta comunale entro il termine del 28.02.2021."
+    Con \ |STYLE57|\  è stato approvato il Piano triennale 2020-2022 obiettivi strategici assegnati alla Governance Società SISPI S.p.a. disponendosi altresì  di: "Conferire mandato al Dirigente competente per l'attività di controllo economico gestionale sul contratto di servizio della partecipata “SISPI S.p.A.” di avviare le idonee attività istruttorie finalizzate ad attuare la riduzione dei corrispettivi, nel corso dell'esercizio 2021, in conformità alla precitata direttiva del Sindaco, e ciò previa ricognizione da effettuarsi sulle voci di corrispettivo relative ad ogni singolo ambito di attività o di intervento disciplinato in seno al vigente contratto di servizio. La predetta riduzione dovrà essere operata attraverso la predisposizione di un \ |STYLE58|\  da sottoporre alla giunta comunale entro il termine del 28.02.2021."
     
     Con \ |LINK6|\  è stato approvato il seguente Atto Integrativo alla Convenzione con la Società SISPI SpA.
 
@@ -611,6 +612,11 @@ Delibera di G.C. n. 71 del  23.03.2021: approvazione Atto Integrativo alla Conve
 
 ATTO INTEGRATIVO ALLA CONVENZIONE SISPI APPROVATA CON DELIBERAZIONE DI C.C. N. 42/2018 
 =======================================================================================
+
+
+..  Important:: 
+
+    L'Atto Integrativo alla Convenzione SISPI è stato firmato digitalmente il 19.04.2021.
 
 .. _h60f3a575a6468506c53441a6b144d3e:
 
@@ -753,13 +759,21 @@ Restano invariate tutte le altre disposizioni della Convenzione approvata con De
 
 .. |STYLE50| replace:: **oltre a quanto stabilito dalla Delibera GM n. 78 del 2.04.2017 e le determinazioni Dirigenziali n. 112 del 15.05.2017 e n. 142 del 28.12.2017**
 
-.. |STYLE51| replace:: **il monitoraggio dei livelli di servizio e degli indicatori di qualità delle prestazioni rese deve essere svolto attraverso un'applicazione web resa disponibile alla figura dirigenziale di riferimento preposta al controllo, che deve collegare i servizi ai relativi indicatori selezionati per monitorare gli obblighi assunti dalla società**
+.. |STYLE51| replace:: **1**
 
-.. |STYLE52| replace:: **riduzione di euro 1.000.000,00**
+.. |STYLE52| replace:: **2**
 
-.. |STYLE53| replace:: **Deliberazione di Giunta Comunale n. 15 del 29.01.2021**
+.. |STYLE53| replace:: **3**
 
-.. |STYLE54| replace:: **atto integrativo del contratto di servizio**
+.. |STYLE54| replace:: **4**
+
+.. |STYLE55| replace:: **il monitoraggio dei livelli di servizio e degli indicatori di qualità delle prestazioni rese deve essere svolto attraverso un'applicazione web resa disponibile alla figura dirigenziale di riferimento preposta al controllo, che deve collegare i servizi ai relativi indicatori selezionati per monitorare gli obblighi assunti dalla società**
+
+.. |STYLE56| replace:: **riduzione di euro 1.000.000,00**
+
+.. |STYLE57| replace:: **Deliberazione di Giunta Comunale n. 15 del 29.01.2021**
+
+.. |STYLE58| replace:: **atto integrativo del contratto di servizio**
 
 
 .. |REPLACE1| raw:: html
@@ -768,27 +782,27 @@ Restano invariate tutte le altre disposizioni della Convenzione approvata con De
     <a href="https://drive.google.com/file/d/1sCRd9whrVGwX4Na4r7oBnGVp6IZSKtWo/view?usp=sharing" target="_blank">Tabella "indicatori economici" allegata alla Convenzione SISPI (Deliberazione C.C. 42/2018)</a>
 .. |REPLACE2| raw:: html
 
-    <table cellspacing="0" cellpadding="0" style="width:92%">
-    <tbody>
-    <tr><td style="width:14%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>classe</p></td><td style="width:87%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>descrizione</p></td></tr>
-    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>A</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Classe critica alla quale sono associate percentuali di penale crescenti in base alla ricorrenza. </p></td></tr>
-    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>B</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Classe mediamente critica alla quale sono associate percentuali di penale crescenti in base alla ricorrenza.</p></td></tr>
-    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>C</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Classe non critica alla quale sono associate percentuali di penale crescenti in base alla ricorrenza.</p></td></tr>
-    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>D</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Classe non critica alla quale non sono associate penali.</p></td></tr>
-    </tbody></table>
+        <table cellspacing="0" cellpadding="0" style="width:92%">
+        <tbody>
+        <tr><td style="width:14%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>classe</p></td><td style="width:87%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>descrizione</p></td></tr>
+        <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>A</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Classe critica alla quale sono associate percentuali di penale crescenti in base alla ricorrenza. </p></td></tr>
+        <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>B</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Classe mediamente critica alla quale sono associate percentuali di penale crescenti in base alla ricorrenza.</p></td></tr>
+        <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>C</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Classe non critica alla quale sono associate percentuali di penale crescenti in base alla ricorrenza.</p></td></tr>
+        <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>D</p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>Classe non critica alla quale non sono associate penali.</p></td></tr>
+        </tbody></table>
 
 .. |REPLACE3| raw:: html
 
-    <table cellspacing="0" cellpadding="0" style="width:44%">
+    <table cellspacing="0" cellpadding="0" style="width:47%">
     <tbody>
-    <tr><td style="width:50%;vertical-align:Top;border:solid 0.5px #cccccc"><p>L’Amministrazione</p><p>_______________</p></td><td style="width:50%;vertical-align:Top;border:solid 0.5px #cccccc"><p>La SISPI</p><p>_________________</p></td></tr>
+    <tr><td style="width:49%;vertical-align:Top;border:solid 0.5px #cccccc"><p>L’Amministrazione</p><p>_______________</p></td><td style="width:51%;vertical-align:Top;border:solid 0.5px #cccccc"><p>La SISPI</p><p>_________________</p></td></tr>
     </tbody></table>
 
 .. |REPLACE4| raw:: html
 
-    <table cellspacing="0" cellpadding="0" style="width:44%">
+    <table cellspacing="0" cellpadding="0" style="width:47%">
     <tbody>
-    <tr><td style="width:48%;vertical-align:Top;border:solid 0.5px #b7b7b7"><p>L’Amministrazione</p><p>_______________</p></td><td style="width:52%;vertical-align:Top;border:solid 0.5px #b7b7b7"><p>La SISPI</p><p>__________________</p></td></tr>
+    <tr><td style="width:50%;vertical-align:Top;border:solid 0.5px #b7b7b7"><p>L’Amministrazione</p><p>_______________</p></td><td style="width:50%;vertical-align:Top;border:solid 0.5px #b7b7b7"><p>La SISPI</p><p>__________________</p></td></tr>
     </tbody></table>
 
 .. |REPLACE5| raw:: html
