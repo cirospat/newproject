@@ -8,7 +8,7 @@ developer
 
 |REPLACE1|
 
-prova testo tagliato
+~~prova testo tagliato~~
 
 
 +-----------------+
