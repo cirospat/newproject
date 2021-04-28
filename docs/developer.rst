@@ -8,11 +8,7 @@ developer
 
 |REPLACE1|
 
-~prova testo barrato~
-
 [STRIKEOUT:testo barrato]
-
-:strikeout:`testo barrato`
 
 il |ss| testo barrato |se| e non barrato
 
