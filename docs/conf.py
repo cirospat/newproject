@@ -4,12 +4,6 @@ from __future__ import unicode_literals
 import sys, os
 
 
-extensions = [
-          # …
-          'sphinxnotes.strike',
-          # …
-          ]
-
 
 #dal conf.py di tansignari #
 import recommonmark
