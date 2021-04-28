@@ -13,21 +13,19 @@ developer
 
 :guilabel:`Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a`
 
-.. role:: strike 
-
-   An example of :strike:`strike through text`. 
-
 il testo vale
 
 .. admonition:: abrogato 
 
-ma questo testo non vale perchè abrogato.
+   questo testo non vale perchè abrogato.
 
-Poi il testo vale di nuovo
+poi il testo vale di nuovo
 
-\ |LINK3|\  
+riferimenti
 
-\ |LINK4|\  
+   \ |LINK3|\  
+
+   \ |LINK4|\  
 
 |
 
