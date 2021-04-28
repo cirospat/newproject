@@ -8,15 +8,13 @@ developer
 
 |REPLACE1|
 
-[STRIKEOUT:testo barrato]
-
 il |ss| testo barrato |se| e non barrato
 
 :strike:`This text is crossed out`
 
 .. role:: strike
 
-This text is crossed out
+   This text is crossed out
 
 
 +-----------------+
