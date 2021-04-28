@@ -1,1 +1,2 @@
 pip>=18.1
+$ pip install sphinxnotes-strike
