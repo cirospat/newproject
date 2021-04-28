@@ -13,6 +13,8 @@ developer
 
 :guilabel:`Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a`
 
+Testo normale e poi  <span style="text-decoration: line-through;" > Testo barrato </span> e poi testo normale
+
 il testo vale
 
 .. admonition:: abrogato 
@@ -23,9 +25,9 @@ poi il testo vale di nuovo
 
 riferimenti
 
-   \ |LINK3|\  
+*    \ |LINK3|\  
 
-   \ |LINK4|\  
+*    \ |LINK4|\  
 
 |
 
