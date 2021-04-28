@@ -27,11 +27,15 @@ An undecorated paragraph.
 
 This paragraph too is is striked through. 
 
+il testo vale
+
 .. admonition:: cancelled 
 
-   :class: strike 
+   :class: abrogato 
 
-   I strike through cancelled text.
+   ma questo testo non vale perchè abrogato.
+
+Poi il testo vale di nuovo
 
 |
 
