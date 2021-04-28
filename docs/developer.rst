@@ -14,6 +14,10 @@ il |ss| testo barrato |se| e non barrato
 
 :strike:`This text is crossed out`
 
+.. role:: strike
+
+This text is crossed out
+
 
 +-----------------+
 |Covid19: risorse |
