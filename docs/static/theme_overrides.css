@@ -28,6 +28,10 @@
     border-bottom: solid 0px #b59e9e !important;  /* 0 px = tabelle degli admonition senza bordi */
 }
 
+.strike {
+  text-decoration: line-through;
+}
+
 
 /* pagina avanti - indietro */
 .btn-neutral {
