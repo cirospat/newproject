@@ -29,7 +29,7 @@ This paragraph too is is striked through.
 
 il testo vale
 
-.. admonition:: cancelled 
+.. admonition:: abrogato 
 
    :class: abrogato 
 
