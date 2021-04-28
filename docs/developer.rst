@@ -31,9 +31,7 @@ This paragraph too is is striked through.
 
    :class: strike 
 
-   
-
-I strike through cancelled text.
+   I strike through cancelled text.
 
 |
 
