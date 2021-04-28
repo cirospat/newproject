@@ -14,6 +14,8 @@ il |ss| testo barrato |se| e non barrato
 
 .. role:: strike
 
+   
+
    This text is crossed out
 
 
