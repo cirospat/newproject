@@ -10,6 +10,8 @@ developer
 
 ~prova testo tagliato~
 
+[STRIKEOUT:ciao]
+
 
 +-----------------+
 |Covid19: risorse |
