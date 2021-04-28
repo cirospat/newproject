@@ -12,11 +12,7 @@ il |ss| testo barrato |se| e non barrato
 
 :strike:`This text is crossed out`
 
-.. role:: strike
-
-   
-
-   This text is crossed out
+:del:`This text is crossed out`
 
 
 +-----------------+
