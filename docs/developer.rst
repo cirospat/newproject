@@ -14,6 +14,8 @@ developer
 
 :strikeout:`testo barrato`
 
+il |ss| testo barrato |se| e non barrato
+
 
 +-----------------+
 |Covid19: risorse |
