@@ -3,4 +3,3 @@ sphinx
 recommonmark
 markdown
 sphinx-markdown-tables
-sphinxnotes-strike
