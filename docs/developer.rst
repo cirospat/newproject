@@ -11,6 +11,8 @@ developer
 
 |REPLACE2|
 
+:strike:'testo da barrare' e testo normale
+
 
 +-----------------+
 |Covid19: risorse |
