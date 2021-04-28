@@ -13,6 +13,28 @@ developer
 
 :guilabel:`Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a`
 
+.. role:: strike 
+
+   An example of :strike:`strike through text`. 
+
+.. container:: strike 
+
+   Here the full block of test is striked through. 
+
+An undecorated paragraph. 
+
+.. class:: strike 
+
+This paragraph too is is striked through. 
+
+.. admonition:: cancelled 
+
+   :class: strike 
+
+   
+
+I strike through cancelled text.
+
 |
 
 
