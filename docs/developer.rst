@@ -8,9 +8,11 @@ developer
 
 |REPLACE1|
 
-~prova testo tagliato~
+~prova testo barrato~
 
-[STRIKEOUT:ciao]
+[STRIKEOUT:testo barrato]
+
+:strikeout:`testo barrato`
 
 
 +-----------------+
