@@ -830,6 +830,21 @@ Un corso online gratuito rivolto a tutti coloro che sono interessati a imparare 
 
 --------
 
+.. _h492e214911344f646d113091db18:
+
+Monitoraggio del Piano triennale ICT nella PA
+*********************************************
+
+Da AGID il portale del \ |LINK181|\ :
+
+* breve descrizione dei contenuti del capitolo;
+
+* misurazione dei Risultati Attesi espressa sia come percentuale di raggiungimento complessivo per capitolo sia come percentuale di raggiungimento per singolo obiettivo previsto;
+
+* dashboard di monitoraggio che espone i dati di monitoraggio raccolti per singolo indicatore (R.A.) e relativo livello di avanzamento.
+
+--------
+
 
 |REPLACE5|
 
@@ -1714,4 +1729,8 @@ Un corso online gratuito rivolto a tutti coloro che sono interessati a imparare 
 .. |LINK180| raw:: html
 
     <a href="https://www.elementsofai.it/" target="_blank">Elements of AI</a>
+
+.. |LINK181| raw:: html
+
+    <a href="https://monitoraggiopianotriennale.italia.it/" target="_blank">Monitoraggio del Piano triennale ICT nella PA</a>
 
