@@ -199,7 +199,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |LINK4| raw:: html
 
-    <a href="https://ods2020.opendatasicilia.it/" target="_blank">raduno ODS 2020</a>
+    <a href="https://youtu.be/bTGsnqO1-Tc" target="_blank">raduno ODS 2020</a>
 
 .. |LINK5| raw:: html
 
