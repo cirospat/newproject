@@ -15,11 +15,11 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 * \ |LINK1|\ ;
 
-* \ |LINK2|\ ; \ |LINK3|\ ; \ |LINK4|\ ;
+* \ |LINK2|\ ; \ |LINK3|\ ; \ |LINK4|\ ; \ |LINK5|\ .
 
-* \ |LINK5|\ .
+* \ |LINK6|\ .
 
-* Questo portale contribuisce alla costruzione della "\ |LINK6|\ ", iniziativa del Ministero per l'Innovazione Tecnologica e la Digitalizzazione. 
+* Questo portale contribuisce alla costruzione della "\ |LINK7|\ ", iniziativa del Ministero per l'Innovazione Tecnologica e la Digitalizzazione. 
 
 
 |REPLACE3|
@@ -37,7 +37,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 |REPLACE4|
 
-\ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design :guilabel:`Read the Docs`. \ |LINK7|\ . 
+\ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design :guilabel:`Read the Docs`. \ |LINK8|\ . 
 
 :guilabel:`Read the Docs` è un format che si presta ottimamente alla rappresentazione e pubblicazione online di manuali e documentazione dove si rende necessario fornire spiegazioni e approfondimenti. 
 
@@ -107,7 +107,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 
 +--------------------------------------------------------------------------------+
-|[Immagine, in alto, del libro, by \ |LINK8|\ , rilasciata con licenza CC BY 3.0]|
+|[Immagine, in alto, del libro, by \ |LINK9|\ , rilasciata con licenza CC BY 3.0]|
 +--------------------------------------------------------------------------------+
 
 
@@ -191,7 +191,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |LINK2| raw:: html
 
-    <a href="http://opendatasicilia.it/" target="_blank">OpendataSicilia (community civica sulla cultura dei dati)</a>
+    <a href="http://opendatasicilia.it/" target="_blank">OpendataSicilia, community civica sulla cultura dei dati</a>
 
 .. |LINK3| raw:: html
 
@@ -203,17 +203,21 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |LINK5| raw:: html
 
-    <a href="https://forum.italia.it/" target="_blank">Developers Italia, forum nazionale sui servizi pubblici digitali</a>
+    <a href="https://youtu.be/QOd1SKzxRqA" target="_blank">raduno ODS 2021</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://innovazione.gov.it/it/repubblica-digitale/" target="_blank">Repubblica Digitale</a>
+    <a href="https://forum.italia.it/" target="_blank">Developers Italia, forum nazionale sui servizi pubblici digitali</a>
 
 .. |LINK7| raw:: html
 
-    <a href="http://googledocs.readthedocs.io/" target="_blank">A questo link un tutorial che spiega in maniera facile come usare questi strumenti</a>
+    <a href="https://innovazione.gov.it/it/repubblica-digitale/" target="_blank">Repubblica Digitale</a>
 
 .. |LINK8| raw:: html
+
+    <a href="http://googledocs.readthedocs.io/" target="_blank">A questo link un tutorial che spiega in maniera facile come usare questi strumenti</a>
+
+.. |LINK9| raw:: html
 
     <a href="https://www.deviantart.com/superawesomevectors/gallery/" target="_blank">superawesomevectors</a>
 
