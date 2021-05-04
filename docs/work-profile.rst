@@ -94,7 +94,9 @@ Redazione partecipata del \ |LINK11|\ . ``cc by``
 
 \ |LINK30|\  versione dicembre 2020 (da una ricognizione del dicembre 2020)  ``cc by sa`` -  [interfaccia di navigazione \ |LINK31|\ ]
 
-\ |LINK32|\  versione ottobre 2011 (dalla Deliberazione C.C. 608 del 27.10.2011)  ``cc by sa`` - [interfaccia di navigazione \ |LINK33|\ ]
+\ |LINK32|\ , versione ottobre 2011 (dalla Deliberazione C.C. 608 del 27.10.2011) ``cc by sa`` - [interfaccia di navigazione \ |LINK33|\ ]
+
+\ |LINK34|\  (2021), versione maggio 2021  ``cc by`` -  [interfaccia di navigazione \ |LINK35|\ ]
 
 --------
 
@@ -110,11 +112,11 @@ UE projects
 
 \ |STYLE2|\ :
 
-* \ |LINK34|\  ``CC BY``.
+* \ |LINK36|\  ``CC BY``.
 
-* \ |LINK35|\  ``CC BY SA``.
+* \ |LINK37|\  ``CC BY SA``.
 
-* \ |LINK36|\  ``CC BY NC SA``.
+* \ |LINK38|\  ``CC BY NC SA``.
 
 
 |REPLACE5|
@@ -306,13 +308,21 @@ UE projects
 
 .. |LINK34| raw:: html
 
-    <a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera</a>
+    <a href="https://cirospat.github.io/pnrr_2021_opendata/" target="_blank">Visualizzazione degli interventi finanziati dal Piano Nazionale Ripresa e Resilienza</a>
 
 .. |LINK35| raw:: html
 
-    <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo</a>
+    <a href="http://www.simile-widgets.org/exhibit3/" target="_blank">Simile Exhibit</a>
 
 .. |LINK36| raw:: html
+
+    <a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera</a>
+
+.. |LINK37| raw:: html
+
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo</a>
+
+.. |LINK38| raw:: html
 
     <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo, non per usi commerciali</a>
 
