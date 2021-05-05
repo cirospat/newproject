@@ -845,6 +845,41 @@ Da AGID il portale del \ |LINK181|\ :
 
 --------
 
+.. _h3756273a2c244251700724b603237:
+
+Linee guida AGID per accesso telematico ai servizi della Pubblica Amministrazione
+*********************************************************************************
+
+La consultazione pubblica le "\ |LINK182|\ " è attiva dal 03/05/2021 al 03/06/2021. Linee guida adottate ai sensi dell’\ |LINK183|\ .
+
+Linee guida emesse dall’AGID ai sensi dell’articolo 71 del CAD che sono richiamate:
+
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|[LG DESIGN]       |Linee guida di design per i servizi della pubblica amministrazione                                                                                                                                                                      |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|[LG PAGOPA]       |Linee guida per l’Effettuazione dei Pagamenti Elettronici a favore delle Pubbliche Amministrazioni e dei Gestori di Pubblici Servizi                                                                                                    |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|[LG ACCESSIBILITÀ]|Linee guida sull’accessibilità degli strumenti informatici                                                                                                                                                                              |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|[LG RECOVERY]     |Linee guida per il Disaster Recovery delle Pubbliche Amministrazioni                                                                                                                                                                    |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|[LG OPEN SOURCE]  |Linee guida su acquisizione e riuso di software per le pubbliche amministrazioni                                                                                                                                                        |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|[LG IPA]          |Linee guida dell’Indice dei domicili digitali delle Pubbliche Amministrazioni e dei gestori di pubblici servizi                                                                                                                         |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|[LG INAD]         |Linee guida dell’Indice nazionale dei domicili digitali delle persone fisiche, dei professionisti e degli altri enti di diritto privato non tenuti all’iscrizione in albi, elenchi o registri professionali o nel registro delle imprese|
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|[LG PDND]         |Linee guida infrastruttura tecnologica per l’interoperabilità dei sistemi informativi e delle basi di dati delle pubbliche amministrazioni e dei gestori di servizi pubblici                                                            |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|[LG INTEROP TEC]  |Linee guida sull’interoperabilità tecnica                                                                                                                                                                                               |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|[LG SICUREZZA]    |Linee Guida Tecnologie e standard per assicurare la sicurezza dell’interoperabilità tramite API dei sistemi informatici                                                                                                                 |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|[LG SVILUPPO]     |Linee guida per lo sviluppo del software sicuro                                                                                                                                                                                         |
++------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+--------
+
 
 |REPLACE5|
 
@@ -1733,4 +1768,12 @@ Da AGID il portale del \ |LINK181|\ :
 .. |LINK181| raw:: html
 
     <a href="https://monitoraggiopianotriennale.italia.it/" target="_blank">Monitoraggio del Piano triennale ICT nella PA</a>
+
+.. |LINK182| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-io-docs" target="_blank">Linee Guida per l'accesso telematico ai servizi della PA</a>
+
+.. |LINK183| raw:: html
+
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/_rst/capo7_art71.html" target="_blank">articolo 71 del CAD</a>
 
