@@ -11,7 +11,7 @@ developer
 
 |REPLACE2|
 
-:guilabel:`Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a`
+:guilabel:`Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a Queste ed altre indicazioni per Read the Docs si tovano anche a`  
 
 il testo vale
 
@@ -19,7 +19,7 @@ il testo vale
 
    questo testo non vale perchè abrogato.
 
-poi il testo vale di nuovo
+poi il testo vale di nuovo normale
 
 riferimenti
 
