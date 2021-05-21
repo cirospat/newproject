@@ -999,7 +999,7 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/sviluppo.png">
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/sviluppo.png"> icona sviluppo
 .. |REPLACE2| raw:: html
 
     Testo normale e poi 
