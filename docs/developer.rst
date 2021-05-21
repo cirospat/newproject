@@ -1003,7 +1003,7 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 .. |REPLACE2| raw:: html
 
     Testo normale e poi 
-    <span style="text-decoration: line-through;" > Testo barrato </span>
+    <span style="text-decoration: line-through;" > Testo barrato </span><br>
     e poi testo normale
     
 .. |REPLACE3| raw:: html
