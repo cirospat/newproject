@@ -72,9 +72,16 @@ riferimenti
 .. _h9271437c1966354f40765f4e5211:
 
 Trovare la pagina esatta in un file "PDF" online
-================================================
+************************************************
 
 :guilabel:`trovare la pagina esatta in un pdf online`: nel web è \ |LINK16|\  cioè dopo :class:`.pdf` digitare :class:`.#page=4` dove dopo :class:`=` si scrive il numero della pagina che si vuole venga visualizzata direttamente all'apertura del file ``pdf`` online
+
+.. _h21223364b2f64693fa293162151b:
+
+Visualizzatore Google per file pdf online
+=========================================
+
+Inserire prima dell'url dove si trova il file pdf online il seguente prefisso:  ``https://docs.google.com/viewer?url=``
 
 .. _h805243103032286b267b6e6e15e1b1b:
 
