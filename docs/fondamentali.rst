@@ -880,6 +880,15 @@ Linee guida emesse dall’AGID ai sensi dell’articolo 71 del CAD che sono rich
 
 --------
 
+.. _h4253275b56234772c4a7c5f673f4d4a:
+
+Contribuisci al miglioramento dei servizi pubblici digitali del Paese
+*********************************************************************
+
+\ |LINK184|\ . \ |LINK185|\  aiutare gli aspiranti contributori a migliorare, con azioni concrete, il software libero per la pubblica amministrazione, bene comune di tutto il Paese
+
+--------
+
 
 |REPLACE5|
 
@@ -1776,4 +1785,12 @@ Linee guida emesse dall’AGID ai sensi dell’articolo 71 del CAD che sono rich
 .. |LINK183| raw:: html
 
     <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/_rst/capo7_art71.html" target="_blank">articolo 71 del CAD</a>
+
+.. |LINK184| raw:: html
+
+    <a href="https://come-partecipo.italia.it/" target="_blank">Come partecipo</a>
+
+.. |LINK185| raw:: html
+
+    <a href="https://come-partecipo.italia.it/" target="_blank">Strumento pensato per</a>
 
