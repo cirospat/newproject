@@ -379,6 +379,10 @@ Lo \ |LINK105|\ . L'utente può prenotare l'appuntamento attraverso il portale o
 
 |
 
+Da maggio 2021 le deliberazioni di Giunta comunale sono gestite attraverso l'utilizzo della stessa piattaforma informatica delle determinazioni. Ciò comporta l'ottimizzazione del processo di lavoro per l'intero ciclo di vita della deliberazione e una riduzione dei tempi.
+
+|
+
 
 .. bottom of content
 
