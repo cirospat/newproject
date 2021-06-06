@@ -889,6 +889,69 @@ Contribuisci al miglioramento dei servizi pubblici digitali del Paese
 
 --------
 
+.. _h5f1e1f487f15634e93b2355f6f776:
+
+Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e Resilienza (PNRR) e prime misure di rafforzamento delle strutture amministrative e di accelerazione e snellimento delle procedure
+*****************************************************************************************************************************************************************************************************************
+
+\ |LINK186|\  \ |STYLE56|\ .
+
+* \ |STYLE57|\ : \ |STYLE58|\  
+
+    * modifica alla piattaforma per le notifiche digitali per semplificare e favorire l'uso del domicilio digitale;
+
+    * istituzione dell'avviso di cortesia con le stesse informazioni della PEC;
+
+    * istituzione del "sistema gestione deleghe" (SGD) dell'identità digitale;
+
+    * elezione del domicilio digitale anche attraverso trasmissione di un istanza o di una dichiarazione da parte del cittadino.
+
+* \ |STYLE59|\ : \ |STYLE60|\ 
+
+    * integrazione dei registri di stato civile e delle liste elettorali in ANPR per una più semplice fruizione da parte dei Comuni;
+
+    * semplificazione dei meccanismi di condivisione dei dati tra le PA favorendo l'interoperabilità  attraverso l'eliminazione dei cosiddetti accordi quadro;
+
+    * potenziamento della PDND (Piattaforma Digitale Nazionale Dati) con la previsione di un termine per le PA per l'accreditamento e la condivisione delle informazioni;
+
+    * introduzione di ulteriori basi di dati di interesse nazionale.
+
+* \ |STYLE61|\ : \ |STYLE62|\ .
+
+    * previsione di una disciplina semplificata per la realizzazione delle infrastrutture necessarie a garantire la copertura delle reti e dei servizi di comunicazione e connettività;
+
+    * riduzione a 90 giorni dei tempi per le procedure autorizzative decorsi i quali matura il silenzio assenso;
+
+    * eliminazione delle autorizzazioni per alcune tipologie di interventi di piccola entità.
+
+* \ |STYLE63|\ : \ |STYLE64|\ .
+
+    * introduzione dell'art. 18 bis del CAD che rafforza i poteri sanzionatori di AGID in caso di violazione degli obblighi di transizione digitale (ad esempio norme CAD, linee guida, previsioni Piano triennale ICT);
+
+    * previsione del fatto che le violazioni accertate incidono sulla valutazione della performance individuale dei dirigenti responsabili e comportano responsabilità dirigenziale e disciplinare;
+
+    * introduzione della procedura sanzionatoria relativa alla violazione del Codice di Condotta Tecnologica (art. 32 del D.L. 76/2020 che introduce art. 13-bis del CAD).
+
+* \ |STYLE65|\ : \ |STYLE66|\ .
+
+    * inroduzione della disciplina relativa alla piattaforma nazionale - intesa come sistema informativo nazionale - (Piattaforma Nazionale - Digital Green Certificate"PN-DGC) per l'emissione, la distribuzione e la validazione della certificazione verde Covid-19;
+
+    * realizzazione e gestione della piattaforma da parte della Società SOGEI SpA attraverso l'infrastruttura del Sistema Tessera Sanitaria.
+
+* \ |STYLE67|\ : \ |STYLE68|\ .
+
+\ |STYLE69|\   
+
+* \ |STYLE70|\ : \ |STYLE71|\ .
+
+    * previsione dell'affidamento diretto per tutti gli appalti fino al raggiungimento della soglia comunitaria;
+
+    * attribuzione del potere di rendere pareri obbligatori e vincolanti da parte del Dipartimento Trasformazione Digitale al fine di coordinare gli acquisti ICT strettamente finalizzati alla realizzazione del PNRR;
+
+    * introduzione dell'obbligo per le stazioni appaltanti di utilizzare piattaforme telematiche per le procedure ad evidenza pubblica.
+
+--------
+
 
 |REPLACE5|
 
@@ -1012,6 +1075,38 @@ Contribuisci al miglioramento dei servizi pubblici digitali del Paese
 .. |STYLE54| replace:: **favorire l’interazione tra PA e tra queste, cittadini e imprese, attraverso un approccio Contract-First**
 
 .. |STYLE55| replace:: **Obiettivo**
+
+.. |STYLE56| replace:: **Titolo II - Transizione digitale**
+
+.. |STYLE57| replace:: **art. 38**
+
+.. |STYLE58| replace:: **Misure  per  la  diffusione  delle  comunicazioni   digitali   delle pubbliche amministrazioni e divario digitale**
+
+.. |STYLE59| replace:: **art. 39**
+
+.. |STYLE60| replace:: **Semplificazione di dati pubblici**
+
+.. |STYLE61| replace:: **art. 40**
+
+.. |STYLE62| replace:: **Semplificazioni   del    procedimento    di    autorizzazione    per l'installazione di  infrastrutture  di  comunicazione  elettronica  e agevolazione per l'infrastrutturazione digitale degli edifici e delle unità immobiliari**
+
+.. |STYLE63| replace:: **art. 41**
+
+.. |STYLE64| replace:: **Violazione degli obblighi di transizione digitale**
+
+.. |STYLE65| replace:: **art. 42**
+
+.. |STYLE66| replace:: **Implementazione della piattaforma nazionale  per  l'emissione  e  la validazione delle certificazioni verdi COVID-19**
+
+.. |STYLE67| replace:: **art. 43**
+
+.. |STYLE68| replace:: **Disposizioni  urgenti  in  materia  di  digitalizzazione  e  servizi informatici del Ministero  delle  infrastrutture  e  della  mobilità sostenibili**
+
+.. |STYLE69| replace:: **Titolo V - Contratti pubblici**
+
+.. |STYLE70| replace:: **art. 53**
+
+.. |STYLE71| replace:: **Semplificazione  degli  acquisti  di  beni  e  servizi   informatici strumentali alla realizzazione del PNRR e in materia di procedure  di e-procurement e acquisto di beni e servizi informatici**
 
 
 .. |REPLACE1| raw:: html
@@ -1793,4 +1888,8 @@ Contribuisci al miglioramento dei servizi pubblici digitali del Paese
 .. |LINK185| raw:: html
 
     <a href="https://come-partecipo.italia.it/" target="_blank">Strumento pensato per</a>
+
+.. |LINK186| raw:: html
+
+    <a href="https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2021-05-31&atto.codiceRedazionale=21G00087&elenco30giorni=false" target="_blank">Decreto Legge 77/2021 in GURI</a>
 
