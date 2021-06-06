@@ -930,7 +930,7 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
     * previsione del fatto che le violazioni accertate incidono sulla valutazione della performance individuale dei dirigenti responsabili e comportano responsabilità dirigenziale e disciplinare;
 
-    * introduzione della procedura sanzionatoria relativa alla violazione del Codice di Condotta Tecnologica (art. 32 del D.L. 76/2020 che introduce art. 13-bis del CAD).
+    * introduzione della procedura sanzionatoria relativa alla violazione del Codice di Condotta Tecnologica (art. 32 del D.L. 76/2020 che introduce art. 13-bis del CAD). Vedi anche \ |LINK187|\  e leggi l'\ |LINK188|\ .
 
 * \ |STYLE65|\ : \ |STYLE66|\ .
 
@@ -940,7 +940,7 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
 * \ |STYLE67|\ : \ |STYLE68|\ .
 
-\ |LINK187|\   \ |STYLE69|\   
+\ |LINK189|\   \ |STYLE69|\   
 
 * \ |STYLE70|\ : \ |STYLE71|\ .
 
@@ -1894,6 +1894,14 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
     <a href="https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2021-05-31&atto.codiceRedazionale=21G00087&elenco30giorni=false" target="_blank">Decreto Legge 77/2021 in GURI</a>
 
 .. |LINK187| raw:: html
+
+    <a href="https://carta-dei-principi-tecnologici-del-procurement.readthedocs.io/" target="_blank">La carta dei principi tecnologici del procurement</a>
+
+.. |LINK188| raw:: html
+
+    <a href="https://medium.com/team-per-la-trasformazione-digitale/carta-dei-principi-tecnologici-del-procurement-pubblica-amministrazione-innovazione-dbdfcab2745" target="_blank">articolo di Diego Piacentini</a>
+
+.. |LINK189| raw:: html
 
     <a href="https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2021-05-31&atto.codiceRedazionale=21G00087&elenco30giorni=false" target="_blank">Decreto Legge 77/2021 in GURI</a>
 
