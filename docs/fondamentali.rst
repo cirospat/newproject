@@ -930,7 +930,7 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
     * previsione del fatto che le violazioni accertate incidono sulla valutazione della performance individuale dei dirigenti responsabili e comportano responsabilità dirigenziale e disciplinare;
 
-    * introduzione della procedura sanzionatoria relativa alla violazione del Codice di Condotta Tecnologica (\ |LINK187|\  che introduce art. 13-bis del CAD). Il codice di condotta tecnologica disciplina le modalità di progettazione, sviluppo e implementazione dei progetti, sistemi e servizi digitali delle amministrazioni pubbliche. Vedi anche \ |LINK188|\  e leggi l'\ |LINK189|\ .
+    * introduzione della procedura sanzionatoria relativa alla violazione del Codice di Condotta Tecnologica (\ |LINK187|\  che introduce art. 13-bis del CAD). Il codice di condotta tecnologica disciplina le modalità di progettazione, sviluppo e implementazione dei progetti, sistemi e servizi digitali delle amministrazioni pubbliche. Vedi anche \ |LINK188|\  e leggi un \ |LINK189|\ .
 
 * \ |STYLE65|\ : \ |STYLE66|\ .
 
