@@ -934,13 +934,13 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
 * \ |STYLE65|\ : \ |STYLE66|\ .
 
-    * inroduzione della disciplina relativa alla piattaforma nazionale - intesa come sistema informativo nazionale - (Piattaforma Nazionale - Digital Green Certificate"PN-DGC) per l'emissione, la distribuzione e la validazione della certificazione verde Covid-19;
+    * inroduzione della disciplina relativa alla piattaforma nazionale - intesa come sistema informativo nazionale - ("Piattaforma Nazionale - Digital Green Certificate" PN-DGC) per l'emissione, la distribuzione e la validazione della certificazione verde Covid-19;
 
     * realizzazione e gestione della piattaforma da parte della Società SOGEI SpA attraverso l'infrastruttura del Sistema Tessera Sanitaria.
 
 * \ |STYLE67|\ : \ |STYLE68|\ .
 
-\ |STYLE69|\   
+\ |LINK187|\   \ |STYLE69|\   
 
 * \ |STYLE70|\ : \ |STYLE71|\ .
 
@@ -1890,6 +1890,10 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
     <a href="https://come-partecipo.italia.it/" target="_blank">Strumento pensato per</a>
 
 .. |LINK186| raw:: html
+
+    <a href="https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2021-05-31&atto.codiceRedazionale=21G00087&elenco30giorni=false" target="_blank">Decreto Legge 77/2021 in GURI</a>
+
+.. |LINK187| raw:: html
 
     <a href="https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.dataPubblicazioneGazzetta=2021-05-31&atto.codiceRedazionale=21G00087&elenco30giorni=false" target="_blank">Decreto Legge 77/2021 in GURI</a>
 
