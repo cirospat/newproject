@@ -65,7 +65,7 @@ Wifi hotspot comunali di Palermo e accessi telematici alla ZTL
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" height="1500px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml"></iframe>
+    <iframe width="100%" height="1500px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml?gid=0&single=true"></iframe>
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/_K5hJClSHOA?t=917" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
