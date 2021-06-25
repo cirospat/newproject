@@ -407,6 +407,11 @@ Nel 2020 Palermo, scalando 64 posizioni in un anno, si era già collocata al 13�
 
 |
 
+16 giugno 2021, aggiornata l'app comunale \ |LINK110|\  che ora consente  la \ |LINK111|\ .
+
+|
+
+
 .. bottom of content
 
 
@@ -995,4 +1000,12 @@ Nel 2020 Palermo, scalando 64 posizioni in un anno, si era già collocata al 13�
 .. |LINK109| raw:: html
 
     <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=29921" target="_blank">Dal 77° posto del 2019 al 13° del 2020</a>
+
+.. |LINK110| raw:: html
+
+    <a href="https://play.google.com/store/apps/details?id=com.cittadigitale&hl=it" target="_blank">PalerMobilità</a>
+
+.. |LINK111| raw:: html
+
+    <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=31840&tipo=1" target="_blank">segnalazione di veicoli parcheggiati illecitamente negli stalli destinati a persone con disabilità</a>
 
