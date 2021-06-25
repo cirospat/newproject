@@ -383,6 +383,16 @@ Da maggio 2021 le deliberazioni di Giunta comunale sono gestite attraverso l'uti
 
 |
 
+Il 23 giugno 2021 è stato reso \ |LINK107|\ . Novità:
+
+* Restyling grafico e nuove sezioni dedicate ai cittadini che potranno interagire con più facilità attraverso i "servizi per tematica" e con tutte le notizie che riguardano le circoscrizioni comunali con i servizi erogati e le informazioni territoriali utili.
+
+* La sezione dedicata alle Circoscrizioni: accedendo a quella di appartenenza, saranno disponibili tutti i servizi e le informazioni accessibili nella circoscrizione. La sezione successiva costituisce il vero core innovativo del sito web: “I servizi per tematica”.
+
+* Rispetta il requisito “\ |STYLE63|\ ” per una ottimale navigazione attraverso i diversi dispositivi mobili ed è stato progettato secondo le linee guida AGID per l’accessibilità dei siti web della PA.
+
+|
+
 
 .. bottom of content
 
@@ -512,6 +522,8 @@ Da maggio 2021 le deliberazioni di Giunta comunale sono gestite attraverso l'uti
 .. |STYLE61| replace:: **Super@**
 
 .. |STYLE62| replace:: **Google Meet**
+
+.. |STYLE63| replace:: **mobile first**
 
 
 .. |REPLACE1| raw:: html
@@ -948,4 +960,8 @@ Da maggio 2021 le deliberazioni di Giunta comunale sono gestite attraverso l'uti
 .. |LINK106| raw:: html
 
     <a href="https://innovazione.gov.it/PAdigitale-protagonisti-palermo/" target="_blank">Un articolo, data 4 febbraio 2021, del Ministero per l'Innovazione Tecnologica e la digitalizzazione</a>
+
+.. |LINK107| raw:: html
+
+    <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=31914" target="_blank">disponibile il nuovo sito web istituzionale del comune di Palermo</a>
 
