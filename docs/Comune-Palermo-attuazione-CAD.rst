@@ -393,6 +393,17 @@ Il 23 giugno 2021 è stato reso \ |LINK107|\ . Novità:
 
 |
 
+Nel giugno 2021 viene  realizzata da FPA per Dedagroup Public Services, (società in prima linea nello sviluppo delle nuove infrastrutture pubbliche digitali del Paese), e presentata al FORUM PA 2021,  la \ |LINK108|\ . L’indagine analizza il grado di maturità digitale dei 110 comuni italiani capoluogo sulla base di tre dimensioni: 
+
+#. \ |STYLE64|\ , il livello di disponibilità online di 20 tra i principali servizi al cittadino e alle imprese; 
+
+#. \ |STYLE65|\ , l’integrazione dei Comuni con le principali piattaforme abilitanti individuate dal Piano triennale per l’informatica pubblica (SPID, CIE, PagoPA, ANPR); 
+
+#. \ |STYLE66|\ , la numerosità e l’interoperabilità degli open data e la comunicazione con i cittadini attraverso i canali social. 
+
+49 le città italiane che nel 2021 hanno raggiunto un livello elevato di maturità digitale. Nella fascia alta, 39 comuni mostrano performance almeno sufficienti in tutte le tre dimensioni esaminate ed elevate in almeno una di queste: Aosta, Arezzo, Bari, Bergamo, Bolzano, Brescia, Cagliari, Campobasso, Catania, Cremona, Cuneo, Ferrara, Forlì, Genova, La Spezia, Lecce, Lecco, Livorno, Lodi, Lucca, Matera, Monza, Napoli, Padova, \ |STYLE67|\ , Parma, Pavia, Prato, Ravenna, Reggio Emilia, Rimini, Siena, Torino, Trento, Treviso, Venezia, Vercelli, Verona, Vicenza. 
+
+|
 
 .. bottom of content
 
@@ -524,6 +535,14 @@ Il 23 giugno 2021 è stato reso \ |LINK107|\ . Novità:
 .. |STYLE62| replace:: **Google Meet**
 
 .. |STYLE63| replace:: **mobile first**
+
+.. |STYLE64| replace:: **Digital public services**
+
+.. |STYLE65| replace:: **Digital PA**
+
+.. |STYLE66| replace:: **Digital Openness**
+
+.. |STYLE67| replace:: **Palermo**
 
 
 .. |REPLACE1| raw:: html
@@ -964,4 +983,8 @@ Il 23 giugno 2021 è stato reso \ |LINK107|\ . Novità:
 .. |LINK107| raw:: html
 
     <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=31914" target="_blank">disponibile il nuovo sito web istituzionale del comune di Palermo</a>
+
+.. |LINK108| raw:: html
+
+    <a href="https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/report_digitalizzazione_enti/raw/main/Report_digitalizzazione__enti_pubblici/2021/indagine_maturita%CC%80_digitale_comuni_2021.pdf" target="_blank">pubblicazione edizione 2021 "Indagine sulla maturità digitale dei Comuni capoluogo”</a>
 
