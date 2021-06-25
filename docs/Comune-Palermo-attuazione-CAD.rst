@@ -403,6 +403,8 @@ Nel giugno 2021 viene  realizzata da FPA per Dedagroup Public Services, (societ�
 
 49 le città italiane che nel 2021 hanno raggiunto un livello elevato di maturità digitale. Nella fascia alta, 39 comuni mostrano performance almeno sufficienti in tutte le tre dimensioni esaminate ed elevate in almeno una di queste: Aosta, Arezzo, Bari, Bergamo, Bolzano, Brescia, Cagliari, Campobasso, Catania, Cremona, Cuneo, Ferrara, Forlì, Genova, La Spezia, Lecce, Lecco, Livorno, Lodi, Lucca, Matera, Monza, Napoli, Padova, \ |STYLE67|\ , Parma, Pavia, Prato, Ravenna, Reggio Emilia, Rimini, Siena, Torino, Trento, Treviso, Venezia, Vercelli, Verona, Vicenza. 
 
+Nel 2020 Palermo, scalando 64 posizioni in un anno, si era già collocata al 13° posto tra le 107 città capoluogo italiane nella \ |STYLE68|\  (report a cura di FPA). \ |LINK109|\ .
+
 |
 
 .. bottom of content
@@ -543,6 +545,8 @@ Nel giugno 2021 viene  realizzata da FPA per Dedagroup Public Services, (societ�
 .. |STYLE66| replace:: **Digital Openness**
 
 .. |STYLE67| replace:: **Palermo**
+
+.. |STYLE68| replace:: **iCityRank 2020**
 
 
 .. |REPLACE1| raw:: html
@@ -987,4 +991,8 @@ Nel giugno 2021 viene  realizzata da FPA per Dedagroup Public Services, (societ�
 .. |LINK108| raw:: html
 
     <a href="https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/report_digitalizzazione_enti/raw/main/Report_digitalizzazione__enti_pubblici/2021/indagine_maturita%CC%80_digitale_comuni_2021.pdf" target="_blank">pubblicazione edizione 2021 "Indagine sulla maturità digitale dei Comuni capoluogo”</a>
+
+.. |LINK109| raw:: html
+
+    <a href="https://www.comune.palermo.it/noticext.php?cat=1&id=29921" target="_blank">Dal 77° posto del 2019 al 13° del 2020</a>
 
