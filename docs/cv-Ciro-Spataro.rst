@@ -400,7 +400,7 @@ Il CV è disponibile a questo \ |LINK40|\  per essere fruito in diversi formati 
 
 .. |LINK34| raw:: html
 
-    <a href="https://medium.com/@cirospat/latest" target="_blank">medium.com/@cirospat</a>
+    <a href="https://cirospat.medium.com/" target="_blank">medium.com</a>
 
 .. |LINK35| raw:: html
 
