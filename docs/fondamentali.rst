@@ -646,10 +646,9 @@ Le \ |LINK107|\  (su Docs Italia) sono emanate secondo la procedura prevista dal
 
 |REPLACE4|
 
-.. _h687069f4c7b637b12f321e5e383c6f:
+|
 
-IL 25/06/2021 AGID ha pubblicato il Regolamento sui criteri per la fornitura di servizi di conservazione dei documenti informatici
-==================================================================================================================================
+\ |STYLE45|\ 
 
 \ |LINK132|\ .
 
@@ -790,23 +789,23 @@ Linea di indirizzo sulla "interoperabilità tecnica". Circolare AGID n. 1/2020 d
 
 \ |LINK171|\ . I documenti individuano le tecnologie e gli standard che le Pubbliche Amministrazioni devono tenere in considerazione nella realizzazione dei propri sistemi informatici, al fine di permettere il coordinamento informatico dei dati tra le amministrazioni nonché tra i gestori di servizi pubblici e i soggetti privati e l’Unione Europea. 
 
-La Linea di indirizzo sull’interoperabilità tecnica contribuisce alla definizione del \ |STYLE45|\  (in breve ModI), in coerenza con il nuovo \ |STYLE46|\  (in breve \ |LINK172|\ ) oggetto della Comunicazione COM (2017) 134 della Commissione Europea del 23 marzo 2017.
+La Linea di indirizzo sull’interoperabilità tecnica contribuisce alla definizione del \ |STYLE46|\  (in breve ModI), in coerenza con il nuovo \ |STYLE47|\  (in breve \ |LINK172|\ ) oggetto della Comunicazione COM (2017) 134 della Commissione Europea del 23 marzo 2017.
 
-La Circolare \ |STYLE47|\  proseguendo nel processo di aggiornamento avviato con la \ |LINK173|\ , \ |STYLE48|\ , ai sensi dell’articolo 71 del CAD, \ |STYLE49|\  \ |LINK174|\ .
+La Circolare \ |STYLE48|\  proseguendo nel processo di aggiornamento avviato con la \ |LINK173|\ , \ |STYLE49|\ , ai sensi dell’articolo 71 del CAD, \ |STYLE50|\  \ |LINK174|\ .
 
 La Linea di indirizzo sull’interoperabilità tecnica è applicabile ai soli servizi digitali realizzati da una Pubblica Amministrazione.
 
 La Linea di indirizzo sull’interoperabilità tecnica provvede a:
 
-* \ |STYLE50|\ , indirizzando le scelte architetturali di interoperabilità delle PA; 
+* \ |STYLE51|\ , indirizzando le scelte architetturali di interoperabilità delle PA; 
 
-* \ |STYLE51|\  che semplifichino e abilitino l’utilizzo dei dati e dei servizi digitali; 
+* \ |STYLE52|\  che semplifichino e abilitino l’utilizzo dei dati e dei servizi digitali; 
 
-* \ |STYLE52|\  per favorire la separazione dei livelli di backend e frontend, con logiche aperte e standard pubblici che garantiscano ad altri attori, pubblici e privati, accessibilità e massima interoperabilità di dati e servizi digitali;
+* \ |STYLE53|\  per favorire la separazione dei livelli di backend e frontend, con logiche aperte e standard pubblici che garantiscano ad altri attori, pubblici e privati, accessibilità e massima interoperabilità di dati e servizi digitali;
 
-* \ |STYLE53|\ ;
+* \ |STYLE54|\ ;
 
-* \ |STYLE54|\ .
+* \ |STYLE55|\ .
 
 Allegati:
 
@@ -835,7 +834,7 @@ Corso online gratuito sull'intelligenza artificiale "Elements of AI" rivolto ai 
 
 Un corso online gratuito rivolto a tutti coloro che sono interessati a imparare cosa sia l'Intelligenza Artificiale, per cosa possa (e non possa) essere utilizzata e come influenzi le nostre vite. Non sono necessarie conoscenze matematiche o di programmazione avanzate. 
 
-\ |STYLE55|\ : incoraggiare più persone possibili a imparare cosa sia l'Intelligenza Artificiale e i suoi campi di applicazione. I corsi combinano teoria ed esercizi pratici e possono essere seguiti ai ritmi e negli orari preferiti.
+\ |STYLE56|\ : incoraggiare più persone possibili a imparare cosa sia l'Intelligenza Artificiale e i suoi campi di applicazione. I corsi combinano teoria ed esercizi pratici e possono essere seguiti ai ritmi e negli orari preferiti.
 
 --------
 
@@ -903,9 +902,9 @@ Contribuisci al miglioramento dei servizi pubblici digitali del Paese
 Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e Resilienza (PNRR) e prime misure di rafforzamento delle strutture amministrative e di accelerazione e snellimento delle procedure
 *****************************************************************************************************************************************************************************************************************
 
-\ |LINK188|\  \ |STYLE56|\ .
+\ |LINK188|\  \ |STYLE57|\ .
 
-* \ |STYLE57|\ : \ |STYLE58|\  
+* \ |STYLE58|\ : \ |STYLE59|\  
 
     * modifica alla piattaforma per le notifiche digitali per semplificare e favorire l'uso del domicilio digitale;
 
@@ -915,7 +914,7 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
     * elezione del domicilio digitale anche attraverso trasmissione di un istanza o di una dichiarazione da parte del cittadino.
 
-* \ |STYLE59|\ : \ |STYLE60|\ 
+* \ |STYLE60|\ : \ |STYLE61|\ 
 
     * integrazione dei registri di stato civile e delle liste elettorali in ANPR per una più semplice fruizione da parte dei Comuni;
 
@@ -925,7 +924,7 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
     * introduzione di ulteriori basi di dati di interesse nazionale.
 
-* \ |STYLE61|\ : \ |STYLE62|\ .
+* \ |STYLE62|\ : \ |STYLE63|\ .
 
     * previsione di una disciplina semplificata per la realizzazione delle infrastrutture necessarie a garantire la copertura delle reti e dei servizi di comunicazione e connettività;
 
@@ -933,7 +932,7 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
     * eliminazione delle autorizzazioni per alcune tipologie di interventi di piccola entità.
 
-* \ |STYLE63|\ : \ |STYLE64|\ .
+* \ |STYLE64|\ : \ |STYLE65|\ .
 
     * introduzione dell'art. 18 bis del CAD che rafforza i poteri sanzionatori di AGID in caso di violazione degli obblighi di transizione digitale (ad esempio norme CAD, linee guida, previsioni Piano triennale ICT);
 
@@ -941,17 +940,17 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
     * introduzione della procedura sanzionatoria relativa alla violazione del Codice di Condotta Tecnologica (\ |LINK189|\  che introduce art. 13-bis del CAD). Il codice di condotta tecnologica disciplina le modalità di progettazione, sviluppo e implementazione dei progetti, sistemi e servizi digitali delle amministrazioni pubbliche. Vedi anche \ |LINK190|\  e leggi un \ |LINK191|\ .
 
-* \ |STYLE65|\ : \ |STYLE66|\ .
+* \ |STYLE66|\ : \ |STYLE67|\ .
 
     * inroduzione della disciplina relativa alla piattaforma nazionale - intesa come sistema informativo nazionale - ("Piattaforma Nazionale - Digital Green Certificate" PN-DGC) per l'emissione, la distribuzione e la validazione della certificazione verde Covid-19;
 
     * realizzazione e gestione della piattaforma da parte della Società SOGEI SpA attraverso l'infrastruttura del Sistema Tessera Sanitaria.
 
-* \ |STYLE67|\ : \ |STYLE68|\ .
+* \ |STYLE68|\ : \ |STYLE69|\ .
 
-\ |LINK192|\   \ |STYLE69|\   
+\ |LINK192|\   \ |STYLE70|\   
 
-* \ |STYLE70|\ : \ |STYLE71|\ .
+* \ |STYLE71|\ : \ |STYLE72|\ .
 
     * previsione dell'affidamento diretto per tutti gli appalti fino al raggiungimento della soglia comunitaria;
 
@@ -1063,59 +1062,61 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
 .. |STYLE44| replace:: **e sostituita dall’allegato n.6**
 
-.. |STYLE45| replace:: **Modello di Interoperabilità della PA**
+.. |STYLE45| replace:: **Il 25/06/2021 AGID ha pubblicato il Regolamento sui criteri per la fornitura di servizi di conservazione dei documenti informatici**
 
-.. |STYLE46| replace:: **European Interoperability Framework**
+.. |STYLE46| replace:: **Modello di Interoperabilità della PA**
 
-.. |STYLE47| replace:: **aggiorna il Sistema pubblico di cooperazione (SPCoop)**
+.. |STYLE47| replace:: **European Interoperability Framework**
 
-.. |STYLE48| replace:: **nelle more delle predisposizione**
+.. |STYLE48| replace:: **aggiorna il Sistema pubblico di cooperazione (SPCoop)**
 
-.. |STYLE49| replace:: **delle**
+.. |STYLE49| replace:: **nelle more delle predisposizione**
 
-.. |STYLE50| replace:: **definire le modalità di integrazione tra le PA, e tra queste cittadini e imprese**
+.. |STYLE50| replace:: **delle**
 
-.. |STYLE51| replace:: **individuare le scelte tecnologiche che favoriscano lo sviluppo, da parte delle PA, cittadini e imprese, di soluzioni applicative innovative**
+.. |STYLE51| replace:: **definire le modalità di integrazione tra le PA, e tra queste cittadini e imprese**
 
-.. |STYLE52| replace:: **promuovere l’adozione dell’approccio “API first”**
+.. |STYLE52| replace:: **individuare le scelte tecnologiche che favoriscano lo sviluppo, da parte delle PA, cittadini e imprese, di soluzioni applicative innovative**
 
-.. |STYLE53| replace:: **privilegiare standard tecnologici, de iure e de facto, che soddisfino l’esigenza di rendere sicure le interazioni tra le PA e tra queste, cittadini e imprese**
+.. |STYLE53| replace:: **promuovere l’adozione dell’approccio “API first”**
 
-.. |STYLE54| replace:: **favorire l’interazione tra PA e tra queste, cittadini e imprese, attraverso un approccio Contract-First**
+.. |STYLE54| replace:: **privilegiare standard tecnologici, de iure e de facto, che soddisfino l’esigenza di rendere sicure le interazioni tra le PA e tra queste, cittadini e imprese**
 
-.. |STYLE55| replace:: **Obiettivo**
+.. |STYLE55| replace:: **favorire l’interazione tra PA e tra queste, cittadini e imprese, attraverso un approccio Contract-First**
 
-.. |STYLE56| replace:: **Titolo II - Transizione digitale**
+.. |STYLE56| replace:: **Obiettivo**
 
-.. |STYLE57| replace:: **art. 38**
+.. |STYLE57| replace:: **Titolo II - Transizione digitale**
 
-.. |STYLE58| replace:: **Misure  per  la  diffusione  delle  comunicazioni   digitali   delle pubbliche amministrazioni e divario digitale**
+.. |STYLE58| replace:: **art. 38**
 
-.. |STYLE59| replace:: **art. 39**
+.. |STYLE59| replace:: **Misure  per  la  diffusione  delle  comunicazioni   digitali   delle pubbliche amministrazioni e divario digitale**
 
-.. |STYLE60| replace:: **Semplificazione di dati pubblici**
+.. |STYLE60| replace:: **art. 39**
 
-.. |STYLE61| replace:: **art. 40**
+.. |STYLE61| replace:: **Semplificazione di dati pubblici**
 
-.. |STYLE62| replace:: **Semplificazioni   del    procedimento    di    autorizzazione    per l'installazione di  infrastrutture  di  comunicazione  elettronica  e agevolazione per l'infrastrutturazione digitale degli edifici e delle unità immobiliari**
+.. |STYLE62| replace:: **art. 40**
 
-.. |STYLE63| replace:: **art. 41**
+.. |STYLE63| replace:: **Semplificazioni   del    procedimento    di    autorizzazione    per l'installazione di  infrastrutture  di  comunicazione  elettronica  e agevolazione per l'infrastrutturazione digitale degli edifici e delle unità immobiliari**
 
-.. |STYLE64| replace:: **Violazione degli obblighi di transizione digitale**
+.. |STYLE64| replace:: **art. 41**
 
-.. |STYLE65| replace:: **art. 42**
+.. |STYLE65| replace:: **Violazione degli obblighi di transizione digitale**
 
-.. |STYLE66| replace:: **Implementazione della piattaforma nazionale  per  l'emissione  e  la validazione delle certificazioni verdi COVID-19**
+.. |STYLE66| replace:: **art. 42**
 
-.. |STYLE67| replace:: **art. 43**
+.. |STYLE67| replace:: **Implementazione della piattaforma nazionale  per  l'emissione  e  la validazione delle certificazioni verdi COVID-19**
 
-.. |STYLE68| replace:: **Disposizioni  urgenti  in  materia  di  digitalizzazione  e  servizi informatici del Ministero  delle  infrastrutture  e  della  mobilità sostenibili**
+.. |STYLE68| replace:: **art. 43**
 
-.. |STYLE69| replace:: **Titolo V - Contratti pubblici**
+.. |STYLE69| replace:: **Disposizioni  urgenti  in  materia  di  digitalizzazione  e  servizi informatici del Ministero  delle  infrastrutture  e  della  mobilità sostenibili**
 
-.. |STYLE70| replace:: **art. 53**
+.. |STYLE70| replace:: **Titolo V - Contratti pubblici**
 
-.. |STYLE71| replace:: **Semplificazione  degli  acquisti  di  beni  e  servizi   informatici strumentali alla realizzazione del PNRR e in materia di procedure  di e-procurement e acquisto di beni e servizi informatici**
+.. |STYLE71| replace:: **art. 53**
+
+.. |STYLE72| replace:: **Semplificazione  degli  acquisti  di  beni  e  servizi   informatici strumentali alla realizzazione del PNRR e in materia di procedure  di e-procurement e acquisto di beni e servizi informatici**
 
 
 .. |REPLACE1| raw:: html
