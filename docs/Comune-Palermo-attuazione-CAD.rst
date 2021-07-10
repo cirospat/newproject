@@ -411,6 +411,10 @@ Nel 2020 Palermo, scalando 64 posizioni in un anno, si era già collocata al 13�
 
 |
 
+Al giugno 2021 è stato reso disponibile il \ |LINK112|\  che rispetta il requisito “\ |STYLE69|\ ” per una ottimale navigazione attraverso i diversi dispositivi mobili ed è stato progettato secondo le linee guida AGID per l’\ |STYLE70|\  dei siti web della PA". La realizzazione del nuovo sito istituzionale ha come obiettivo, oltre che il restyling grafico, la reingegnerizzazione architetturale ponendo il cittadino al centro dell'attenzione, facilitando l’accesso ai servizi erogati dal Comune di Palermo.
+
+|
+
 Al giugno 2021 è stato compilato, in collaborazione con la società in house SISPI, il questionario AGID sulla rilevazione della spesa ICT del 2020.
 
 |
@@ -556,6 +560,10 @@ Al giugno 2021 è stato compilato, in collaborazione con la società in house SI
 .. |STYLE67| replace:: **Palermo**
 
 .. |STYLE68| replace:: **iCityRank 2020**
+
+.. |STYLE69| replace:: **mobile first**
+
+.. |STYLE70| replace:: **accessibilità**
 
 
 .. |REPLACE1| raw:: html
@@ -1012,4 +1020,8 @@ Al giugno 2021 è stato compilato, in collaborazione con la società in house SI
 .. |LINK111| raw:: html
 
     <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=31840&tipo=1" target="_blank">segnalazione di veicoli parcheggiati illecitamente negli stalli destinati a persone con disabilità</a>
+
+.. |LINK112| raw:: html
+
+    <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=31914" target="_blank">nuovo sito web istituzionale</a>
 
