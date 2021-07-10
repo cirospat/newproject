@@ -411,6 +411,10 @@ Nel 2020 Palermo, scalando 64 posizioni in un anno, si era già collocata al 13�
 
 |
 
+Al giugno 2021 è stato compilato, in collaborazione con la società in house SISPI, il questionario AGID sulla rilevazione della spesa ICT del 2020.
+
+|
+
 
 .. bottom of content
 
