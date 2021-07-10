@@ -417,6 +417,8 @@ Al giugno 2021 è stato reso disponibile il \ |LINK112|\  che rispetta il requis
 
 Al giugno 2021 è stato compilato, in collaborazione con la società in house SISPI, il questionario AGID sulla rilevazione della spesa ICT del 2020.
 
+E' stata altresì compilata, in collaborazione con la società in house SISPI, la scheda AGID sull'accessibilità delle APP del comune (ZTL, PalerMobilità, Librarsi). Riferimento al \ |LINK113|\  (\ |STYLE71|\ ).
+
 |
 
 
@@ -564,6 +566,8 @@ Al giugno 2021 è stato compilato, in collaborazione con la società in house SI
 .. |STYLE69| replace:: **mobile first**
 
 .. |STYLE70| replace:: **accessibilità**
+
+.. |STYLE71| replace:: *le PA devono pubblicare, entro il 23 giugno 2021, la dichiarazione di accessibilità per le APP mobili, tramite l’applicazione form.agid.gov.it*
 
 
 .. |REPLACE1| raw:: html
@@ -1024,4 +1028,8 @@ Al giugno 2021 è stato compilato, in collaborazione con la società in house SI
 .. |LINK112| raw:: html
 
     <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=31914" target="_blank">nuovo sito web istituzionale</a>
+
+.. |LINK113| raw:: html
+
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/capitolo-1-servizi/cosa-devono-fare-le-pa.html" target="_blank">CAP1.PA.LA15 del Piano triennale AGID per l'informatica 2020-2022</a>
 
