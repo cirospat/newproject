@@ -421,6 +421,10 @@ E' stata altresì compilata, in collaborazione con la società in house SISPI, l
 
 |
 
+Il 20 luglio 2021 è stata presentata pubblicamente la \ |LINK114|\ . Istanze via internet in pochi clic per effettuare richieste agli uffici comunali sullo \ |STYLE72|\ , \ |STYLE73|\ , risposte più rapide agli utenti, \ |STYLE74|\  che, intendono usufruire del \ |STYLE75|\  e necessitano di acquisire gli \ |STYLE76|\ .
+
+|
+
 
 .. bottom of content
 
@@ -568,6 +572,16 @@ E' stata altresì compilata, in collaborazione con la società in house SISPI, l
 .. |STYLE70| replace:: **accessibilità**
 
 .. |STYLE71| replace:: *le PA devono pubblicare, entro il 23 giugno 2021, la dichiarazione di accessibilità per le APP mobili, tramite l’applicazione form.agid.gov.it*
+
+.. |STYLE72| replace:: **stato legittimo degli immobili**
+
+.. |STYLE73| replace:: **certezza sui contenuti e sui tempi delle richieste**
+
+.. |STYLE74| replace:: **evidenza sulle pratiche in scadenza e istituzione di un servizio digitale a supporto degli utenti**
+
+.. |STYLE75| replace:: **superbonus 110%**
+
+.. |STYLE76| replace:: **atti edilizi relativi all’edificio**
 
 
 .. |REPLACE1| raw:: html
@@ -1032,4 +1046,8 @@ E' stata altresì compilata, in collaborazione con la società in house SISPI, l
 .. |LINK113| raw:: html
 
     <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/capitolo-1-servizi/cosa-devono-fare-le-pa.html" target="_blank">CAP1.PA.LA15 del Piano triennale AGID per l'informatica 2020-2022</a>
+
+.. |LINK114| raw:: html
+
+    <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=32150" target="_blank">piattaforma informatica accesso atti e sportello digitale superbonus 110%</a>
 
