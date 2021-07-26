@@ -963,7 +963,7 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
 |
 
-\ |LINK193|\  di conversione in legge del DL 31 maggio 2021, n. 77. \ |LINK194|\  del 23 luglio 2021.
+\ |LINK193|\  di conversione in legge del DL 31 maggio 2021, n. 77. \ |LINK194|\  del 23 luglio 2021 ↓
 
 .. admonition:: Novità sul digitale
 
