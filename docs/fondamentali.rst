@@ -965,13 +965,13 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
 \ |LINK193|\  (conversione in legge del DL 31 maggio 2021, n. 77) 
 
-.. admonition:: Novità
+.. admonition:: Novità sul digitale
 
     \ |STYLE73|\  
     
-    * Infrastrutture necessarie per la banda ultra larga 
+    * \ |STYLE74|\  
     
-    * Diffusione delle comunicazioni digitali delle pubbliche amministrazioni (art. 38)
+    * \ |STYLE75|\ 
     
         * In tutti i casi di notifica digitale la piattaforma invierà anche un “avviso di cortesia” a chi ha comunicato anche una mail non certificata o un numero di telefono: un messaggio semplice con gli stessi dati contenuti nella notifica via PEC. 
     
@@ -983,7 +983,7 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
     
         * Infine, per tutelare i cittadini dagli effetti del digital divide, nel momento in cui sarà completata la transizione e tutte le comunicazioni saranno digitali,si prevede che debba essere attribuito un domicilio digitale per tutti coloro che ancora non lo hanno
     
-    * Semplificazione di dati pubblici (art. 39)
+    * \ |STYLE76|\ 
     
         * la certificazione dei dati anagrafici rilasciata in modalità telematica sarà esente da imposta di bollo e diritti di segreteria (limitatamente al 2021); 
     
@@ -993,11 +993,11 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
     
         * definizione di un termine perentorio per la condivisione a regime delle banche dati; 
     
-        * incrementa il numero di banche dati coinvolte perché “di interesse pubblico” (sono aggiunti l’archivio dei veicoli e l’anagrafe degli abilitati alla guida, la banca dati ISEE, l’anagrafe dei domicili digitali); 
+        * incrementa il numero di banche dati coinvolte perché “di interesse pubblico” (sono aggiunti l’archivio dei veicoli e l’anagrafe degli abilitati alla guida, la banca dati ISEE, l’anagrafe dei domicili digitali). 
     
         * definisce regole in caso di illecito utilizzo da parte dei fruitori dei dati.
     
-    * Violazione degli obblighi di transizione digitale (art. 41). L’Agid dovrà monitorare il rispetto delle norme sull’uso del digitale da parte delle Pa, e i dirigenti che si renderanno responsabili di frenare la transizione al digitale pagheranno con sanzioni economiche e fino al licenziamento. Tra i cattivi comportamenti sanzionabili ci sono:  
+    * \ |STYLE77|\ . L’Agid dovrà monitorare il rispetto delle norme sull’uso del digitale da parte delle Pa, e i dirigenti che si renderanno responsabili di frenare la transizione al digitale pagheranno con sanzioni economiche e fino al licenziamento. Tra i cattivi comportamenti sanzionabili ci sono:  
     
         * la mancata ottemperanza alla richiesta di dati, documenti o informazioni o trasmissione di informazioni o dati parziali o non veritieri;  
     
@@ -1016,10 +1016,6 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
         * la violazione dell’obbligo di consentire agli utenti di esprimere soddisfazione per i servizi in rete; 
     
         * la mancata comunicazione agli interessati delle modalità per esercitare in via telematica il diritto dei partecipanti al procedimento di prendere visione degli atti del procedimento e di presentare memorie scritte e documenti.
-    
-    \ |STYLE74|\  
-    
-    \ |STYLE75|\ 
 
 --------
 
@@ -1183,9 +1179,13 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
 .. |STYLE73| replace:: **SEMPLIFICAZIONE PER L’INNOVAZIONE TECNOLOGICA E LA TRANSIZIONE DIGITALE**
 
-.. |STYLE74| replace:: **SEMPLIFICAZIONE DELLE PROCEDURE DI APPALTO**
+.. |STYLE74| replace:: **Infrastrutture necessarie per la banda ultra larga.**
 
-.. |STYLE75| replace:: **RAFFORZAMENTO DEL SILENZIO ASSENSO E DEI POTERI SOSTITUTIVI PER ACCELERARE LE PROCEDURE PER CITTADINI E IMPRESE**
+.. |STYLE75| replace:: **Diffusione delle comunicazioni digitali delle pubbliche amministrazioni (art. 38).**
+
+.. |STYLE76| replace:: **Semplificazione di dati pubblici (art. 39).**
+
+.. |STYLE77| replace:: **Violazione degli obblighi di transizione digitale (art. 41)**
 
 
 .. |REPLACE1| raw:: html
@@ -1998,5 +1998,5 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
 .. |LINK193| raw:: html
 
-    <a href="http://www.funzionepubblica.gov.it/sites/funzionepubblica.gov.it/files/documenti/Ministro%20PA/Brunetta/slide_semplificazioni_24%20luglio_2021.pdf" target="_blank">DL Semplificazioni 24 luglio 2021</a>
+    <a href="http://www.funzionepubblica.gov.it/sites/funzionepubblica.gov.it/files/documenti/Ministro%20PA/Brunetta/slide_semplificazioni_24%20luglio_2021.pdf" target="_blank">DL Semplificazioni 24 luglio 2021 (slide)</a>
 
