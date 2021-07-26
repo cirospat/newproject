@@ -961,6 +961,66 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
     * introduzione dell'obbligo per le stazioni appaltanti di utilizzare piattaforme telematiche per le procedure ad evidenza pubblica.
 
+|
+
+\ |LINK193|\  (conversione in legge del DL 31 maggio 2021, n. 77) 
+
+.. admonition:: Novità
+
+    \ |STYLE73|\  
+    
+    * Infrastrutture necessarie per la banda ultra larga 
+    
+    * Diffusione delle comunicazioni digitali delle pubbliche amministrazioni (art. 38)
+    
+        * In tutti i casi di notifica digitale la piattaforma invierà anche un “avviso di cortesia” a chi ha comunicato anche una mail non certificata o un numero di telefono: un messaggio semplice con gli stessi dati contenuti nella notifica via PEC. 
+    
+        * Sarà possibile eleggere un domicilio digitale speciale che non abbia valenza generale, ma solo per determinati atti o in occasione della presentazione di un’istanza alla pubblica amministrazione.
+    
+        * Sarà possibile per chiunque delegare l’accesso a uno o più servizi digitali e analogici a un altro soggetto titolare di identità digitale (e questa delega potrà essere creata sia mediante il canale digitale che quello fisico, con l’acquisizione della delega cartacea presso lo sportello). 
+    
+        * I dati contenuti nell’Indice dei domicili digitali saranno integrati nell’Anagrafe nazionale della popolazione residente (ANPR) 
+    
+        * Infine, per tutelare i cittadini dagli effetti del digital divide, nel momento in cui sarà completata la transizione e tutte le comunicazioni saranno digitali,si prevede che debba essere attribuito un domicilio digitale per tutti coloro che ancora non lo hanno
+    
+    * Semplificazione di dati pubblici (art. 39)
+    
+        * la certificazione dei dati anagrafici rilasciata in modalità telematica sarà esente da imposta di bollo e diritti di segreteria (limitatamente al 2021); 
+    
+        * saranno garantiti a tutti Comuni, progressivamente, i servizi per utilizzare l’archivio nazionale dei registri dello stato civile contenuto nell’Anagrafe nazionale della popolazione residente; 
+    
+        * saranno integrate nell’ANPR anche le liste elettorali comunali (con dati eventualmente anche divisi per sezione elettorale).
+    
+        * definizione di un termine perentorio per la condivisione a regime delle banche dati; 
+    
+        * incrementa il numero di banche dati coinvolte perché “di interesse pubblico” (sono aggiunti l’archivio dei veicoli e l’anagrafe degli abilitati alla guida, la banca dati ISEE, l’anagrafe dei domicili digitali); 
+    
+        * definisce regole in caso di illecito utilizzo da parte dei fruitori dei dati.
+    
+    * Violazione degli obblighi di transizione digitale (art. 41). L’Agid dovrà monitorare il rispetto delle norme sull’uso del digitale da parte delle Pa, e i dirigenti che si renderanno responsabili di frenare la transizione al digitale pagheranno con sanzioni economiche e fino al licenziamento. Tra i cattivi comportamenti sanzionabili ci sono:  
+    
+        * la mancata ottemperanza alla richiesta di dati, documenti o informazioni o trasmissione di informazioni o dati parziali o non veritieri;  
+    
+        * la violazione dell’obbligo di accettare i pagamenti spettanti attraverso sistemi di pagamento elettronico;  
+    
+        * la mancata disponibilità di dati in formato elettronico entro la data stabilita dal Presidente del Consiglio;  
+    
+        * l'inadempimento dell'obbligo di rendere disponibili e accessibili le proprie basi dati;  
+    
+        * la violazione dell’obbligo di utilizzare esclusivamente identità digitali per l’identificazione degli utenti dei servizi on-line; 
+    
+        * la violazione dell’obbligo di rendere disponibili i propri servizi in rete;  
+    
+        * la non ottemperanza al rispetto delle regole in materia di livelli minimi di sicurezza, capacità elaborativa, risparmio energetico e affidabilità delle infrastrutture digitali;  
+    
+        * la violazione dell’obbligo di consentire agli utenti di esprimere soddisfazione per i servizi in rete; 
+    
+        * la mancata comunicazione agli interessati delle modalità per esercitare in via telematica il diritto dei partecipanti al procedimento di prendere visione degli atti del procedimento e di presentare memorie scritte e documenti.
+    
+    \ |STYLE74|\  
+    
+    \ |STYLE75|\ 
+
 --------
 
 
@@ -1120,6 +1180,12 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 .. |STYLE71| replace:: **art. 53**
 
 .. |STYLE72| replace:: **Semplificazione  degli  acquisti  di  beni  e  servizi   informatici strumentali alla realizzazione del PNRR e in materia di procedure  di e-procurement e acquisto di beni e servizi informatici**
+
+.. |STYLE73| replace:: **SEMPLIFICAZIONE PER L’INNOVAZIONE TECNOLOGICA E LA TRANSIZIONE DIGITALE**
+
+.. |STYLE74| replace:: **SEMPLIFICAZIONE DELLE PROCEDURE DI APPALTO**
+
+.. |STYLE75| replace:: **RAFFORZAMENTO DEL SILENZIO ASSENSO E DEI POTERI SOSTITUTIVI PER ACCELERARE LE PROCEDURE PER CITTADINI E IMPRESE**
 
 
 .. |REPLACE1| raw:: html
@@ -1929,4 +1995,8 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 .. |LINK192| raw:: html
 
     <a href="https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=13&art.flagTipoArticolo=0&art.codiceRedazionale=21G00087&art.idArticolo=53&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2021-05-31&art.progressivo=0#art" target="_blank">Decreto Legge 77/2021 in GURI</a>
+
+.. |LINK193| raw:: html
+
+    <a href="http://www.funzionepubblica.gov.it/sites/funzionepubblica.gov.it/files/documenti/Ministro%20PA/Brunetta/slide_semplificazioni_24%20luglio_2021.pdf" target="_blank">DL Semplificazioni 24 luglio 2021</a>
 
