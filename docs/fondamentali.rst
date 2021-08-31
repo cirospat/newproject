@@ -59,7 +59,7 @@ Dati.gov.it - catalogo nazionale dei metadati relativi ai dati rilasciati in for
 CAD - Codice dell’Amministrazione Digitale
 ******************************************
 
-\ |LINK5|\  include anche le versioni precedenti a cominciare dal 2005.
+\ |LINK5|\  include anche le versioni precedenti a cominciare dal 2005 (D.Lgs.82/2005).
 
 \ |STYLE0|\ , \ |LINK6|\  la mappa online e interattiva della storia del Codice dell'Amministrazione Digitale (CAD), a partire dalla sua prima versione nel lontano 2005 (a cura di Giovanni Pirrotta). Ciascuna colonna corrisponde ad una versione del CAD modificata dalla normativa indicata in alto alla colonna stessa. Ogni quadratino rappresenta un articolo del CAD; modifiche, aggiunte o abrogazioni sono evidenziati da un apposito colore.
 
@@ -1246,7 +1246,7 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
 .. |LINK5| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2018-09-28/index.html" target="_blank">Versione v2018-09-28</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/index.html" target="_blank">Versione v2021-07-30</a>
 
 .. |LINK6| raw:: html
 
