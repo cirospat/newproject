@@ -1019,6 +1019,42 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
 --------
 
+.. _h674f5f1e563d13e66555a82664:
+
+Cloud Italia: gli indirizzi strategici per la Pubblica Amministrazione dal Ministero innovaz. tecn. e digitalizzazione
+**********************************************************************************************************************
+
+Settembre 2021 - \ |LINK195|\ .
+
+* CLASSIFICARE DATI E SERVIZI DELLA PA PER GUIDARE E SUPPORTARE LA MIGRAZIONE AL CLOUD
+
+* QUALIFICARE I SERVIZI CLOUD ATTRAVERSO UN PROCESSO DI SCRUTINIO TECNOLOGICO
+
+* REALIZZARE IL PSN DEDICATO AI SERVIZI STRATEGICI, SOTTO CONTROLLO E INDIRIZZO PUBBLICO
+
+Obiettivo del \ |STYLE78|\  è di ospitare i dati ed i servizi critici e strategici di tutte le amministrazioni centrali (circa 200), delle Aziende Sanitarie Locali (ASL) e delle principali amministrazioni locali (Regioni, città metropolitane, comuni con più di 250 mila abitanti).
+
+\ |LINK196|\ :
+
+#. Il primo gruppo è costituito da \ |STYLE79|\  (secondo la classificazione di AgID) e \ |STYLE80|\  (indicate dal PNRR) e include amministrazioni che devono essere migrate con urgenza perché operanti infrastrutture considerate insicure e critiche. Per questo gruppo il percorso di migrazione è prioritario, ed è stata fatta un’ipotesi di dimensionamento del fabbisogno di infrastrutture informatiche.
+
+#. Il secondo gruppo riguarda \ |STYLE81|\  (secondo la classificazione di AgID) che dispongono di infrastrutture sufficientemente sicure e quindi in grado di erogare servizi strategici in autonomia. Possono utilizzare i servizi erogati dal PSN in funzione delle loro esigenze.
+
+#. Il terzo gruppo è composto da \ |STYLE82|\  con una domanda non significativa di infrastrutture informatiche e \ |STYLE83|\ .
+
+.. _h7535c3c2e344b68454b1444561d7a:
+
+\ |LINK197|\ 
+=============
+
+2021 ➔ Pubblicazione del bando di gara per la realizzazione del Polo Strategico Nazionale entro la fine dell’anno
+
+2022 ➔ Aggiudicazione e realizzazione del PSN ➔ Classificazione di dati e servizi pubblici ➔ Qualificazione dei servizi cloud
+
+2023 ➔ A partire dalla fine del 2022 le amministrazioni avvieranno la migrazione verso il cloud qualificato che dovrà concludersi entro la fine del 2025 (75% della PA in cloud. PNRR)
+
+--------
+
 
 |REPLACE5|
 
@@ -1186,6 +1222,18 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 .. |STYLE76| replace:: **Semplificazione di dati pubblici (art. 39).**
 
 .. |STYLE77| replace:: **Violazione degli obblighi di transizione digitale (art. 41)**
+
+.. |STYLE78| replace:: **Polo Strategico Nazionale**
+
+.. |STYLE79| replace:: **95 pubbliche amministrazioni centrali di classe B**
+
+.. |STYLE80| replace:: **80 ASL**
+
+.. |STYLE81| replace:: **13 pubbliche amministrazioni centrali di categoria A**
+
+.. |STYLE82| replace:: **93 pubbliche amministrazioni centrali di categoria B**
+
+.. |STYLE83| replace:: **dalle principali amministrazioni locali**
 
 
 .. |REPLACE1| raw:: html
@@ -2003,4 +2051,16 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 .. |LINK194| raw:: html
 
     <a href="http://www.funzionepubblica.gov.it/articolo/notizie-alfabeto-della-pubblica-amministrazione/23-07-2021/dl-semplificazioni-approvato" target="_blank">Articolo del Ministero per la Pubblica Amministrazione</a>
+
+.. |LINK195| raw:: html
+
+    <a href="https://innovazione.gov.it/notizie/articoli/cloud-italia-presentati-gli-indirizzi-strategici-per-la-pubblica-amministrazione/" target="_blank">Le tre direttrici della Strategia Cloud Italia</a>
+
+.. |LINK196| raw:: html
+
+    <a href="https://innovazione.gov.it/dipartimento/focus/polo-strategico-nazionale/" target="_blank">Le amministrazioni interessate ai servizi del PSN, anche sulla base dei risultati del Censimento condotto da AgID nel 2020, sono state suddivise in tre gruppi</a>
+
+.. |LINK197| raw:: html
+
+    <a href="https://assets.innovazione.gov.it/1631016901-strategiaclouditalia2021presentazione.pdf" target="_blank">Tempi della strategia Cloud Italia</a>
 
