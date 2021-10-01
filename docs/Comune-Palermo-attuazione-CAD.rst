@@ -425,6 +425,12 @@ Il 20 luglio 2021 è stata presentata pubblicamente la \ |LINK114|\ . Istanze vi
 
 |
 
+\ |LINK115|\ . Ad ottobre 2021 il comune di Palermo dismette il sistema di credenziali proprietarie per consentire l'accesso dei cittadini ai servizi online, in ottemperanza al Codice dell'Amministrazione Digitale (modificato dal Decreto Legge 76 del 16 luglio 2020, art. 24, sulle “semplificazioni”). I servizi online saranno accessibili ai cittadini tramite l'identità digitale SPID, CIE e CNS.
+
+Il Codice dell'Amministrazione Digitale (modificato dal Decreto Legge 121 del 10.09.2021, art. 10, comma 7) ha previsto che con un nuovo decreto DPCM è stabilita la data dalla quale imprese e professionisti utilizzano esclusivamente le identità digitali SPID e CIE per accedere ai servizi online delle Pubbliche Amministrazioni. In tal senso il Comune di Palermo lascerà attivo il sistema delle credenziali comunali per l'accesso ai servizi online di riferimento per imprese e professionisti (SUE, SUAP, ecc.), fino a quando non sarà approvata la relativa norma che stabilirà la data per lo switch off per tali categorie.
+
+|
+
 
 .. bottom of content
 
@@ -1050,4 +1056,8 @@ Il 20 luglio 2021 è stata presentata pubblicamente la \ |LINK114|\ . Istanze vi
 .. |LINK114| raw:: html
 
     <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=32150" target="_blank">piattaforma informatica accesso atti e sportello digitale superbonus 110%</a>
+
+.. |LINK115| raw:: html
+
+    <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=32801&tipo=1" target="_blank">Switch off credenziali proprietarie per l'accesso ai servizi online dei cittadini</a>
 
