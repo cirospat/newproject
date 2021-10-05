@@ -1053,6 +1053,17 @@ Obiettivo del \ |STYLE78|\  è di ospitare i dati ed i servizi critici e strateg
 
 2023 ➔ A partire dalla fine del 2022 le amministrazioni avvieranno la migrazione verso il cloud qualificato che dovrà concludersi entro la fine del 2025 (75% della PA in cloud. PNRR)
 
+|
+
+.. _h434738693f6420382461181f27573723:
+
+Linee Guida sull’infrastruttura tecnologica della Piattaforma Digitale Nazionale Dati (PDND) per l’interoperabilità dei sistemi informativi e delle basi di dati
+****************************************************************************************************************************************************************
+
+Da ottobre 2021 online le \ |LINK198|\ .
+
+|
+
 --------
 
 
@@ -2063,4 +2074,8 @@ Obiettivo del \ |STYLE78|\  è di ospitare i dati ed i servizi critici e strateg
 .. |LINK197| raw:: html
 
     <a href="https://assets.innovazione.gov.it/1631016901-strategiaclouditalia2021presentazione.pdf" target="_blank">Tempi della strategia Cloud Italia</a>
+
+.. |LINK198| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-pdnd-docs/it/bozza/index.html#" target="_blank">Linee Guida PDND per interoperabilità</a>
 
