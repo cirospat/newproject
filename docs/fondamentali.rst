@@ -1062,6 +1062,16 @@ Linee Guida sull’infrastruttura tecnologica della Piattaforma Digitale Naziona
 
 Da ottobre 2021 online le \ |LINK198|\ .
 
+Ai sensi dell’articolo 50-ter, comma 1 del CAD, la \ |STYLE84|\  è finalizzata a favorire la conoscenza e l’utilizzo del patrimonio informativo detenuto per finalità istituzionali dai soggetti di cui all’articolo 2, comma 2 del CAD nonché la condivisione dei dati tra i soggetti che hanno diritto di accedervi ai fini dell’attuazione dell’articolo 50 del CAD e della semplificazione degli adempimenti dei cittadini e delle imprese, in conformità alla disciplina vigente.
+
+Ai sensi dell’articolo 50-ter, comma 2 del CAD, l’Infrastruttura interoperabilità PDND rende possibile l’interoperabilità dei sistemi informativi e delle basi di dati dei soggetti interessati, mediante:
+
+* l’accreditamento, l’identificazione e la gestione dei livelli di autorizzazione dei soggetti abilitati a operare sulla stessa;
+
+* la raccolta e la conservazione delle informazioni relative agli accessi e alle transazioni effettuati suo tramite.
+
+Ai sensi dell’art. 50-ter, comma 2-bis, del CAD, il Presidente del Consiglio dei Ministri o il Ministro delegato per l’innovazione tecnologica e la transizione digitale, ultimati i test e le prove tecniche di corretto funzionamento della Infrastruttura interoperabilità PDND, fissa il termine entro il quale i soggetti di cui all’articolo 2, comma 2, del CAD saranno tenuti ad accreditarsi alla stessa, a sviluppare le interfacce e a rendere disponibili le proprie basi dati.
+
 |
 
 --------
@@ -1245,6 +1255,8 @@ Da ottobre 2021 online le \ |LINK198|\ .
 .. |STYLE82| replace:: **93 pubbliche amministrazioni centrali di categoria B**
 
 .. |STYLE83| replace:: **dalle principali amministrazioni locali**
+
+.. |STYLE84| replace:: **PDND**
 
 
 .. |REPLACE1| raw:: html
