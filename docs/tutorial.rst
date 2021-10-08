@@ -89,7 +89,21 @@ Corsi online su 'competenze e servizi digitali'
 
 ➽  \ |STYLE5|\  sui \ |LINK13|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale).
 
-➽  \ |STYLE6|\ . \ |LINK14|\ . Posta elettronica certificata, PDF e firma digitale (Pades e Cades) - i formati dei files (doc, odt, xls, ods, docx, xlsx, jpg, bmp, pdf, xml, zip, 7z ecc....) e la loro gestione e conservazione - la creazione dei fascicoli elettronici e la denominazione di cartelle e files - i programmi open source e freeware più diffusi ed utili (libreoffice, 7z, gimp, ecc...) - ricerca di norme, sentenze e dottrina in rete - informatica giuridica (dall'analogico al digitale e viceversa, copie analogiche e copie digitali, conservazione degli atti) - ottimizzazione dei browser (preferiti, links ecc...).
+➽  \ |STYLE6|\  su \ |LINK14|\ . Guarda i cicli di webinar realizzati (video):
+
+* \ |LINK15|\ 
+
+* \ |LINK16|\ 
+
+* \ |LINK17|\ 
+
+* \ |LINK18|\ 
+
+* \ |LINK19|\ 
+
+* \ |LINK20|\ 
+
+➽  \ |STYLE7|\ . \ |LINK21|\ . Posta elettronica certificata, PDF e firma digitale (Pades e Cades) - i formati dei files (doc, odt, xls, ods, docx, xlsx, jpg, bmp, pdf, xml, zip, 7z ecc....) e la loro gestione e conservazione - la creazione dei fascicoli elettronici e la denominazione di cartelle e files - i programmi open source e freeware più diffusi ed utili (libreoffice, 7z, gimp, ecc...) - ricerca di norme, sentenze e dottrina in rete - informatica giuridica (dall'analogico al digitale e viceversa, copie analogiche e copie digitali, conservazione degli atti) - ottimizzazione dei browser (preferiti, links ecc...).
 
 |
 
@@ -98,7 +112,7 @@ Corsi online su 'competenze e servizi digitali'
 Webinar sulla costruzione di un 'progetto europeo'
 ==================================================
 
-\ |STYLE7|\ . Un validissimo \ |LINK15|\  e \ |LINK16|\  a cura della Fondazione IFEL - ANCI.
+\ |STYLE8|\ . Un validissimo \ |LINK22|\  e \ |LINK23|\  a cura della Fondazione IFEL - ANCI.
 
 |
 
@@ -107,13 +121,13 @@ Webinar sulla costruzione di un 'progetto europeo'
 Manuali vari 
 =============
 
-➽ \ |LINK17|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni).
+➽ \ |LINK24|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni).
 
-➽ \ |LINK18|\  in uso al Comune di Palermo.
+➽ \ |LINK25|\  in uso al Comune di Palermo.
 
-➽ \ |LINK19|\  del comune di Palermo.
+➽ \ |LINK26|\  del comune di Palermo.
 
-➽ \ |LINK20|\  (\ |STYLE8|\ , \ |STYLE9|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK21|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK22|\ ]. Vedi anche la \ |LINK23|\ .
+➽ \ |LINK27|\  (\ |STYLE9|\ , \ |STYLE10|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK28|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK29|\ ]. Vedi anche la \ |LINK30|\ .
 
 
 |REPLACE7|
@@ -134,13 +148,15 @@ Manuali vari
 
 .. |STYLE5| replace:: **Webinar del FormezPA**
 
-.. |STYLE6| replace:: **Videocorsi di informatica di base, a cura di Simone Chiarelli**
+.. |STYLE6| replace:: **Webinar del FormezPA**
 
-.. |STYLE7| replace:: **Come si scrive bene un progetto europeo**
+.. |STYLE7| replace:: **Videocorsi di informatica di base, a cura di Simone Chiarelli**
 
-.. |STYLE8| replace:: *Modular Object-Oriented Dynamic Learning Environment*
+.. |STYLE8| replace:: **Come si scrive bene un progetto europeo**
 
-.. |STYLE9| replace:: *ambiente per l'apprendimento modulare, dinamico, orientato ad oggetti*
+.. |STYLE9| replace:: *Modular Object-Oriented Dynamic Learning Environment*
+
+.. |STYLE10| replace:: *ambiente per l'apprendimento modulare, dinamico, orientato ad oggetti*
 
 
 .. |REPLACE1| raw:: html
@@ -241,41 +257,69 @@ Manuali vari
 
 .. |LINK14| raw:: html
 
-    <a href="https://www.youtube.com/playlist?list=PLnc9N-ztTF5fxGBBYR1JDpd_VoAyJ_H2p" target="_blank">Link</a>
+    <a href="https://www.agid.gov.it/it/agenzia/progetti-pon-governance/italia-login-casa-del-cittadino/informazione-formazione-transizione-digitale" target="_blank">Italia Login - Informazione e formazione per la transizione digitale</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9640-video-come-si-scrive-bene-un-progetto-europeo" target="_blank">Webinar</a>
+    <a href="https://www.youtube.com/playlist?list=PLd5bJJul8c5pMzDz4gEAFAytR77d2eXnc" target="_blank">Sicurezza informatica</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9639-slide-come-si-scrive-bene-un-progetto-europeo" target="_blank">Materiali didattici</a>
+    <a href="https://www.youtube.com/playlist?list=PLd5bJJul8c5pkMRmqEA7cEP0yqVGu9qyi" target="_blank">Progettare servizi pubblici digitali</a>
 
 .. |LINK17| raw:: html
 
-    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
+    <a href="https://www.youtube.com/playlist?list=PLd5bJJul8c5ojYDiFTprGKVnBS3wLerj-" target="_blank">Progettare il sito web di un comune</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://manuale-libro-firma-2-0.readthedocs.io/" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+    <a href="https://www.youtube.com/playlist?list=PLd5bJJul8c5q00uEQVZjnSscAsbKjUftt" target="_blank">Monitoraggio contratti ICT</a>
 
 .. |LINK19| raw:: html
 
-    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
+    <a href="https://www.youtube.com/playlist?list=PLd5bJJul8c5ockYAymE70JKYtq9HHp5z9" target="_blank">Accessibilità</a>
 
 .. |LINK20| raw:: html
 
-    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
+    <a href="http://eventipa.formez.it/node/316784" target="_blank">Dati territoriali</a>
 
 .. |LINK21| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+    <a href="https://www.youtube.com/playlist?list=PLnc9N-ztTF5fxGBBYR1JDpd_VoAyJ_H2p" target="_blank">Link</a>
 
 .. |LINK22| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
+    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9640-video-come-si-scrive-bene-un-progetto-europeo" target="_blank">Webinar</a>
 
 .. |LINK23| raw:: html
+
+    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9639-slide-come-si-scrive-bene-un-progetto-europeo" target="_blank">Materiali didattici</a>
+
+.. |LINK24| raw:: html
+
+    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
+
+.. |LINK25| raw:: html
+
+    <a href="https://manuale-libro-firma-2-0.readthedocs.io/" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+
+.. |LINK26| raw:: html
+
+    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
+
+.. |LINK27| raw:: html
+
+    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
+
+.. |LINK28| raw:: html
+
+    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+
+.. |LINK29| raw:: html
+
+    <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
+
+.. |LINK30| raw:: html
 
     <a href="https://www.html.it/guide/moodle-learning-platform-la-guida/" target="_blank">guida a Moodle Learning Platform</a>
 
