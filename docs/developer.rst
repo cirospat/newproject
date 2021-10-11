@@ -74,12 +74,10 @@ riferimenti
 Come si usa il programma Visual Studio Code per lavorare con i repository del proprio account GitHub
 ****************************************************************************************************
 
+
+|REPLACE4|
+
 \ |LINK16|\ 
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
 
 .. _h9271437c1966354f40765f4e5211:
 
@@ -308,14 +306,14 @@ IMMAGINI DI "WORDART" DA INCORPORARE IN PAGINE HTML
 ===================================================
 
 
-|REPLACE4|
-
-
 |REPLACE5|
+
+
+|REPLACE6|
 
 immagine singola (non wordart)
 
-|REPLACE6|
+|REPLACE7|
 
 |
 
@@ -597,7 +595,7 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 =========================================================
 
 
-|REPLACE7|
+|REPLACE8|
 
 ⇒ \ |LINK92|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
 
@@ -610,7 +608,7 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK93|\ .
 
 
-|REPLACE8|
+|REPLACE9|
 
 * \ |LINK94|\  con Openstreetmap tramite OnData
 
@@ -929,13 +927,13 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 --------
 
 
-|REPLACE9|
-
-
 |REPLACE10|
 
 
 |REPLACE11|
+
+
+|REPLACE12|
 
 
 .. bottom of content
@@ -1035,28 +1033,32 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
     <a href="https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/" target="_blank"><b>onData</b></a>)
 .. |REPLACE4| raw:: html
 
-    <div style="width: 550px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/EmzgUnN39gc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></b>
+    Video di Totò Fiandaca
 .. |REPLACE5| raw:: html
 
-    <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
+    <div style="width: 550px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
 .. |REPLACE6| raw:: html
 
-    <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700" /> Art by Lønfeldt
+    <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
 .. |REPLACE7| raw:: html
 
-    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
+    <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700" /> Art by Lønfeldt
 .. |REPLACE8| raw:: html
 
-    <p><span style="background-color: #105618; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Altri Geocoder</span></p>
+    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
 .. |REPLACE9| raw:: html
 
-    polveri sottili monitoraggio zona Fiera Mediterraneo <br>
-    <iframe src="https://italy.maps.sensor.community/#9/37.5285/14.2212" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="700"></iframe>
+    <p><span style="background-color: #105618; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Altri Geocoder</span></p>
 .. |REPLACE10| raw:: html
 
     polveri sottili monitoraggio zona Fiera Mediterraneo <br>
-    <iframe src="https://maps.sensor.community/grafana/d-solo/000000004/single-sensor-view?orgId=1&panelId=2&var-node=821" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="700"></iframe>
+    <iframe src="https://italy.maps.sensor.community/#9/37.5285/14.2212" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="700"></iframe>
 .. |REPLACE11| raw:: html
+
+    polveri sottili monitoraggio zona Fiera Mediterraneo <br>
+    <iframe src="https://maps.sensor.community/grafana/d-solo/000000004/single-sensor-view?orgId=1&panelId=2&var-node=821" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="700"></iframe>
+.. |REPLACE12| raw:: html
 
     mappe storiche by Napo <br>
     <iframe src="https://napo.github.io/trentotimetravelmaps/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="850"></iframe>
@@ -1127,7 +1129,7 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 .. |LINK16| raw:: html
 
-    <a href="https://youtu.be/EmzgUnN39gc" target="_blank">Un video didattico a cura di Totò Fiandaca</a>
+    <a href="https://youtu.be/EmzgUnN39gc" target="_blank">Link al video didattico a cura di Totò Fiandaca</a>
 
 .. |LINK17| raw:: html
 
