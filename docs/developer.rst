@@ -1037,7 +1037,7 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
     Video di Totò Fiandaca
 .. |REPLACE5| raw:: html
 
-    <div style="width: 550px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/e9h2wyb41pzf"></div>
+    <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/ugd9zzbwpv1n" data-wordart-show-attribution></div>
 .. |REPLACE6| raw:: html
 
     <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
