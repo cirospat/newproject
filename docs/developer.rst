@@ -11,6 +11,8 @@ developer
 
 |REPLACE2|
 
+|:heavy_plus_sign:|
+
 il testo vale
 
 .. admonition:: abrogato 
