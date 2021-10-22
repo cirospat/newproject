@@ -13,6 +13,8 @@ developer
 
 |:heavy_plus_sign:|
 
+|:arrows_counterclockwise:|
+
 il testo vale
 
 .. admonition:: abrogato 
