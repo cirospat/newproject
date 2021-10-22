@@ -15,6 +15,10 @@ developer
 
 |:arrows_counterclockwise:|
 
+|:heart:|
+
+|:pencil2:|
+
 il testo vale
 
 .. admonition:: abrogato 
