@@ -22,16 +22,6 @@ Emoji Cheat Sheet
 
 \ |LINK5|\  Emoji Unicode Reference in html
 
-:heavy_plus_sign:  
-
-:simple_smile:  
-
-:arrows_counterclockwise:   
-
-:heart:   
-
-:pencil2:   
-
 😄 🐍  
 
 il testo vale
