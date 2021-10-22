@@ -11,13 +11,15 @@ developer
 
 |REPLACE2|
 
-|:heavy_plus_sign:|
+:heavy_plus_sign:
 
-|:arrows_counterclockwise:|
+:arrows_counterclockwise:
 
-|:heart:|
+:heart:
 
-|:pencil2:|
+:pencil2:
+
+😄 🐍
 
 il testo vale
 
