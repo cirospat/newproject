@@ -431,6 +431,10 @@ Il Codice dell'Amministrazione Digitale (modificato dal Decreto Legge 121 del 10
 
 |
 
+Ottobre 2021. La Società partecipata AMAP ha reso disponibile sullo store dei dispositivi android \ |LINK116|\   un app denominata AMAP SOTTOPASSI, che ha la finalità di informare in tempo reale i cittadini sulle condizioni di percorribilità dei sottopassi di Viale Regione Siciliana, a Palermo, in caso di allagamenti. Tre livelli di attenzione vengono segnalati in base a sensori installati nei sottopassi viari e delle telecamere permettono la visualizzazione, sull'app, di immagini sempre aggiornate.
+
+|
+
 
 .. bottom of content
 
@@ -1060,4 +1064,8 @@ Il Codice dell'Amministrazione Digitale (modificato dal Decreto Legge 121 del 10
 .. |LINK115| raw:: html
 
     <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=32801&tipo=1" target="_blank">Switch off credenziali proprietarie per l'accesso ai servizi online dei cittadini</a>
+
+.. |LINK116| raw:: html
+
+    <a href="https://play.google.com/store/apps/details?id=com.heelp.amapsottopassi" target="_blank">https://play.google.com/store/apps/details?id=com.heelp.amapsottopassi</a>
 
