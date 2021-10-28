@@ -379,7 +379,7 @@ Lo \ |LINK105|\ . L'utente può prenotare l'appuntamento attraverso il portale o
 
 |
 
-Da maggio 2021 le deliberazioni di Giunta comunale sono gestite attraverso l'utilizzo della stessa piattaforma informatica delle determinazioni. Ciò comporta l'ottimizzazione del processo di lavoro per l'intero ciclo di vita della deliberazione e una riduzione dei tempi.
+Da maggio 2021 le \ |STYLE63|\ . Ciò comporta l'ottimizzazione del processo di lavoro per l'intero ciclo di vita della deliberazione e una riduzione dei tempi.
 
 |
 
@@ -389,21 +389,21 @@ Il 23 giugno 2021 è stato reso \ |LINK107|\ . Novità:
 
 * La sezione dedicata alle Circoscrizioni: accedendo a quella di appartenenza, saranno disponibili tutti i servizi e le informazioni accessibili nella circoscrizione. La sezione successiva costituisce il vero core innovativo del sito web: “I servizi per tematica”.
 
-* Rispetta il requisito “\ |STYLE63|\ ” per una ottimale navigazione attraverso i diversi dispositivi mobili ed è stato progettato secondo le linee guida AGID per l’accessibilità dei siti web della PA.
+* Rispetta il requisito “\ |STYLE64|\ ” per una ottimale navigazione attraverso i diversi dispositivi mobili ed è stato progettato secondo le linee guida AGID per l’accessibilità dei siti web della PA.
 
 |
 
 Nel giugno 2021 viene  realizzata da FPA per Dedagroup Public Services, (società in prima linea nello sviluppo delle nuove infrastrutture pubbliche digitali del Paese), e presentata al FORUM PA 2021,  la \ |LINK108|\ . L’indagine analizza il grado di maturità digitale dei 110 comuni italiani capoluogo sulla base di tre dimensioni: 
 
-#. \ |STYLE64|\ , il livello di disponibilità online di 20 tra i principali servizi al cittadino e alle imprese; 
+#. \ |STYLE65|\ , il livello di disponibilità online di 20 tra i principali servizi al cittadino e alle imprese; 
 
-#. \ |STYLE65|\ , l’integrazione dei Comuni con le principali piattaforme abilitanti individuate dal Piano triennale per l’informatica pubblica (SPID, CIE, PagoPA, ANPR); 
+#. \ |STYLE66|\ , l’integrazione dei Comuni con le principali piattaforme abilitanti individuate dal Piano triennale per l’informatica pubblica (SPID, CIE, PagoPA, ANPR); 
 
-#. \ |STYLE66|\ , la numerosità e l’interoperabilità degli open data e la comunicazione con i cittadini attraverso i canali social. 
+#. \ |STYLE67|\ , la numerosità e l’interoperabilità degli open data e la comunicazione con i cittadini attraverso i canali social. 
 
-49 le città italiane che nel 2021 hanno raggiunto un livello elevato di maturità digitale. Nella fascia alta, 39 comuni mostrano performance almeno sufficienti in tutte le tre dimensioni esaminate ed elevate in almeno una di queste: Aosta, Arezzo, Bari, Bergamo, Bolzano, Brescia, Cagliari, Campobasso, Catania, Cremona, Cuneo, Ferrara, Forlì, Genova, La Spezia, Lecce, Lecco, Livorno, Lodi, Lucca, Matera, Monza, Napoli, Padova, \ |STYLE67|\ , Parma, Pavia, Prato, Ravenna, Reggio Emilia, Rimini, Siena, Torino, Trento, Treviso, Venezia, Vercelli, Verona, Vicenza. 
+49 le città italiane che nel 2021 hanno raggiunto un livello elevato di maturità digitale. Nella fascia alta, 39 comuni mostrano performance almeno sufficienti in tutte le tre dimensioni esaminate ed elevate in almeno una di queste: Aosta, Arezzo, Bari, Bergamo, Bolzano, Brescia, Cagliari, Campobasso, Catania, Cremona, Cuneo, Ferrara, Forlì, Genova, La Spezia, Lecce, Lecco, Livorno, Lodi, Lucca, Matera, Monza, Napoli, Padova, \ |STYLE68|\ , Parma, Pavia, Prato, Ravenna, Reggio Emilia, Rimini, Siena, Torino, Trento, Treviso, Venezia, Vercelli, Verona, Vicenza. 
 
-Nel 2020 Palermo, scalando 64 posizioni in un anno, si era già collocata al 13° posto tra le 107 città capoluogo italiane nella \ |STYLE68|\  (report a cura di FPA). \ |LINK109|\ .
+Nel 2020 Palermo, scalando 64 posizioni in un anno, si era già collocata al 13° posto tra le 107 città capoluogo italiane nella \ |STYLE69|\  (report a cura di FPA). \ |LINK109|\ .
 
 |
 
@@ -411,27 +411,27 @@ Nel 2020 Palermo, scalando 64 posizioni in un anno, si era già collocata al 13�
 
 |
 
-Al giugno 2021 è stato reso disponibile il \ |LINK112|\  che rispetta il requisito “\ |STYLE69|\ ” per una ottimale navigazione attraverso i diversi dispositivi mobili ed è stato progettato secondo le linee guida AGID per l’\ |STYLE70|\  dei siti web della PA". La realizzazione del nuovo sito istituzionale ha come obiettivo, oltre che il restyling grafico, la reingegnerizzazione architetturale ponendo il cittadino al centro dell'attenzione, facilitando l’accesso ai servizi erogati dal Comune di Palermo.
+A giugno 2021 è stato reso disponibile il \ |LINK112|\  che rispetta il requisito “\ |STYLE70|\ ” per una ottimale navigazione attraverso i diversi dispositivi mobili ed è stato progettato secondo le linee guida AGID per l’\ |STYLE71|\  dei siti web della PA". La realizzazione del nuovo sito istituzionale ha come obiettivo, oltre che il restyling grafico, la reingegnerizzazione architetturale ponendo il cittadino al centro dell'attenzione, facilitando l’accesso ai servizi erogati dal Comune di Palermo.
 
 |
 
 Al giugno 2021 è stato compilato, in collaborazione con la società in house SISPI, il questionario AGID sulla rilevazione della spesa ICT del 2020.
 
-E' stata altresì compilata, in collaborazione con la società in house SISPI, la scheda AGID sull'accessibilità delle APP del comune (ZTL, PalerMobilità, Librarsi). Riferimento al \ |LINK113|\  (\ |STYLE71|\ ).
+E' stata altresì compilata, in collaborazione con la società in house SISPI, la scheda AGID sull'accessibilità delle APP del comune (ZTL, PalerMobilità, Librarsi). Riferimento al \ |LINK113|\  (\ |STYLE72|\ ).
 
 |
 
-Il 20 luglio 2021 è stata presentata pubblicamente la \ |LINK114|\ . Istanze via internet in pochi clic per effettuare richieste agli uffici comunali sullo \ |STYLE72|\ , \ |STYLE73|\ , risposte più rapide agli utenti, \ |STYLE74|\  che, intendono usufruire del \ |STYLE75|\  e necessitano di acquisire gli \ |STYLE76|\ .
+Il 20 luglio 2021 è stata presentata pubblicamente la \ |LINK114|\ . Istanze via internet in pochi clic per effettuare richieste agli uffici comunali sullo \ |STYLE73|\ , \ |STYLE74|\ , risposte più rapide agli utenti, \ |STYLE75|\  che, intendono usufruire del \ |STYLE76|\  e necessitano di acquisire gli \ |STYLE77|\ .
 
 |
 
-\ |LINK115|\ . Ad ottobre 2021 il comune di Palermo dismette il sistema di credenziali proprietarie per consentire l'accesso dei cittadini ai servizi online, in ottemperanza al Codice dell'Amministrazione Digitale (modificato dal Decreto Legge 76 del 16 luglio 2020, art. 24, sulle “semplificazioni”). I servizi online saranno accessibili ai cittadini tramite l'identità digitale SPID, CIE e CNS.
+\ |LINK115|\ . Ad ottobre 2021 \ |STYLE78|\  (modificato dal Decreto Legge 76 del 16 luglio 2020, art. 24, sulle “semplificazioni”). I servizi online saranno accessibili ai cittadini tramite l'identità digitale SPID, CIE e CNS.
 
 Il Codice dell'Amministrazione Digitale (modificato dal Decreto Legge 121 del 10.09.2021, art. 10, comma 7) ha previsto che con un nuovo decreto DPCM è stabilita la data dalla quale imprese e professionisti utilizzano esclusivamente le identità digitali SPID e CIE per accedere ai servizi online delle Pubbliche Amministrazioni. In tal senso il Comune di Palermo lascerà attivo il sistema delle credenziali comunali per l'accesso ai servizi online di riferimento per imprese e professionisti (SUE, SUAP, ecc.), fino a quando non sarà approvata la relativa norma che stabilirà la data per lo switch off per tali categorie.
 
 |
 
-Ottobre 2021. La Società partecipata AMAP ha reso disponibile sullo store dei dispositivi android \ |LINK116|\   un app denominata AMAP SOTTOPASSI, che ha la finalità di informare in tempo reale i cittadini sulle condizioni di percorribilità dei sottopassi di Viale Regione Siciliana, a Palermo, in caso di allagamenti. Tre livelli di attenzione vengono segnalati in base a sensori installati nei sottopassi viari e delle telecamere permettono la visualizzazione, sull'app, di immagini sempre aggiornate.
+Ottobre 2021. La Società partecipata AMAP ha reso disponibile sullo store dei dispositivi android \ |LINK116|\   un \ |STYLE79|\ . Tre livelli di attenzione vengono segnalati in base a sensori installati nei sottopassi viari e delle telecamere permettono la visualizzazione, sull'app, di immagini sempre aggiornate.
 
 |
 
@@ -565,33 +565,39 @@ Ottobre 2021. La Società partecipata AMAP ha reso disponibile sullo store dei d
 
 .. |STYLE62| replace:: **Google Meet**
 
-.. |STYLE63| replace:: **mobile first**
+.. |STYLE63| replace:: **deliberazioni di Giunta comunale sono gestite attraverso l'utilizzo della stessa piattaforma informatica delle determinazioni**
 
-.. |STYLE64| replace:: **Digital public services**
+.. |STYLE64| replace:: **mobile first**
 
-.. |STYLE65| replace:: **Digital PA**
+.. |STYLE65| replace:: **Digital public services**
 
-.. |STYLE66| replace:: **Digital Openness**
+.. |STYLE66| replace:: **Digital PA**
 
-.. |STYLE67| replace:: **Palermo**
+.. |STYLE67| replace:: **Digital Openness**
 
-.. |STYLE68| replace:: **iCityRank 2020**
+.. |STYLE68| replace:: **Palermo**
 
-.. |STYLE69| replace:: **mobile first**
+.. |STYLE69| replace:: **iCityRank 2020**
 
-.. |STYLE70| replace:: **accessibilità**
+.. |STYLE70| replace:: **mobile first**
 
-.. |STYLE71| replace:: *le PA devono pubblicare, entro il 23 giugno 2021, la dichiarazione di accessibilità per le APP mobili, tramite l’applicazione form.agid.gov.it*
+.. |STYLE71| replace:: **accessibilità**
 
-.. |STYLE72| replace:: **stato legittimo degli immobili**
+.. |STYLE72| replace:: *le PA devono pubblicare, entro il 23 giugno 2021, la dichiarazione di accessibilità per le APP mobili, tramite l’applicazione form.agid.gov.it*
 
-.. |STYLE73| replace:: **certezza sui contenuti e sui tempi delle richieste**
+.. |STYLE73| replace:: **stato legittimo degli immobili**
 
-.. |STYLE74| replace:: **evidenza sulle pratiche in scadenza e istituzione di un servizio digitale a supporto degli utenti**
+.. |STYLE74| replace:: **certezza sui contenuti e sui tempi delle richieste**
 
-.. |STYLE75| replace:: **superbonus 110%**
+.. |STYLE75| replace:: **evidenza sulle pratiche in scadenza e istituzione di un servizio digitale a supporto degli utenti**
 
-.. |STYLE76| replace:: **atti edilizi relativi all’edificio**
+.. |STYLE76| replace:: **superbonus 110%**
+
+.. |STYLE77| replace:: **atti edilizi relativi all’edificio**
+
+.. |STYLE78| replace:: **il comune di Palermo dismette il sistema di credenziali proprietarie per consentire l'accesso dei cittadini ai servizi online, in ottemperanza al Codice dell'Amministrazione Digitale**
+
+.. |STYLE79| replace:: **app denominata AMAP SOTTOPASSI, che ha la finalità di informare in tempo reale i cittadini sulle condizioni di percorribilità dei sottopassi di Viale Regione Siciliana, a Palermo, in caso di allagamenti**
 
 
 .. |REPLACE1| raw:: html
