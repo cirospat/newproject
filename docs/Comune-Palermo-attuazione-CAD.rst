@@ -435,7 +435,7 @@ Ottobre 2021. La Società partecipata AMAP ha reso disponibile sullo store dei d
 
 |
 
-23 Novembre 2021. Viene \ |LINK117|\  il rapporto "\ |LINK118|\ ", che restituisce la fotografia sullo stato di digitalizzazione dei 107 comuni capoluogo italiani.  Palermo passa dal 13° posto assoluto del 2020 al 12° posto nel 2021 e contemporaneamente passa al 1° posto per open data (insieme a Milano e Pisa), al 5° posto per "apertura" (dichiarazione di accessibilità)  e al 7° posto per servizi online. Una conferma dell'impegno costante dell'Amministrazione di Palermo nel campo della transizione digitale. 
+23 Novembre 2021. Viene \ |LINK117|\  il rapporto "\ |LINK118|\ ", che restituisce la fotografia sullo stato di digitalizzazione dei 107 comuni capoluogo italiani.  Palermo passa dal 13° posto assoluto del 2020 al 12° posto nel 2021 e contemporaneamente passa al 1° posto per open data (insieme a Milano e Pisa), al 5° posto per "apertura" (dichiarazione di accessibilità)  e al 7° posto per servizi online. Una conferma dell'impegno costante dell'Amministrazione di Palermo nel campo della transizione digitale.  \ |LINK119|\ .
 
 |
 
@@ -1086,4 +1086,8 @@ Ottobre 2021. La Società partecipata AMAP ha reso disponibile sullo store dei d
 .. |LINK118| raw:: html
 
     <a href="https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/report_digitalizzazione_enti/raw/main/Report_digitalizzazione__enti_pubblici/2021/2021_RAPPORTO_ICityRank_2021.pdf" target="_blank">I City Rank 2021</a>
+
+.. |LINK119| raw:: html
+
+    <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=33267" target="_blank">Comunicato stampa del Comune di Palermo</a>
 
