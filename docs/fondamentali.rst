@@ -1070,6 +1070,21 @@ Ai sensi dell’art. 50-ter, comma 2-bis, del CAD, il Presidente del Consiglio d
 
 |
 
+.. _hb416312167296bc4e46d5f396658:
+
+Pubblicato il regolamento AGID che disciplina la vigilanza sugli obblighi di transizione digitale
+*************************************************************************************************
+
+L’Agenzia per l’Italia Digitale ha pubblicato il regolamento relativo alla vigilanza sugli obblighi di transizione digitale. Il Regolamento definisce le procedure di contestazione, accertamento, segnalazione delle violazioni in materia di transizione digitale e di esercizio del potere sanzionatorio ai sensi dell’art. 18-bis del d. lgs. 7 marzo 2005, n. 82. Il regolamento è il tassello che mancava per l’esercizio del potere sanzionatorio conferito ad Agid nei confronti di tutte le amministrazioni italiane.
+
+Contestualmente è stato adottato il Regolamento recante le procedure finalizzate allo svolgimento dei compiti del Difensore civico per il Digitale. 
+
+* \ |LINK201|\ 
+
+* \ |LINK202|\  
+
+|
+
 --------
 
 
@@ -2086,4 +2101,12 @@ Ai sensi dell’art. 50-ter, comma 2-bis, del CAD, il Presidente del Consiglio d
 .. |LINK200| raw:: html
 
     <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-pdnd-docs/it/bozza/index.html#" target="_blank">Linee Guida PDND per interoperabilità</a>
+
+.. |LINK201| raw:: html
+
+    <a href="http://maggioli.newsabbonati.it/nl/link?c=95qle&d=k48&h=2kqlramilaadcop3i4j0hq3iv0&i=1sb&iw=1&p=H462505551&s=lp&sn=dbl&z=a1d8" target="_blank">Consulta il regolamento relativo alla vigilanza sugli obblighi di transizione digitale</a>
+
+.. |LINK202| raw:: html
+
+    <a href="http://maggioli.newsabbonati.it/nl/link?c=95qle&d=k48&h=2v2ut5jij2b1b2a201ao7l2snq&i=1sb&iw=1&p=H462505552&s=lp&sn=dbl&z=a1d9" target="_blank">Consulta il regolamento relativo ai compiti del Difensore civico per il digitale</a>
 
