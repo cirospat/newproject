@@ -1017,12 +1017,12 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
 --------
 
-.. _h674f5f1e563d13e66555a82664:
+.. _h35301114647466d7524657631344180:
 
-Cloud Italia: gli indirizzi strategici per la Pubblica Amministrazione dal Ministero innovaz. tecn. e digitalizzazione
-**********************************************************************************************************************
+Cloud Italia: gli indirizzi strategici per la PA dal Ministero innovaz. tecn. e digitalizzazione
+************************************************************************************************
 
-Settembre 2021 - \ |LINK198|\ .
+\ |STYLE78|\  - \ |LINK198|\ .
 
 * CLASSIFICARE DATI E SERVIZI DELLA PA PER GUIDARE E SUPPORTARE LA MIGRAZIONE AL CLOUD
 
@@ -1030,19 +1030,34 @@ Settembre 2021 - \ |LINK198|\ .
 
 * REALIZZARE IL PSN DEDICATO AI SERVIZI STRATEGICI, SOTTO CONTROLLO E INDIRIZZO PUBBLICO
 
-Obiettivo del \ |STYLE78|\  è di ospitare i dati ed i servizi critici e strategici di tutte le amministrazioni centrali (circa 200), delle Aziende Sanitarie Locali (ASL) e delle principali amministrazioni locali (Regioni, città metropolitane, comuni con più di 250 mila abitanti).
+Obiettivo del \ |STYLE79|\  è di ospitare i dati ed i servizi critici e strategici di tutte le amministrazioni centrali (circa 200), delle Aziende Sanitarie Locali (ASL) e delle principali amministrazioni locali (Regioni, città metropolitane, comuni con più di 250 mila abitanti).
 
 \ |LINK199|\ :
 
-#. Il primo gruppo è costituito da \ |STYLE79|\  (secondo la classificazione di AgID) e \ |STYLE80|\  (indicate dal PNRR) e include amministrazioni che devono essere migrate con urgenza perché operanti infrastrutture considerate insicure e critiche. Per questo gruppo il percorso di migrazione è prioritario, ed è stata fatta un’ipotesi di dimensionamento del fabbisogno di infrastrutture informatiche.
+#. Il primo gruppo è costituito da \ |STYLE80|\  (secondo la classificazione di AgID) e \ |STYLE81|\  (indicate dal PNRR) e include amministrazioni che devono essere migrate con urgenza perché operanti infrastrutture considerate insicure e critiche. Per questo gruppo il percorso di migrazione è prioritario, ed è stata fatta un’ipotesi di dimensionamento del fabbisogno di infrastrutture informatiche.
 
-#. Il secondo gruppo riguarda \ |STYLE81|\  (secondo la classificazione di AgID) che dispongono di infrastrutture sufficientemente sicure e quindi in grado di erogare servizi strategici in autonomia. Possono utilizzare i servizi erogati dal PSN in funzione delle loro esigenze.
+#. Il secondo gruppo riguarda \ |STYLE82|\  (secondo la classificazione di AgID) che dispongono di infrastrutture sufficientemente sicure e quindi in grado di erogare servizi strategici in autonomia. Possono utilizzare i servizi erogati dal PSN in funzione delle loro esigenze.
 
-#. Il terzo gruppo è composto da \ |STYLE82|\  con una domanda non significativa di infrastrutture informatiche e \ |STYLE83|\ .
+#. Il terzo gruppo è composto da \ |STYLE83|\  con una domanda non significativa di infrastrutture informatiche e \ |STYLE84|\ .
 
-.. _h83c25251d481d6d395229115b6c1524:
+.. _h3c39502e760313376d56651c731b6f:
 
-\ |LINK200|\ 
+AGID e il regolamento sul cloud della PA di dicembre 2021
+=========================================================
+
+\ |LINK200|\ . Determinazione AGID n. 628/2021 del 15 dicembre 2021. Il documento ha il fine di:
+
+* stabilire i livelli minimi di sicurezza, capacità elaborativa, risparmio energetico e affidabilità delle infrastrutture digitali per la pubblica amministrazione;
+
+* definire le caratteristiche di qualità, di sicurezza, di performance e scalabilità, interoperabilità, portabilità dei servizi cloud per la pubblica amministrazione;
+
+* individuare i termini e le modalità con cui le amministrazioni devono effettuare le migrazioni, anche stabilendo il processo e le modalità per la classificazione dei dati e dei servizi digitali delle pubbliche amministrazioni;
+
+* individuare le modalità del procedimento di qualificazione dei servizi cloud per la pubblica amministrazione.
+
+.. _hd4c57313b48545b3f5451465165211a:
+
+\ |LINK201|\ 
 =============
 
 2021 ➔ Pubblicazione del bando di gara per la realizzazione del Polo Strategico Nazionale entro la fine dell’anno
@@ -1058,9 +1073,9 @@ Obiettivo del \ |STYLE78|\  è di ospitare i dati ed i servizi critici e strateg
 Linee Guida sull’infrastruttura tecnologica della Piattaforma Digitale Nazionale Dati (PDND) per l’interoperabilità dei sistemi informativi e delle basi di dati
 ****************************************************************************************************************************************************************
 
-Da ottobre 2021 online le \ |LINK201|\ .
+Da ottobre 2021 online le \ |LINK202|\ .
 
-Ai sensi dell’articolo 50-ter, comma 1 del CAD, la \ |STYLE84|\  è finalizzata a favorire la conoscenza e l’utilizzo del patrimonio informativo detenuto per finalità istituzionali dai soggetti di cui all’articolo 2, comma 2 del CAD nonché la condivisione dei dati tra i soggetti che hanno diritto di accedervi ai fini dell’attuazione dell’articolo 50 del CAD e della semplificazione degli adempimenti dei cittadini e delle imprese, in conformità alla disciplina vigente.
+Ai sensi dell’articolo 50-ter, comma 1 del CAD, la \ |STYLE85|\  è finalizzata a favorire la conoscenza e l’utilizzo del patrimonio informativo detenuto per finalità istituzionali dai soggetti di cui all’articolo 2, comma 2 del CAD nonché la condivisione dei dati tra i soggetti che hanno diritto di accedervi ai fini dell’attuazione dell’articolo 50 del CAD e della semplificazione degli adempimenti dei cittadini e delle imprese, in conformità alla disciplina vigente.
 
 Ai sensi dell’articolo 50-ter, comma 2 del CAD, l’Infrastruttura interoperabilità PDND rende possibile l’interoperabilità dei sistemi informativi e delle basi di dati dei soggetti interessati, mediante:
 
@@ -1081,9 +1096,9 @@ L’Agenzia per l’Italia Digitale ha pubblicato il regolamento relativo alla v
 
 Contestualmente è stato adottato il Regolamento recante le procedure finalizzate allo svolgimento dei compiti del Difensore civico per il Digitale. 
 
-* \ |LINK202|\ 
+* \ |LINK203|\ 
 
-* \ |LINK203|\  
+* \ |LINK204|\  
 
 |
 
@@ -1257,19 +1272,21 @@ Contestualmente è stato adottato il Regolamento recante le procedure finalizzat
 
 .. |STYLE77| replace:: **Violazione degli obblighi di transizione digitale (art. 41)**
 
-.. |STYLE78| replace:: **Polo Strategico Nazionale**
+.. |STYLE78| replace:: **Settembre 2021**
 
-.. |STYLE79| replace:: **95 pubbliche amministrazioni centrali di classe B**
+.. |STYLE79| replace:: **Polo Strategico Nazionale**
 
-.. |STYLE80| replace:: **80 ASL**
+.. |STYLE80| replace:: **95 pubbliche amministrazioni centrali di classe B**
 
-.. |STYLE81| replace:: **13 pubbliche amministrazioni centrali di categoria A**
+.. |STYLE81| replace:: **80 ASL**
 
-.. |STYLE82| replace:: **93 pubbliche amministrazioni centrali di categoria B**
+.. |STYLE82| replace:: **13 pubbliche amministrazioni centrali di categoria A**
 
-.. |STYLE83| replace:: **dalle principali amministrazioni locali**
+.. |STYLE83| replace:: **93 pubbliche amministrazioni centrali di categoria B**
 
-.. |STYLE84| replace:: **PDND**
+.. |STYLE84| replace:: **dalle principali amministrazioni locali**
+
+.. |STYLE85| replace:: **PDND**
 
 
 .. |REPLACE1| raw:: html
@@ -2102,17 +2119,21 @@ Contestualmente è stato adottato il Regolamento recante le procedure finalizzat
 
 .. |LINK200| raw:: html
 
-    <a href="https://assets.innovazione.gov.it/1631016901-strategiaclouditalia2021presentazione.pdf" target="_blank">Tempi della strategia Cloud Italia</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2021/12/15/cloud-pa-adottato-il-regolamento" target="_blank">AgID ha elaborato il Regolamento che disciplina le infrastrutture digitali e i servizi cloud della Pubblica amministrazione</a>
 
 .. |LINK201| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-pdnd-docs/it/bozza/index.html#" target="_blank">Linee Guida PDND per interoperabilità</a>
+    <a href="https://assets.innovazione.gov.it/1631016901-strategiaclouditalia2021presentazione.pdf" target="_blank">Tempi della strategia Cloud Italia</a>
 
 .. |LINK202| raw:: html
 
-    <a href="http://maggioli.newsabbonati.it/nl/link?c=95qle&d=k48&h=2kqlramilaadcop3i4j0hq3iv0&i=1sb&iw=1&p=H462505551&s=lp&sn=dbl&z=a1d8" target="_blank">Consulta il regolamento relativo alla vigilanza sugli obblighi di transizione digitale</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-pdnd-docs/it/bozza/index.html#" target="_blank">Linee Guida PDND per interoperabilità</a>
 
 .. |LINK203| raw:: html
+
+    <a href="http://maggioli.newsabbonati.it/nl/link?c=95qle&d=k48&h=2kqlramilaadcop3i4j0hq3iv0&i=1sb&iw=1&p=H462505551&s=lp&sn=dbl&z=a1d8" target="_blank">Consulta il regolamento relativo alla vigilanza sugli obblighi di transizione digitale</a>
+
+.. |LINK204| raw:: html
 
     <a href="http://maggioli.newsabbonati.it/nl/link?c=95qle&d=k48&h=2v2ut5jij2b1b2a201ao7l2snq&i=1sb&iw=1&p=H462505552&s=lp&sn=dbl&z=a1d9" target="_blank">Consulta il regolamento relativo ai compiti del Difensore civico per il digitale</a>
 
