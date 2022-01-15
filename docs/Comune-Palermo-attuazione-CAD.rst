@@ -364,18 +364,13 @@ Nel gennaio 2021 è stato redatto a cura del Servizio Innovazione, UO transizion
 
 |
 
-
-|REPLACE2|
-
-|
-
 Lo \ |LINK105|\ . L'utente può prenotare l'appuntamento attraverso il portale online "\ |STYLE61|\ " in uso da tempo, ricevendo in automatico giorno e ora dell'appuntamento ed il link di collegamento con la piattaforma "\ |STYLE62|\ ".
 
 |
 
 \ |LINK106|\ , fa un sintetico report sull'adesione del comune di Palermo alle piattaforme nazionali abilitanti all'erogazione dei servizi locali (PagoPA, SPID, ANPR e app IO). 
 
-|REPLACE3|
+|REPLACE2|
 
 |
 
@@ -608,10 +603,6 @@ Ottobre 2021. La Società partecipata AMAP ha reso disponibile sullo store dei d
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/zrKOS2LiWTU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 .. |REPLACE2| raw:: html
-
-    <iframe width="100%" height="500" src="https://www.youtube.com/embed/aY6fLRn27hM?t=3612" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    <span class="footer_small"><a href="https://innovazione.gov.it/it/linee-guida-decreto-semplificazione/" target="_blank"><b>Semplificazione e Innovazione Digitale, incontro del 22 gennaio 2021 - Ministero Innovazione Tecnologica e Digitalizzazione.</b> Al minuto 1:00:00 un intervento sui risultati raggiunti dalla città di Palermo nel percorso di adesione alle piattaforme nazionali abilitanti all'erogazione dei servizi</a></span>
-.. |REPLACE3| raw:: html
 
     <blockquote class="twitter-tweet"><p lang="it" dir="ltr">📢<a href="https://twitter.com/hashtag/PAdigitale?src=hash&amp;ref_src=twsrc%5Etfw">#PAdigitale</a>: il <a href="https://twitter.com/ComunePalermo?ref_src=twsrc%5Etfw">@ComunePalermo</a>. Una programmazione strategica per guidare la trasformazione digitale di <a href="https://twitter.com/hashtag/Palermo?src=hash&amp;ref_src=twsrc%5Etfw">#Palermo</a> con progetti ambiziosi e lavoro di squadra. L&#39;articolo completo ▶ <a href="https://t.co/vBn3Rglct5">https://t.co/vBn3Rglct5</a> <a href="https://t.co/ubVE7y6VaZ">pic.twitter.com/ubVE7y6VaZ</a></p>&mdash; Dipartimento per la Trasformazione Digitale (@InnovazioneGov) <a href="https://twitter.com/InnovazioneGov/status/1357329745680228359?ref_src=twsrc%5Etfw">February 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
