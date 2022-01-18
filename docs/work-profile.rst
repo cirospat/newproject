@@ -94,9 +94,11 @@ Redazione partecipata del \ |LINK11|\ . ``cc by``
 
 \ |LINK30|\  versione dicembre 2020 (da una ricognizione del dicembre 2020)  ``cc by sa`` -  [interfaccia di navigazione \ |LINK31|\ ]
 
-\ |LINK32|\ , versione ottobre 2011 (dalla Deliberazione C.C. 608 del 27.10.2011) ``cc by sa`` - [interfaccia di navigazione \ |LINK33|\ ]
+\ |LINK32|\ . Dicembre 2021 - ``cc by 4.0`` -  [realizzato con Material for MkDocs]
 
-\ |LINK34|\  (2021), versione maggio 2021  ``cc by`` -  [interfaccia di navigazione \ |LINK35|\ ]
+\ |LINK33|\ , versione ottobre 2011 (dalla Deliberazione C.C. 608 del 27.10.2011) ``cc by sa`` - [interfaccia di navigazione \ |LINK34|\ ]
+
+\ |LINK35|\  (2021), versione maggio 2021  ``cc by`` -  [interfaccia di navigazione \ |LINK36|\ ]
 
 --------
 
@@ -112,11 +114,11 @@ UE projects
 
 \ |STYLE2|\ :
 
-* \ |LINK36|\  ``CC BY``.
+* \ |LINK37|\  ``CC BY``.
 
-* \ |LINK37|\  ``CC BY SA``.
+* \ |LINK38|\  ``CC BY SA``.
 
-* \ |LINK38|\  ``CC BY NC SA``.
+* \ |LINK39|\  ``CC BY NC SA``.
 
 
 |REPLACE5|
@@ -300,29 +302,33 @@ UE projects
 
 .. |LINK32| raw:: html
 
-    <a href="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-palermo-delibera-cc-608-27_10_2011/" target="_blank">Visualizzazione in un pannello di controllo delle attività relative ai procedimenti amministrativi comunali di Palermo</a>
+    <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" target="_blank">Documentazione delle attività di mappatura e analisi dei procedimenti al comune di Palermo</a>
 
 .. |LINK33| raw:: html
 
-    <a href="http://www.simile-widgets.org/exhibit3/" target="_blank">Simile Exhibit</a>
+    <a href="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-palermo-delibera-cc-608-27_10_2011/" target="_blank">Visualizzazione in un pannello di controllo delle attività relative ai procedimenti amministrativi comunali di Palermo</a>
 
 .. |LINK34| raw:: html
 
-    <a href="https://cirospat.github.io/pnrr_2021_opendata/" target="_blank">Visualizzazione degli interventi finanziati dal Piano Nazionale Ripresa e Resilienza</a>
+    <a href="http://www.simile-widgets.org/exhibit3/" target="_blank">Simile Exhibit</a>
 
 .. |LINK35| raw:: html
 
-    <a href="http://www.simile-widgets.org/exhibit3/" target="_blank">Simile Exhibit</a>
+    <a href="https://cirospat.github.io/pnrr_2021_opendata/" target="_blank">Visualizzazione degli interventi finanziati dal Piano Nazionale Ripresa e Resilienza</a>
 
 .. |LINK36| raw:: html
 
-    <a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera</a>
+    <a href="http://www.simile-widgets.org/exhibit3/" target="_blank">Simile Exhibit</a>
 
 .. |LINK37| raw:: html
 
-    <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo</a>
+    <a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera</a>
 
 .. |LINK38| raw:: html
+
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo</a>
+
+.. |LINK39| raw:: html
 
     <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo, non per usi commerciali</a>
 
