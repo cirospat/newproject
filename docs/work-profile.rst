@@ -57,48 +57,54 @@ works
 
 \ |LINK9|\  ``cc by sa``
 
+\ |LINK10|\  (in collaborazione con il webmaster) 2013-current ``cc by``
 
-|REPLACE3|
-
-\ |LINK10|\  (in collaborazione con il webmaster) 2013-now ``cc by`` 
-
-Redazione partecipata del \ |LINK11|\ . ``cc by``
+\ |LINK11|\  ``cc by sa``
 
 \ |LINK12|\  ``cc by sa``
 
-\ |LINK13|\  ``cc by sa``
 
-\ |LINK14|\  - [interfaccia di navigazione \ |LINK15|\ ] ``cc by``
+|REPLACE3|
 
-\ |LINK16|\  (2007) ``cc by``
+Redazione partecipata del \ |LINK13|\   - collaborazione -  ``cc by``
 
-\ |LINK17|\  (2006) ``cc by``
 
-\ |LINK18|\  (2008) ``cc by``
+|REPLACE4|
 
-\ |LINK19|\  ``cc by`` e  \ |LINK20|\  ``cc by sa``
+\ |LINK14|\  (2007) - collaborazione - ``cc by``
+
+\ |LINK15|\  (2006) - collaborazione - ``cc by``
+
+\ |LINK16|\  (2008) - collaborazione - ``cc by``
+
+\ |LINK17|\  ``cc by`` e  \ |LINK18|\  ``cc by sa``
+
+\ |LINK19|\  ``cc by``
+
+\ |LINK20|\  ``cc by sa``
 
 \ |LINK21|\  ``cc by``
 
-\ |LINK22|\  ``cc by sa``
+\ |LINK22|\  e \ |LINK23|\  - collaborazione - ``cc by nc sa``
 
-\ |LINK23|\  ``cc by``
+\ |LINK24|\   - collaborazione -  ``cc by nc sa``
 
-\ |LINK24|\  e \ |LINK25|\  ``cc by nc sa``
+\ |LINK25|\   prototipo di archivio sulla sostenibilità a Palermo, in collaborazione con l'architetto Paola Caselli (2018) - collaborazione - ``cc by sa``
 
-\ |LINK26|\  ``cc by nc sa``
-
-\ |LINK27|\   prototipo di archivio sulla sostenibilità a Palermo, in collaborazione con l'architetto Paola Caselli (2018) ``cc by sa``
+\ |LINK26|\  (2021), versione maggio 2021  ``cc by`` -  [interfaccia di navigazione \ |LINK27|\ ]
 
 \ |LINK28|\  (informazioni tratte dalle carte dei servizi e dal sito web istituzionale) ``cc by sa`` - [interfaccia di navigazione \ |LINK29|\ ]
 
-\ |LINK30|\  versione dicembre 2020 (da una ricognizione del dicembre 2020)  ``cc by sa`` -  [interfaccia di navigazione \ |LINK31|\ ]
+.. _h85ef264b6169377a0323f4a6ba4:
 
-\ |LINK32|\ . Dicembre 2021 - ``cc by 4.0`` -  [realizzato con Material for MkDocs]
+Procedimenti amministrativi comune Palermo
+------------------------------------------
 
-\ |LINK33|\ , versione ottobre 2011 (dalla Deliberazione C.C. 608 del 27.10.2011) ``cc by sa`` - [interfaccia di navigazione \ |LINK34|\ ]
+\ |LINK30|\ . Dicembre 2021 - ``cc by 4.0`` -  [realizzato con \ |LINK31|\ ]
 
-\ |LINK35|\  (2021), versione maggio 2021  ``cc by`` -  [interfaccia di navigazione \ |LINK36|\ ]
+\ |LINK32|\  versione dicembre 2020 (da una ricognizione del dicembre 2020)  ``cc by sa`` -  [interfaccia di navigazione \ |LINK33|\ ]
+
+\ |LINK34|\ , versione ottobre 2011 (dalla Deliberazione C.C. 608 del 27.10.2011) ``cc by sa`` - [interfaccia di navigazione \ |LINK35|\ ]
 
 --------
 
@@ -108,20 +114,20 @@ UE projects
 ============
 
 
-|REPLACE4|
+|REPLACE5|
 
 --------
 
 \ |STYLE2|\ :
 
-* \ |LINK37|\  ``CC BY``.
+* \ |LINK36|\  ``CC BY``.
 
-* \ |LINK38|\  ``CC BY SA``.
+* \ |LINK37|\  ``CC BY SA``.
 
-* \ |LINK39|\  ``CC BY NC SA``.
+* \ |LINK38|\  ``CC BY NC SA``.
 
 
-|REPLACE5|
+|REPLACE6|
 
 
 .. bottom of content
@@ -145,12 +151,15 @@ UE projects
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png" /> <a href="https://github.com/cirospat?tab=repositories" target="_blank">Github</a> repository codice <code><span style="color: #ff0000;">cc by sa</span></code>
 .. |REPLACE4| raw:: html
 
+    <!-- Palermo visualizzazione eventi culturali 2018 con funzioni avanzate di search - [interfaccia di navigazione Simile Exhibit] ``cc by``   -->
+.. |REPLACE5| raw:: html
+
     <p><a href="http://poieinkaiprattein.org/cied" target="_blank" rel="noopener" title="project-cied"><img src="https://img.shields.io/badge/project-cied-blue.svg" /></a></p>
     <p><a href="http://ec.europa.eu/environment/life/project/Projects/index.cfm?fuseaction=search.dspPage&n_proj_id=778&docType=pdf" target="_blank" rel="noopener" title="project-euro emas"><img src="https://img.shields.io/badge/project-euro_emas-blue.svg" /></a></p>
     <p><a href="http://slideplayer.com/slide/4835066/" target="_blank" rel="noopener" title="project-etiv"><img src="https://img.shields.io/badge/project-etiv-blue.svg" /></a></p>
     <p><a href="http://bit.ly/medclima" target="_blank" rel="noopener" title="project-medclima"><img src="https://img.shields.io/badge/project-medclima-blue.svg" /></a></p>
     <p><a href="http://www.eurocities.eu/eurocities/projects/URBAN-MATRIX-Targeted-Knowledge-Exchange-on-Urban-Sustainability&tpl=home" target="_blank" rel="noopener" title="project-urban matrix"><img src="https://img.shields.io/badge/project-urban_matrix-blue.svg" /></a></p>
-.. |REPLACE5| raw:: html
+.. |REPLACE6| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -218,71 +227,71 @@ UE projects
 
 .. |LINK11| raw:: html
 
-    <a href="https://docs.google.com/document/d/1LwcdcBhkrJxzaNQtzvp43vCaFvDBVVLbFv1CkdR348o/edit#" target="_blank">report di candidatura della città di Palermo al titolo di "capitale europea dell'innovazione, edizione 2019"</a>
+    <a href="https://cirospat.github.io/maps/index.html" target="_blank">Maps hub by cirospat</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://cirospat.github.io/maps/index.html" target="_blank">Maps hub by cirospat</a>
+    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps, uno sguardo alla città attraverso le mappe</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://sites.google.com/view/palermomaps" target="_blank">Palermo_maps, uno sguardo alla città attraverso le mappe</a>
+    <a href="https://docs.google.com/document/d/1LwcdcBhkrJxzaNQtzvp43vCaFvDBVVLbFv1CkdR348o/edit#" target="_blank">report di candidatura della città di Palermo al titolo di "capitale europea dell'innovazione, edizione 2019"</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://siciliahub.github.io/eventipalermo2018/" target="_blank">Palermo visualizzazione eventi culturali 2018 con funzioni avanzate di search</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014112900.pdf" target="_blank">Piano strategico della mobilità sostenibile di Palermo</a>
 
 .. |LINK15| raw:: html
 
-    <a href="http://www.simile-widgets.org/exhibit3/" target="_blank">Simile Exhibit</a>
+    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014113000.pdf" target="_blank">1° Rapporto sullo stato dell'Ambiente della città di Palermo</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014112900.pdf" target="_blank">Piano strategico della mobilità sostenibile di Palermo</a>
+    <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">Piano strategico di Palermo</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://www.comune.palermo.it/js/server/uploads/trasparenza_all/_27012014113000.pdf" target="_blank">1° Rapporto sullo stato dell'Ambiente della città di Palermo</a>
+    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">Linee guida comunali open data Palermo versione partecipata 2017 pubblicate in stile Read the Docs</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://app.box.com/s/d2le0fdlqy4svt32gy5o" target="_blank">Piano strategico di Palermo</a>
+    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">Linee guida comunali open data 2017 Palermo in formato aperto</a>
 
 .. |LINK19| raw:: html
 
-    <a href="http://linee-guida-open-data-comune-palermo.readthedocs.io/it/latest/" target="_blank">Linee guida comunali open data Palermo versione partecipata 2017 pubblicate in stile Read the Docs</a>
+    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/" target="_blank">Pubblicazioni del comune di Palermo (regolamenti, linee guida) su Read the Docs</a>
 
 .. |LINK20| raw:: html
 
-    <a href="https://docs.google.com/document/d/1N_mN0KEb-wHLLP8TQfBryeYY_f--8cT6zbqcsYlf2AE" target="_blank">Linee guida comunali open data 2017 Palermo in formato aperto</a>
+    <a href="http://come-creare-guida.readthedocs.io/it/latest/" target="_blank">Come creare una pubblicazione su Read the Docs, per documenti pubblici, con lo stile Docs Italia</a>
 
 .. |LINK21| raw:: html
 
-    <a href="http://documenti-comune-palermo.readthedocs.io/it/latest/" target="_blank">Pubblicazioni del comune di Palermo (regolamenti, linee guida) su Read the Docs</a>
+    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella pubblica amministrazione</a>
 
 .. |LINK22| raw:: html
 
-    <a href="http://come-creare-guida.readthedocs.io/it/latest/" target="_blank">Come creare una pubblicazione su Read the Docs, per documenti pubblici, con lo stile Docs Italia</a>
+    <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">Libro bianco sull'innovazione della Pubblica Amministrazione, 2018 (FPA)</a>
 
 .. |LINK23| raw:: html
 
-    <a href="http://samba-digitale-pa.readthedocs.io" target="_blank">Samba della transizione al digitale nella pubblica amministrazione</a>
+    <a href="https://librobianco-innovazione-pa2018-final.readthedocs.io" target="_blank">versione finale partecipata del Libro Bianco 2018</a>
 
 .. |LINK24| raw:: html
 
-    <a href="http://forumpa-librobianco-innovazione-2018.readthedocs.io" target="_blank">Libro bianco sull'innovazione della Pubblica Amministrazione, 2018 (FPA)</a>
+    <a href="https://librobianco-responsive-city-fpa-2020.readthedocs.io/" target="_blank">Libro bianco delle Responsive cities, 2021 (FPA)</a>
 
 .. |LINK25| raw:: html
 
-    <a href="https://librobianco-innovazione-pa2018-final.readthedocs.io" target="_blank">versione finale partecipata del Libro Bianco 2018</a>
+    <a href="https://palermo-sostenibile.readthedocs.io" target="_blank">Palermo sostenibile</a>
 
 .. |LINK26| raw:: html
 
-    <a href="https://librobianco-responsive-city-fpa-2020.readthedocs.io/" target="_blank">Libro bianco delle Responsive cities, 2021 (FPA)</a>
+    <a href="https://cirospat.github.io/pnrr_2021_opendata/" target="_blank">Visualizzazione degli interventi finanziati dal Piano Nazionale Ripresa e Resilienza</a>
 
 .. |LINK27| raw:: html
 
-    <a href="https://palermo-sostenibile.readthedocs.io" target="_blank">Palermo sostenibile</a>
+    <a href="http://www.simile-widgets.org/exhibit3/" target="_blank">Simile Exhibit</a>
 
 .. |LINK28| raw:: html
 
@@ -294,41 +303,37 @@ UE projects
 
 .. |LINK30| raw:: html
 
-    <a href="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" target="_blank">Visualizzazione in un pannello di controllo delle attività relative ai procedimenti amministrativi comunali di Palermo</a>
+    <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" target="_blank">Documentazione delle attività di mappatura e analisi dei procedimenti al comune di Palermo</a>
 
 .. |LINK31| raw:: html
 
-    <a href="http://www.simile-widgets.org/exhibit3/" target="_blank">Simile Exhibit</a>
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Material for MkDocs</a>
 
 .. |LINK32| raw:: html
 
-    <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" target="_blank">Documentazione delle attività di mappatura e analisi dei procedimenti al comune di Palermo</a>
+    <a href="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-comunepalermo/" target="_blank">Visualizzazione in un pannello di controllo delle attività relative ai procedimenti amministrativi comunali di Palermo</a>
 
 .. |LINK33| raw:: html
 
-    <a href="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-palermo-delibera-cc-608-27_10_2011/" target="_blank">Visualizzazione in un pannello di controllo delle attività relative ai procedimenti amministrativi comunali di Palermo</a>
+    <a href="http://www.simile-widgets.org/exhibit3/" target="_blank">Simile Exhibit</a>
 
 .. |LINK34| raw:: html
 
-    <a href="http://www.simile-widgets.org/exhibit3/" target="_blank">Simile Exhibit</a>
+    <a href="https://uo-transizionedigitalecomunepalermo.github.io/procedimenti-amministrativi-palermo-delibera-cc-608-27_10_2011/" target="_blank">Visualizzazione in un pannello di controllo delle attività relative ai procedimenti amministrativi comunali di Palermo</a>
 
 .. |LINK35| raw:: html
 
-    <a href="https://cirospat.github.io/pnrr_2021_opendata/" target="_blank">Visualizzazione degli interventi finanziati dal Piano Nazionale Ripresa e Resilienza</a>
+    <a href="http://www.simile-widgets.org/exhibit3/" target="_blank">Simile Exhibit</a>
 
 .. |LINK36| raw:: html
 
-    <a href="http://www.simile-widgets.org/exhibit3/" target="_blank">Simile Exhibit</a>
+    <a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera</a>
 
 .. |LINK37| raw:: html
 
-    <a href="https://creativecommons.org/licenses/by/2.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera</a>
-
-.. |LINK38| raw:: html
-
     <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo</a>
 
-.. |LINK39| raw:: html
+.. |LINK38| raw:: html
 
     <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/it/" target="_blank">licenza Creative Commons, attribuzione dell'opera, condividi allo stesso modo, non per usi commerciali</a>
 
