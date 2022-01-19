@@ -83,7 +83,7 @@ Redazione partecipata del \ |LINK13|\   - collaborazione -  ``cc by``
 
 \ |LINK20|\  ``cc by sa``
 
-\ |LINK21|\  ``cc by``
+\ |LINK21|\  (marzo 2018) ``cc by``
 
 \ |LINK22|\  e \ |LINK23|\  - collaborazione - ``cc by nc sa``
 
