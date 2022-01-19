@@ -148,7 +148,9 @@ UE projects
     <p>click on <a href="https://cirospat.readthedocs.io/it/latest/cv-Ciro-Spataro.html" target="_blank" rel="noopener" title="CV cirospat"><img src="https://img.shields.io/badge/CV-Ciro_Spataro-blue.svg" /></a></p>
 .. |REPLACE3| raw:: html
 
+    <!--
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/github.png" /> <a href="https://github.com/cirospat?tab=repositories" target="_blank">Github</a> repository codice <code><span style="color: #ff0000;">cc by sa</span></code>
+     -->
 .. |REPLACE4| raw:: html
 
     <!-- Palermo visualizzazione eventi culturali 2018 con funzioni avanzate di search - [interfaccia di navigazione Simile Exhibit] ``cc by``   -->
