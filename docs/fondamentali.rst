@@ -1066,6 +1066,19 @@ AGID e il regolamento sul cloud della PA di dicembre 2021
 
 2023 ➔ A partire dalla fine del 2022 le amministrazioni avvieranno la migrazione verso il cloud qualificato che dovrà concludersi entro la fine del 2025 (75% della PA in cloud. PNRR)
 
+.. _h666f62b68426f9557356b186d447d:
+
+\ |LINK202|\ 
+=============
+
+20 gennaio 2022
+
+\ |STYLE85|\ :
+
+* la \ |LINK203|\  e l'\ |LINK204|\  sul modello per la predisposizione dell'elenco e della classificazione di dati e di servizi;
+
+* la \ |LINK205|\  e l'\ |LINK206|\  su le ulteriori caratteristiche dei servizi cloud e requisiti per la qualificazione.
+
 |
 
 .. _h434738693f6420382461181f27573723:
@@ -1073,9 +1086,9 @@ AGID e il regolamento sul cloud della PA di dicembre 2021
 Linee Guida sull’infrastruttura tecnologica della Piattaforma Digitale Nazionale Dati (PDND) per l’interoperabilità dei sistemi informativi e delle basi di dati
 ****************************************************************************************************************************************************************
 
-Da ottobre 2021 online le \ |LINK202|\ .
+Da ottobre 2021 online le \ |LINK207|\ .
 
-Ai sensi dell’articolo 50-ter, comma 1 del CAD, la \ |STYLE85|\  è finalizzata a favorire la conoscenza e l’utilizzo del patrimonio informativo detenuto per finalità istituzionali dai soggetti di cui all’articolo 2, comma 2 del CAD nonché la condivisione dei dati tra i soggetti che hanno diritto di accedervi ai fini dell’attuazione dell’articolo 50 del CAD e della semplificazione degli adempimenti dei cittadini e delle imprese, in conformità alla disciplina vigente.
+Ai sensi dell’articolo 50-ter, comma 1 del CAD, la \ |STYLE86|\  è finalizzata a favorire la conoscenza e l’utilizzo del patrimonio informativo detenuto per finalità istituzionali dai soggetti di cui all’articolo 2, comma 2 del CAD nonché la condivisione dei dati tra i soggetti che hanno diritto di accedervi ai fini dell’attuazione dell’articolo 50 del CAD e della semplificazione degli adempimenti dei cittadini e delle imprese, in conformità alla disciplina vigente.
 
 Ai sensi dell’articolo 50-ter, comma 2 del CAD, l’Infrastruttura interoperabilità PDND rende possibile l’interoperabilità dei sistemi informativi e delle basi di dati dei soggetti interessati, mediante:
 
@@ -1096,9 +1109,9 @@ L’Agenzia per l’Italia Digitale ha pubblicato il regolamento relativo alla v
 
 Contestualmente è stato adottato il Regolamento recante le procedure finalizzate allo svolgimento dei compiti del Difensore civico per il Digitale. 
 
-* \ |LINK203|\ 
+* \ |LINK208|\ 
 
-* \ |LINK204|\  
+* \ |LINK209|\  
 
 |
 
@@ -1286,7 +1299,9 @@ Contestualmente è stato adottato il Regolamento recante le procedure finalizzat
 
 .. |STYLE84| replace:: **dalle principali amministrazioni locali**
 
-.. |STYLE85| replace:: **PDND**
+.. |STYLE85| replace:: **Consulta gli atti dell'Agenzia per la cybersicurezza nazionale**
+
+.. |STYLE86| replace:: **PDND**
 
 
 .. |REPLACE1| raw:: html
@@ -2127,13 +2142,33 @@ Contestualmente è stato adottato il Regolamento recante le procedure finalizzat
 
 .. |LINK202| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-pdnd-docs/it/bozza/index.html#" target="_blank">Linee Guida PDND per interoperabilità</a>
+    <a href="https://innovazione.gov.it/notizie/articoli/cloud-pa-online-gli-atti-per-classificare-dati-e-servizi-e-qualificare-i-servizi/" target="_blank">Atti per classificare dati e servizi e qualificare i servizi delle PA</a>
 
 .. |LINK203| raw:: html
 
-    <a href="http://maggioli.newsabbonati.it/nl/link?c=95qle&d=k48&h=2kqlramilaadcop3i4j0hq3iv0&i=1sb&iw=1&p=H462505551&s=lp&sn=dbl&z=a1d8" target="_blank">Consulta il regolamento relativo alla vigilanza sugli obblighi di transizione digitale</a>
+    <a href="https://assets.innovazione.gov.it/1642693979-det_306_cloud_modclass_20220118.pdf" target="_blank">determina n. 306 (PDF)</a>
 
 .. |LINK204| raw:: html
+
+    <a href="https://assets.innovazione.gov.it/1642694063-det_306_all1_20220118_modello.pdf" target="_blank">allegato (PDF)</a>
+
+.. |LINK205| raw:: html
+
+    <a href="https://assets.innovazione.gov.it/1642694131-det_307_cloud_ulteriorilerqc_20220118.pdf" target="_blank">determina n. 307 (PDF)</a>
+
+.. |LINK206| raw:: html
+
+    <a href="https://assets.innovazione.gov.it/1642754054-all1det307acn.pdf" target="_blank">allegato (PDF)</a>
+
+.. |LINK207| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-pdnd-docs/it/bozza/index.html#" target="_blank">Linee Guida PDND per interoperabilità</a>
+
+.. |LINK208| raw:: html
+
+    <a href="http://maggioli.newsabbonati.it/nl/link?c=95qle&d=k48&h=2kqlramilaadcop3i4j0hq3iv0&i=1sb&iw=1&p=H462505551&s=lp&sn=dbl&z=a1d8" target="_blank">Consulta il regolamento relativo alla vigilanza sugli obblighi di transizione digitale</a>
+
+.. |LINK209| raw:: html
 
     <a href="http://maggioli.newsabbonati.it/nl/link?c=95qle&d=k48&h=2v2ut5jij2b1b2a201ao7l2snq&i=1sb&iw=1&p=H462505552&s=lp&sn=dbl&z=a1d9" target="_blank">Consulta il regolamento relativo ai compiti del Difensore civico per il digitale</a>
 
