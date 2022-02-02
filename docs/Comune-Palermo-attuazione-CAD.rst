@@ -618,8 +618,7 @@ Il progetto rientra tra le azioni del PON METRO 2014-2020.
     <blockquote class="twitter-tweet"><p lang="it" dir="ltr">📢<a href="https://twitter.com/hashtag/PAdigitale?src=hash&amp;ref_src=twsrc%5Etfw">#PAdigitale</a>: il <a href="https://twitter.com/ComunePalermo?ref_src=twsrc%5Etfw">@ComunePalermo</a>. Una programmazione strategica per guidare la trasformazione digitale di <a href="https://twitter.com/hashtag/Palermo?src=hash&amp;ref_src=twsrc%5Etfw">#Palermo</a> con progetti ambiziosi e lavoro di squadra. L&#39;articolo completo ▶ <a href="https://t.co/vBn3Rglct5">https://t.co/vBn3Rglct5</a> <a href="https://t.co/ubVE7y6VaZ">pic.twitter.com/ubVE7y6VaZ</a></p>&mdash; Dipartimento per la Trasformazione Digitale (@InnovazioneGov) <a href="https://twitter.com/InnovazioneGov/status/1357329745680228359?ref_src=twsrc%5Etfw">February 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 .. |REPLACE3| raw:: html
 
-    <iframe width="100%" height="500" src="https://youtu.be/oU2nJ6fJ5y0" 
-    src="https://www.youtube.com/embed/oU2nJ6fJ5y0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/oU2nJ6fJ5y0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 .. |LINK1| raw:: html
 
