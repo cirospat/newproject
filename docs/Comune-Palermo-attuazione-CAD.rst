@@ -439,11 +439,13 @@ Ottobre 2021. La Società partecipata AMAP ha reso disponibile sullo store dei d
 2022
 ----
 
-Avviato operativamente ad inizio 2022 il progetto "City Compass" per la geolocalizzazione dei bus urbani gestiti dall'Azienda in house AMAT SpA.  Il progetto realizzato consente di avere un archivio storico dei dati sul trasporto pubblico locale, di gestire le attività di turnazione del personale autista, organizzazione e manutenzione dei bus, e di offrire al cittadino un costante aggiornamento della posizione dei bus attraverso l’App PalerMobilità.
+Avviato operativamente ad inizio 2022 il progetto "City Compass" per la geolocalizzazione dei bus urbani gestiti dall'Azienda \ |LINK120|\  per il trasporto pubblico (bus e tram).  Il progetto realizzato consente di avere un archivio storico dei dati sul trasporto pubblico locale, di gestire le attività di turnazione del personale autista, organizzazione e manutenzione dei bus, e di offrire al cittadino un costante aggiornamento della posizione dei bus attraverso l’App \ |LINK121|\ .
 
 |REPLACE3|
 
 Il progetto rientra tra le azioni del PON METRO 2014-2020.
+
+\ |LINK122|\ .
 
 
 .. bottom of content
@@ -1095,4 +1097,16 @@ Il progetto rientra tra le azioni del PON METRO 2014-2020.
 .. |LINK119| raw:: html
 
     <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=33267" target="_blank">Comunicato stampa del Comune di Palermo</a>
+
+.. |LINK120| raw:: html
+
+    <a href="https://www.amat.pa.it/" target="_blank">AMAT SpA</a>
+
+.. |LINK121| raw:: html
+
+    <a href="https://play.google.com/store/apps/details?id=com.cittadigitale" target="_blank">PalerMobilità</a>
+
+.. |LINK122| raw:: html
+
+    <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=33770" target="_blank">Comunicato stampa del 22 gennaio 2022 del comune di Palermo</a>
 
