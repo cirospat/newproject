@@ -439,9 +439,11 @@ Ottobre 2021. La Società partecipata AMAP ha reso disponibile sullo store dei d
 2022
 ----
 
-Avviato operativamente ad inizio 2022 il progetto City Compass per la geolocalizzazione dei bus urbani gestiti dall'Azienda in house AMAT SpA.  Il progetto realizzato consente di avere un archivio storico dei dati sul trasporto pubblico locale, e di offrire al cittadino un costante aggiornamento della posizione dei bus attraverso l’App PalerMobilità.
+Avviato operativamente ad inizio 2022 il progetto "City Compass" per la geolocalizzazione dei bus urbani gestiti dall'Azienda in house AMAT SpA.  Il progetto realizzato consente di avere un archivio storico dei dati sul trasporto pubblico locale, di gestire le attività di turnazione del personale autista, organizzazione e manutenzione dei bus, e di offrire al cittadino un costante aggiornamento della posizione dei bus attraverso l’App PalerMobilità.
 
 |REPLACE3|
+
+Il progetto rientra tra le azioni del PON METRO 2014-2020.
 
 
 .. bottom of content
