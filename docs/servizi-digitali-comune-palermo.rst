@@ -60,6 +60,15 @@ Wifi hotspot comunali di Palermo e accessi telematici alla ZTL
 
 |
 
+.. _h176a166e4695e2b70917365045545b:
+
+Catalogo dei pagamenti per servizi del comune di Palermo e catalogo dei servizi a domanda individuale
+=====================================================================================================
+
+
+|REPLACE9|
+
+
 .. bottom of content
 
 
@@ -89,6 +98,9 @@ Wifi hotspot comunali di Palermo e accessi telematici alla ZTL
 .. |REPLACE8| raw:: html
 
     <iframe width="100%" height="700px" frameBorder="0" allowfullscreen src="https://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe></br><a href="http://umap.openstreetmap.fr/it/map/hotspot-wifi-del-comune-di-palermo_211092">Visualizza a schermo intero</a>
+.. |REPLACE9| raw:: html
+
+    <iframe width="100%" height="2000px" frameBorder="0" src="https://uo-transizionedigitalecomunepalermo.github.io/catalogo-pagamenti/"></iframe>
 
 .. |LINK1| raw:: html
 
