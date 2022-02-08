@@ -17,10 +17,10 @@ Servizi digitali online del Comune di Palermo, delle Società partecipate e di A
 
 |
 
-.. _h11414b2e2a25777e5e2170c574f702f:
+.. _h526576776932526a6d5e1169c79d55:
 
-Agenda Digitale Palermo
-=======================
+Servizi online dall'Agenda Digitale del PON Metro Palermo
+=========================================================
 
 \ |LINK1|\   (Asse 1 del PON METRO Palermo 2014-2020)
 
@@ -31,10 +31,10 @@ Agenda Digitale Palermo
 
 |
 
-.. _h5526355225225e19565e471179314377:
+.. _h3d48607c7768472c2c469747c4a14c:
 
-Uffici comunali connessi all'Anello Telematico
-==============================================
+Siti comunali connessi all'Anello Telematico (banda ultra larga)
+================================================================
 
 
 |REPLACE5|
@@ -49,10 +49,10 @@ Uffici comunali connessi all'Anello Telematico
 
 |
 
-.. _h7f2c3ad4d106a7f2e2c4d502c1ce16:
+.. _h69625d2721979137e6d612a6973a3a:
 
-Wifi hotspot comunali di Palermo e accessi telematici alla ZTL
-==============================================================
+Wifi hotspot comunali di Palermo
+================================
 
 
 |REPLACE8|
