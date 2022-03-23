@@ -475,6 +475,10 @@ Febbraio 2022. L'Amministrazione aderisce al \ |LINK123|\ , organizzato dal Dipa
 
 |
 
+Marzo 2022. Fissato l'obiettivo di accessibilità del Comune di Palermo per il 2022 ai sensi del Piano triennale per l'informatica AGID: \ |LINK125|\  - Miglioramento dell'iter di pubblicazione su web e ruoli redazionali. L'obiettivo è coerente con l'obiettivo dirigenziale n. 2 del Piano della Performance 2021: creazione di un'interfaccia unica dei \ |LINK126|\  al quale l'Amministrazione sta lavorando dalla fine del 2021.
+
+|
+
 
 .. bottom of content
 
@@ -1145,4 +1149,12 @@ Febbraio 2022. L'Amministrazione aderisce al \ |LINK123|\ , organizzato dal Dipa
 .. |LINK124| raw:: html
 
     <a href="https://www.competenzedigitali.gov.it/il-programma/la-formazione/catalogo-corsi.html" target="_blank">corsi</a>
+
+.. |LINK125| raw:: html
+
+    <a href="https://form.agid.gov.it/view/3aed1362-ca0d-484e-bfc1-b7eb44b1be27/" target="_blank">https://form.agid.gov.it/view/3aed1362-ca0d-484e-bfc1-b7eb44b1be27/</a>
+
+.. |LINK126| raw:: html
+
+    <a href="https://comune.palermo.it/servizi-a-domanda-individuale.php" target="_blank">servizi a domanda individuale</a>
 
