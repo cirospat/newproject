@@ -447,6 +447,36 @@ Il progetto rientra tra le azioni del PON METRO 2014-2020.
 
 \ |LINK122|\ .
 
+|
+
+Febbraio 2022. L'Amministrazione aderisce al \ |LINK123|\ , organizzato dal Dipartimento della Funzione Pubblica.
+
+I \ |LINK124|\  a cui i dipendenti possono partecipare coprono i seguenti argomenti, e per ognuno è previsto un livello base, uno medio ed uno avanzato:
+
+#. Dati, informazioni e contenuti digitali;
+
+#. Produrre, valutare e gestire documenti informatici;
+
+#. Conoscere gli open data;
+
+#. Comunicare e condividere all'interno dell'amministrazione;
+
+#. Comunicare e condividere con cittadini, imprese ed altre PA;
+
+#. Proteggere i dispositivi;
+
+#. Proteggere i dati personali e la privacy;
+
+#. Conoscere l'identità digitale;
+
+#. Erogare servizi on line;
+
+#. Conoscere gli obiettivi della trasformazione digitale;
+
+#. Conoscere le tecnologie emergenti per la trasformazione digitale.
+
+|
+
 
 .. bottom of content
 
@@ -1109,4 +1139,12 @@ Il progetto rientra tra le azioni del PON METRO 2014-2020.
 .. |LINK122| raw:: html
 
     <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=33770" target="_blank">Comunicato stampa del 22 gennaio 2022 del comune di Palermo</a>
+
+.. |LINK123| raw:: html
+
+    <a href="https://www.competenzedigitali.gov.it/a-chi-si-rivolge/alle-amministrazioni.html" target="_blank">percorso formativo per le competenze digitali del personale della PA</a>
+
+.. |LINK124| raw:: html
+
+    <a href="https://www.competenzedigitali.gov.it/il-programma/la-formazione/catalogo-corsi.html" target="_blank">corsi</a>
 
