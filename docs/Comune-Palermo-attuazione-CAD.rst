@@ -449,9 +449,7 @@ Il progetto rientra tra le azioni del PON METRO 2014-2020.
 
 |
 
-Febbraio 2022. L'Amministrazione aderisce al \ |LINK123|\ , organizzato dal Dipartimento della Funzione Pubblica.
-
-I \ |LINK124|\  a cui i dipendenti possono partecipare coprono i seguenti argomenti, e per ognuno è previsto un livello base, uno medio ed uno avanzato:
+Febbraio 2022. L'Amministrazione aderisce al \ |LINK123|\ , organizzato dal Dipartimento della Funzione Pubblica. I \ |LINK124|\  a cui i dipendenti possono partecipare coprono i seguenti argomenti, e per ognuno è previsto un livello base, uno medio ed uno avanzato:
 
 #. Dati, informazioni e contenuti digitali;
 
