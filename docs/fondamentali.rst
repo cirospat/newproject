@@ -1876,7 +1876,7 @@ Contestualmente è stato adottato il Regolamento recante le procedure finalizzat
 
 .. |LINK135| raw:: html
 
-    <a href="https://www.dgroove.it/video/WebinarLineeguidaAgID22032022.mp4" target="_blank">Webinar 2021 della Società DGROOVE sulle linee guida AGID "formazione, gestione e conservazione dei documenti informatici"</a>
+    <a href="https://www.dgroove.it/video/WebinarLineeguidaAgID22032022.mp4" target="_blank">Webinar 2021 della Società DGROOVE sulle linee guida AGID "formazione, gestione e conservazione dei documenti informatici" e sul Piano triennale Informatica 2021-2023</a>
 
 .. |LINK136| raw:: html
 
