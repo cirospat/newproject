@@ -479,6 +479,10 @@ Marzo 2022. Fissato l'obiettivo di accessibilità del Comune di Palermo per il 2
 
 |
 
+Maggio 2022. Effettuata la classificazione di dati e servizi dell’Amministrazione, in ottemperanza alle \ |LINK127|\  e necessaria per le candidature delle PA all’\ |LINK128|\ .
+
+|
+
 
 .. bottom of content
 
@@ -1157,4 +1161,12 @@ Marzo 2022. Fissato l'obiettivo di accessibilità del Comune di Palermo per il 2
 .. |LINK126| raw:: html
 
     <a href="https://comune.palermo.it/servizi-a-domanda-individuale.php" target="_blank">servizi a domanda individuale</a>
+
+.. |LINK127| raw:: html
+
+    <a href="https://innovazione.gov.it/notizie/articoli/cloud-italia-pubblicata-la-metodologia-di-classificazione-di-dati-e-servizi/" target="_blank">disposizioni dell’Agenzia per la Cybersicurezza Nazionale (ACN)</a>
+
+.. |LINK128| raw:: html
+
+    <a href="https://areariservata.padigitale2026.gov.it/Pa_digitale2026_dettagli_avviso?id=a017Q00000c8mFyQAI" target="_blank">Avviso 1.2 del PNRR 2022 (migrazione dei servizi al cloud)</a>
 
