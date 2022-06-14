@@ -483,6 +483,217 @@ Maggio 2022. Effettuata la classificazione di dati e servizi dell’Amministrazi
 
 |
 
+Giugno 2022. Adesione del Comune di Palermo agli Avvisi del PNRR, missione 1, componente 1.  
+
+\ |STYLE80|\ . Sono stati candidati n. 50 servizi App IO candidabili su 50 finanziabili, da realizzare, già realizzati o in fase di realizzazione, elencati di seguito: 
+
+#. Rendite catastali (ICI, IMU, TUC, ecc.)
+
+#. Tassa occupazione suolo pubblico TOSAP
+
+#. Imposta comunale sulla Pubblicità (ICP)
+
+#. Assegnazione e pagamento del costo del numero Civico
+
+#. Imposta di carattere locale applicata a carico delle persone che alloggiano nelle strutture ricettive di territori classificati come località turistica o città d'arte
+
+#. Sanzioni amministrative (quelle che non rientrano nelle sanzioni penali e che non hanno conseguenze sul casellario giudiziario del trasgressore. Sono sempre collegate ad una misura economica. Esempi: violazioni delle norme tributarie, norme in materia di tutela del lavoro, ecc.)
+
+#. Tasse sui rifiuti (TARI, TIA, TARSU, TARES, ecc.), anni precedenti 
+
+#. Rilascio copia atti (verbale) incidente stradale
+
+#. Avvisi di Accertamento Violazione del Codice della Strada - Preavvisi di accertamento
+
+#. Sanzioni per la violazione di regolamenti diversi dal Codice della Strada
+
+#. Diritti di segreteria e spese di notifica - i diritti di segreteria sono un corrispettivo versato al comune per una determinata attività o prestazione che gli enti locali svolgono su richiesta dell'interessato
+
+#. Diritti di segreteria per certificati anagrafici
+
+#. Costo per emissione Carta d'identità cartacea
+
+#. Servizio Passi Carrabili 
+
+#. Corrispettivi dovuti per interventi di nuova costruzione, ampliamento di edifici esistenti e ristrutturazioni edilizie
+
+#. Oneri Condono Edilizio
+
+#. Diritti Pratiche SUAP e SUE - pratiche che transitano dallo Sportello Unico per le Attività Produttive ed Edilizia soggette a diritti di istruttoria
+
+#. Certificati di destinazione urbanistica
+
+#. Sanzioni in materia ambientale. Esempio: rifiuti, acque superficiali e sotterranee, impianti termici, emissioni in atmosfera, autorizzazioni integrate ambientali
+
+#. Servizio rilascio tesserino raccolta funghi spontanei
+
+#. Rette di frequenza per i servizi educativi Comunali
+
+#. Spesa mensa scolastica
+
+#. Servizio socio educativo volto a favorire la crescita dei bambini dai 3 mesi ai 3 anni di vita
+
+#. Servizi bibliotecari, prestito, noleggio multimediale
+
+#. Biglietti per visite nei luoghi di cultura comunali / Cinema
+
+#. Impianti sportivi, proventi derivanti da locazione e utilizzo impianti sportivi da parte di associazioni, polisportive e privati cittadini
+
+#. Servizi alla persona e servizi sociali, programma di trattamenti medici, infermieristici e riabilitativi, gestiti dall'ASL con i Comuni; funzioni amministrative legate ad interventi sociali svolti a livello locale;casa di riposo;servizi socio-sanitari e di trasporto sociale anziani/disabili; contrassegno disabili
+
+#.  Affitti, canoni di locazione percepiti dall'Ente
+
+#. Aree mercatali, concessione suolo pubblico per fiere e mercati
+
+#. Rimborso spese aree mercatali, rimborso delle spese sostenute dall'Ente per la messa a disposizione dell'area
+
+#. Servizi cimiteriali. Esempio: loculi, illuminazioni votive, concessione aree e manufatti cimiteriali
+
+#. Affitti alloggi popolari, canoni derivanti dalla locazione di alloggi popolari
+
+#. Morosità, ulteriore incasso (maggiorazione) derivante dal ritardo nei pagamenti
+
+#. Gestione anagrafe canina, acquisto Microchip ed altre spese per gestione anagrafe canina
+
+#. Riscossione coattiva, avvisi di Accertamento su mancata riscossione volontaria di Tasse e imposte
+
+#. Licenza taxi, tassa per rilascio licenza attività di Taxi
+
+#. Avviso Scadenza IMU
+
+#. Avviso Bonario pre liquidazione IMU
+
+#. Avviso Bonario Pre Ruolo
+
+#. Avviso Bonario pre liquidazione TARES/TARI
+
+#. Avviso Bonario Pre Ruolo TARES/TARI
+
+#. Avviso Bonario pre liquidazione TOSAP - Avviso Bonario Pre Ruolo TOSAP
+
+#. Avviso Bonario pre liquidazione ICP
+
+#. Avviso Bonario Pre Ruolo ICP
+
+#. Informazione Cambio Toponomastica
+
+#. Avviso Bonario pre liquidazione Imposta di Soggiorno
+
+#. Avviso Bonario Pre Ruolo  Imposta di Soggiorno
+
+#. Informazione/preavviso multa ZTL
+
+#. Preavviso Multa Autovelox
+
+#. Avviso Bonario pre iscrizione a ruolo.
+
+Il criterio adottato per la selezione dei servizi dall’elenco già stabilito dalla documentazione dell’Avviso è la reale erogazione del servizio stesso da parte dell’Amministrazione comunale.
+
+\ |STYLE81|\ . Sono stati identificati n. 37 servizi PagoPA candidabili su 50 finanziabili, da realizzare, già realizzati o in fase di realizzazione, elencati di seguito: 
+
+#. Tasse sui rifiuti (TARI, TIA, TARSU, TARES, ecc.) - anno in corso
+
+#. COSAP/TOSAP - Tassa occupazione suolo pubblico
+
+#. Imposta di affissione pubblicitaria ICP - Imposta comunale sulla Pubblicità (ICP)
+
+#. Numeri civici - Pagamento del costo del numero Civico
+
+#. Imposta di soggiorno - Imposta di carattere locale applicata a carico delle persone che alloggiano nelle strutture ricettive di territori classificati come località turistica o città d'arte
+
+#. Sanzioni amministrative - sono tutte quelle che non rientrano nelle sanzioni penali e che non hanno conseguenze sul casellario giudiziario del trasgressore. Sono sempre collegate ad una misura economica. Esempi: violazioni delle norme tributarie, norme in materia di tutela del lavoro, violazioni in materia ambientale urbanistica, etc.
+
+#. Violazione delle regole prescritte dal codice della strada / Verbali di Contravvenzione
+
+#. Tasse sui rifiuti TARI, TIA, TARSU, TARES, ecc., anni precedenti 
+
+#. Rapporti incidenti stradali - rilascio copia atti (verbale) incidente stradale
+
+#. Pagamento sanzioni diverse dal C.d.S. 
+
+#. Avvisi di accertamento Violazione del Codice della Strada
+
+#. Diritti di segreteria e spese di notifica
+
+#. Diritti di segreteria per certificati anagrafici 
+
+#. Costo per emissione Carta d'identità cartacea
+
+#. Tassa sul passo carrabile
+
+#. Corrispettivi dovuti per interventi di nuova costruzione, ampliamento di edifici esistenti e ristrutturazioni edilizie
+
+#. Spese legate alla richiesta e al rilascio di condono edilizio
+
+#. Spese per diritti pratiche SUAP e SUE
+
+#. Incassi derivanti dal rilascio di certificazione di destinazione urbanistica
+
+#. Sanzioni in materia ambientale. Rifiuti, acque superficiali e sotterranee, impianti termici, emissioni in atmosfera, autorizzazioni integrate ambientali
+
+#. Pagamento per il rilascio del tesserino per la raccolta dei funghi spontanei
+
+#. Rette di frequenza per i servizi educativi Comunali
+
+#. Spesa mensa scolastica
+
+#. Servizio socio educativo volto a favorire la crescita dei bambini dai 3 mesi ai 3 anni di vita
+
+#. Tariffe visite nei luoghi di cultura comunali / Cinema
+
+#. Proventi derivanti da locazione e utilizzo impianti sportivi da parte di associazioni, polisportive e privati cittadini
+
+#. Trattamenti medici, infermieristici e riabilitativi, gestiti dall'ASL con i Comuni; funzioni amministrative legate ad interventi sociali svolti a livello locale;casa di riposo;servizi socio-sanitari e di trasporto sociale anziani/disabili; pagamento contrassegno disabili
+
+#. Affitti - canoni di locazione percepiti dall'Ente
+
+#. Concessione suolo pubblico per fiere e mercati
+
+#. Rimborso delle spese sostenute dall'Ente per la messa a disposizione dell'area
+
+#. Spese per erogazione di servizi cimiteriali. Es: loculi, illuminazioni votive, concessione aree e manufatti cimiteriali, ecc.
+
+#. Canoni derivanti dalla locazione di alloggi popolari
+
+#. Ulteriore incasso (maggiorazione) derivante dal ritardo nei pagamenti
+
+#. Pagamento ticket parcheggi e permessi per la ZTL - zona a traffico limitato
+
+#. Acquisto microchip ed altre spese per gestione anagrafe canina
+
+#. Accertamento su mancata riscossione volontaria di Tasse e imposte
+
+#. Tassa per rilascio licenza attività di Taxi.
+
+Il criterio adottato per la selezione dei servizi dall’elenco già stabilito dalla documentazione dell’Avviso è la reale erogazione del servizio stesso da parte dell’Amministrazione comunale.
+
+\ |STYLE82|\ . Per l’avviso 1.4.1 è stato avviato un tavolo tecnico-operativo specifico, con il duplice obiettivo di rifacimento dell’intero sito web per l’adeguamento alle obbligatorie linee guida AGID sui siti web delle PA (c.d. cittadino informato), e la predisposizione di un set massimo di n. 10 servizi digitali da erogare sul portale (c.d. cittadino attivo).  In considerazione dei requisiti posti dal bando ed in funzione dello stato dell'arte dei portali web dell'Amministrazione, sono state analizzate le seguenti attività da porre in essere:  
+
+#. \ |STYLE83|\ : è previsto l'utilizzo di un CMS (content management system) che risponda a precisi requisiti di sicurezza, accessibilità, responsività, etc.. Si è convenuto di restringere le opzioni a due prodotti, rispettivamente Liferay e Drupal ma non si esclude di poter integrare una terza opzione su eventuale suggerimento degli attori coinvolti. Le scelte saranno oggetto di analisi prettamente tecniche da parte di SISPI, da svolgere successivamente all'ammissione al bando; questa attività avrà come oggetto il confronto fra le due soluzioni, tenendo conto del know-how, delle risorse e della compatibilità rispetto alle piattaforme attualmente in uso e/o in fase di rilascio nell'ambito dei progetti in itinere di Agenda Urbana (ad es. l'Identity & Access Manager comunale o la piattaforma KeySuite per la realizzazione del front-end dei servizi digitali alla cittadinanza).  
+
+#. \ |STYLE84|\ : in continuità con quanto previsto per gli altri avvisi ai quali l'amministrazione intende partecipare, sono stati individuati n. 10 servizi fra i 26 previsti dal bando, da inserire nell'ambito del finanziamento della misura. Tali servizi potranno beneficiare del finanziamento anche se realizzati dopo il 1° Febbraio 2020  purché  non siano finanziati con altri fondi pubblici, nazionali, regionali o europei in base a quanto previsto all’ Art. 7 comma b e c dell’avviso. Sono esclusi tutti i servizi finanziati con Agenda Urbana, PON Metro e qualunque altra fonte di finanziamento pubblico extra-comunale, inclusi i fondi M1C1 del PNRR. I 10 servizi individuati sono di seguito elencati:
+
+        #. Servizio per esercitare il proprio diritto a richiedere, prendere visione ed, eventualmente, ottenere copia dei documenti amministrativi
+
+        #. Servizio di richiesta di autorizzazioni in deroga a divieti di circolazione (ZTL)
+
+        #. Servizio di pagamento di sanzioni dovute a violazioni di regolamenti e normative specifiche
+
+        #. Servizio di autorizzazione a fruire dei Parcheggi per gli invalidi tramite rilascio di contrassegno in favore dei soggetti diversamente abili, in materia di circolazione stradale
+
+        #. Servizio di richiesta di autorizzazione a imporre il divieto di parcheggio presso l'ingresso della propria abitazione
+
+        #. Servizio per la fruizione di agevolazioni in ambito scolastico
+
+        #. Servizio per richiedere l'assegnazione di alloggi
+
+        #. Canone CIMP - servizio di pagamento del canone per la diffusione o l'esposizione di messaggi pubblicitari nel territorio comunale
+
+        #. Canone COSAP - servizio di pagamento del canone per l'occupazione permanente o temporanea del suolo pubblico
+
+        #. Servizio relativo al rilascio di un'autorizzazione per posteggiare nelle aree di parcheggio pubblico a pagamento.
+
+#. \ |STYLE85|\ : Attività di migrazione automatica dei contenuti esistenti sul portale web attraverso servizi e strumenti automatici, al fine di minimizzare lo sforzo necessario per il popolamento della nuova versione del portale comunale, che ad oggi separa la componente informativa presente su \ |LINK129|\  dalla componente di servizi erogata attraverso il portale \ |LINK130|\ t. 
 
 .. bottom of content
 
@@ -646,6 +857,18 @@ Maggio 2022. Effettuata la classificazione di dati e servizi dell’Amministrazi
 .. |STYLE78| replace:: **il comune di Palermo dismette il sistema di credenziali proprietarie per consentire l'accesso dei cittadini ai servizi online, in ottemperanza al Codice dell'Amministrazione Digitale**
 
 .. |STYLE79| replace:: **app denominata AMAP SOTTOPASSI, che ha la finalità di informare in tempo reale i cittadini sulle condizioni di percorribilità dei sottopassi di Viale Regione Siciliana, a Palermo, in caso di allagamenti**
+
+.. |STYLE80| replace:: **APP IO**
+
+.. |STYLE81| replace:: **PAGOPA**
+
+.. |STYLE82| replace:: **Esperienza del Cittadino nei servizi pubblici, Comuni**
+
+.. |STYLE83| replace:: **Scelta del CMS**
+
+.. |STYLE84| replace:: **Scelta dei servizi**
+
+.. |STYLE85| replace:: **Migrazione delle informazioni esistenti**
 
 
 .. |REPLACE1| raw:: html
@@ -1169,4 +1392,12 @@ Maggio 2022. Effettuata la classificazione di dati e servizi dell’Amministrazi
 .. |LINK128| raw:: html
 
     <a href="https://areariservata.padigitale2026.gov.it/Pa_digitale2026_dettagli_avviso?id=a017Q00000c8mFyQAI" target="_blank">Avviso 1.2 del PNRR 2022 (migrazione dei servizi al cloud)</a>
+
+.. |LINK129| raw:: html
+
+    <a href="http://comune.palermo.it/" target="_blank">comune.palermo.it</a>
+
+.. |LINK130| raw:: html
+
+    <a href="http://servizionline.comune.palermo.it/" target="_blank">servizionline.comune.palermo.i</a>
 
