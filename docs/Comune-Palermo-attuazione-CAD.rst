@@ -439,7 +439,7 @@ Ottobre 2021. La Società partecipata AMAP ha reso disponibile sullo store dei d
 2022
 ----
 
-Avviato operativamente ad inizio 2022 il progetto "City Compass" per la geolocalizzazione dei bus urbani gestiti dall'Azienda \ |LINK120|\  per il trasporto pubblico (bus e tram).  Il progetto realizzato consente di avere un archivio storico dei dati sul trasporto pubblico locale, di gestire le attività di turnazione del personale autista, organizzazione e manutenzione dei bus, e di offrire al cittadino un costante aggiornamento della posizione dei bus attraverso l’App \ |LINK121|\ .
+Avviato operativamente ad inizio 2022 il progetto "City Compass" per la :guilabel:`geolocalizzazione dei bus urbani` gestiti dall'Azienda \ |LINK120|\  per il trasporto pubblico (bus e tram).  Il progetto realizzato consente di avere un archivio storico dei dati sul trasporto pubblico locale, di gestire le attività di turnazione del personale autista, organizzazione e manutenzione dei bus, e di offrire al cittadino un costante aggiornamento della posizione dei bus attraverso l’App \ |LINK121|\ .
 
 |REPLACE3|
 
@@ -449,7 +449,7 @@ Il progetto rientra tra le azioni del PON METRO 2014-2020.
 
 |
 
-Febbraio 2022. L'Amministrazione aderisce al \ |LINK123|\ , organizzato dal Dipartimento della Funzione Pubblica. I \ |LINK124|\  a cui i dipendenti possono partecipare coprono i seguenti argomenti, e per ognuno è previsto un livello base, uno medio ed uno avanzato:
+Febbraio 2022. :guilabel:`Competenze digitali`. L'Amministrazione aderisce al \ |LINK123|\ , organizzato dal Dipartimento della Funzione Pubblica. I \ |LINK124|\  a cui i dipendenti possono partecipare coprono i seguenti argomenti, e per ognuno è previsto un livello base, uno medio ed uno avanzato:
 
 #. Dati, informazioni e contenuti digitali;
 
@@ -475,15 +475,15 @@ Febbraio 2022. L'Amministrazione aderisce al \ |LINK123|\ , organizzato dal Dipa
 
 |
 
-Marzo 2022. Fissato l'obiettivo di accessibilità del Comune di Palermo per il 2022 ai sensi del Piano triennale per l'informatica AGID: \ |LINK125|\  - Miglioramento dell'iter di pubblicazione su web e ruoli redazionali. L'obiettivo è coerente con l'obiettivo dirigenziale n. 2 del Piano della Performance 2021: creazione di un'interfaccia unica dei \ |LINK126|\  al quale l'Amministrazione sta lavorando dalla fine del 2021.
+Marzo 2022. Fissato l'obiettivo di :guilabel:`accessibilità` del Comune di Palermo per il 2022 ai sensi del Piano triennale per l'informatica AGID: \ |LINK125|\  - Miglioramento dell'iter di pubblicazione su web e ruoli redazionali. L'obiettivo è coerente con l'obiettivo dirigenziale n. 2 del Piano della Performance 2021: creazione di un'interfaccia unica dei \ |LINK126|\  al quale l'Amministrazione sta lavorando dalla fine del 2021.
 
 |
 
-Maggio 2022. Effettuata la classificazione di dati e servizi dell’Amministrazione, in ottemperanza alle \ |LINK127|\  e necessaria per le candidature delle PA all’\ |LINK128|\ .
+Maggio 2022. Effettuata la :guilabel:`classificazione di dati e servizi` dell’Amministrazione, in ottemperanza alle \ |LINK127|\  e necessaria per le candidature delle PA all’\ |LINK128|\ .
 
 |
 
-Giugno 2022. Adesione del Comune di Palermo agli Avvisi del PNRR, missione 1, componente 1.  
+Giugno 2022. Adesione del Comune di Palermo agli Avvisi del :guilabel:`PNRR`, missione 1, componente 1.  
 
 \ |STYLE80|\ . Sono stati candidati n. 50 servizi App IO candidabili su 50 finanziabili, da realizzare, già realizzati o in fase di realizzazione, elencati di seguito: 
 
@@ -697,7 +697,13 @@ Il criterio adottato per la selezione dei servizi dall’elenco già stabilito d
 
 |
 
-Giugno 2022. Il comune di Palermo subisce un attacco informatico di tipo ransomware. I servizi online sono stati disattivati per circa 10 giorni. Viene assicurato il funzionamento dell’applicativo per la gestione delle consultazioni elettorali per il rinnovo del Sindaco e del Consiglio comunale. La società in house per i servizi informatici SISPI SpA sin dalla prima settimana successiva all’attacco, avvia la riattivazione degli applicativi gestionali necessari al funzionamento degli Uffici e all'erogazione dei servizi online. A due settimane dall’attacco, quasi tutti gli applicativi gestionali vengono riattivati. Dell’accaduto viene effettuata comunicazione istituzionale all’Agenzia della Cybersicurezza Nazionale, alla Polizia Postale e al Garante della Privacy, come previsto dalla normativa vigente in materia di attacchi informatici.
+2 Giugno 2022. Il comune di Palermo subisce un :guilabel:`attacco informatico di tipo ransomware`. I servizi online sono stati disattivati per circa 10 giorni. Viene assicurato il funzionamento dell’applicativo per la gestione delle consultazioni elettorali per il rinnovo del Sindaco e del Consiglio comunale. La società in house per i servizi informatici SISPI SpA sin dalla prima settimana successiva all’attacco, avvia la riattivazione degli applicativi gestionali necessari al funzionamento degli Uffici e all'erogazione dei servizi online. A due settimane dall’attacco, quasi tutti gli applicativi gestionali vengono riattivati. Dell’accaduto viene effettuata comunicazione istituzionale all’Agenzia della Cybersicurezza Nazionale, alla Polizia Postale e al Garante della Privacy, come previsto dalla normativa vigente in materia di attacchi informatici.
+
+|
+
+Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indagine 2022 sulla maturità digitale dei Comuni capoluogo”. Nel 2022 sono 41 le città con un buon livello di maturità e tra queste figura la città di Palermo
+
+|REPLACE4|
 
 |
 
@@ -887,6 +893,9 @@ Giugno 2022. Il comune di Palermo subisce un attacco informatico di tipo ransomw
 .. |REPLACE3| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/oU2nJ6fJ5y0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+.. |REPLACE4| raw:: html
+
+    <img width="100%" src="https://bit.ly/3HFKdB3" frameborder="0";></img>
 
 .. |LINK1| raw:: html
 
@@ -1407,4 +1416,8 @@ Giugno 2022. Il comune di Palermo subisce un attacco informatico di tipo ransomw
 .. |LINK130| raw:: html
 
     <a href="http://servizionline.comune.palermo.it/" target="_blank">servizionline.comune.palermo.i</a>
+
+.. |LINK131| raw:: html
+
+    <a href="https://www.forumpa.it/pa-digitale/indagine-sulla-maturita-digitale-dei-comuni-capoluogo-nel-2022-sono-41-le-citta-con-un-buon-livello-di-maturita-25-in-piu-rispetto-al-2021/" target="_blank">report</a>
 
