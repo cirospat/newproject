@@ -695,6 +695,13 @@ Il criterio adottato per la selezione dei servizi dall’elenco già stabilito d
 
 #. \ |STYLE85|\ : Attività di migrazione automatica dei contenuti esistenti sul portale web attraverso servizi e strumenti automatici, al fine di minimizzare lo sforzo necessario per il popolamento della nuova versione del portale comunale, che ad oggi separa la componente informativa presente su \ |LINK129|\  dalla componente di servizi erogata attraverso il portale \ |LINK130|\ t. 
 
+|
+
+Giugno 2022. Il comune di Palermo subisce un attacco informatico di tipo ransomware. I servizi online sono stati disattivati per circa 10 giorni. Viene assicurato il funzionamento dell’applicativo per la gestione delle consultazioni elettorali per il rinnovo del Sindaco e del Consiglio comunale. La società in house per i servizi informatici SISPI SpA sin dalla prima settimana successiva all’attacco, avvia la riattivazione degli applicativi gestionali necessari al funzionamento degli Uffici e all'erogazione dei servizi online. A due settimane dall’attacco, quasi tutti gli applicativi gestionali vengono riattivati. Dell’accaduto viene effettuata comunicazione istituzionale all’Agenzia della Cybersicurezza Nazionale, alla Polizia Postale e al Garante della Privacy, come previsto dalla normativa vigente in materia di attacchi informatici.
+
+|
+
+
 .. bottom of content
 
 
