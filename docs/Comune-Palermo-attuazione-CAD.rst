@@ -895,7 +895,7 @@ Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indag
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/oU2nJ6fJ5y0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 .. |REPLACE4| raw:: html
 
-    <img width="100%" src="https://bit.ly/3HFKdB3" frameborder="0";></img>
+    <img width="100%"  height=”700”  src="https://bit.ly/3HFKdB3" frameborder="0";></img>
 
 .. |LINK1| raw:: html
 
