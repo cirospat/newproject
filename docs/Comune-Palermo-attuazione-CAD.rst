@@ -701,7 +701,7 @@ Il criterio adottato per la selezione dei servizi dall’elenco già stabilito d
 
 |
 
-Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indagine 2022 sulla maturità digitale dei Comuni capoluogo”. Nel 2022 sono 41 le città con un buon livello di maturità e tra queste figura la città di Palermo
+Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indagine 2022 sulla :guilabel:`maturità digitale dei Comuni capoluogo`”. Nel 2022 sono 41 le città con un buon livello di maturità e tra queste figura la città di Palermo 
 
 |REPLACE4|
 
