@@ -24,6 +24,8 @@ Emoji Cheat Sheet
 
 😄 🐍  
 
+Testo modificabile: \ |LINK6|\   
+
 |
 
 .. _h2c1d74277104e41780968148427e:
@@ -46,9 +48,9 @@ poi il testo vale di nuovo normale
 
 riferimenti
 
-*    \ |LINK6|\  
-
 *    \ |LINK7|\  
+
+*    \ |LINK8|\  
 
 |
 
@@ -57,31 +59,27 @@ riferimenti
 |Covid19: risorse |
 +-----------------+
 
-* Dennis Angemi: \ |LINK8|\ 
+* Dennis Angemi: \ |LINK9|\ 
 
-* ODS Totò Fiandaca e GB Vitrano: \ |LINK9|\ 
+* ODS Totò Fiandaca e GB Vitrano: \ |LINK10|\ 
 
-* Andrea Borruso: \ |LINK10|\ 
+* Andrea Borruso: \ |LINK11|\ 
 
-* Associazione OnData: \ |LINK11|\ 
+* Associazione OnData: \ |LINK12|\ 
 
-* Riccardo Borchi: \ |LINK12|\ 
+* Riccardo Borchi: \ |LINK13|\ 
 
-* Governo: \ |LINK13|\ 
+* Governo: \ |LINK14|\ 
 
-* Bot Telegram COVID-19 Italia Aggiornamento: \ |LINK14|\  
-
-* Protezione Civile Nazionale: \ |LINK15|\ 
+* Bot Telegram COVID-19 Italia Aggiornamento: \ |LINK15|\  
 
 * Protezione Civile Nazionale: \ |LINK16|\ 
 
-* Protezione Civile Sicilia: \ |LINK17|\ 
+* Protezione Civile Nazionale: \ |LINK17|\ 
 
-* Piersoft Paolicelli: \ |LINK18|\ 
+* Protezione Civile Sicilia: \ |LINK18|\ 
 
-↓
-
-|REPLACE4|
+* Piersoft Paolicelli: \ |LINK19|\ 
 
 --------
 
@@ -100,9 +98,9 @@ Come si usa il programma Visual Studio Code per lavorare con i repository del pr
 ****************************************************************************************************
 
 
-|REPLACE5|
+|REPLACE4|
 
-\ |LINK19|\ 
+\ |LINK20|\ 
 
 .. _h687f6042785f2e174b42d5d766429:
 
@@ -119,28 +117,28 @@ Carattere
 Trovare la pagina esatta in un file "PDF" online
 ************************************************
 
-:guilabel:`trovare la pagina esatta in un pdf online`: nel web è \ |LINK20|\  cioè dopo :class:`.pdf` digitare :class:`.#page=4` dove dopo :class:`=` si scrive il numero della pagina che si vuole venga visualizzata direttamente all'apertura del file ``pdf`` online
+:guilabel:`trovare la pagina esatta in un pdf online`: nel web è \ |LINK21|\  cioè dopo :class:`.pdf` digitare :class:`.#page=4` dove dopo :class:`=` si scrive il numero della pagina che si vuole venga visualizzata direttamente all'apertura del file ``pdf`` online
 
 .. _h4a584b127b6763e356832662d5c3056:
 
 I migliori programmi per registrare lo schermo del PC
 *****************************************************
 
-Fonte info = \ |LINK21|\ 
+Fonte info = \ |LINK22|\ 
 
 Free version:
 
-* \ |LINK22|\ 
-
 * \ |LINK23|\ 
 
-* \ |LINK24|\   Recording Limit 5 mins free version
+* \ |LINK24|\ 
 
-* \ |LINK25|\  
+* \ |LINK25|\   Recording Limit 5 mins free version
 
-* \ |LINK26|\  limited features in free version
+* \ |LINK26|\  
 
-* \ |LINK27|\  
+* \ |LINK27|\  limited features in free version
+
+* \ |LINK28|\  
 
 .. _h21223364b2f64693fa293162151b:
 
@@ -161,7 +159,7 @@ Alla fine del link url della pagina di google doc inserire ``/preview``
 Visualizzare le partizioni nascoste del PC
 ==========================================
 
-[\ |LINK28|\ ]
+[\ |LINK29|\ ]
 
 Se una partizione non è visibile in questo PC o Computer e in Esplora file significa che la lettera di unità che la identifica è stata rimossa. Windows assegna una lettera di unità differente a ogni periferica di memoria di massa collegata al computer (disco rigido, singoli volumi e partizioni, lettore DVD) per poterla identificare in modo univoco. Se la lettera di unità viene rimossa la partizione verrà nascosta.
 
@@ -178,13 +176,13 @@ Per sapere se nel computer sono presenti delle partizioni nascoste \ |STYLE0|\ ,
 
 Premiamo sulla tastiera del computer i tasti \ |STYLE1|\  (è il tasto con il logo di Windows) e \ |STYLE2|\  contemporaneamente.
 
-Si aprirà la finestra \ |STYLE3|\  (→ \ |LINK29|\ ).
+Si aprirà la finestra \ |STYLE3|\  (→ \ |LINK30|\ ).
 
 Nella casella \ |STYLE4|\  digitiamo ``diskpart``
 
 Facciamo clic su \ |STYLE5|\ .
 
-Si aprirà la finestra \ |STYLE6|\  dell’account utente (→ \ |LINK30|\ ) facciamo clic su \ |STYLE7|\  o su Continua.
+Si aprirà la finestra \ |STYLE6|\  dell’account utente (→ \ |LINK31|\ ) facciamo clic su \ |STYLE7|\  o su Continua.
 
 Si aprirà il \ |STYLE8|\  di Windows.
 
@@ -236,7 +234,7 @@ A questo punto la partizione sarà visibile in \ |STYLE19|\  o \ |STYLE20|\  e i
 Nascondere la partizione
 ------------------------
 
-Per nascondere nuovamente la partizione dobbiamo rimuovere la lettera di unità. Per sapere come fare leggiamo → \ |LINK31|\ .
+Per nascondere nuovamente la partizione dobbiamo rimuovere la lettera di unità. Per sapere come fare leggiamo → \ |LINK32|\ .
 
 --------
 
@@ -249,9 +247,9 @@ TOOL UTILI A VARI SCOPI
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
 |titolo tool ``argomento``                                                                                                                                                                 |url tool                                                                                  |
 +==========================================================================================================================================================================================+==========================================================================================+
-|fare presentazioni in stile STAR WARS                                                                                                                                                     |\ |LINK32|\                                                                               |
+|fare presentazioni in stile STAR WARS                                                                                                                                                     |\ |LINK33|\                                                                               |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-|OCR jpg to docx                                                                                                                                                                           |\ |LINK33|\                                                                               |
+|OCR jpg to docx                                                                                                                                                                           |\ |LINK34|\                                                                               |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
 |online photo editor                                                                                                                                                                       |https://pixlr.com/it/editor/                                                              |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
@@ -323,37 +321,37 @@ TOOL UTILI A VARI SCOPI
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
 |comma chameleon                                                                                                                                                                           |http://comma-chameleon.io/                                                                |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-|icone material design Google                                                                                                                                                              |\ |LINK34|\                                                                               |
+|icone material design Google                                                                                                                                                              |\ |LINK35|\                                                                               |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-|webservice per la trascrizione testuale di audio                                                                                                                                          |\ |LINK35|\                                                                               |
+|webservice per la trascrizione testuale di audio                                                                                                                                          |\ |LINK36|\                                                                               |
 |                                                                                                                                                                                          |                                                                                          |
-|con plugin per chrome                                                                                                                                                                     |\ |LINK36|\                                                                               |
-|                                                                                                                                                                                          |                                                                                          |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-|\ |STYLE22|\  funzioni su Fogli Google spreadsheet                                                                                                                                        |\ |LINK37|\                                                                               |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-|Markup Validation Service                                                                                                                                                                 |\ |LINK38|\                                                                               |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-|Web accessibility Contrast Checker                                                                                                                                                        |\ |LINK39|\                                                                               |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-|Web Developer Toolbar Chrome                                                                                                                                                              |\ |LINK40|\                                                                               |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-|Accessibility of a PDF Document                                                                                                                                                           |\ |LINK41|\                                                                               |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-|Guida alla sintassi del linguaggio  ``rst``                                                                                                                                               |\ |LINK42|\                                                                               |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-|Editor di testo per linguaggio ``rst``                                                                                                                                                    |\ |LINK43|\                                                                               |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-|Editor per le tabelle in diversi linguaggi (Latex, Balsamiq, BBCode, Comma separated values, HTML, JSON, Markdown, Mathematica, Plain text, reStructuredText, SQL, Wiki markup, No output)|\ |LINK44|\                                                                               |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-|No text editor                                                                                                                                                                            |\ |LINK45|\                                                                               |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-|Markdown Table Generator                                                                                                                                                                  |\ |LINK46|\                                                                               |
+|con plugin per chrome                                                                                                                                                                     |\ |LINK37|\                                                                               |
 |                                                                                                                                                                                          |                                                                                          |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-|Editor per le tabelle in diversi linguaggi                                                                                                                                                |\ |LINK47|\                                                                               |
+|\ |STYLE22|\  funzioni su Fogli Google spreadsheet                                                                                                                                        |\ |LINK38|\                                                                               |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-|Convertire file da altri formati in CSV o da CSV in altri formati                                                                                                                         |\ |LINK48|\                                                                               |
+|Markup Validation Service                                                                                                                                                                 |\ |LINK39|\                                                                               |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+|Web accessibility Contrast Checker                                                                                                                                                        |\ |LINK40|\                                                                               |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+|Web Developer Toolbar Chrome                                                                                                                                                              |\ |LINK41|\                                                                               |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+|Accessibility of a PDF Document                                                                                                                                                           |\ |LINK42|\                                                                               |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+|Guida alla sintassi del linguaggio  ``rst``                                                                                                                                               |\ |LINK43|\                                                                               |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+|Editor di testo per linguaggio ``rst``                                                                                                                                                    |\ |LINK44|\                                                                               |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+|Editor per le tabelle in diversi linguaggi (Latex, Balsamiq, BBCode, Comma separated values, HTML, JSON, Markdown, Mathematica, Plain text, reStructuredText, SQL, Wiki markup, No output)|\ |LINK45|\                                                                               |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+|No text editor                                                                                                                                                                            |\ |LINK46|\                                                                               |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+|Markdown Table Generator                                                                                                                                                                  |\ |LINK47|\                                                                               |
+|                                                                                                                                                                                          |                                                                                          |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+|Editor per le tabelle in diversi linguaggi                                                                                                                                                |\ |LINK48|\                                                                               |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+|Convertire file da altri formati in CSV o da CSV in altri formati                                                                                                                         |\ |LINK49|\                                                                               |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------+
 
 |
@@ -364,14 +362,14 @@ IMMAGINI DI "WORDART" DA INCORPORARE IN PAGINE HTML
 ===================================================
 
 
+|REPLACE5|
+
+
 |REPLACE6|
-
-
-|REPLACE7|
 
 immagine singola (non wordart)
 
-|REPLACE8|
+|REPLACE7|
 
 |
 
@@ -380,7 +378,7 @@ immagine singola (non wordart)
 LICENZE OPEN DATA SELECTOR SU GITHUB
 ====================================
 
-\ |LINK49|\  
+\ |LINK50|\  
 
 (grazie a Maurizio Napolitano)
 
@@ -391,7 +389,7 @@ LICENZE OPEN DATA SELECTOR SU GITHUB
 CATALOGO DI TUTTE LE MAPPE DI CIRO SPATARO E DI GB VITRANO
 ==========================================================
 
-\ |LINK50|\  
+\ |LINK51|\  
 
 --------
 
@@ -400,27 +398,27 @@ CATALOGO DI TUTTE LE MAPPE DI CIRO SPATARO E DI GB VITRANO
 MAPPE PALERMO
 =============
 
-* \ |LINK51|\  my google maps
+* \ |LINK52|\  my google maps
 
-* \ |LINK52|\  (pagina FB con mappe su Palermo)
+* \ |LINK53|\  (pagina FB con mappe su Palermo)
 
-* \ |LINK53|\  (mappe varie di Ciro)
+* \ |LINK54|\  (mappe varie di Ciro)
 
-* \ |LINK54|\  (contenitore di oltre 100 mappe su Palermo, su Petrusino)
+* \ |LINK55|\  (contenitore di oltre 100 mappe su Palermo, su Petrusino)
 
-* \ |LINK55|\  (sito mappe di Palermo utili a turisti)
+* \ |LINK56|\  (sito mappe di Palermo utili a turisti)
 
-* \ |LINK56|\  (OMIRA su Umap cirospat) 
+* \ |LINK57|\  (OMIRA su Umap cirospat) 
 
-* \ |LINK57|\  elezioni2017_Palermo da Guenter Richter
+* \ |LINK58|\  elezioni2017_Palermo da Guenter Richter
 
-* \ |LINK58|\  e relativo bot telegram #rifiutocivico
+* \ |LINK59|\  e relativo bot telegram #rifiutocivico
 
-* \ |LINK59|\  mapillary cirospat
+* \ |LINK60|\  mapillary cirospat
 
-* \ |LINK60|\  Palermo su mapillary
+* \ |LINK61|\  Palermo su mapillary
 
-* \ |LINK61|\  Palermo airbnb gen_2018 (Gianni Vitrano)
+* \ |LINK62|\  Palermo airbnb gen_2018 (Gianni Vitrano)
 
 --------
 
@@ -429,29 +427,29 @@ MAPPE PALERMO
 MAPPE PALERMO STORICA EFFETTO LENTE INGRANDIMENTO E ALTRE MAPPE INTERESSANTI
 ============================================================================
 
-* \ |LINK62|\  (GBVitrano Palermo IGM 1:25000)
+* \ |LINK63|\  (GBVitrano Palermo IGM 1:25000)
 
-* \ |LINK63|\  carta tecnica comune Palermo
+* \ |LINK64|\  carta tecnica comune Palermo
 
-* \ |LINK64|\  (GBVitrano Omira 1:5000)
+* \ |LINK65|\  (GBVitrano Omira 1:5000)
 
-* \ |LINK65|\   PRG2025 (su Petrusino)
+* \ |LINK66|\   PRG2025 (su Petrusino)
 
-* \ |LINK66|\  (elenco mappe 2-3D di GBVitrano su Github SiciliaHub)
+* \ |LINK67|\  (elenco mappe 2-3D di GBVitrano su Github SiciliaHub)
 
-* \ |LINK67|\   (Hubsicilia - Omira Irta e Sas con OSM e RealVista su Gitub SiciliaHub, con metadati mappa su barra laterale)
+* \ |LINK68|\   (Hubsicilia - Omira Irta e Sas con OSM e RealVista su Gitub SiciliaHub, con metadati mappa su barra laterale)
 
-* \ |LINK68|\  (variante general eal PRG 2004 con cerchio)
+* \ |LINK69|\  (variante general eal PRG 2004 con cerchio)
 
-* \ |LINK69|\  (catasto centro storico 1887 con cerchio)
+* \ |LINK70|\  (catasto centro storico 1887 con cerchio)
 
-* \ |LINK70|\  (PRG scehma masima su PRG 2004 con cerchio)
+* \ |LINK71|\  (PRG scehma masima su PRG 2004 con cerchio)
 
-* \ |LINK71|\    \ |LINK72|\    (Piano protezione civile Palermo)
+* \ |LINK72|\    \ |LINK73|\    (Piano protezione civile Palermo)
 
-* \ |LINK73|\   (stile petrusino)
+* \ |LINK74|\   (stile petrusino)
 
-* \ |LINK74|\   (stile petrusino, ultimo gen 2018) - hub di diverse mappe di Palermo a cura di GBVitrano iniziato gli ultimi giorni di dic. del 2017
+* \ |LINK75|\   (stile petrusino, ultimo gen 2018) - hub di diverse mappe di Palermo a cura di GBVitrano iniziato gli ultimi giorni di dic. del 2017
 
 --------
 
@@ -460,15 +458,15 @@ MAPPE PALERMO STORICA EFFETTO LENTE INGRANDIMENTO E ALTRE MAPPE INTERESSANTI
 SERVIZI DI WEBMAPPING ALTERNATIVI A UMAP
 ========================================
 
-\ |LINK75|\  (che preferisco) 
+\ |LINK76|\  (che preferisco) 
 
-\ |LINK76|\  (intramontabile) 
+\ |LINK77|\  (intramontabile) 
 
-\ |LINK77|\  (questo però è un plugin per wordpress) 
+\ |LINK78|\  (questo però è un plugin per wordpress) 
 
-\ |LINK78|\  (a pagamento)
+\ |LINK79|\  (a pagamento)
 
-\ |LINK79|\  \ |STYLE23|\ 
+\ |LINK80|\  \ |STYLE23|\ 
 
 * Enter a latitude/longitude
 
@@ -489,11 +487,11 @@ SERVIZI DI WEBMAPPING ALTERNATIVI A UMAP
 FILTRI CON "DATE" NELLE FUNZIONI DI RICERCA (QUERY) DA USARE NEI GOOGLE SPREADSHEET
 ===================================================================================
 
-\ |LINK80|\ 
+\ |LINK81|\ 
 
 Usare il formato YYYY-MM-DD.
 
-The \ |LINK81|\  function converts it to the required format for the Query formula by specifying a format of "yyyy-mm-dd":
+The \ |LINK82|\  function converts it to the required format for the Query formula by specifying a format of "yyyy-mm-dd":
 
 .. code:: 
 
@@ -522,7 +520,7 @@ Substitute the TODAY() function into our formula:
 
 \ |STYLE25|\ 
 
-\ |LINK82|\ 
+\ |LINK83|\ 
 
 .. _h5979383b6f422d6f1a3f404a4258253f:
 
@@ -558,21 +556,21 @@ Combine the IMAGE and HYPERLINK functions to create clickable images
 SFONDI TILES PER MAPPE UMAP
 ===========================
 
-* lista di tiles per sfondi   \ |LINK83|\  
+* lista di tiles per sfondi   \ |LINK84|\  
 
-* tiles vari da usare  \ |LINK84|\  
+* tiles vari da usare  \ |LINK85|\  
 
-* satellite tile ESRI - World Imagery \ |LINK85|\  
+* satellite tile ESRI - World Imagery \ |LINK86|\  
 
-* satellite tile Google \ |LINK86|\  
+* satellite tile Google \ |LINK87|\  
 
-* tile con sfondo satellite da mapbox/satellite-v9 con API: \ |LINK87|\   (senza nomi strade)
+* tile con sfondo satellite da mapbox/satellite-v9 con API: \ |LINK88|\   (senza nomi strade)
 
-* \ |LINK88|\  (con nomi strade)
+* \ |LINK89|\  (con nomi strade)
 
-* SERVIZIO ONLINE CREAZIONE DI TILES DA IMMAGINI  Mapwarper \ |LINK89|\  
+* SERVIZIO ONLINE CREAZIONE DI TILES DA IMMAGINI  Mapwarper \ |LINK90|\  
 
-* \ |LINK90|\  tile: https://api.mapbox.com/styles/v1/rplln/cjix2cv5l83yz2rmne9icvusx/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoicnBsbG4iLCJhIjoiY2ppeDI5ZTByMDVtMzN1cDRxZWlzamwzcyJ9.Yn6OjT0SStL2tffNloZrdg
+* \ |LINK91|\  tile: https://api.mapbox.com/styles/v1/rplln/cjix2cv5l83yz2rmne9icvusx/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoicnBsbG4iLCJhIjoiY2ppeDI5ZTByMDVtMzN1cDRxZWlzamwzcyJ9.Yn6OjT0SStL2tffNloZrdg
 
 --------
 
@@ -581,32 +579,32 @@ SFONDI TILES PER MAPPE UMAP
 CODICE DA USARE PER MAPPE UMAP
 ==============================
 
-video embedding = {{{\ |LINK91|\ }}}
+video embedding = {{{\ |LINK92|\ }}}
 
-link con testo = [[\ |LINK92|\ |testo del link]] 
+link con testo = [[\ |LINK93|\ |testo del link]] 
 
-immagine = {{\ |LINK93|\ |larghezza}} Immagine 
+immagine = {{\ |LINK94|\ |larghezza}} Immagine 
 
-link a url con icona cliccabile = [[\ |LINK94|\ }}]]
+link a url con icona cliccabile = [[\ |LINK95|\ }}]]
 
-ICONE MAPPE = \ |LINK95|\  
+ICONE MAPPE = \ |LINK96|\  
 
 GOOGLEMAPS = <iframe width='100%' height='500' src="http....   "></iframe>
 
-URL ENCODER E DECODER = \ |LINK96|\  
+URL ENCODER E DECODER = \ |LINK97|\  
 
-POST IMAGE DA LINKARE SU UMAP: \ |LINK97|\  
+POST IMAGE DA LINKARE SU UMAP: \ |LINK98|\  
 
-Icone mappe \ |LINK98|\  ccbysa
+Icone mappe \ |LINK99|\  ccbysa
 
 .. _h137a471d1b8051c2113064614b3128:
 
 TUTORIAL PER COLLEGARE GOOGLE DRIVE SPREADSHEET A UMAP
 ------------------------------------------------------
 
-Video breve per alimentare in modo facile uMap da un foglio elettronico su Google Drive, by Andrea Borruso \ |LINK99|\ 
+Video breve per alimentare in modo facile uMap da un foglio elettronico su Google Drive, by Andrea Borruso \ |LINK100|\ 
 
-Tutorial per fare mappe alimentate da google spreadsheet = \ |LINK100|\  
+Tutorial per fare mappe alimentate da google spreadsheet = \ |LINK101|\  
 
 DB x UMAP con output in csv =
 
@@ -616,9 +614,9 @@ DB x UMAP con output in csv =
 
 | 
 
-.. _h786438262c39562b6a2a307b557d1463:
+.. _h6f4a5e43395627949624b82c32f5b:
 
-\ |LINK101|\  e \ |LINK102|\  UMAP AVVISI POLIZIA MUNICIPALE PA - VISUALIZZARE MAPPE CON INFO SU DATA ODIERNA
+\ |LINK102|\  e \ |LINK103|\  UMAP AVVISI POLIZIA MUNICIPALE PA - VISUALIZZARE MAPPE CON INFO SU DATA ODIERNA
 -------------------------------------------------------------------------------------------------------------
 
 \ |STYLE29|\ .
@@ -653,9 +651,9 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 =========================================================
 
 
-|REPLACE9|
+|REPLACE8|
 
-⇒ \ |LINK103|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
+⇒ \ |LINK104|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
 
 \ |STYLE30|\  API che usa la seguente formula: 
 
@@ -663,36 +661,36 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 
     =JOIN(",", ImportXML(CONCATENATE("http://nominatim.openstreetmap.org/search/?format=xml&q=",A2), "//place[1]/@lat | //place[1]/@lon"))
 
-dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK104|\ .
+dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK105|\ .
 
 
-|REPLACE10|
+|REPLACE9|
 
-* \ |LINK105|\  con Openstreetmap tramite OnData
+* \ |LINK106|\  con Openstreetmap tramite OnData
 
-* \ |LINK106|\   con Openstreetmap
-
-* \ |LINK107|\  con Openstreetmap
+* \ |LINK107|\   con Openstreetmap
 
 * \ |LINK108|\  con Openstreetmap
 
-* \ |LINK109|\  con Googlemap
+* \ |LINK109|\  con Openstreetmap
 
-* \ |LINK110|\  by GBVitrano con API Google
+* \ |LINK110|\  con Googlemap
 
 * \ |LINK111|\  by GBVitrano con API Google
 
-* \ |LINK112|\  con le API di Google
+* \ |LINK112|\  by GBVitrano con API Google
 
-    * \ |LINK113|\  con API Google
+* \ |LINK113|\  con le API di Google
 
-* \ |LINK114|\  (google e bing) 
+    * \ |LINK114|\  con API Google
 
-* \ |LINK115|\  con API di Mapquest
+* \ |LINK115|\  (google e bing) 
 
-* \ |LINK116|\  API Mapquest per geocoding (cirospat - caneclaudia2volte)
+* \ |LINK116|\  con API di Mapquest
 
-* \ |LINK117|\  location helper in versione demo di Mapbox
+* \ |LINK117|\  API Mapquest per geocoding (cirospat - caneclaudia2volte)
+
+* \ |LINK118|\  location helper in versione demo di Mapbox
 
 --------
 
@@ -701,9 +699,9 @@ dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK104|\ .
 SENSORE PER RILEVAMENTO POLVERI SOTTILI COLLEGATO AD UNA RETE ONLINE E DATI SU MAPPA
 ====================================================================================
 
-* \ |LINK118|\  (tutorial) - 
+* \ |LINK119|\  (tutorial) - 
 
-* \ |LINK119|\  (mappa con grafici e dati su sensore mio)
+* \ |LINK120|\  (mappa con grafici e dati su sensore mio)
 
 --------
 
@@ -712,7 +710,7 @@ SENSORE PER RILEVAMENTO POLVERI SOTTILI COLLEGATO AD UNA RETE ONLINE E DATI SU M
 GIT GUIDE
 =========
 
-just a simple guide for getting started with git. \ |LINK120|\ 
+just a simple guide for getting started with git. \ |LINK121|\ 
 
 --------
 
@@ -721,9 +719,9 @@ just a simple guide for getting started with git. \ |LINK120|\
 REPOSITORY DATA CIRO SPATARO
 ============================
 
-\ |LINK121|\  
-
 \ |LINK122|\  
+
+\ |LINK123|\  
 
 --------
 
@@ -732,9 +730,9 @@ REPOSITORY DATA CIRO SPATARO
 MACHINE LEARNING E ARTIFICIAL INTELLIGENCE - FORMAZIONE
 =======================================================
 
-\ |LINK123|\  un articolo per capire un po
+\ |LINK124|\  un articolo per capire un po
 
-\ |LINK124|\  corso online strutturato bene per utenti con nozioni zero di intelligenza artificiale
+\ |LINK125|\  corso online strutturato bene per utenti con nozioni zero di intelligenza artificiale
 
 --------
 
@@ -743,9 +741,9 @@ MACHINE LEARNING E ARTIFICIAL INTELLIGENCE - FORMAZIONE
 CSV EDITOR
 ==========
 
-* \ |LINK125|\   download
+* \ |LINK126|\   download
 
-* \ |LINK126|\  editor online sulla falsa riga di Google spreadsheet
+* \ |LINK127|\  editor online sulla falsa riga di Google spreadsheet
 
 --------
 
@@ -754,15 +752,15 @@ CSV EDITOR
 EDITOR ONLINE PER LAVORI CONDIVISI
 ==================================
 
-* \ |LINK127|\  
-
-* \ |LINK128|\ 
+* \ |LINK128|\  
 
 * \ |LINK129|\ 
 
-* \ |LINK130|\  
+* \ |LINK130|\ 
 
 * \ |LINK131|\  
+
+* \ |LINK132|\  
 
 --------
 
@@ -777,13 +775,13 @@ cad= parola da cercare
 
 newscount= il numero delle news da visualizzare come output della query
 
-\ |LINK132|\ 
+\ |LINK133|\ 
 
 \ |STYLE31|\  
 
-* \ |LINK133|\  il mio genratore di feed RSS
+* \ |LINK134|\  il mio genratore di feed RSS
 
-* \ |LINK134|\  - \ |LINK135|\  per costruire Feed per gli eventi Feltrinelli di Palermo
+* \ |LINK135|\  - \ |LINK136|\  per costruire Feed per gli eventi Feltrinelli di Palermo
 
 --------
 
@@ -792,7 +790,7 @@ newscount= il numero delle news da visualizzare come output della query
 BADGE IMG SHIELDS
 =================
 
-\ |LINK136|\ 
+\ |LINK137|\ 
 
 --------
 
@@ -801,7 +799,7 @@ BADGE IMG SHIELDS
 WEB SERVICE PER CREARE LOGHI E ICONE  
 ======================================
 
-\ |LINK137|\  
+\ |LINK138|\  
 
 --------
 
@@ -810,7 +808,7 @@ WEB SERVICE PER CREARE LOGHI E ICONE
 CARDS
 =====
 
-\ |LINK138|\ 
+\ |LINK139|\ 
 
 --------
 
@@ -819,21 +817,21 @@ CARDS
 UNIRE PIÙ PDF
 =============
 
-\ |LINK139|\ 
+\ |LINK140|\ 
 
-* PDFTK Builder \ |LINK140|\  
+* PDFTK Builder \ |LINK141|\  
 
-* Online2PDF \ |LINK141|\  
+* Online2PDF \ |LINK142|\  
 
-* \ |LINK142|\  — servizio Web gratuito e che non richiede registrazioni. Permette di unire e modificare i file PDF in vari modi. Da notare che non consente di caricare file aventi un peso superiore ai 100 MB. Eventualmente, però, è possibile aggirare questa limitazione passando a uno dei piani a pagamento (con costi a partire da 6 euro/mese), i quali consentono di sbloccare anche altre funzionalità extra.
+* \ |LINK143|\  — servizio Web gratuito e che non richiede registrazioni. Permette di unire e modificare i file PDF in vari modi. Da notare che non consente di caricare file aventi un peso superiore ai 100 MB. Eventualmente, però, è possibile aggirare questa limitazione passando a uno dei piani a pagamento (con costi a partire da 6 euro/mese), i quali consentono di sbloccare anche altre funzionalità extra.
 
-* \ |LINK143|\  — si tratta di un altro servizio Web gratuito e che non necessita di registrazione e permette di intervenire sui documenti PDF unendoli, oltre che convertendoli, dividendoli, alleggerendoli, sbloccandoli ecc. Non applica limitazioni per quel che concerne il peso massimo dei file.
+* \ |LINK144|\  — si tratta di un altro servizio Web gratuito e che non necessita di registrazione e permette di intervenire sui documenti PDF unendoli, oltre che convertendoli, dividendoli, alleggerendoli, sbloccandoli ecc. Non applica limitazioni per quel che concerne il peso massimo dei file.
 
-* \ |LINK144|\  — è un’altra soluzione per unire i file PDF via Web e tramite la quale è eventualmente possibile apportare varie ulteriori modifiche ai documenti caricati. È gratis, non richiede registrazione e non pone limiti per l’upload.
+* \ |LINK145|\  — è un’altra soluzione per unire i file PDF via Web e tramite la quale è eventualmente possibile apportare varie ulteriori modifiche ai documenti caricati. È gratis, non richiede registrazione e non pone limiti per l’upload.
 
 \ |STYLE32|\ 
 
-\ |STYLE33|\ . Si tratta, infatti, di un’app che consente di visualizzare i file PDF e intervenire su di essi in vari modi, andandoli a convertire, unire ecc. È gratuita e facile da usare. Per effettuarne il download sul tuo dispositivo, accedi alla \ |LINK145|\ 
+\ |STYLE33|\ . Si tratta, infatti, di un’app che consente di visualizzare i file PDF e intervenire su di essi in vari modi, andandoli a convertire, unire ecc. È gratuita e facile da usare. Per effettuarne il download sul tuo dispositivo, accedi alla \ |LINK146|\ 
 
 --------
 
@@ -842,7 +840,7 @@ UNIRE PIÙ PDF
 CAROUSEL
 ========
 
-\ |LINK146|\ 
+\ |LINK147|\ 
 
 |
 
@@ -860,7 +858,7 @@ FRECCIE
 DIRECTIVES PER "READ THE DOCS"
 ==============================
 
-:guilabel:`Queste ed altre indicazioni per Read the Docs si tovano anche a` \ |LINK147|\  
+:guilabel:`Queste ed altre indicazioni per Read the Docs si tovano anche a` \ |LINK148|\  
 
 
 .. class:: importante
@@ -868,9 +866,9 @@ DIRECTIVES PER "READ THE DOCS"
     una prova di contenuto dentro una generic ``directive``.
     Questa è la renderizzazione su pagine web a seguito del commit su Github
 
-:download:\`Questo link è per il download <\ |LINK148|\ >\`.
+:download:\`Questo link è per il download <\ |LINK149|\ >\`.
 
-si scrive così: ``:download:`Questo link è per il download <\ |LINK149|\ >```
+si scrive così: ``:download:`Questo link è per il download <\ |LINK150|\ >```
 
 
 .. centered:: Questo è un testo centrato.
@@ -903,7 +901,7 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 |                                                                                                                                                                                                                |
 |:Author: David Goodger                                                                                                                                                                                          |
 |                                                                                                                                                                                                                |
-|:Link utili: \ |LINK150|\ , \ |LINK151|\                                                                                                                                                                        |
+|:Link utili: \ |LINK151|\ , \ |LINK152|\                                                                                                                                                                        |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 \ |STYLE35|\ 
@@ -980,18 +978,18 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 --------
 
-\ |LINK152|\ 
+\ |LINK153|\ 
 
 --------
+
+
+|REPLACE10|
 
 
 |REPLACE11|
 
 
 |REPLACE12|
-
-
-|REPLACE13|
 
 
 .. bottom of content
@@ -1088,38 +1086,32 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
     <img src="https://img.shields.io/badge/fondamentali-amministrazione_digitale-blue.svg?style=popout&logo=Read%20the%20Docs" />
 .. |REPLACE4| raw:: html
 
-    <iframe title="Incidenza cumulativa settimanale dei contagi " aria-label="chart" id="datawrapper-chart-GqOS4" src="https://datawrapper.dwcdn.net/4w9um/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="854"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}(); </script>
-    <br>
-    <span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Incidenza cumulativa settimanale dei contagi Covid19</span> (elaborazione by 
-    <a href="https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/" target="_blank"><b>onData</b></a>)
-.. |REPLACE5| raw:: html
-
     <iframe width="560" height="315" src="https://www.youtube.com/embed/EmzgUnN39gc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></b>
     Video di Totò Fiandaca
-.. |REPLACE6| raw:: html
+.. |REPLACE5| raw:: html
 
     <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/ugd9zzbwpv1n" data-wordart-show-attribution></div>
-.. |REPLACE7| raw:: html
+.. |REPLACE6| raw:: html
 
     <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
-.. |REPLACE8| raw:: html
+.. |REPLACE7| raw:: html
 
     <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700" /> Art by Lønfeldt
-.. |REPLACE9| raw:: html
+.. |REPLACE8| raw:: html
 
     <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
-.. |REPLACE10| raw:: html
+.. |REPLACE9| raw:: html
 
     <p><span style="background-color: #105618; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Altri Geocoder</span></p>
-.. |REPLACE11| raw:: html
+.. |REPLACE10| raw:: html
 
     polveri sottili monitoraggio zona Fiera Mediterraneo <br>
     <iframe src="https://italy.maps.sensor.community/#9/37.5285/14.2212" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="700"></iframe>
-.. |REPLACE12| raw:: html
+.. |REPLACE11| raw:: html
 
     polveri sottili monitoraggio zona Fiera Mediterraneo <br>
     <iframe src="https://maps.sensor.community/grafana/d-solo/000000004/single-sensor-view?orgId=1&panelId=2&var-node=821" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="700"></iframe>
-.. |REPLACE13| raw:: html
+.. |REPLACE12| raw:: html
 
     mappe storiche by Napo <br>
     <iframe src="https://napo.github.io/trentotimetravelmaps/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="850"></iframe>
@@ -1150,575 +1142,575 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 .. |LINK6| raw:: html
 
-    <a href="https://stackoverflow.com/questions/6518788/rest-strikethrough" target="_blank">https://stackoverflow.com/questions/6518788/rest-strikethrough</a>
+    <a href="https://yaytext.com/" target="_blank">https://yaytext.com/</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://stackoverflow.com/questions/6518788/rest-strikethrough/6652379#6652379" target="_blank">https://stackoverflow.com/questions/6518788/rest-strikethrough/6652379#6652379</a>
+    <a href="https://stackoverflow.com/questions/6518788/rest-strikethrough" target="_blank">https://stackoverflow.com/questions/6518788/rest-strikethrough</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://datastudio.google.com/u/0/reporting/cbe9dfa7-2c81-4204-9918-fb00e8ce8b09/page/0sn7B" target="_blank">Infografica Google Datastudio di Dennis</a>
+    <a href="https://stackoverflow.com/questions/6518788/rest-strikethrough/6652379#6652379" target="_blank">https://stackoverflow.com/questions/6518788/rest-strikethrough/6652379#6652379</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://bl.ocks.org/gbvitrano/raw/664ac98fd51590d48290b70709a4ea48/" target="_blank">zone rosse Sicilia</a>
+    <a href="https://datastudio.google.com/u/0/reporting/cbe9dfa7-2c81-4204-9918-fb00e8ce8b09/page/0sn7B" target="_blank">Infografica Google Datastudio di Dennis</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/" target="_blank">dashboard</a>
+    <a href="https://bl.ocks.org/gbvitrano/raw/664ac98fd51590d48290b70709a4ea48/" target="_blank">zone rosse Sicilia</a>
 
 .. |LINK11| raw:: html
 
-    <a href="https://ondata.github.io/vaccinipertutti/" target="_blank">Vaccini per tutti di OnData</a>
+    <a href="https://bl.ocks.org/aborruso/raw/28374f1d59a5d9880c4c76dc66865cd8/" target="_blank">dashboard</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://www.curaitalia.it" target="_blank">CuraItalia</a>
+    <a href="https://ondata.github.io/vaccinipertutti/" target="_blank">Vaccini per tutti di OnData</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://www.governo.it/it/cscovid19/report-vaccini/" target="_blank">Governo report vaccini</a>
+    <a href="https://www.curaitalia.it" target="_blank">CuraItalia</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://t.me/covid19_dati_italia_bot" target="_blank">@covid19_dati_italia_bot</a>
+    <a href="https://www.governo.it/it/cscovid19/report-vaccini/" target="_blank">Governo report vaccini</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1" target="_blank">mappa positivi covid (desktop)</a>
+    <a href="https://t.me/covid19_dati_italia_bot" target="_blank">@covid19_dati_italia_bot</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://github.com/pcm-dpc/COVID-19" target="_blank">dati Covid su repo GitHub</a>
+    <a href="https://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1" target="_blank">mappa positivi covid (desktop)</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://drpcsicilia.maps.arcgis.com/apps/opsdashboard/index.html#/e9ba8a03150f486a8ff06a1ca7b6278e" target="_blank">mappa Covid</a>
+    <a href="https://github.com/pcm-dpc/COVID-19" target="_blank">dati Covid su repo GitHub</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://www.piersoft.it/covid19/" target="_blank">mappe e infografiche su contagi Covid e vaccinazioni</a>
+    <a href="https://drpcsicilia.maps.arcgis.com/apps/opsdashboard/index.html#/e9ba8a03150f486a8ff06a1ca7b6278e" target="_blank">mappa Covid</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://youtu.be/EmzgUnN39gc" target="_blank">Link al video didattico a cura di Totò Fiandaca</a>
+    <a href="https://www.piersoft.it/covid19/" target="_blank">mappe e infografiche su contagi Covid e vaccinazioni</a>
 
 .. |LINK20| raw:: html
 
-    <a href="http://www.example.com/myfile.pdf#page=4" target="_blank">www.example.com/myfile.pdf#page=4</a>
+    <a href="https://youtu.be/EmzgUnN39gc" target="_blank">Link al video didattico a cura di Totò Fiandaca</a>
 
 .. |LINK21| raw:: html
 
-    <a href="https://www.punto-informatico.it/registrare-schermo-pc-audio-video" target="_blank">https://www.punto-informatico.it/registrare-schermo-pc-audio-video</a>
+    <a href="http://www.example.com/myfile.pdf#page=4" target="_blank">www.example.com/myfile.pdf#page=4</a>
 
 .. |LINK22| raw:: html
 
-    <a href="https://www.bandicam.com/free-screen-recorder/" target="_blank">https://www.bandicam.com/free-screen-recorder/</a>
+    <a href="https://www.punto-informatico.it/registrare-schermo-pc-audio-video" target="_blank">https://www.punto-informatico.it/registrare-schermo-pc-audio-video</a>
 
 .. |LINK23| raw:: html
 
-    <a href="https://obsproject.com/" target="_blank">https://obsproject.com/</a>
+    <a href="https://www.bandicam.com/free-screen-recorder/" target="_blank">https://www.bandicam.com/free-screen-recorder/</a>
 
 .. |LINK24| raw:: html
 
-    <a href="https://tinytake.com/" target="_blank">https://tinytake.com/</a>
+    <a href="https://obsproject.com/" target="_blank">https://obsproject.com/</a>
 
 .. |LINK25| raw:: html
 
-    <a href="https://camstudio.org/" target="_blank">https://camstudio.org/</a>
+    <a href="https://tinytake.com/" target="_blank">https://tinytake.com/</a>
 
 .. |LINK26| raw:: html
 
-    <a href="https://screencast-o-matic.com/" target="_blank">https://screencast-o-matic.com/</a>
+    <a href="https://camstudio.org/" target="_blank">https://camstudio.org/</a>
 
 .. |LINK27| raw:: html
 
-    <a href="https://www.ezvid.com/ezvid_for_windows" target="_blank">https://www.ezvid.com/ezvid_for_windows</a>
+    <a href="https://screencast-o-matic.com/" target="_blank">https://screencast-o-matic.com/</a>
 
 .. |LINK28| raw:: html
 
-    <a href="https://www.memexcomputer.it/visualizzare-le-partizioni-nascoste-del-pc/" target="_blank">link articolo fonte</a>
+    <a href="https://www.ezvid.com/ezvid_for_windows" target="_blank">https://www.ezvid.com/ezvid_for_windows</a>
 
 .. |LINK29| raw:: html
 
-    <a href="https://www.memexcomputer.it/comando-esegui-di-windows/" target="_blank">cos’è il comando Esegui di Windows</a>
+    <a href="https://www.memexcomputer.it/visualizzare-le-partizioni-nascoste-del-pc/" target="_blank">link articolo fonte</a>
 
 .. |LINK30| raw:: html
 
-    <a href="https://www.memexcomputer.it/cos-e-il-controllo-account-utente-di-windows/" target="_blank">cos’è il Controllo Account Utente di Windows</a>
+    <a href="https://www.memexcomputer.it/comando-esegui-di-windows/" target="_blank">cos’è il comando Esegui di Windows</a>
 
 .. |LINK31| raw:: html
 
-    <a href="https://www.memexcomputer.it/nascondere-una-partizione-in-windows/" target="_blank">come nascondere una partizione</a>
+    <a href="https://www.memexcomputer.it/cos-e-il-controllo-account-utente-di-windows/" target="_blank">cos’è il Controllo Account Utente di Windows</a>
 
 .. |LINK32| raw:: html
 
-    <a href="https://starwarsintrocreator.kassellabs.io/" target="_blank">https://starwarsintrocreator.kassellabs.io/</a>
+    <a href="https://www.memexcomputer.it/nascondere-una-partizione-in-windows/" target="_blank">come nascondere una partizione</a>
 
 .. |LINK33| raw:: html
 
-    <a href="https://www.onlineocr.net/it/" target="_blank">https://www.onlineocr.net/it/</a>
+    <a href="https://starwarsintrocreator.kassellabs.io/" target="_blank">https://starwarsintrocreator.kassellabs.io/</a>
 
 .. |LINK34| raw:: html
 
-    <a href="https://fonts.google.com/icons" target="_blank">https://fonts.google.com/icons</a>
+    <a href="https://www.onlineocr.net/it/" target="_blank">https://www.onlineocr.net/it/</a>
 
 .. |LINK35| raw:: html
 
-    <a href="https://voicenote.in/live/" target="_blank">https://voicenote.in/live/</a>
+    <a href="https://fonts.google.com/icons" target="_blank">https://fonts.google.com/icons</a>
 
 .. |LINK36| raw:: html
 
-    <a href="https://chrome.google.com/webstore/detail/voicenote-ii-speech-to-te/hfknjgplnkgjihghcidajejfmldhibfm/related" target="_blank">https://chrome.google.com/webstore/detail/voicenote-ii-speech-to-te/hfknjgplnkgjihghcidajejfmldhibfm/related</a>
+    <a href="https://voicenote.in/live/" target="_blank">https://voicenote.in/live/</a>
 
 .. |LINK37| raw:: html
 
-    <a href="https://www.benlcollins.com/spreadsheets/split-function/" target="_blank">https://www.benlcollins.com/spreadsheets/split-function/</a>
+    <a href="https://chrome.google.com/webstore/detail/voicenote-ii-speech-to-te/hfknjgplnkgjihghcidajejfmldhibfm/related" target="_blank">https://chrome.google.com/webstore/detail/voicenote-ii-speech-to-te/hfknjgplnkgjihghcidajejfmldhibfm/related</a>
 
 .. |LINK38| raw:: html
 
-    <a href="https://validator.w3.org/" target="_blank">https://validator.w3.org/</a>
+    <a href="https://www.benlcollins.com/spreadsheets/split-function/" target="_blank">https://www.benlcollins.com/spreadsheets/split-function/</a>
 
 .. |LINK39| raw:: html
 
-    <a href="https://webaim.org/resources/contrastchecker/" target="_blank">https://webaim.org/resources/contrastchecker/</a>
+    <a href="https://validator.w3.org/" target="_blank">https://validator.w3.org/</a>
 
 .. |LINK40| raw:: html
 
-    <a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=it" target="_blank">https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=it</a>
+    <a href="https://webaim.org/resources/contrastchecker/" target="_blank">https://webaim.org/resources/contrastchecker/</a>
 
 .. |LINK41| raw:: html
 
-    <a href="http://checkers.eiii.eu/en/pdfcheck/" target="_blank">http://checkers.eiii.eu/en/pdfcheck/</a>
+    <a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=it" target="_blank">https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=it</a>
 
 .. |LINK42| raw:: html
 
-    <a href="https://docutils.sourceforge.io/docs/user/rst/quickref.html" target="_blank">https://docutils.sourceforge.io/docs/user/rst/quickref.html</a>
+    <a href="http://checkers.eiii.eu/en/pdfcheck/" target="_blank">http://checkers.eiii.eu/en/pdfcheck/</a>
 
 .. |LINK43| raw:: html
 
-    <a href="http://rst.ninjs.org/" target="_blank">http://rst.ninjs.org/</a>
+    <a href="https://docutils.sourceforge.io/docs/user/rst/quickref.html" target="_blank">https://docutils.sourceforge.io/docs/user/rst/quickref.html</a>
 
 .. |LINK44| raw:: html
 
-    <a href="https://truben.no/table/" target="_blank">https://truben.no/table/</a>
+    <a href="http://rst.ninjs.org/" target="_blank">http://rst.ninjs.org/</a>
 
 .. |LINK45| raw:: html
 
-    <a href="https://www.notex.ch/editor" target="_blank">https://www.notex.ch/editor</a>
+    <a href="https://truben.no/table/" target="_blank">https://truben.no/table/</a>
 
 .. |LINK46| raw:: html
 
-    <a href="https://jakebathman.github.io/Markdown-Table-Generator/" target="_blank">https://jakebathman.github.io/Markdown-Table-Generator/</a>
+    <a href="https://www.notex.ch/editor" target="_blank">https://www.notex.ch/editor</a>
 
 .. |LINK47| raw:: html
 
-    <a href="https://tableconvert.com/" target="_blank">https://tableconvert.com/</a>
+    <a href="https://jakebathman.github.io/Markdown-Table-Generator/" target="_blank">https://jakebathman.github.io/Markdown-Table-Generator/</a>
 
 .. |LINK48| raw:: html
 
-    <a href="https://www.convertcsv.com/" target="_blank">https://www.convertcsv.com/</a>
+    <a href="https://tableconvert.com/" target="_blank">https://tableconvert.com/</a>
 
 .. |LINK49| raw:: html
 
-    <a href="https://ufal.github.io/public-license-selector/?fbclid=IwAR2EwpY-ak045kx8l5wwBERj3v1SeGalJnnh-KPG6WIhs8G6tAeZb707xGs" target="_blank">https://ufal.github.io/public-license-selector/?fbclid=IwAR2EwpY-ak045kx8l5wwBERj3v1SeGalJnnh-KPG6WIhs8G6tAeZb707xGs</a>
+    <a href="https://www.convertcsv.com/" target="_blank">https://www.convertcsv.com/</a>
 
 .. |LINK50| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1auVqTh1aeJ1c2DuYUWI1UX0p8OHtupApFEjCXWsmxbA" target="_blank">https://docs.google.com/spreadsheets/d/1auVqTh1aeJ1c2DuYUWI1UX0p8OHtupApFEjCXWsmxbA</a>
+    <a href="https://ufal.github.io/public-license-selector/?fbclid=IwAR2EwpY-ak045kx8l5wwBERj3v1SeGalJnnh-KPG6WIhs8G6tAeZb707xGs" target="_blank">https://ufal.github.io/public-license-selector/?fbclid=IwAR2EwpY-ak045kx8l5wwBERj3v1SeGalJnnh-KPG6WIhs8G6tAeZb707xGs</a>
 
 .. |LINK51| raw:: html
 
-    <a href="https://www.google.com/maps/d/u/0/?hl=it&authuser=0&action=open" target="_blank">https://www.google.com/maps/d/u/0/?hl=it&authuser=0&action=open</a>
+    <a href="https://docs.google.com/spreadsheets/d/1auVqTh1aeJ1c2DuYUWI1UX0p8OHtupApFEjCXWsmxbA" target="_blank">https://docs.google.com/spreadsheets/d/1auVqTh1aeJ1c2DuYUWI1UX0p8OHtupApFEjCXWsmxbA</a>
 
 .. |LINK52| raw:: html
 
-    <a href="https://www.facebook.com/mappedipalermo/" target="_blank">https://www.facebook.com/mappedipalermo/</a>
+    <a href="https://www.google.com/maps/d/u/0/?hl=it&authuser=0&action=open" target="_blank">https://www.google.com/maps/d/u/0/?hl=it&authuser=0&action=open</a>
 
 .. |LINK53| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/user/cirospat/" target="_blank">http://umap.openstreetmap.fr/it/user/cirospat/</a>
+    <a href="https://www.facebook.com/mappedipalermo/" target="_blank">https://www.facebook.com/mappedipalermo/</a>
 
 .. |LINK54| raw:: html
 
-    <a href="http://bit.ly/palermomaps" target="_blank">http://bit.ly/palermomaps</a>
+    <a href="http://umap.openstreetmap.fr/it/user/cirospat/" target="_blank">http://umap.openstreetmap.fr/it/user/cirospat/</a>
 
 .. |LINK55| raw:: html
 
-    <a href="http://bit.ly/palermo_maps" target="_blank">http://bit.ly/palermo_maps</a>
+    <a href="http://bit.ly/palermomaps" target="_blank">http://bit.ly/palermomaps</a>
 
 .. |LINK56| raw:: html
 
-    <a href="http://u.osmfr.org/m/136197" target="_blank">u.osmfr.org/m/136197</a>
+    <a href="http://bit.ly/palermo_maps" target="_blank">http://bit.ly/palermo_maps</a>
 
 .. |LINK57| raw:: html
 
-    <a href="http://projects.ixmaps.com.s3-website-eu-west-1.amazonaws.com/Palermo_Elezioni/app/Palermo_Elezioni/index_2017_full.html" target="_blank">http://projects.ixmaps.com.s3-website-eu-west-1.amazonaws.com/Palermo_Elezioni/app/Palermo_Elezioni/index_2017_full.html</a>
+    <a href="http://u.osmfr.org/m/136197" target="_blank">u.osmfr.org/m/136197</a>
 
 .. |LINK58| raw:: html
 
-    <a href="http://lrssvt.ns0.it/rifiutocivico/#11/38.1375/13.5733" target="_blank">http://lrssvt.ns0.it/rifiutocivico/#11/38.1375/13.5733</a>
+    <a href="http://projects.ixmaps.com.s3-website-eu-west-1.amazonaws.com/Palermo_Elezioni/app/Palermo_Elezioni/index_2017_full.html" target="_blank">http://projects.ixmaps.com.s3-website-eu-west-1.amazonaws.com/Palermo_Elezioni/app/Palermo_Elezioni/index_2017_full.html</a>
 
 .. |LINK59| raw:: html
 
-    <a href="https://www.mapillary.com/app/user/cirospat?lat=36.82147841468249&lng=15.104561915917657&z=15.017458713501235" target="_blank">https://www.mapillary.com/app/user/cirospat?lat=36.82147841468249&lng=15.104561915917657&z=15.017458713501235</a>
+    <a href="http://lrssvt.ns0.it/rifiutocivico/#11/38.1375/13.5733" target="_blank">http://lrssvt.ns0.it/rifiutocivico/#11/38.1375/13.5733</a>
 
 .. |LINK60| raw:: html
 
-    <a href="https://www.mapillary.com/app/?lat=38.12949822320789&lng=13.368035190329692&z=13.561628216364625&menu=false&mapStyle=mapbox_satellite" target="_blank">https://www.mapillary.com/app/?lat=38.12949822320789&lng=13.368035190329692&z=13.561628216364625</a>
+    <a href="https://www.mapillary.com/app/user/cirospat?lat=36.82147841468249&lng=15.104561915917657&z=15.017458713501235" target="_blank">https://www.mapillary.com/app/user/cirospat?lat=36.82147841468249&lng=15.104561915917657&z=15.017458713501235</a>
 
 .. |LINK61| raw:: html
 
-    <a href="http://u.osmfr.org/m/198624/" target="_blank">http://u.osmfr.org/m/198624/</a>
+    <a href="https://www.mapillary.com/app/?lat=38.12949822320789&lng=13.368035190329692&z=13.561628216364625&menu=false&mapStyle=mapbox_satellite" target="_blank">https://www.mapillary.com/app/?lat=38.12949822320789&lng=13.368035190329692&z=13.561628216364625</a>
 
 .. |LINK62| raw:: html
 
-    <a href="http://gbvitrano.it/qgis/pa_carto/" target="_blank">http://gbvitrano.it/qgis/pa_carto/</a>
+    <a href="http://u.osmfr.org/m/198624/" target="_blank">http://u.osmfr.org/m/198624/</a>
 
 .. |LINK63| raw:: html
 
-    <a href="http://github.gbvitrano.it/atlante_ctc_pa/index.html" target="_blank">http://github.gbvitrano.it/atlante_ctc_pa/index.html</a>
+    <a href="http://gbvitrano.it/qgis/pa_carto/" target="_blank">http://gbvitrano.it/qgis/pa_carto/</a>
 
 .. |LINK64| raw:: html
 
-    <a href="http://gbvitrano.it/qgis/carto_storica" target="_blank">http://gbvitrano.it/qgis/carto_storica</a>
+    <a href="http://github.gbvitrano.it/atlante_ctc_pa/index.html" target="_blank">http://github.gbvitrano.it/atlante_ctc_pa/index.html</a>
 
 .. |LINK65| raw:: html
 
-    <a href="http://gbvitrano.it/qgis/pa_carto/prg_2015.php" target="_blank">http://gbvitrano.it/qgis/pa_carto/prg_2015.php</a>
+    <a href="http://gbvitrano.it/qgis/carto_storica" target="_blank">http://gbvitrano.it/qgis/carto_storica</a>
 
 .. |LINK66| raw:: html
 
-    <a href="https://github.com/SiciliaHub/mappe" target="_blank">https://github.com/SiciliaHub/mappe</a>
+    <a href="http://gbvitrano.it/qgis/pa_carto/prg_2015.php" target="_blank">http://gbvitrano.it/qgis/pa_carto/prg_2015.php</a>
 
 .. |LINK67| raw:: html
 
-    <a href="http://siciliahub.github.io/mappe/atlante_carto_pa/" target="_blank">http://siciliahub.github.io/mappe/atlante_carto_pa/</a>
+    <a href="https://github.com/SiciliaHub/mappe" target="_blank">https://github.com/SiciliaHub/mappe</a>
 
 .. |LINK68| raw:: html
 
-    <a href="http://egdisegno.studiovitrano.it/variante_generale/Zonizzazione.html" target="_blank">http://egdisegno.studiovitrano.it/variante_generale/Zonizzazione.html</a>
+    <a href="http://siciliahub.github.io/mappe/atlante_carto_pa/" target="_blank">http://siciliahub.github.io/mappe/atlante_carto_pa/</a>
 
 .. |LINK69| raw:: html
 
-    <a href="http://egdisegno.studiovitrano.it/catasto_pa_1887" target="_blank">http://egdisegno.studiovitrano.it/catasto_pa_1887</a>
+    <a href="http://egdisegno.studiovitrano.it/variante_generale/Zonizzazione.html" target="_blank">http://egdisegno.studiovitrano.it/variante_generale/Zonizzazione.html</a>
 
 .. |LINK70| raw:: html
 
-    <a href="http://egdisegno.studiovitrano.it/variante_generale/prg_2015.html" target="_blank">http://egdisegno.studiovitrano.it/variante_generale/prg_2015.html</a>
+    <a href="http://egdisegno.studiovitrano.it/catasto_pa_1887" target="_blank">http://egdisegno.studiovitrano.it/catasto_pa_1887</a>
 
 .. |LINK71| raw:: html
 
-    <a href="http://github.gbvitrano.it/ppc" target="_blank">http://github.gbvitrano.it/ppc</a>
+    <a href="http://egdisegno.studiovitrano.it/variante_generale/prg_2015.html" target="_blank">http://egdisegno.studiovitrano.it/variante_generale/prg_2015.html</a>
 
 .. |LINK72| raw:: html
 
-    <a href="http://siciliahub.github.io/mappe/ppc" target="_blank">http://siciliahub.github.io/mappe/ppc</a>
+    <a href="http://github.gbvitrano.it/ppc" target="_blank">http://github.gbvitrano.it/ppc</a>
 
 .. |LINK73| raw:: html
 
-    <a href="https://siciliahub.github.io/mappe/palermo_hub/index.html" target="_blank">https://siciliahub.github.io/mappe/palermo_hub/index.html</a>
+    <a href="http://siciliahub.github.io/mappe/ppc" target="_blank">http://siciliahub.github.io/mappe/ppc</a>
 
 .. |LINK74| raw:: html
 
-    <a href="https://siciliahub.github.io/palermohub/index.html" target="_blank">https://siciliahub.github.io/palermohub/index.html</a>
+    <a href="https://siciliahub.github.io/mappe/palermo_hub/index.html" target="_blank">https://siciliahub.github.io/mappe/palermo_hub/index.html</a>
 
 .. |LINK75| raw:: html
 
-    <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fmaphub.net%2F&h=ATNg797_CAp5QX8MdtGE2t5QmsZ4zCHG2T6FXg3PFgptOklmzkPnVWpvAhUj6J_DatUI2UTyOL0IFdbo5lPnKtZ8KmtpnHmJUjSgRaflW44uMERy5ZR_RWyvClQEIEJnV1Dmr7IS" target="_blank">https://maphub.net/</a>
+    <a href="https://siciliahub.github.io/palermohub/index.html" target="_blank">https://siciliahub.github.io/palermohub/index.html</a>
 
 .. |LINK76| raw:: html
 
-    <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fcrowdmap.com%2F&h=ATPxCiw6g584R_YPauk3WAaUXxblQ4If-KRQxUpzp1sOELRXRgZuD4mgqqJHJvTNWGzBDJ3x-Q-iwQpKDdjq4fCC8JIjWft_F4JUE5Y23UpSLJ55YxOIi7EMHMV2g3pKAASCHOjN" target="_blank">https://crowdmap.com/</a>
+    <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fmaphub.net%2F&h=ATNg797_CAp5QX8MdtGE2t5QmsZ4zCHG2T6FXg3PFgptOklmzkPnVWpvAhUj6J_DatUI2UTyOL0IFdbo5lPnKtZ8KmtpnHmJUjSgRaflW44uMERy5ZR_RWyvClQEIEJnV1Dmr7IS" target="_blank">https://maphub.net/</a>
 
 .. |LINK77| raw:: html
 
-    <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mapsmarker.com%2F&h=ATPouIz1_8mZonVbTHhYY9OwCeTfZmXSD-9hdJOjGNRfZroByLW72KZ3niNiREDAGi3lLTWW8LG-cCr3R3d3zTQB2QUIJIU2ldiPtc7frt75xiTK56So9_K906Bi_008XjlTFI3S" target="_blank">https://www.mapsmarker.com/</a>
+    <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fcrowdmap.com%2F&h=ATPxCiw6g584R_YPauk3WAaUXxblQ4If-KRQxUpzp1sOELRXRgZuD4mgqqJHJvTNWGzBDJ3x-Q-iwQpKDdjq4fCC8JIjWft_F4JUE5Y23UpSLJ55YxOIi7EMHMV2g3pKAASCHOjN" target="_blank">https://crowdmap.com/</a>
 
 .. |LINK78| raw:: html
 
-    <a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.maptiler.com%2Fgeoeditor%2F&h=ATOIEGdaqbjrDIB4OnZk4GRogoAV7FbenrYuwjgPw3Z10gquAPZYyeXp7DhsN6uqevc_Q_qJjKOXVqhpT2WsM7jiJgCAwZ17llK4NceigsM6vYQjuJ0ObYICn2JHQsujpveAB_3F" target="_blank">http://www.maptiler.com/geoeditor/</a>
+    <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mapsmarker.com%2F&h=ATPouIz1_8mZonVbTHhYY9OwCeTfZmXSD-9hdJOjGNRfZroByLW72KZ3niNiREDAGi3lLTWW8LG-cCr3R3d3zTQB2QUIJIU2ldiPtc7frt75xiTK56So9_K906Bi_008XjlTFI3S" target="_blank">https://www.mapsmarker.com/</a>
 
 .. |LINK79| raw:: html
 
-    <a href="https://www.doogal.co.uk/LatLong.php" target="_blank">https://www.doogal.co.uk/LatLong.php</a>
+    <a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.maptiler.com%2Fgeoeditor%2F&h=ATOIEGdaqbjrDIB4OnZk4GRogoAV7FbenrYuwjgPw3Z10gquAPZYyeXp7DhsN6uqevc_Q_qJjKOXVqhpT2WsM7jiJgCAwZ17llK4NceigsM6vYQjuJ0ObYICn2JHQsujpveAB_3F" target="_blank">http://www.maptiler.com/geoeditor/</a>
 
 .. |LINK80| raw:: html
 
-    <a href="https://www.benlcollins.com/spreadsheets/query-dates/" target="_blank">https://www.benlcollins.com/spreadsheets/query-dates/</a>
+    <a href="https://www.doogal.co.uk/LatLong.php" target="_blank">https://www.doogal.co.uk/LatLong.php</a>
 
 .. |LINK81| raw:: html
 
-    <a href="https://support.google.com/docs/answer/3094139?hl=en" target="_blank">TEXT()</a>
+    <a href="https://www.benlcollins.com/spreadsheets/query-dates/" target="_blank">https://www.benlcollins.com/spreadsheets/query-dates/</a>
 
 .. |LINK82| raw:: html
 
-    <a href="https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/" target="_blank">https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/</a>
+    <a href="https://support.google.com/docs/answer/3094139?hl=en" target="_blank">TEXT()</a>
 
 .. |LINK83| raw:: html
 
-    <a href="http://geomappando.com/maps/OL3_map_tile_provider.html" target="_blank">http://geomappando.com/maps/OL3_map_tile_provider.html</a>
+    <a href="https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/" target="_blank">https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/</a>
 
 .. |LINK84| raw:: html
 
-    <a href="https://leaflet-extras.github.io/leaflet-providers/preview/" target="_blank">https://leaflet-extras.github.io/leaflet-providers/preview/</a>
+    <a href="http://geomappando.com/maps/OL3_map_tile_provider.html" target="_blank">http://geomappando.com/maps/OL3_map_tile_provider.html</a>
 
 .. |LINK85| raw:: html
 
-    <a href="http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}" target="_blank">http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}</a>
+    <a href="https://leaflet-extras.github.io/leaflet-providers/preview/" target="_blank">https://leaflet-extras.github.io/leaflet-providers/preview/</a>
 
 .. |LINK86| raw:: html
 
-    <a href="https://mt1.google.com/vt/lyrs=s&x=%7Bx%7D&y=%7By%7D&z=%7Bz%7D" target="_blank">https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}</a>
+    <a href="http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}" target="_blank">http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}</a>
 
 .. |LINK87| raw:: html
 
-    <a href="http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx" target="_blank">http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx</a>
+    <a href="https://mt1.google.com/vt/lyrs=s&x=%7Bx%7D&y=%7By%7D&z=%7Bz%7D" target="_blank">https://mt1.google.com/vt/lyrs=s&x={x}&y={y}&z={z}</a>
 
 .. |LINK88| raw:: html
 
-    <a href="https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yZGFpIiwiYSI6ImtCWWpvY00ifQ.E9g3YhLqDFGkdXx7pKnCWw" target="_blank">https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yZGFpIiwiYSI6ImtCWWpvY00ifQ.E9g3YhLqDFGkdXx7pKnCWw</a>
+    <a href="http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx" target="_blank">http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx</a>
 
 .. |LINK89| raw:: html
 
-    <a href="http://mapwarper.net/" target="_blank">http://mapwarper.net/</a>
+    <a href="https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yZGFpIiwiYSI6ImtCWWpvY00ifQ.E9g3YhLqDFGkdXx7pKnCWw" target="_blank">https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yZGFpIiwiYSI6ImtCWWpvY00ifQ.E9g3YhLqDFGkdXx7pKnCWw</a>
 
 .. |LINK90| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/lete-numerique-de-louis-chadourne_228928#6/41.714/9.426" target="_blank">mappa antica del mondo</a>
+    <a href="http://mapwarper.net/" target="_blank">http://mapwarper.net/</a>
 
 .. |LINK91| raw:: html
 
-    <a href="https://www.youtube.com/embed/_______|250" target="_blank">https://www.youtube.com/embed/_______|250</a>
+    <a href="http://umap.openstreetmap.fr/it/map/lete-numerique-de-louis-chadourne_228928#6/41.714/9.426" target="_blank">mappa antica del mondo</a>
 
 .. |LINK92| raw:: html
 
-    <a href="http://example.com/" target="_blank">http://example.com</a>
+    <a href="https://www.youtube.com/embed/_______|250" target="_blank">https://www.youtube.com/embed/_______|250</a>
 
 .. |LINK93| raw:: html
 
-    <a href="http://immagine.url.it/" target="_blank">http://immagine.url.it</a>
+    <a href="http://example.com/" target="_blank">http://example.com</a>
 
 .. |LINK94| raw:: html
 
-    <a href="http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90" target="_blank">http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90</a>
+    <a href="http://immagine.url.it/" target="_blank">http://immagine.url.it</a>
 
 .. |LINK95| raw:: html
 
-    <a href="http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/" target="_blank">http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/</a>
+    <a href="http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90" target="_blank">http://opendatasicilia.it|{{http://hexb.in/hexagons/opendatasicilia.png|90</a>
 
 .. |LINK96| raw:: html
 
-    <a href="http://meyerweb.com/eric/tools/dencoder/" target="_blank">http://meyerweb.com/eric/tools/dencoder/</a>
+    <a href="http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/" target="_blank">http://www.cityplanner.it/supply/icon_web/mapbox-maki-51d4f10/src/</a>
 
 .. |LINK97| raw:: html
 
-    <a href="http://postimages.org/" target="_blank">http://postimages.org/</a>
+    <a href="http://meyerweb.com/eric/tools/dencoder/" target="_blank">http://meyerweb.com/eric/tools/dencoder/</a>
 
 .. |LINK98| raw:: html
 
-    <a href="https://mapicons.mapsmarker.com" target="_blank">https://mapicons.mapsmarker.com</a>
+    <a href="http://postimages.org/" target="_blank">http://postimages.org/</a>
 
 .. |LINK99| raw:: html
 
-    <a href="https://www.youtube.com/watch?v=YKZc84WtTd4" target="_blank">https://www.youtube.com/watch?v=YKZc84WtTd4</a>
+    <a href="https://mapicons.mapsmarker.com" target="_blank">https://mapicons.mapsmarker.com</a>
 
 .. |LINK100| raw:: html
 
-    <a href="https://docs.google.com/document/d/1NARnTh4orNbIHEe8uROLYbWoc40nS3cGBpZqxBYFe5I" target="_blank">https://docs.google.com/document/d/1NARnTh4orNbIHEe8uROLYbWoc40nS3cGBpZqxBYFe5I</a>
+    <a href="https://www.youtube.com/watch?v=YKZc84WtTd4" target="_blank">https://www.youtube.com/watch?v=YKZc84WtTd4</a>
 
 .. |LINK101| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1laR9p_Ua0BPCJee5BbHvV7S-tjbmHxhLksUdKnZEW0M/edit#gid=0" target="_blank">DATASET XML</a>
+    <a href="https://docs.google.com/document/d/1NARnTh4orNbIHEe8uROLYbWoc40nS3cGBpZqxBYFe5I" target="_blank">https://docs.google.com/document/d/1NARnTh4orNbIHEe8uROLYbWoc40nS3cGBpZqxBYFe5I</a>
 
 .. |LINK102| raw:: html
 
-    <a href="http://umap.openstreetmap.fr/it/map/avvisi-polizia-municipale-sulla-mobilita-di-palerm_135416" target="_blank">MAPPA</a>
+    <a href="https://docs.google.com/spreadsheets/d/1laR9p_Ua0BPCJee5BbHvV7S-tjbmHxhLksUdKnZEW0M/edit#gid=0" target="_blank">DATASET XML</a>
 
 .. |LINK103| raw:: html
 
-    <a href="https://chrome.google.com/webstore/detail/geocode-by-awesome-table/cnhboknahecjdnlkjnlodacdjelippfg" target="_blank">Awesome Table</a>
+    <a href="http://umap.openstreetmap.fr/it/map/avvisi-polizia-municipale-sulla-mobilita-di-palerm_135416" target="_blank">MAPPA</a>
 
 .. |LINK104| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1y01HJEl5RQeSKbzA9TRyNdmHCaac7kNRjYgj3nH7oHo/edit#gid=652519043" target="_blank">Un esempio è qui</a>
+    <a href="https://chrome.google.com/webstore/detail/geocode-by-awesome-table/cnhboknahecjdnlkjnlodacdjelippfg" target="_blank">Awesome Table</a>
 
 .. |LINK105| raw:: html
 
-    <a href="http://geocoder.ondata.it/" target="_blank">http://geocoder.ondata.it/</a>
+    <a href="https://docs.google.com/spreadsheets/d/1y01HJEl5RQeSKbzA9TRyNdmHCaac7kNRjYgj3nH7oHo/edit#gid=652519043" target="_blank">Un esempio è qui</a>
 
 .. |LINK106| raw:: html
 
-    <a href="http://dati.comune.galatone.le.it/geocoder/" target="_blank">http://dati.comune.galatone.le.it/geocoder/</a>
+    <a href="http://geocoder.ondata.it/" target="_blank">http://geocoder.ondata.it/</a>
 
 .. |LINK107| raw:: html
 
-    <a href="http://school.dataninja.it/tools/geocoder-trova-le-coordinate/" target="_blank">http://school.dataninja.it/tools/geocoder-trova-le-coordinate/</a>
+    <a href="http://dati.comune.galatone.le.it/geocoder/" target="_blank">http://dati.comune.galatone.le.it/geocoder/</a>
 
 .. |LINK108| raw:: html
 
-    <a href="http://www.apposta.biz/prove/geocoder.php" target="_blank">http://www.apposta.biz/prove/geocoder.php</a>
+    <a href="http://school.dataninja.it/tools/geocoder-trova-le-coordinate/" target="_blank">http://school.dataninja.it/tools/geocoder-trova-le-coordinate/</a>
 
 .. |LINK109| raw:: html
 
-    <a href="http://it.mygeoposition.com/" target="_blank">http://it.mygeoposition.com/</a>
+    <a href="http://www.apposta.biz/prove/geocoder.php" target="_blank">http://www.apposta.biz/prove/geocoder.php</a>
 
 .. |LINK110| raw:: html
 
-    <a href="https://coseerobe.gbvitrano.it/geocodifica-il-tuo-indirizzo-utility.html" target="_blank">https://coseerobe.gbvitrano.it/geocodifica-il-tuo-indirizzo-utility.html</a>
+    <a href="http://it.mygeoposition.com/" target="_blank">http://it.mygeoposition.com/</a>
 
 .. |LINK111| raw:: html
 
-    <a href="https://siciliahub.github.io/mappe/geolocation/geolocation.html" target="_blank">https://siciliahub.github.io/mappe/geolocation/geolocation.html</a>
+    <a href="https://coseerobe.gbvitrano.it/geocodifica-il-tuo-indirizzo-utility.html" target="_blank">https://coseerobe.gbvitrano.it/geocodifica-il-tuo-indirizzo-utility.html</a>
 
 .. |LINK112| raw:: html
 
-    <a href="https://developers.google.com/maps/documentation/geocoding/start" target="_blank">https://developers.google.com/maps/documentation/geocoding/start</a>
+    <a href="https://siciliahub.github.io/mappe/geolocation/geolocation.html" target="_blank">https://siciliahub.github.io/mappe/geolocation/geolocation.html</a>
 
 .. |LINK113| raw:: html
 
-    <a href="https://docs.google.com/spreadsheets/d/1_MH8u1JESQ_Qls5YBcZvlCLKvMmAsiV46b-w3kZQL8Y/edit#gid=0" target="_blank">Foglio mio prova geocode</a>
+    <a href="https://developers.google.com/maps/documentation/geocoding/start" target="_blank">https://developers.google.com/maps/documentation/geocoding/start</a>
 
 .. |LINK114| raw:: html
 
-    <a href="http://www.gpsvisualizer.com/geocode" target="_blank">http://www.gpsvisualizer.com/geocode</a>
+    <a href="https://docs.google.com/spreadsheets/d/1_MH8u1JESQ_Qls5YBcZvlCLKvMmAsiV46b-w3kZQL8Y/edit#gid=0" target="_blank">Foglio mio prova geocode</a>
 
 .. |LINK115| raw:: html
 
-    <a href="http://www.gpsvisualizer.com/geocoder/" target="_blank">http://www.gpsvisualizer.com/geocoder/</a>
+    <a href="http://www.gpsvisualizer.com/geocode" target="_blank">http://www.gpsvisualizer.com/geocode</a>
 
 .. |LINK116| raw:: html
 
-    <a href="https://developer.mapquest.com/user/me/apps" target="_blank">https://developer.mapquest.com/user/me/apps</a>
+    <a href="http://www.gpsvisualizer.com/geocoder/" target="_blank">http://www.gpsvisualizer.com/geocoder/</a>
 
 .. |LINK117| raw:: html
 
-    <a href="https://demos.mapbox.com/location-helper/" target="_blank">https://demos.mapbox.com/location-helper/</a>
+    <a href="https://developer.mapquest.com/user/me/apps" target="_blank">https://developer.mapquest.com/user/me/apps</a>
 
 .. |LINK118| raw:: html
 
-    <a href="http://bit.ly/tutorialkitpolverisottili" target="_blank">http://bit.ly/tutorialkitpolverisottili</a>
+    <a href="https://demos.mapbox.com/location-helper/" target="_blank">https://demos.mapbox.com/location-helper/</a>
 
 .. |LINK119| raw:: html
 
-    <a href="http://bit.ly/pm10pa" target="_blank">http://bit.ly/pm10pa</a>
+    <a href="http://bit.ly/tutorialkitpolverisottili" target="_blank">http://bit.ly/tutorialkitpolverisottili</a>
 
 .. |LINK120| raw:: html
 
-    <a href="http://rogerdudler.github.io/git-guide/" target="_blank">http://rogerdudler.github.io/git-guide</a>
+    <a href="http://bit.ly/pm10pa" target="_blank">http://bit.ly/pm10pa</a>
 
 .. |LINK121| raw:: html
 
-    <a href="https://data.world/cirospat/" target="_blank">data.world/cirospat</a>
+    <a href="http://rogerdudler.github.io/git-guide/" target="_blank">http://rogerdudler.github.io/git-guide</a>
 
 .. |LINK122| raw:: html
 
-    <a href="https://archive.org/details/@ciro_spataro" target="_blank">archive.org/details/@ciro_spataro</a>
+    <a href="https://data.world/cirospat/" target="_blank">data.world/cirospat</a>
 
 .. |LINK123| raw:: html
 
-    <a href="https://google.qwiklabs.com/quests/32" target="_blank">https://google.qwiklabs.com/quests/32</a>
+    <a href="https://archive.org/details/@ciro_spataro" target="_blank">archive.org/details/@ciro_spataro</a>
 
 .. |LINK124| raw:: html
 
-    <a href="https://www.elementsofai.it/" target="_blank">https://www.elementsofai.it/</a>
+    <a href="https://google.qwiklabs.com/quests/32" target="_blank">https://google.qwiklabs.com/quests/32</a>
 
 .. |LINK125| raw:: html
 
-    <a href="http://comma-chameleon.io/" target="_blank">http://comma-chameleon.io/</a>
+    <a href="https://www.elementsofai.it/" target="_blank">https://www.elementsofai.it/</a>
 
 .. |LINK126| raw:: html
 
-    <a href="https://ethercalc.org/" target="_blank">https://ethercalc.org/</a>
+    <a href="http://comma-chameleon.io/" target="_blank">http://comma-chameleon.io/</a>
 
 .. |LINK127| raw:: html
 
-    <a href="https://htmlg.com/html-editor/" target="_blank">https://htmlg.com/html-editor/</a>
+    <a href="https://ethercalc.org/" target="_blank">https://ethercalc.org/</a>
 
 .. |LINK128| raw:: html
 
-    <a href="https://www.editpad.org/" target="_blank">https://www.editpad.org/</a>
+    <a href="https://htmlg.com/html-editor/" target="_blank">https://htmlg.com/html-editor/</a>
 
 .. |LINK129| raw:: html
 
-    <a href="https://html-online.com/editor/" target="_blank">https://html-online.com/editor/</a>
+    <a href="https://www.editpad.org/" target="_blank">https://www.editpad.org/</a>
 
 .. |LINK130| raw:: html
 
-    <a href="http://collabedit.com" target="_blank">http://collabedit.com</a>
+    <a href="https://html-online.com/editor/" target="_blank">https://html-online.com/editor/</a>
 
 .. |LINK131| raw:: html
 
-    <a href="https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both" target="_blank">https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both</a>
+    <a href="http://collabedit.com" target="_blank">http://collabedit.com</a>
 
 .. |LINK132| raw:: html
 
-    <a href="http://www.ilquotidianodellapa.it/_aree/feed_advanced.html" target="_blank">http://www.ilquotidianodellapa.it/_aree/feed_advanced.html</a>
+    <a href="https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both" target="_blank">https://hackmd.io/AwEwHALAbBCGBmBaAnDAzIiBWZwUFMBjCRIgdjPlmpACZDkg?both</a>
 
 .. |LINK133| raw:: html
 
-    <a href="https://feedburner.google.com/fb/a/myfeeds" target="_blank">https://feedburner.google.com/fb/a/myfeeds</a>
+    <a href="http://www.ilquotidianodellapa.it/_aree/feed_advanced.html" target="_blank">http://www.ilquotidianodellapa.it/_aree/feed_advanced.html</a>
 
 .. |LINK134| raw:: html
 
-    <a href="https://feed43.com/" target="_blank">Feed43</a>
+    <a href="https://feedburner.google.com/fb/a/myfeeds" target="_blank">https://feedburner.google.com/fb/a/myfeeds</a>
 
 .. |LINK135| raw:: html
 
-    <a href="https://groups.google.com/forum/#!topic/opendatasicilia/mj4rOt3VUNg" target="_blank">vedi tutorial di Andrea Borruso</a>
+    <a href="https://feed43.com/" target="_blank">Feed43</a>
 
 .. |LINK136| raw:: html
 
-    <a href="https://img.shields.io/badge/fondamentali-amministrazione_digitale-red?style=popout&logo=Read%20the%20Docs" target="_blank">https://img.shields.io/badge/fondamentali-amministrazione_digitale-red?style=popout&logo=Read%20the%20Docs</a>
+    <a href="https://groups.google.com/forum/#!topic/opendatasicilia/mj4rOt3VUNg" target="_blank">vedi tutorial di Andrea Borruso</a>
 
 .. |LINK137| raw:: html
 
-    <a href="https://www.canva.com/" target="_blank">https://www.canva.com/</a>
+    <a href="https://img.shields.io/badge/fondamentali-amministrazione_digitale-red?style=popout&logo=Read%20the%20Docs" target="_blank">https://img.shields.io/badge/fondamentali-amministrazione_digitale-red?style=popout&logo=Read%20the%20Docs</a>
 
 .. |LINK138| raw:: html
 
-    <a href="https://getbootstrap.com/docs/4.0/components/card/#border" target="_blank">https://getbootstrap.com/docs/4.0/components/card/#border</a>
+    <a href="https://www.canva.com/" target="_blank">https://www.canva.com/</a>
 
 .. |LINK139| raw:: html
 
-    <a href="https://www.aranzulla.it/come-unire-due-pdf-923476.html" target="_blank">https://www.aranzulla.it/come-unire-due-pdf-923476.html</a>
+    <a href="https://getbootstrap.com/docs/4.0/components/card/#border" target="_blank">https://getbootstrap.com/docs/4.0/components/card/#border</a>
 
 .. |LINK140| raw:: html
 
-    <a href="http://angusj.com/pdftkb/#pdftkbuilder" target="_blank">http://angusj.com/pdftkb/#pdftkbuilder</a>
+    <a href="https://www.aranzulla.it/come-unire-due-pdf-923476.html" target="_blank">https://www.aranzulla.it/come-unire-due-pdf-923476.html</a>
 
 .. |LINK141| raw:: html
 
-    <a href="http://online2pdf.com/" target="_blank">http://online2pdf.com/</a>
+    <a href="http://angusj.com/pdftkb/#pdftkbuilder" target="_blank">http://angusj.com/pdftkb/#pdftkbuilder</a>
 
 .. |LINK142| raw:: html
 
-    <a href="https://www.ilovepdf.com/it/unire_pdf" target="_blank">iLovePDF</a>
+    <a href="http://online2pdf.com/" target="_blank">http://online2pdf.com/</a>
 
 .. |LINK143| raw:: html
 
-    <a href="https://pdfcandy.com/it/merge-pdf.html" target="_blank">PDF Candy</a>
+    <a href="https://www.ilovepdf.com/it/unire_pdf" target="_blank">iLovePDF</a>
 
 .. |LINK144| raw:: html
 
-    <a href="https://tools.pdf24.org/it/unire-pdf" target="_blank">PDF24</a>
+    <a href="https://pdfcandy.com/it/merge-pdf.html" target="_blank">PDF Candy</a>
 
 .. |LINK145| raw:: html
 
-    <a href="https://play.google.com/store/apps/details?id=com.wondershare.pdfelement&hl=it" target="_blank">relativa sezione del Play Store</a>
+    <a href="https://tools.pdf24.org/it/unire-pdf" target="_blank">PDF24</a>
 
 .. |LINK146| raw:: html
 
-    <a href="https://getbootstrap.com/docs/4.0/components/carousel/" target="_blank">https://getbootstrap.com/docs/4.0/components/carousel/</a>
+    <a href="https://play.google.com/store/apps/details?id=com.wondershare.pdfelement&hl=it" target="_blank">relativa sezione del Play Store</a>
 
 .. |LINK147| raw:: html
 
-    <a href="https://schema-tipo.readthedocs.io/" target="_blank">https://schema-tipo.readthedocs.io/</a>
+    <a href="https://getbootstrap.com/docs/4.0/components/carousel/" target="_blank">https://getbootstrap.com/docs/4.0/components/carousel/</a>
 
 .. |LINK148| raw:: html
 
-    <a href="https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/" target="_blank">https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/</a>
+    <a href="https://schema-tipo.readthedocs.io/" target="_blank">https://schema-tipo.readthedocs.io/</a>
 
 .. |LINK149| raw:: html
 
@@ -1726,13 +1718,17 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 .. |LINK150| raw:: html
 
-    <a href="https://www.comune.palermo.it/unita.php?apt=4&uo=2188&serv=1056&sett=230" target="_blank">link 1</a>
+    <a href="https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/" target="_blank">https://readthedocs.org/projects/libro-bianco-cantiere-smartcity-fpa-2020/builds/</a>
 
 .. |LINK151| raw:: html
 
-    <a href="https://www.comune.palermo.it/" target="_blank">link 2</a>
+    <a href="https://www.comune.palermo.it/unita.php?apt=4&uo=2188&serv=1056&sett=230" target="_blank">link 1</a>
 
 .. |LINK152| raw:: html
+
+    <a href="https://www.comune.palermo.it/" target="_blank">link 2</a>
+
+.. |LINK153| raw:: html
 
     <a href="https://convertcase.net/it/" target="_blank">Convertire il case - Convertire maiuscole a minuscole! (convertcase.net)</a>
 
