@@ -19,8 +19,6 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 * \ |LINK6|\ .
 
-* Questo portale contribuisce alla costruzione della "\ |LINK7|\ ", iniziativa del Ministero per l'Innovazione Tecnologica e la Digitalizzazione. 
-
 
 |REPLACE3|
 
@@ -28,7 +26,7 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 
 * l’ ``innovazione`` di ``processo`` e di ``servizio``; 
 
-* le ``competenze digitali`` dei dirigenti e dipendenti della Pubblica Amministrazione; 
+* le ``competenze digitali`` del personale della Pubblica Amministrazione; 
 
 * la ``cultura digitale`` e la ``cittadinanza digitale``.
 
@@ -37,7 +35,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 |REPLACE4|
 
-\ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design :guilabel:`Read the Docs`. \ |LINK8|\ . 
+\ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design :guilabel:`Read the Docs`. \ |LINK7|\ . 
 
 :guilabel:`Read the Docs` è un format che si presta ottimamente alla rappresentazione e pubblicazione online di manuali e documentazione dove si rende necessario fornire spiegazioni e approfondimenti. 
 
@@ -107,7 +105,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 
 +--------------------------------------------------------------------------------+
-|[Immagine, in alto, del libro, by \ |LINK9|\ , rilasciata con licenza CC BY 3.0]|
+|[Immagine, in alto, del libro, by \ |LINK8|\ , rilasciata con licenza CC BY 3.0]|
 +--------------------------------------------------------------------------------+
 
 
@@ -211,13 +209,9 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |LINK7| raw:: html
 
-    <a href="https://innovazione.gov.it/it/repubblica-digitale/" target="_blank">Repubblica Digitale</a>
-
-.. |LINK8| raw:: html
-
     <a href="http://googledocs.readthedocs.io/" target="_blank">A questo link un tutorial che spiega in maniera facile come usare questi strumenti</a>
 
-.. |LINK9| raw:: html
+.. |LINK8| raw:: html
 
     <a href="https://www.deviantart.com/superawesomevectors/gallery/" target="_blank">superawesomevectors</a>
 
