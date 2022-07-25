@@ -479,11 +479,11 @@ Marzo 2022. Fissato l'obiettivo di :guilabel:`accessibilità` del Comune di Pale
 
 |
 
-Maggio 2022. Effettuata la :guilabel:`classificazione di dati e servizi` dell’Amministrazione, in ottemperanza alle \ |LINK127|\  e necessaria per le candidature delle PA all’\ |LINK128|\ .
+:guilabel:`PNRR` | Maggio 2022. Effettuata la :guilabel:`classificazione di dati e servizi` dell’Amministrazione, in ottemperanza alle \ |LINK127|\  e necessaria per le candidature delle PA all’\ |LINK128|\ .
 
 |
 
-Giugno 2022. Adesione del Comune di Palermo agli Avvisi del :guilabel:`PNRR`, missione 1, componente 1.  
+:guilabel:`PNRR` | Giugno 2022. Adesione del Comune di Palermo agli Avvisi del PNRR, missione 1, componente 1.  
 
 \ |STYLE80|\ . Sono stati candidati n. 50 servizi App IO candidabili su 50 finanziabili, da realizzare, già realizzati o in fase di realizzazione, elencati di seguito: 
 
@@ -589,7 +589,7 @@ Giugno 2022. Adesione del Comune di Palermo agli Avvisi del :guilabel:`PNRR`, mi
 
 Il criterio adottato per la selezione dei servizi dall’elenco già stabilito dalla documentazione dell’Avviso è la reale erogazione del servizio stesso da parte dell’Amministrazione comunale.
 
-\ |STYLE81|\ . Sono stati identificati n. 37 servizi PagoPA candidabili su 50 finanziabili, da realizzare, già realizzati o in fase di realizzazione, elencati di seguito: 
+:guilabel:`PNRR` | \ |STYLE81|\ . Sono stati identificati n. 37 servizi PagoPA candidabili su 50 finanziabili, da realizzare, già realizzati o in fase di realizzazione, elencati di seguito: 
 
 #. Tasse sui rifiuti (TARI, TIA, TARSU, TARES, ecc.) - anno in corso
 
@@ -667,7 +667,7 @@ Il criterio adottato per la selezione dei servizi dall’elenco già stabilito d
 
 Il criterio adottato per la selezione dei servizi dall’elenco già stabilito dalla documentazione dell’Avviso è la reale erogazione del servizio stesso da parte dell’Amministrazione comunale.
 
-\ |STYLE82|\ . Per l’avviso 1.4.1 è stato avviato un tavolo tecnico-operativo specifico, con il duplice obiettivo di rifacimento dell’intero sito web per l’adeguamento alle obbligatorie linee guida AGID sui siti web delle PA (c.d. cittadino informato), e la predisposizione di un set massimo di n. 10 servizi digitali da erogare sul portale (c.d. cittadino attivo).  In considerazione dei requisiti posti dal bando ed in funzione dello stato dell'arte dei portali web dell'Amministrazione, sono state analizzate le seguenti attività da porre in essere:  
+:guilabel:`PNRR` | \ |STYLE82|\ . Per l’avviso 1.4.1 è stato avviato un tavolo tecnico-operativo specifico, con il duplice obiettivo di rifacimento dell’intero sito web per l’adeguamento alle obbligatorie linee guida AGID sui siti web delle PA (c.d. cittadino informato), e la predisposizione di un set massimo di n. 10 servizi digitali da erogare sul portale (c.d. cittadino attivo).  In considerazione dei requisiti posti dal bando ed in funzione dello stato dell'arte dei portali web dell'Amministrazione, sono state analizzate le seguenti attività da porre in essere:  
 
 #. \ |STYLE83|\ : è previsto l'utilizzo di un CMS (content management system) che risponda a precisi requisiti di sicurezza, accessibilità, responsività, etc.. Si è convenuto di restringere le opzioni a due prodotti, rispettivamente Liferay e Drupal ma non si esclude di poter integrare una terza opzione su eventuale suggerimento degli attori coinvolti. Le scelte saranno oggetto di analisi prettamente tecniche da parte di SISPI, da svolgere successivamente all'ammissione al bando; questa attività avrà come oggetto il confronto fra le due soluzioni, tenendo conto del know-how, delle risorse e della compatibilità rispetto alle piattaforme attualmente in uso e/o in fase di rilascio nell'ambito dei progetti in itinere di Agenda Urbana (ad es. l'Identity & Access Manager comunale o la piattaforma KeySuite per la realizzazione del front-end dei servizi digitali alla cittadinanza).  
 
@@ -707,7 +707,7 @@ Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indag
 
 |
 
-Luglio 2022. E’ stata presentata l’adesione del comune di Palermo al bando PNRR relativa all’Avviso 1.2 “\ |LINK133|\ ”. 
+:guilabel:`PNRR` \ |STYLE86|\  Luglio 2022. E’ stata presentata l’adesione del comune di Palermo al bando PNRR, relativa all’Avviso 1.2 “\ |LINK133|\ ”. 
 
 Di seguito si riporta l’elenco dei servizi per i quali è stata presentata la candidatura per l’abilitazione al cloud.
 
@@ -756,7 +756,7 @@ Di seguito si riporta l’elenco dei servizi per i quali è stata presentata la 
 +---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
 |21 |Museo e Teatri                           |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
 +---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|   |                                         |\ |STYLE86|\                                                                                           |\ |STYLE87|\ |
+|   |                                         |\ |STYLE87|\                                                                                           |\ |STYLE88|\ |
 +---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
 
  
@@ -939,9 +939,11 @@ Di seguito si riporta l’elenco dei servizi per i quali è stata presentata la 
 
 .. |STYLE85| replace:: **Migrazione delle informazioni esistenti**
 
-.. |STYLE86| replace:: **Totale**
+.. |STYLE86| replace:: **|**
 
-.. |STYLE87| replace:: **1.446.226**
+.. |STYLE87| replace:: **Totale**
+
+.. |STYLE88| replace:: **1.446.226**
 
 
 .. |REPLACE1| raw:: html
