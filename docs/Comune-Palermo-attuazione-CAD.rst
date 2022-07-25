@@ -707,6 +707,62 @@ Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indag
 
 |
 
+Luglio 2022. E’ stata presentata l’adesione del comune di Palermo al bando PNRR relativa all’Avviso 1.2 “\ |LINK133|\ ”. 
+
+Di seguito si riporta l’elenco dei servizi per i quali è stata presentata la candidatura per l’abilitazione al cloud.
+
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|N. |Servizio                                 |Tipo di migrazione                                                                                     |Importo      |
++===+=========================================+=======================================================================================================+=============+
+|1  |Accesso Civico                           |Trasferimento in Sicurezza dell’infrastruttura IT / Aggiornamento in sicurezza di applicazioni in Cloud|46.634       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|2  |Trasparenza                              |Trasferimento in Sicurezza dell’infrastruttura IT / Aggiornamento in sicurezza di applicazioni in Cloud|46.634       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|3  |Whistleblowing                           |Trasferimento in Sicurezza dell’infrastruttura IT / Aggiornamento in sicurezza di applicazioni in Cloud|46.634       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|4  |Rapporti con l'utenza - URP              |Trasferimento in Sicurezza dell’infrastruttura IT / Aggiornamento in sicurezza di applicazioni in Cloud|46.634       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|5  |Organi Istituzionali                     |Trasferimento in Sicurezza dell’infrastruttura IT / Aggiornamento in sicurezza di applicazioni in Cloud|46.634       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|6  |Demografici -Cimiteri                    |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|7  |Stato Civile                             |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|8  |Edilizia Sociale ERP                     |Aggiornamento in Sicurezza - Replatform                                                                |75.816       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|9  |Igiene e Sanità                          |Aggiornamento in Sicurezza - Replatform                                                                |75.816       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|10 |Gestione Patrimonio                      |Aggiornamento in Sicurezza - Replatform                                                                |75.816       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|11 |PM - Traffico (T-RED)                    |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|12 |PM - Autorizzazioni                      |Aggiornamento in Sicurezza - Replatform                                                                |75.816       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|13 |PM - Segnalazioni                        |Aggiornamento in Sicurezza - Replatform                                                                |75.816       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|14 |Contenzioso                              |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|15 |Controllo Partecipate                    |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|16 |E-Partecipa                              |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|17 |Programmazione Organizzazione e Controllo|Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|18 |Ordinanze                                |Aggiornamento in Sicurezza - Replatform                                                                |75.816       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|19 |Promozione e Informazione                |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|20 |Sport                                    |Aggiornamento in Sicurezza - Replatform                                                                |75.816       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|21 |Museo e Teatri                           |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+|   |                                         |\ |STYLE86|\                                                                                           |\ |STYLE87|\ |
++---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+
+ 
+
+|
+
 
 .. bottom of content
 
@@ -882,6 +938,10 @@ Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indag
 .. |STYLE84| replace:: **Scelta dei servizi**
 
 .. |STYLE85| replace:: **Migrazione delle informazioni esistenti**
+
+.. |STYLE86| replace:: **Totale**
+
+.. |STYLE87| replace:: **1.446.226**
 
 
 .. |REPLACE1| raw:: html
@@ -1424,4 +1484,8 @@ Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indag
 .. |LINK132| raw:: html
 
     <a href="https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/report_digitalizzazione_enti/raw/main/Report_digitalizzazione__enti_pubblici/2022/Indagine_maturita_digitale_dei_Comuni_2022.pdf" target="_blank">Link al report completo</a>
+
+.. |LINK133| raw:: html
+
+    <a href="https://areariservata.padigitale2026.gov.it/Pa_digitale2026_dettagli_avviso?id=a017Q00000c8mFyQAI" target="_blank">Abilitazione al cloud per le PA Locali” Comuni Aprile 2022</a>
 
