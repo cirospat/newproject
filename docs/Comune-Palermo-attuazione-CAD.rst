@@ -589,7 +589,11 @@ Marzo 2022. Fissato l'obiettivo di :guilabel:`accessibilità` del Comune di Pale
 
 Il criterio adottato per la selezione dei servizi dall’elenco già stabilito dalla documentazione dell’Avviso è la reale erogazione del servizio stesso da parte dell’Amministrazione comunale.
 
-:guilabel:`PNRR` | \ |STYLE81|\ . Sono stati identificati n. 37 servizi PagoPA candidabili su 50 finanziabili, da realizzare, già realizzati o in fase di realizzazione, elencati di seguito: 
+\ |STYLE81|\ 
+
+|
+
+:guilabel:`PNRR` | \ |STYLE82|\ . Sono stati identificati n. 37 servizi PagoPA candidabili su 50 finanziabili, da realizzare, già realizzati o in fase di realizzazione, elencati di seguito: 
 
 #. Tasse sui rifiuti (TARI, TIA, TARSU, TARES, ecc.) - anno in corso
 
@@ -667,11 +671,15 @@ Il criterio adottato per la selezione dei servizi dall’elenco già stabilito d
 
 Il criterio adottato per la selezione dei servizi dall’elenco già stabilito dalla documentazione dell’Avviso è la reale erogazione del servizio stesso da parte dell’Amministrazione comunale.
 
-:guilabel:`PNRR` | \ |STYLE82|\ . Per l’avviso 1.4.1 è stato avviato un tavolo tecnico-operativo specifico, con il duplice obiettivo di rifacimento dell’intero sito web per l’adeguamento alle obbligatorie linee guida AGID sui siti web delle PA (c.d. cittadino informato), e la predisposizione di un set massimo di n. 10 servizi digitali da erogare sul portale (c.d. cittadino attivo).  In considerazione dei requisiti posti dal bando ed in funzione dello stato dell'arte dei portali web dell'Amministrazione, sono state analizzate le seguenti attività da porre in essere:  
+\ |STYLE83|\  
 
-#. \ |STYLE83|\ : è previsto l'utilizzo di un CMS (content management system) che risponda a precisi requisiti di sicurezza, accessibilità, responsività, etc.. Si è convenuto di restringere le opzioni a due prodotti, rispettivamente Liferay e Drupal ma non si esclude di poter integrare una terza opzione su eventuale suggerimento degli attori coinvolti. Le scelte saranno oggetto di analisi prettamente tecniche da parte di SISPI, da svolgere successivamente all'ammissione al bando; questa attività avrà come oggetto il confronto fra le due soluzioni, tenendo conto del know-how, delle risorse e della compatibilità rispetto alle piattaforme attualmente in uso e/o in fase di rilascio nell'ambito dei progetti in itinere di Agenda Urbana (ad es. l'Identity & Access Manager comunale o la piattaforma KeySuite per la realizzazione del front-end dei servizi digitali alla cittadinanza).  
+|
 
-#. \ |STYLE84|\ : in continuità con quanto previsto per gli altri avvisi ai quali l'amministrazione intende partecipare, sono stati individuati n. 10 servizi fra i 26 previsti dal bando, da inserire nell'ambito del finanziamento della misura. Tali servizi potranno beneficiare del finanziamento anche se realizzati dopo il 1° Febbraio 2020  purché  non siano finanziati con altri fondi pubblici, nazionali, regionali o europei in base a quanto previsto all’ Art. 7 comma b e c dell’avviso. Sono esclusi tutti i servizi finanziati con Agenda Urbana, PON Metro e qualunque altra fonte di finanziamento pubblico extra-comunale, inclusi i fondi M1C1 del PNRR. I 10 servizi individuati sono di seguito elencati:
+:guilabel:`PNRR` | \ |STYLE84|\ . Per l’avviso 1.4.1 è stato avviato un tavolo tecnico-operativo specifico, con il duplice obiettivo di rifacimento dell’intero sito web per l’adeguamento alle obbligatorie linee guida AGID sui siti web delle PA (c.d. cittadino informato), e la predisposizione di un set massimo di n. 10 servizi digitali da erogare sul portale (c.d. cittadino attivo).  In considerazione dei requisiti posti dal bando ed in funzione dello stato dell'arte dei portali web dell'Amministrazione, sono state analizzate le seguenti attività da porre in essere:  
+
+#. \ |STYLE85|\ : è previsto l'utilizzo di un CMS (content management system) che risponda a precisi requisiti di sicurezza, accessibilità, responsività, etc.. Si è convenuto di restringere le opzioni a due prodotti, rispettivamente Liferay e Drupal ma non si esclude di poter integrare una terza opzione su eventuale suggerimento degli attori coinvolti. Le scelte saranno oggetto di analisi prettamente tecniche da parte di SISPI, da svolgere successivamente all'ammissione al bando; questa attività avrà come oggetto il confronto fra le due soluzioni, tenendo conto del know-how, delle risorse e della compatibilità rispetto alle piattaforme attualmente in uso e/o in fase di rilascio nell'ambito dei progetti in itinere di Agenda Urbana (ad es. l'Identity & Access Manager comunale o la piattaforma KeySuite per la realizzazione del front-end dei servizi digitali alla cittadinanza).  
+
+#. \ |STYLE86|\ : in continuità con quanto previsto per gli altri avvisi ai quali l'amministrazione intende partecipare, sono stati individuati n. 10 servizi fra i 26 previsti dal bando, da inserire nell'ambito del finanziamento della misura. Tali servizi potranno beneficiare del finanziamento anche se realizzati dopo il 1° Febbraio 2020  purché  non siano finanziati con altri fondi pubblici, nazionali, regionali o europei in base a quanto previsto all’ Art. 7 comma b e c dell’avviso. Sono esclusi tutti i servizi finanziati con Agenda Urbana, PON Metro e qualunque altra fonte di finanziamento pubblico extra-comunale, inclusi i fondi M1C1 del PNRR. I 10 servizi individuati sono di seguito elencati:
 
         #. Servizio per esercitare il proprio diritto a richiedere, prendere visione ed, eventualmente, ottenere copia dei documenti amministrativi
 
@@ -693,7 +701,9 @@ Il criterio adottato per la selezione dei servizi dall’elenco già stabilito d
 
         #. Servizio relativo al rilascio di un'autorizzazione per posteggiare nelle aree di parcheggio pubblico a pagamento.
 
-#. \ |STYLE85|\ : Attività di migrazione automatica dei contenuti esistenti sul portale web attraverso servizi e strumenti automatici, al fine di minimizzare lo sforzo necessario per il popolamento della nuova versione del portale comunale, che ad oggi separa la componente informativa presente su \ |LINK129|\  dalla componente di servizi erogata attraverso il portale \ |LINK130|\ t. 
+#. \ |STYLE87|\ : Attività di migrazione automatica dei contenuti esistenti sul portale web attraverso servizi e strumenti automatici, al fine di minimizzare lo sforzo necessario per il popolamento della nuova versione del portale comunale, che ad oggi separa la componente informativa presente su \ |LINK129|\  dalla componente di servizi erogata attraverso il portale \ |LINK130|\ t. 
+
+\ |STYLE88|\  
 
 |
 
@@ -707,57 +717,53 @@ Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indag
 
 |
 
-:guilabel:`PNRR` \ |STYLE86|\  Luglio 2022. E’ stata presentata l’adesione del comune di Palermo al bando PNRR, relativa all’Avviso 1.2 “\ |LINK133|\ ”. 
+:guilabel:`PNRR` \ |STYLE89|\  Luglio 2022. E’ stata presentata l’adesione del comune di Palermo al bando PNRR, relativa all’Avviso 1.2 “\ |LINK133|\ ”. 
 
-Di seguito si riporta l’elenco dei servizi per i quali è stata presentata la candidatura per l’abilitazione al cloud.
+\ |STYLE90|\ 
 
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|N. |Servizio                                 |Tipo di migrazione                                                                                     |Importo      |
-+===+=========================================+=======================================================================================================+=============+
-|1  |Accesso Civico                           |Trasferimento in Sicurezza dell’infrastruttura IT / Aggiornamento in sicurezza di applicazioni in Cloud|46.634       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|2  |Trasparenza                              |Trasferimento in Sicurezza dell’infrastruttura IT / Aggiornamento in sicurezza di applicazioni in Cloud|46.634       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|3  |Whistleblowing                           |Trasferimento in Sicurezza dell’infrastruttura IT / Aggiornamento in sicurezza di applicazioni in Cloud|46.634       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|4  |Rapporti con l'utenza - URP              |Trasferimento in Sicurezza dell’infrastruttura IT / Aggiornamento in sicurezza di applicazioni in Cloud|46.634       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|5  |Organi Istituzionali                     |Trasferimento in Sicurezza dell’infrastruttura IT / Aggiornamento in sicurezza di applicazioni in Cloud|46.634       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|6  |Demografici -Cimiteri                    |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|7  |Stato Civile                             |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|8  |Edilizia Sociale ERP                     |Aggiornamento in Sicurezza - Replatform                                                                |75.816       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|9  |Igiene e Sanità                          |Aggiornamento in Sicurezza - Replatform                                                                |75.816       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|10 |Gestione Patrimonio                      |Aggiornamento in Sicurezza - Replatform                                                                |75.816       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|11 |PM - Traffico (T-RED)                    |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|12 |PM - Autorizzazioni                      |Aggiornamento in Sicurezza - Replatform                                                                |75.816       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|13 |PM - Segnalazioni                        |Aggiornamento in Sicurezza - Replatform                                                                |75.816       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|14 |Contenzioso                              |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|15 |Controllo Partecipate                    |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|16 |E-Partecipa                              |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|17 |Programmazione Organizzazione e Controllo|Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|18 |Ordinanze                                |Aggiornamento in Sicurezza - Replatform                                                                |75.816       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|19 |Promozione e Informazione                |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|20 |Sport                                    |Aggiornamento in Sicurezza - Replatform                                                                |75.816       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|21 |Museo e Teatri                           |Aggiornamento in Sicurezza - Repurchase                                                                |75.816       |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
-|   |                                         |\ |STYLE87|\                                                                                           |\ |STYLE88|\ |
-+---+-----------------------------------------+-------------------------------------------------------------------------------------------------------+-------------+
+#. Accesso Civico - Trasferimento in Sicurezza dell’infrastruttura IT / Aggiornamento in sicurezza di applicazioni in Cloud
+
+#. Trasparenza - Trasferimento in Sicurezza dell’infrastruttura IT / Aggiornamento in sicurezza di applicazioni in Cloud
+
+#. Whistleblowing - Trasferimento in Sicurezza dell’infrastruttura IT / Aggiornamento in sicurezza di applicazioni in Cloud 
+
+#. Rapporti con l’utenza URP - Trasferimento in Sicurezza dell’infrastruttura IT / Aggiornamento in sicurezza di applicazioni in Cloud
+
+#. Organi Istituzionali - Trasferimento in Sicurezza dell’infrastruttura IT / Aggiornamento in sicurezza di applicazioni in Cloud
+
+#. Demografici | Cimiteri - Aggiornamento in Sicurezza - Repurchase
+
+#. Stato Civile - Aggiornamento in Sicurezza - Repurchase
+
+#. Edilizia Sociale ERP - Aggiornamento in Sicurezza - Replatform
+
+#. Igiene e Sanità - Aggiornamento in Sicurezza - Replatform
+
+#. Gestione Patrimonio - Aggiornamento in Sicurezza - Replatform
+
+#. PM - Traffico (T-RED) - Aggiornamento in Sicurezza - Repurchase 
+
+#. PM Autorizzazioni - Aggiornamento in Sicurezza - Replatform
+
+#. PM  Segnalazioni - Aggiornamento in Sicurezza - Replatform
+
+#. Contenzioso - Aggiornamento in Sicurezza - Repurchase  
+
+#. Controllo Partecipate - Aggiornamento in Sicurezza - Repurchase 
+
+#. E-Partecipa - Aggiornamento in Sicurezza - Repurchase
+
+#. Programmazione Organizzazione e Controllo - Aggiornamento in Sicurezza - Repurchase 
+
+#. Ordinanze - Aggiornamento in Sicurezza - Replatform
+
+#. Promozione e Informazione - Aggiornamento in Sicurezza - Repurchase
+
+#. Sport - Aggiornamento in Sicurezza - Replatform
+
+#. Museo e Teatri - Aggiornamento in Sicurezza - Repurchase
+
+\ |STYLE91|\ 
 
  
 
@@ -929,21 +935,27 @@ Di seguito si riporta l’elenco dei servizi per i quali è stata presentata la 
 
 .. |STYLE80| replace:: **APP IO**
 
-.. |STYLE81| replace:: **PAGOPA**
+.. |STYLE81| replace:: **L'importo del progetto è di euro  €159.350.**
 
-.. |STYLE82| replace:: **Esperienza del Cittadino nei servizi pubblici, Comuni**
+.. |STYLE82| replace:: **PAGOPA**
 
-.. |STYLE83| replace:: **Scelta del CMS**
+.. |STYLE83| replace:: **L'importo del progetto è di euro 294.779.**
 
-.. |STYLE84| replace:: **Scelta dei servizi**
+.. |STYLE84| replace:: **Esperienza del Cittadino nei servizi pubblici online, Comuni**
 
-.. |STYLE85| replace:: **Migrazione delle informazioni esistenti**
+.. |STYLE85| replace:: **Scelta del CMS**
 
-.. |STYLE86| replace:: **|**
+.. |STYLE86| replace:: **Scelta dei servizi**
 
-.. |STYLE87| replace:: **Totale**
+.. |STYLE87| replace:: **Migrazione delle informazioni esistenti**
 
-.. |STYLE88| replace:: **1.446.226**
+.. |STYLE88| replace:: **L'importo del progetto è di euro 1.277.083.**
+
+.. |STYLE89| replace:: **|**
+
+.. |STYLE90| replace:: **Di seguito si riporta l’elenco dei servizi per i quali è stata presentata la candidatura per l’abilitazione al cloud.**
+
+.. |STYLE91| replace:: **L'importo del progetto è di euro 4.975.408**
 
 
 .. |REPLACE1| raw:: html
