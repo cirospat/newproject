@@ -92,31 +92,31 @@ Tutorial: realizzazione di un progetto a basso costo per il rilevamento dei dati
 Corsi online su 'competenze e servizi digitali'
 ===============================================
 
-➽ Attraverso il portale del Dipartimento Funzione Pubblica \ |LINK12|\ , le amministrazioni che aderirscono all’iniziativa, consentiono ai propri dipendenti di fruire di una \ |STYLE0|\  relative alle 5 aree descritte nel Syllabus, individuata a partire dall’autovalutazione delle conoscenze individuali. 
+➽ Attraverso il portale del Dipartimento Funzione Pubblica \ |LINK12|\ , le amministrazioni che aderirscono all’iniziativa, consentono ai propri dipendenti di fruire di una \ |STYLE0|\  relative alle 5 aree descritte nel Syllabus, individuata a partire dall’autovalutazione delle conoscenze individuali. \ |LINK13|\ , \ |LINK14|\ , \ |LINK15|\ , \ |LINK16|\ , \ |LINK17|\ .
 
-➽ \ |STYLE1|\  - Iniziativa con \ |LINK13|\ .
+➽ \ |STYLE1|\  - Iniziativa con \ |LINK18|\ .
 
-➽  \ |STYLE2|\  - Iniziativa promossa dal \ |STYLE3|\  nell’ambito del \ |LINK14|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione. Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi. \ |LINK15|\ .
+➽  \ |STYLE2|\  - Iniziativa promossa dal \ |STYLE3|\  nell’ambito del \ |LINK19|\ , che punta al consolidamento delle competenze digitali comuni a  tutti i dipendenti pubblici, al fine di accrescere la propensione complessiva al cambiamento e all’innovazione nella pubblica amministrazione. Dalla verifica delle competenze digitali alla formazione. Se sei un dipendente della Pubblica Amministrazione: 1) valuta le tue competenze, 2) scegli le proposte formative, 3) migliora le tue conoscenze, 4) verifica i tuoi progressi. \ |LINK20|\ .
 
-➽  \ |STYLE4|\  \ |LINK16|\  \ |STYLE5|\  (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
+➽  \ |STYLE4|\  \ |LINK21|\  \ |STYLE5|\  (accountability - agenda Digitale - e-leadership - open data - partecipazione - qualità dei servizi web - soft skill per l’e-leadership - web analytics - ….).
 
-➽  \ |STYLE6|\  sui \ |LINK17|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale).
+➽  \ |STYLE6|\  sui \ |LINK22|\  (data center - SPID - eProcurement - service design - Intelligenza Artificiale per la PA - comunicazione con i servizi digitali - accessibilità digitale e usabilità - professioni e competenze ICT - PagoPA - Piano triennale informatica per la PA - Cybersecurity - CAD - Data Analytic Framework - responsabile protezione dati personali - responsabile gestione documentale - responsabile transizione al digitale).
 
-➽  \ |STYLE7|\  su \ |LINK18|\ . Guarda i cicli di webinar realizzati (video):
-
-* \ |LINK19|\ 
-
-* \ |LINK20|\ 
-
-* \ |LINK21|\ 
-
-* \ |LINK22|\ 
-
-* \ |LINK23|\ 
+➽  \ |STYLE7|\  su \ |LINK23|\ . Guarda i cicli di webinar realizzati (video):
 
 * \ |LINK24|\ 
 
-➽  \ |STYLE8|\ . \ |LINK25|\ . Posta elettronica certificata, PDF e firma digitale (Pades e Cades) - i formati dei files (doc, odt, xls, ods, docx, xlsx, jpg, bmp, pdf, xml, zip, 7z ecc....) e la loro gestione e conservazione - la creazione dei fascicoli elettronici e la denominazione di cartelle e files - i programmi open source e freeware più diffusi ed utili (libreoffice, 7z, gimp, ecc...) - ricerca di norme, sentenze e dottrina in rete - informatica giuridica (dall'analogico al digitale e viceversa, copie analogiche e copie digitali, conservazione degli atti) - ottimizzazione dei browser (preferiti, links ecc...).
+* \ |LINK25|\ 
+
+* \ |LINK26|\ 
+
+* \ |LINK27|\ 
+
+* \ |LINK28|\ 
+
+* \ |LINK29|\ 
+
+➽  \ |STYLE8|\ . \ |LINK30|\ . Posta elettronica certificata, PDF e firma digitale (Pades e Cades) - i formati dei files (doc, odt, xls, ods, docx, xlsx, jpg, bmp, pdf, xml, zip, 7z ecc....) e la loro gestione e conservazione - la creazione dei fascicoli elettronici e la denominazione di cartelle e files - i programmi open source e freeware più diffusi ed utili (libreoffice, 7z, gimp, ecc...) - ricerca di norme, sentenze e dottrina in rete - informatica giuridica (dall'analogico al digitale e viceversa, copie analogiche e copie digitali, conservazione degli atti) - ottimizzazione dei browser (preferiti, links ecc...).
 
 |
 
@@ -125,7 +125,7 @@ Corsi online su 'competenze e servizi digitali'
 Webinar sulla costruzione di un 'progetto europeo'
 ==================================================
 
-\ |STYLE9|\ . Un validissimo \ |LINK26|\  e \ |LINK27|\  a cura della Fondazione IFEL - ANCI.
+\ |STYLE9|\ . Un validissimo \ |LINK31|\  e \ |LINK32|\  a cura della Fondazione IFEL - ANCI.
 
 |
 
@@ -134,13 +134,13 @@ Webinar sulla costruzione di un 'progetto europeo'
 Manuali vari 
 =============
 
-➽ \ |LINK28|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni).
+➽ \ |LINK33|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni).
 
-➽ \ |LINK29|\  in uso al Comune di Palermo.
+➽ \ |LINK34|\  in uso al Comune di Palermo.
 
-➽ \ |LINK30|\  del comune di Palermo.
+➽ \ |LINK35|\  del comune di Palermo.
 
-➽ \ |LINK31|\  (\ |STYLE10|\ , \ |STYLE11|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK32|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK33|\ ]. Vedi anche la \ |LINK34|\ .
+➽ \ |LINK36|\  (\ |STYLE10|\ , \ |STYLE11|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK37|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK38|\ ]. Vedi anche la \ |LINK39|\ .
 
 
 |REPLACE7|
@@ -268,89 +268,109 @@ Manuali vari
 
 .. |LINK13| raw:: html
 
-    <a href="https://cirospat.readthedocs.io/it/latest/responsabile_transizione_digitale.html#formazione-rtd" target="_blank">webinar a cura del FormezPA in collaborazione con AgID</a>
+    <a href="https://www.competenzedigitali.gov.it/syllabus-delle-competenze/quali-sono-le-aree-di-competenza/dati-informazioni-e-documenti-informatici.html" target="_blank">Dati, informazioni e documenti informatici</a>
 
 .. |LINK14| raw:: html
 
-    <a href="http://www.pongovernance1420.gov.it/" target="_blank">Programma Operativo Nazionale “Governance e Capacità Istituzionale 2014-2020"</a>
+    <a href="https://www.competenzedigitali.gov.it/syllabus-delle-competenze/quali-sono-le-aree-di-competenza/comunicazione-e-condivisione.html" target="_blank">Comunicazione e condivisione</a>
 
 .. |LINK15| raw:: html
 
-    <a href="http://www.competenzedigitali.gov.it" target="_blank">Link alla piattaforma online per le "competenze digitali" a cura della Funzione Pubblica</a>
+    <a href="https://www.competenzedigitali.gov.it/sicurezza.html" target="_blank">Sicurezza</a>
 
 .. |LINK16| raw:: html
 
-    <a href="http://formazione.formez.it/content/corsi-online-competenze-digitali" target="_blank">competenze digitali</a>
+    <a href="https://www.competenzedigitali.gov.it/syllabus-delle-competenze/quali-sono-le-aree-di-competenza/servizi-on-line.html" target="_blank">Servizi on-line</a>
 
 .. |LINK17| raw:: html
 
-    <a href="http://eventipa.formez.it/progetto-formez-dettaglio-ms/17436" target="_blank">servizi digitali - Italia Login</a>
+    <a href="https://www.competenzedigitali.gov.it/syllabus-delle-competenze/quali-sono-le-aree-di-competenza/trasformazione-digitale.html" target="_blank">Trasformazione digitale</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/progetti-pon-governance/italia-login-casa-del-cittadino/informazione-formazione-transizione-digitale" target="_blank">Italia Login - Informazione e formazione per la transizione digitale</a>
+    <a href="https://cirospat.readthedocs.io/it/latest/responsabile_transizione_digitale.html#formazione-rtd" target="_blank">webinar a cura del FormezPA in collaborazione con AgID</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://www.youtube.com/playlist?list=PLd5bJJul8c5pMzDz4gEAFAytR77d2eXnc" target="_blank">Sicurezza informatica</a>
+    <a href="http://www.pongovernance1420.gov.it/" target="_blank">Programma Operativo Nazionale “Governance e Capacità Istituzionale 2014-2020"</a>
 
 .. |LINK20| raw:: html
 
-    <a href="https://www.youtube.com/playlist?list=PLd5bJJul8c5pkMRmqEA7cEP0yqVGu9qyi" target="_blank">Progettare servizi pubblici digitali</a>
+    <a href="http://www.competenzedigitali.gov.it" target="_blank">Link alla piattaforma online per le "competenze digitali" a cura della Funzione Pubblica</a>
 
 .. |LINK21| raw:: html
 
-    <a href="https://www.youtube.com/playlist?list=PLd5bJJul8c5ojYDiFTprGKVnBS3wLerj-" target="_blank">Progettare il sito web di un comune</a>
+    <a href="http://formazione.formez.it/content/corsi-online-competenze-digitali" target="_blank">competenze digitali</a>
 
 .. |LINK22| raw:: html
 
-    <a href="https://www.youtube.com/playlist?list=PLd5bJJul8c5q00uEQVZjnSscAsbKjUftt" target="_blank">Monitoraggio contratti ICT</a>
+    <a href="http://eventipa.formez.it/progetto-formez-dettaglio-ms/17436" target="_blank">servizi digitali - Italia Login</a>
 
 .. |LINK23| raw:: html
 
-    <a href="https://www.youtube.com/playlist?list=PLd5bJJul8c5ockYAymE70JKYtq9HHp5z9" target="_blank">Accessibilità</a>
+    <a href="https://www.agid.gov.it/it/agenzia/progetti-pon-governance/italia-login-casa-del-cittadino/informazione-formazione-transizione-digitale" target="_blank">Italia Login - Informazione e formazione per la transizione digitale</a>
 
 .. |LINK24| raw:: html
 
-    <a href="http://eventipa.formez.it/node/316784" target="_blank">Dati territoriali</a>
+    <a href="https://www.youtube.com/playlist?list=PLd5bJJul8c5pMzDz4gEAFAytR77d2eXnc" target="_blank">Sicurezza informatica</a>
 
 .. |LINK25| raw:: html
 
-    <a href="https://www.youtube.com/playlist?list=PLnc9N-ztTF5fxGBBYR1JDpd_VoAyJ_H2p" target="_blank">Link</a>
+    <a href="https://www.youtube.com/playlist?list=PLd5bJJul8c5pkMRmqEA7cEP0yqVGu9qyi" target="_blank">Progettare servizi pubblici digitali</a>
 
 .. |LINK26| raw:: html
 
-    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9640-video-come-si-scrive-bene-un-progetto-europeo" target="_blank">Webinar</a>
+    <a href="https://www.youtube.com/playlist?list=PLd5bJJul8c5ojYDiFTprGKVnBS3wLerj-" target="_blank">Progettare il sito web di un comune</a>
 
 .. |LINK27| raw:: html
 
-    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9639-slide-come-si-scrive-bene-un-progetto-europeo" target="_blank">Materiali didattici</a>
+    <a href="https://www.youtube.com/playlist?list=PLd5bJJul8c5q00uEQVZjnSscAsbKjUftt" target="_blank">Monitoraggio contratti ICT</a>
 
 .. |LINK28| raw:: html
 
-    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
+    <a href="https://www.youtube.com/playlist?list=PLd5bJJul8c5ockYAymE70JKYtq9HHp5z9" target="_blank">Accessibilità</a>
 
 .. |LINK29| raw:: html
 
-    <a href="https://manuale-libro-firma-2-0.readthedocs.io/" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+    <a href="http://eventipa.formez.it/node/316784" target="_blank">Dati territoriali</a>
 
 .. |LINK30| raw:: html
 
-    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
+    <a href="https://www.youtube.com/playlist?list=PLnc9N-ztTF5fxGBBYR1JDpd_VoAyJ_H2p" target="_blank">Link</a>
 
 .. |LINK31| raw:: html
 
-    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
+    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9640-video-come-si-scrive-bene-un-progetto-europeo" target="_blank">Webinar</a>
 
 .. |LINK32| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9639-slide-come-si-scrive-bene-un-progetto-europeo" target="_blank">Materiali didattici</a>
 
 .. |LINK33| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
+    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
 
 .. |LINK34| raw:: html
+
+    <a href="https://manuale-libro-firma-2-0.readthedocs.io/" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+
+.. |LINK35| raw:: html
+
+    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
+
+.. |LINK36| raw:: html
+
+    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
+
+.. |LINK37| raw:: html
+
+    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+
+.. |LINK38| raw:: html
+
+    <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
+
+.. |LINK39| raw:: html
 
     <a href="https://www.html.it/guide/moodle-learning-platform-la-guida/" target="_blank">guida a Moodle Learning Platform</a>
 
