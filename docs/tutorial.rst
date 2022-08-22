@@ -7,10 +7,12 @@ Tutorial, manuali, corsi/webinar
 
 |REPLACE1|
 
-.. _h7c67744267e1a8d2c3257f307671:
+.. _h45a1f37734335a1e14431e3a19626e:
 
-Accussì, catalogo di tutorial sul mondo dei dati curato dalla community di Opendatasicilia\ |LINK1|\ , perché i tutorial sono il sudore delle persone che condividono conoscenza ...
-====================================================================================================================================================================================
+Accussì, il sudore delle persone che condividono conoscenza
+===========================================================
+
+Catalogo di tutorial sul mondo dei dati curato dalla community di Opendatasicilia \ |LINK1|\ , perché i tutorial sono il sudore delle persone che condividono conoscenza ...
 
 |
 
@@ -68,9 +70,6 @@ Dal mio amico di avventure Giovan Battista Vitrano il \ |LINK8|\ . Replicato su 
 
 Tutorial: realizzazione di un progetto a basso costo per il rilevamento dei dati sulle polveri sottili dal proprio balcone
 ==========================================================================================================================
-
-
-|REPLACE3|
 
 \ |LINK11|\  cosa comprare (spendendo meno di 50 euro), come assemblare la componentistica e come connettere la propria stazione ad una rete mondiale di rilevamento delle polveri sottili, ottenendo la disponibilità dei dati in formato aperto (CSV, JSON) per attività di analisi.
 
@@ -132,7 +131,7 @@ Manuali vari
 ➽ \ |LINK37|\  (\ |STYLE10|\ , \ |STYLE11|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK38|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK39|\ ]. Vedi anche la \ |LINK40|\ .
 
 
-|REPLACE4|
+|REPLACE3|
 
 
 .. bottom of content
@@ -170,9 +169,6 @@ Manuali vari
 
     <img src="https://googledocs.readthedocs.io/it/latest/_images/gdocs-rtd_1.png" width=350 />
 .. |REPLACE3| raw:: html
-
-    <img src="https://cdn-images-1.medium.com/max/720/1*bHhhHgM6mW1EGze2X69BXg.png" width=300 />
-.. |REPLACE4| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
