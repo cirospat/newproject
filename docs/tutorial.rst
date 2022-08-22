@@ -92,7 +92,7 @@ Tutorial: realizzazione di un progetto a basso costo per il rilevamento dei dati
 Corsi online su 'competenze e servizi digitali'
 ===============================================
 
-➽ Attraverso il portale del Dipartimento Funzione Pubblica \ |LINK12|\ , le amministrazioni che aderirscono all’iniziativa, consentono ai propri dipendenti di fruire di una \ |STYLE0|\  relative alle 5 aree descritte nel Syllabus, individuata a partire dall’autovalutazione delle conoscenze individuali. \ |LINK13|\ , \ |LINK14|\ , \ |LINK15|\ , \ |LINK16|\ , \ |LINK17|\ .
+➽ Attraverso il portale del Dipartimento Funzione Pubblica \ |LINK12|\ , le amministrazioni che aderiscono all’iniziativa, consentono ai propri dipendenti di fruire di una \ |STYLE0|\  relative alle 5 aree descritte nel Syllabus, individuata a partire dall’autovalutazione delle conoscenze individuali. \ |LINK13|\ , \ |LINK14|\ , \ |LINK15|\ , \ |LINK16|\ , \ |LINK17|\ .
 
 ➽ \ |STYLE1|\  - Iniziativa con \ |LINK18|\ .
 
