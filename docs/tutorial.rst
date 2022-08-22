@@ -7,15 +7,10 @@ Tutorial, manuali, corsi/webinar
 
 |REPLACE1|
 
-.. _h40241d213d5b5c7b6935740233457b:
+.. _h7c67744267e1a8d2c3257f307671:
 
-Accussì, catalogo di tutorial sul mondo dei dati curato dalla community di Opendatasicilia
-==========================================================================================
-
-
-|REPLACE2|
-
-\ |LINK1|\ , perché i tutorial sono il sudore delle persone che condividono conoscenza ...
+Accussì, catalogo di tutorial sul mondo dei dati curato dalla community di Opendatasicilia\ |LINK1|\ , perché i tutorial sono il sudore delle persone che condividono conoscenza ...
+====================================================================================================================================================================================
 
 |
 
@@ -33,9 +28,6 @@ Tansignari, quando le cose spiegate in 2 minuti non si perdono
 Definizione Standard per il paniere di dataset degli Enti Locali
 ================================================================
 
-
-|REPLACE3|
-
 Dalla Regione Lombardia un \ |LINK5|\  (ringraziamenti a Daniele Crespi).
 
 |
@@ -46,7 +38,7 @@ Tutorial: pubblicare documenti su 'Read the Docs' utilizzando Google doc e il co
 ==============================================================================================================
 
 
-|REPLACE4|
+|REPLACE2|
 
 \ |LINK6|\  per facilitare la vita a chi vuole pubblicare documenti su Read the Docs o Docs Italia. GGeditor esegue il "commit" sul progetto Github direttamente da Google doc.
 
@@ -56,9 +48,6 @@ Tutorial: pubblicare documenti su 'Read the Docs' utilizzando Google doc e il co
 
 Tutorial: dai fogli di GoogleDrive alle mappe openstreetmap di uMap
 ===================================================================
-
-
-|REPLACE5|
 
 \ |LINK7|\ . Il mio primo tutorial di sempre (grazie ad Andrea Borruso). 
 
@@ -81,7 +70,7 @@ Tutorial: realizzazione di un progetto a basso costo per il rilevamento dei dati
 ==========================================================================================================================
 
 
-|REPLACE6|
+|REPLACE3|
 
 \ |LINK11|\  cosa comprare (spendendo meno di 50 euro), come assemblare la componentistica e come connettere la propria stazione ad una rete mondiale di rilevamento delle polveri sottili, ottenendo la disponibilità dei dati in formato aperto (CSV, JSON) per attività di analisi.
 
@@ -143,7 +132,7 @@ Manuali vari
 ➽ \ |LINK37|\  (\ |STYLE10|\ , \ |STYLE11|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK38|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK39|\ ]. Vedi anche la \ |LINK40|\ .
 
 
-|REPLACE7|
+|REPLACE4|
 
 
 .. bottom of content
@@ -179,20 +168,11 @@ Manuali vari
     <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/static/chiavepertubi.jpg" width= 150 />
 .. |REPLACE2| raw:: html
 
-    <img src="http://accussi.opendatasicilia.it/img/accussi_favicon.png" />
+    <img src="https://googledocs.readthedocs.io/it/latest/_images/gdocs-rtd_1.png" width=350 />
 .. |REPLACE3| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/paniere-dataset-enti-locali/master/docs/img/opendatalombardia.JPG" />
-.. |REPLACE4| raw:: html
-
-    <img src="https://googledocs.readthedocs.io/it/latest/_images/gdocs-rtd_1.png" width=350 />
-.. |REPLACE5| raw:: html
-
-    <img src="https://wiki.openstreetmap.org/w/images/8/8f/Umap_logo.svg" />
-.. |REPLACE6| raw:: html
-
     <img src="https://cdn-images-1.medium.com/max/720/1*bHhhHgM6mW1EGze2X69BXg.png" width=300 />
-.. |REPLACE7| raw:: html
+.. |REPLACE4| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
