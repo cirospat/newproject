@@ -136,11 +136,11 @@ Manuali vari
 
 ➽ \ |LINK33|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni).
 
-➽ \ |LINK34|\  in uso al Comune di Palermo.
+➽ \ |LINK34|\  in uso al Comune di Palermo. Vedi anche il \ |LINK35|\  per l’uso dell’applicativo per la gestione delle Determinazioni dirigenziali e Deliberazioni.
 
-➽ \ |LINK35|\  del comune di Palermo.
+➽ \ |LINK36|\  del comune di Palermo.
 
-➽ \ |LINK36|\  (\ |STYLE10|\ , \ |STYLE11|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK37|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK38|\ ]. Vedi anche la \ |LINK39|\ .
+➽ \ |LINK37|\  (\ |STYLE10|\ , \ |STYLE11|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK38|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK39|\ ]. Vedi anche la \ |LINK40|\ .
 
 
 |REPLACE7|
@@ -356,21 +356,25 @@ Manuali vari
 
 .. |LINK35| raw:: html
 
-    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
+    <a href="https://drive.google.com/file/d/1fSbB_QVZTznS5V_b2F1gqM73214SrIhU/view" target="_blank">tutorial</a>
 
 .. |LINK36| raw:: html
 
-    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
+    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
 
 .. |LINK37| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
 
 .. |LINK38| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
+    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
 
 .. |LINK39| raw:: html
+
+    <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
+
+.. |LINK40| raw:: html
 
     <a href="https://www.html.it/guide/moodle-learning-platform-la-guida/" target="_blank">guida a Moodle Learning Platform</a>
 
