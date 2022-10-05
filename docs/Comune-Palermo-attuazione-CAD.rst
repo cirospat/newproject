@@ -355,18 +355,38 @@ Il 23 novembre 2020 è stato firmato l'Accordo tra Comune di Palermo e Camera di
 2021
 ----
 
+.. _h1c7c1e247a4c744826724a60647a71:
+
+PO FESR 2014-20 finanziati progetti per la gestione integrata documentale e l’interoperabilità delle banche dati
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Nel gennaio 2021 sono stati \ |LINK100|\  due progetti di digitalizzazione del comune di Palermo, nell'ambito del Programma Operativo FESR SICILIA 2014-2020, Asse 2 Agenda Digitale.  Il comune di Palermo, Servizio Innovazione nel maggio 2020 ha presentato la propria candidatura secondo gli \ |LINK101|\ . A questo \ |LINK102|\  il comunicato stampa comunale. I due progetti (“\ |STYLE58|\ ” e “\ |STYLE59|\ ”) vengono realizzati dalla Società in house per i servizi informatici SISPI SpA nel 2021 e 2022. \ |LINK103|\ .
 
 
 |
 
+.. _h6c5eb1f49192a636a3f1b475f6317:
+
+Redazione catalogo dei procedimenti amministrativi e attività amministrative comunali
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Nel gennaio 2021 è stato redatto a cura del Servizio Innovazione, UO transizione al digitale, un catalogo delle attività relative ai \ |STYLE60|\ , derivanti da un obiettivo del Segretario Generale assegnato ai dirigenti nel novembre 2020. Il personale degli uffici responsabili di procedimenti amministrativi ha compilato una scheda tabellare con le informazioni sul procedimento amministrativi gestito per competenza. Tutte le schede sono consultabili attraverso un comodo catalogo al seguente \ |LINK104|\ . Le schede rappresentano la base informativa di partenza per la realizzazione di un servizio web di assistenza virtuale per la conoscenza dei procedimenti amministrativi e per la successiva creazione di una piattaforma digitale di gestione documentale trasversale agli uffici comunali (da realizzarsi nel 2021 e 2022 grazie a due progetti finanziati dal PO FESR Sicilia 2014-2020, Asse 2 Agenda Digitale).
 
 |
 
+.. _h6511171d35d2210136974314758697a:
+
+SUAP avvia servizio di sportello in videoconferenza
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Lo \ |LINK105|\ . L'utente può prenotare l'appuntamento attraverso il portale online "\ |STYLE61|\ " in uso da tempo, ricevendo in automatico giorno e ora dell'appuntamento ed il link di collegamento con la piattaforma "\ |STYLE62|\ ".
 
 |
+
+.. _h3a431a372c5327497c27d72495e622b:
+
+Report sull’adesione del comune di Palermo alle piattaforme nazionali abilitanti all'erogazione dei servizi locali
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 \ |LINK106|\ , fa un sintetico report sull'adesione del comune di Palermo alle piattaforme nazionali abilitanti all'erogazione dei servizi locali (PagoPA, SPID, ANPR e app IO). 
 
@@ -374,9 +394,19 @@ Lo \ |LINK105|\ . L'utente può prenotare l'appuntamento attraverso il portale o
 
 |
 
+.. _h795951597814f615812292251592145:
+
+Deliberazioni di Giunta gestite digitalmente
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Da maggio 2021 le \ |STYLE63|\ . Ciò comporta l'ottimizzazione del processo di lavoro per l'intero ciclo di vita della deliberazione e una riduzione dei tempi.
 
 |
+
+.. _h574374377b4c801575582542057329:
+
+Nuovo sito web istituzionale
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Il 23 giugno 2021 è stato reso \ |LINK107|\ . Novità:
 
@@ -387,6 +417,11 @@ Il 23 giugno 2021 è stato reso \ |LINK107|\ . Novità:
 * Rispetta il requisito “\ |STYLE64|\ ” per una ottimale navigazione attraverso i diversi dispositivi mobili ed è stato progettato secondo le linee guida AGID per l’accessibilità dei siti web della PA.
 
 |
+
+.. _h2a1e4c3560153b596e2716f4a445a54:
+
+Palermo e l'indagine sulla maturità digitale dei Comuni capoluogo ed. 2021
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nel giugno 2021 viene  realizzata da FPA per Dedagroup Public Services, (società in prima linea nello sviluppo delle nuove infrastrutture pubbliche digitali del Paese), e presentata al FORUM PA 2021,  la \ |LINK108|\ . L’indagine analizza il grado di maturità digitale dei 110 comuni italiani capoluogo sulla base di tre dimensioni: 
 
@@ -402,35 +437,69 @@ Nel 2020 Palermo, scalando 64 posizioni in un anno, si era già collocata al 13�
 
 |
 
+.. _h57f4b5974a4c05a7368474254666c:
+
+App PalerMobilita segnala veicoli parcheggiati illecitamente
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 16 giugno 2021, aggiornata l'app comunale \ |LINK110|\  che ora consente  la \ |LINK111|\ .
 
 |
 
-A giugno 2021 è stato reso disponibile il \ |LINK112|\  che rispetta il requisito “\ |STYLE70|\ ” per una ottimale navigazione attraverso i diversi dispositivi mobili ed è stato progettato secondo le linee guida AGID per l’\ |STYLE71|\  dei siti web della PA". La realizzazione del nuovo sito istituzionale ha come obiettivo, oltre che il restyling grafico, la reingegnerizzazione architetturale ponendo il cittadino al centro dell'attenzione, facilitando l’accesso ai servizi erogati dal Comune di Palermo.
+.. _h2b603d31124ae1e35d55d24166b50:
 
-|
+Completato il questionario AGID sulla spesa ICT dell’Amministrazione, ed. 2021
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Al giugno 2021 è stato compilato, in collaborazione con la società in house SISPI, il questionario AGID sulla rilevazione della spesa ICT del 2020.
 
-E' stata altresì compilata, in collaborazione con la società in house SISPI, la scheda AGID sull'accessibilità delle APP del comune (ZTL, PalerMobilità, Librarsi). Riferimento al \ |LINK113|\  (\ |STYLE72|\ ).
+|
+
+.. _h581ce561819a411a1a3159592b4d47:
+
+Compilata la scheda AGID su accessibilità delle app comunali 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+E' stata compilata, in collaborazione con la società in house SISPI, la scheda AGID sull'accessibilità delle APP del comune (ZTL, PalerMobilità, Librarsi). Riferimento al \ |LINK112|\  (\ |STYLE70|\ ).
 
 |
 
-Il 20 luglio 2021 è stata presentata pubblicamente la \ |LINK114|\ . Istanze via internet in pochi clic per effettuare richieste agli uffici comunali sullo \ |STYLE73|\ , \ |STYLE74|\ , risposte più rapide agli utenti, \ |STYLE75|\  che, intendono usufruire del \ |STYLE76|\  e necessitano di acquisire gli \ |STYLE77|\ .
+.. _h6f2e362f535e765f183d351d4e131d26:
+
+Pubblicata la piattaforma informatica accesso atti e sportello digitale superbonus 110%
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il 20 luglio 2021 è stata presentata pubblicamente la \ |LINK113|\ . Istanze via internet in pochi clic per effettuare richieste agli uffici comunali sullo \ |STYLE71|\ , \ |STYLE72|\ , risposte più rapide agli utenti, \ |STYLE73|\  che, intendono usufruire del \ |STYLE74|\  e necessitano di acquisire gli \ |STYLE75|\ .
 
 |
 
-\ |LINK115|\ . Ad ottobre 2021 \ |STYLE78|\  (modificato dal Decreto Legge 76 del 16 luglio 2020, art. 24, sulle “semplificazioni”). I servizi online saranno accessibili ai cittadini tramite l'identità digitale SPID, CIE e CNS.
+.. _h5f6d297546373869546595951272c6d:
+
+Switch off credenziali proprietarie per l’accesso dei cittadini ai servizi online
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+\ |LINK114|\ . Ad ottobre 2021 \ |STYLE76|\  (modificato dal Decreto Legge 76 del 16 luglio 2020, art. 24, sulle “semplificazioni”). I servizi online saranno accessibili ai cittadini tramite l'identità digitale SPID, CIE e CNS.
 
 Il Codice dell'Amministrazione Digitale (modificato dal Decreto Legge 121 del 10.09.2021, art. 10, comma 7) ha previsto che con un nuovo decreto DPCM è stabilita la data dalla quale imprese e professionisti utilizzano esclusivamente le identità digitali SPID e CIE per accedere ai servizi online delle Pubbliche Amministrazioni. In tal senso il Comune di Palermo lascerà attivo il sistema delle credenziali comunali per l'accesso ai servizi online di riferimento per imprese e professionisti (SUE, SUAP, ecc.), fino a quando non sarà approvata la relativa norma che stabilirà la data per lo switch off per tali categorie.
 
 |
 
-Ottobre 2021. La Società partecipata AMAP ha reso disponibile sullo store dei dispositivi android \ |LINK116|\   un \ |STYLE79|\ . Tre livelli di attenzione vengono segnalati in base a sensori installati nei sottopassi viari e delle telecamere permettono la visualizzazione, sull'app, di immagini sempre aggiornate.
+.. _h5576224b271d3d106f78706247f1a73:
+
+APP sottopassi per monitorare allerte da eventi meteo 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ottobre 2021. La Società partecipata AMAP ha reso disponibile sullo store dei dispositivi android \ |LINK115|\   un \ |STYLE77|\ . Tre livelli di attenzione vengono segnalati in base a sensori installati nei sottopassi viari e delle telecamere permettono la visualizzazione, sull'app, di immagini sempre aggiornate.
 
 |
 
-23 Novembre 2021. Viene \ |LINK117|\  il rapporto "\ |LINK118|\ ", che restituisce la fotografia sullo stato di digitalizzazione dei 107 comuni capoluogo italiani.  Palermo passa dal 13° posto assoluto del 2020 al 12° posto nel 2021 e contemporaneamente passa al 1° posto per open data (insieme a Milano e Pisa), al 5° posto per "apertura" (dichiarazione di accessibilità)  e al 7° posto per servizi online. Una conferma dell'impegno costante dell'Amministrazione di Palermo nel campo della transizione digitale.  \ |LINK119|\ .
+.. _h3c5c51363826763139135c651844692c:
+
+Palermo 13° nel rapporto ICityRank 2021
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+23 Novembre 2021. Viene \ |LINK116|\  il rapporto "\ |LINK117|\ ", che restituisce la fotografia sullo stato di digitalizzazione dei 107 comuni capoluogo italiani.  Palermo passa dal 13° posto assoluto del 2020 al 12° posto nel 2021 e contemporaneamente passa al 1° posto per open data (insieme a Milano e Pisa), al 5° posto per "apertura" (dichiarazione di accessibilità)  e al 7° posto per servizi online. Una conferma dell'impegno costante dell'Amministrazione di Palermo nel campo della transizione digitale.  \ |LINK118|\ .
 
 |
 
@@ -444,13 +513,13 @@ Ottobre 2021. La Società partecipata AMAP ha reso disponibile sullo store dei d
 Geolocalizzazione bus urbani
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Avviato operativamente ad inizio 2022 il progetto "City Compass" per la :guilabel:`geolocalizzazione dei bus urbani` gestiti dall'Azienda \ |LINK120|\  per il trasporto pubblico (bus e tram).  Il progetto realizzato consente di avere un archivio storico dei dati sul trasporto pubblico locale, di gestire le attività di turnazione del personale autista, organizzazione e manutenzione dei bus, e di offrire al cittadino un costante aggiornamento della posizione dei bus attraverso l’App \ |LINK121|\ .
+Avviato operativamente ad inizio 2022 il progetto "City Compass" per la :guilabel:`geolocalizzazione dei bus urbani` gestiti dall'Azienda \ |LINK119|\  per il trasporto pubblico (bus e tram).  Il progetto realizzato consente di avere un archivio storico dei dati sul trasporto pubblico locale, di gestire le attività di turnazione del personale autista, organizzazione e manutenzione dei bus, e di offrire al cittadino un costante aggiornamento della posizione dei bus attraverso l’App \ |LINK120|\ .
 
 |REPLACE3|
 
 Il progetto rientra tra le azioni del PON METRO 2014-2020.
 
-\ |LINK122|\ .
+\ |LINK121|\ .
 
 |
 
@@ -459,7 +528,7 @@ Il progetto rientra tra le azioni del PON METRO 2014-2020.
 Competenze digitali
 ~~~~~~~~~~~~~~~~~~~
 
-Febbraio 2022. :guilabel:`Competenze digitali`. L'Amministrazione aderisce al \ |LINK123|\ , organizzato dal Dipartimento della Funzione Pubblica. I \ |LINK124|\  a cui i dipendenti possono partecipare coprono i seguenti argomenti, e per ognuno è previsto un livello base, uno medio ed uno avanzato:
+Febbraio 2022. :guilabel:`Competenze digitali`. L'Amministrazione aderisce al \ |LINK122|\ , organizzato dal Dipartimento della Funzione Pubblica. I \ |LINK123|\  a cui i dipendenti possono partecipare coprono i seguenti argomenti, e per ognuno è previsto un livello base, uno medio ed uno avanzato:
 
 #. Dati, informazioni e contenuti digitali;
 
@@ -490,7 +559,7 @@ Febbraio 2022. :guilabel:`Competenze digitali`. L'Amministrazione aderisce al \ 
 Obiettivo di accessibilità
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Marzo 2022. Fissato l'obiettivo di :guilabel:`accessibilità` del Comune di Palermo per il 2022 ai sensi del Piano triennale per l'informatica AGID: \ |LINK125|\  - Miglioramento dell'iter di pubblicazione su web e ruoli redazionali. L'obiettivo è coerente con l'obiettivo dirigenziale n. 2 del Piano della Performance 2021: creazione di un'interfaccia unica dei \ |LINK126|\  al quale l'Amministrazione sta lavorando dalla fine del 2021.
+Marzo 2022. Fissato l'obiettivo di :guilabel:`accessibilità` del Comune di Palermo per il 2022 ai sensi del Piano triennale per l'informatica AGID: \ |LINK124|\  - Miglioramento dell'iter di pubblicazione su web e ruoli redazionali. L'obiettivo è coerente con l'obiettivo dirigenziale n. 2 del Piano della Performance 2021: creazione di un'interfaccia unica dei \ |LINK125|\  al quale l'Amministrazione sta lavorando dalla fine del 2021.
 
 |
 
@@ -499,7 +568,7 @@ Marzo 2022. Fissato l'obiettivo di :guilabel:`accessibilità` del Comune di Pale
 PNRR - classificazione di dati e servizi
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:guilabel:`PNRR` | Maggio 2022. Effettuata la :guilabel:`classificazione di dati e servizi` dell’Amministrazione, in ottemperanza alle \ |LINK127|\  e necessaria per le candidature delle PA all’\ |LINK128|\ .
+:guilabel:`PNRR` | Maggio 2022. Effettuata la :guilabel:`classificazione di dati e servizi` dell’Amministrazione, in ottemperanza alle \ |LINK126|\  e necessaria per le candidature delle PA all’\ |LINK127|\ .
 
 |
 
@@ -510,7 +579,7 @@ PNRR - adesione all’avviso sui servizi da agganciare all’APP IO
 
 :guilabel:`PNRR` | Giugno 2022. Adesione del Comune di Palermo agli Avvisi del PNRR, missione 1, componente 1.  
 
-\ |STYLE80|\ . Sono stati candidati n. 50 servizi App IO candidabili su 50 finanziabili, da realizzare, già realizzati o in fase di realizzazione, elencati di seguito: 
+\ |STYLE78|\ . Sono stati candidati n. 50 servizi App IO candidabili su 50 finanziabili, da realizzare, già realizzati o in fase di realizzazione, elencati di seguito: 
 
 #. Rendite catastali (ICI, IMU, TUC, ecc.)
 
@@ -614,7 +683,7 @@ PNRR - adesione all’avviso sui servizi da agganciare all’APP IO
 
 Il criterio adottato per la selezione dei servizi dall’elenco già stabilito dalla documentazione dell’Avviso è la reale erogazione del servizio stesso da parte dell’Amministrazione comunale.
 
-\ |STYLE81|\ 
+\ |STYLE79|\ 
 
 |
 
@@ -623,7 +692,7 @@ Il criterio adottato per la selezione dei servizi dall’elenco già stabilito d
 PNRR - adesione all’avviso sui servizi da agganciare a PagoPA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:guilabel:`PNRR` | \ |STYLE82|\ . Sono stati identificati n. 37 servizi PagoPA candidabili su 50 finanziabili, da realizzare, già realizzati o in fase di realizzazione, elencati di seguito: 
+:guilabel:`PNRR` | \ |STYLE80|\ . Sono stati identificati n. 37 servizi PagoPA candidabili su 50 finanziabili, da realizzare, già realizzati o in fase di realizzazione, elencati di seguito: 
 
 #. Tasse sui rifiuti (TARI, TIA, TARSU, TARES, ecc.) - anno in corso
 
@@ -701,7 +770,7 @@ PNRR - adesione all’avviso sui servizi da agganciare a PagoPA
 
 Il criterio adottato per la selezione dei servizi dall’elenco già stabilito dalla documentazione dell’Avviso è la reale erogazione del servizio stesso da parte dell’Amministrazione comunale.
 
-\ |STYLE83|\  
+\ |STYLE81|\  
 
 |
 
@@ -710,11 +779,11 @@ Il criterio adottato per la selezione dei servizi dall’elenco già stabilito d
 PNRR - adesione all’avviso “Esperienza del Cittadino nei servizi pubblici online, Comuni”
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:guilabel:`PNRR` | \ |STYLE84|\ . Per l’avviso 1.4.1 è stato avviato un tavolo tecnico-operativo specifico, con il duplice obiettivo di rifacimento dell’intero sito web per l’adeguamento alle obbligatorie linee guida AGID sui siti web delle PA (c.d. cittadino informato), e la predisposizione di un set massimo di n. 10 servizi digitali da erogare sul portale (c.d. cittadino attivo).  In considerazione dei requisiti posti dal bando ed in funzione dello stato dell'arte dei portali web dell'Amministrazione, sono state analizzate le seguenti attività da porre in essere:  
+:guilabel:`PNRR` | \ |STYLE82|\ . Per l’avviso 1.4.1 è stato avviato un tavolo tecnico-operativo specifico, con il duplice obiettivo di rifacimento dell’intero sito web per l’adeguamento alle obbligatorie linee guida AGID sui siti web delle PA (c.d. cittadino informato), e la predisposizione di un set massimo di n. 10 servizi digitali da erogare sul portale (c.d. cittadino attivo).  In considerazione dei requisiti posti dal bando ed in funzione dello stato dell'arte dei portali web dell'Amministrazione, sono state analizzate le seguenti attività da porre in essere:  
 
-#. \ |STYLE85|\ : è previsto l'utilizzo di un CMS (content management system) che risponda a precisi requisiti di sicurezza, accessibilità, responsività, etc.. Si è convenuto di restringere le opzioni a due prodotti, rispettivamente Liferay e Drupal ma non si esclude di poter integrare una terza opzione su eventuale suggerimento degli attori coinvolti. Le scelte saranno oggetto di analisi prettamente tecniche da parte di SISPI, da svolgere successivamente all'ammissione al bando; questa attività avrà come oggetto il confronto fra le due soluzioni, tenendo conto del know-how, delle risorse e della compatibilità rispetto alle piattaforme attualmente in uso e/o in fase di rilascio nell'ambito dei progetti in itinere di Agenda Urbana (ad es. l'Identity & Access Manager comunale o la piattaforma KeySuite per la realizzazione del front-end dei servizi digitali alla cittadinanza).  
+#. \ |STYLE83|\ : è previsto l'utilizzo di un CMS (content management system) che risponda a precisi requisiti di sicurezza, accessibilità, responsività, etc.. Si è convenuto di restringere le opzioni a due prodotti, rispettivamente Liferay e Drupal ma non si esclude di poter integrare una terza opzione su eventuale suggerimento degli attori coinvolti. Le scelte saranno oggetto di analisi prettamente tecniche da parte di SISPI, da svolgere successivamente all'ammissione al bando; questa attività avrà come oggetto il confronto fra le due soluzioni, tenendo conto del know-how, delle risorse e della compatibilità rispetto alle piattaforme attualmente in uso e/o in fase di rilascio nell'ambito dei progetti in itinere di Agenda Urbana (ad es. l'Identity & Access Manager comunale o la piattaforma KeySuite per la realizzazione del front-end dei servizi digitali alla cittadinanza).  
 
-#. \ |STYLE86|\ : in continuità con quanto previsto per gli altri avvisi ai quali l'amministrazione intende partecipare, sono stati individuati n. 10 servizi fra i 26 previsti dal bando, da inserire nell'ambito del finanziamento della misura. Tali servizi potranno beneficiare del finanziamento anche se realizzati dopo il 1° Febbraio 2020  purché  non siano finanziati con altri fondi pubblici, nazionali, regionali o europei in base a quanto previsto all’ Art. 7 comma b e c dell’avviso. Sono esclusi tutti i servizi finanziati con Agenda Urbana, PON Metro e qualunque altra fonte di finanziamento pubblico extra-comunale, inclusi i fondi M1C1 del PNRR. I 10 servizi individuati sono di seguito elencati:
+#. \ |STYLE84|\ : in continuità con quanto previsto per gli altri avvisi ai quali l'amministrazione intende partecipare, sono stati individuati n. 10 servizi fra i 26 previsti dal bando, da inserire nell'ambito del finanziamento della misura. Tali servizi potranno beneficiare del finanziamento anche se realizzati dopo il 1° Febbraio 2020  purché  non siano finanziati con altri fondi pubblici, nazionali, regionali o europei in base a quanto previsto all’ Art. 7 comma b e c dell’avviso. Sono esclusi tutti i servizi finanziati con Agenda Urbana, PON Metro e qualunque altra fonte di finanziamento pubblico extra-comunale, inclusi i fondi M1C1 del PNRR. I 10 servizi individuati sono di seguito elencati:
 
         #. Servizio per esercitare il proprio diritto a richiedere, prendere visione ed, eventualmente, ottenere copia dei documenti amministrativi
 
@@ -736,9 +805,9 @@ PNRR - adesione all’avviso “Esperienza del Cittadino nei servizi pubblici on
 
         #. Servizio relativo al rilascio di un'autorizzazione per posteggiare nelle aree di parcheggio pubblico a pagamento.
 
-#. \ |STYLE87|\ : Attività di migrazione automatica dei contenuti esistenti sul portale web attraverso servizi e strumenti automatici, al fine di minimizzare lo sforzo necessario per il popolamento della nuova versione del portale comunale, che ad oggi separa la componente informativa presente su \ |LINK129|\  dalla componente di servizi erogata attraverso il portale \ |LINK130|\ t. 
+#. \ |STYLE85|\ : Attività di migrazione automatica dei contenuti esistenti sul portale web attraverso servizi e strumenti automatici, al fine di minimizzare lo sforzo necessario per il popolamento della nuova versione del portale comunale, che ad oggi separa la componente informativa presente su \ |LINK128|\  dalla componente di servizi erogata attraverso il portale \ |LINK129|\ t. 
 
-\ |STYLE88|\  
+\ |STYLE86|\  
 
 |
 
@@ -756,7 +825,7 @@ Attacco informatico ai sistemi comunali
 Palermo nel rapporto dei comuni con maturità digitale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indagine 2022 sulla :guilabel:`maturità digitale dei Comuni capoluogo`”. Nel 2022 sono 41 le città con un buon livello di maturità e tra queste figura la città di Palermo. \ |LINK132|\ .
+Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK130|\  “Indagine 2022 sulla :guilabel:`maturità digitale dei Comuni capoluogo`”. Nel 2022 sono 41 le città con un buon livello di maturità e tra queste figura la città di Palermo. \ |LINK131|\ .
 
 |REPLACE4|
 
@@ -767,9 +836,9 @@ Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indag
 PNRR - adesione all’Avviso sull’abilitazione al cloud per le PA locali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:guilabel:`PNRR` \ |STYLE89|\  Luglio 2022. E’ stata presentata l’adesione del comune di Palermo al bando PNRR, relativa all’Avviso 1.2 “\ |LINK133|\ ”. 
+:guilabel:`PNRR` \ |STYLE87|\  Luglio 2022. E’ stata presentata l’adesione del comune di Palermo al bando PNRR, relativa all’Avviso 1.2 “\ |LINK132|\ ”. 
 
-\ |STYLE90|\ 
+\ |STYLE88|\ 
 
 #. Accesso Civico - Trasferimento in Sicurezza dell’infrastruttura IT / Aggiornamento in sicurezza di applicazioni in Cloud
 
@@ -813,7 +882,7 @@ PNRR - adesione all’Avviso sull’abilitazione al cloud per le PA locali
 
 #. Museo e Teatri - Aggiornamento in Sicurezza - Repurchase
 
-\ |STYLE91|\ 
+\ |STYLE89|\ 
 
  
 
@@ -824,23 +893,30 @@ PNRR - adesione all’Avviso sull’abilitazione al cloud per le PA locali
 PNRR - adesione all’avviso per il potenziamento della resilienza cyber per la PA locale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:guilabel:`PNRR` \ |STYLE92|\  Settembre 2022. E’ stata presentata l’adesione del comune di Palermo al bando PNRR, relativa all’\ |LINK134|\  (\ |STYLE93|\ ).
+:guilabel:`PNRR` \ |STYLE90|\  Settembre 2022. E’ stata presentata l’adesione del comune di Palermo al bando PNRR, relativa all’\ |LINK133|\  (\ |STYLE91|\ ).
 
 La misura 1.5 è dedicata dal PNRR ad aumentare la sicurezza informatica, in conformità ai contenuti del Piano triennale Informatica dell'AGID.
 
 I progetti presentati (29.09.2022) dal comune di Palermo all'Agenzia per la Cyber Sicurezza Nazionale sono:
 
-#. \ |STYLE94|\  (CUP D76G22000390006)
+#. \ |STYLE92|\  (CUP D76G22000390006)
 
-#. \ |STYLE95|\  (CUP D76G22000400006)
+#. \ |STYLE93|\  (CUP D76G22000400006)
 
-\ |STYLE96|\ : 30 gg dalla firma dell'Atto d’obbligo con il Ministero Innovazione (a seguito dell’approvazione dei progetti e ammissione a finanziamento con Decreto ministeriale).
+\ |STYLE94|\ : 30 gg dalla firma dell'Atto d’obbligo con il Ministero Innovazione (a seguito dell’approvazione dei progetti e ammissione a finanziamento con Decreto ministeriale).
 
-\ |STYLE97|\ : entro 24 mesi dalla data di sottoscrizione dell'Atto d’obbligo (comunque non oltre il 30.11.2024).
+\ |STYLE95|\ : entro 24 mesi dalla data di sottoscrizione dell'Atto d’obbligo (comunque non oltre il 30.11.2024).
 
-\ |STYLE98|\ 
+\ |STYLE96|\ 
 
 |
+
+.. _h634d4472507e2f6f62216257721e4079:
+
+Completato il questionario AGID sulla spesa ICT dell’Amministrazione, ed. 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A settembre 2022 è stato compilato, in collaborazione con la società in house SISPI, il questionario AGID sulla rilevazione della spesa ICT relativo all’annualità 2021.
 
 
 .. bottom of content
@@ -986,63 +1062,59 @@ I progetti presentati (29.09.2022) dal comune di Palermo all'Agenzia per la Cybe
 
 .. |STYLE69| replace:: **iCityRank 2020**
 
-.. |STYLE70| replace:: **mobile first**
+.. |STYLE70| replace:: *le PA devono pubblicare, entro il 23 giugno 2021, la dichiarazione di accessibilità per le APP mobili, tramite l’applicazione form.agid.gov.it*
 
-.. |STYLE71| replace:: **accessibilità**
+.. |STYLE71| replace:: **stato legittimo degli immobili**
 
-.. |STYLE72| replace:: *le PA devono pubblicare, entro il 23 giugno 2021, la dichiarazione di accessibilità per le APP mobili, tramite l’applicazione form.agid.gov.it*
+.. |STYLE72| replace:: **certezza sui contenuti e sui tempi delle richieste**
 
-.. |STYLE73| replace:: **stato legittimo degli immobili**
+.. |STYLE73| replace:: **evidenza sulle pratiche in scadenza e istituzione di un servizio digitale a supporto degli utenti**
 
-.. |STYLE74| replace:: **certezza sui contenuti e sui tempi delle richieste**
+.. |STYLE74| replace:: **superbonus 110%**
 
-.. |STYLE75| replace:: **evidenza sulle pratiche in scadenza e istituzione di un servizio digitale a supporto degli utenti**
+.. |STYLE75| replace:: **atti edilizi relativi all’edificio**
 
-.. |STYLE76| replace:: **superbonus 110%**
+.. |STYLE76| replace:: **il comune di Palermo dismette il sistema di credenziali proprietarie per consentire l'accesso dei cittadini ai servizi online, in ottemperanza al Codice dell'Amministrazione Digitale**
 
-.. |STYLE77| replace:: **atti edilizi relativi all’edificio**
+.. |STYLE77| replace:: **app denominata AMAP SOTTOPASSI, che ha la finalità di informare in tempo reale i cittadini sulle condizioni di percorribilità dei sottopassi di Viale Regione Siciliana, a Palermo, in caso di allagamenti**
 
-.. |STYLE78| replace:: **il comune di Palermo dismette il sistema di credenziali proprietarie per consentire l'accesso dei cittadini ai servizi online, in ottemperanza al Codice dell'Amministrazione Digitale**
+.. |STYLE78| replace:: **APP IO**
 
-.. |STYLE79| replace:: **app denominata AMAP SOTTOPASSI, che ha la finalità di informare in tempo reale i cittadini sulle condizioni di percorribilità dei sottopassi di Viale Regione Siciliana, a Palermo, in caso di allagamenti**
+.. |STYLE79| replace:: **L'importo del progetto è di euro  €159.350.**
 
-.. |STYLE80| replace:: **APP IO**
+.. |STYLE80| replace:: **PAGOPA**
 
-.. |STYLE81| replace:: **L'importo del progetto è di euro  €159.350.**
+.. |STYLE81| replace:: **L'importo del progetto è di euro 294.779.**
 
-.. |STYLE82| replace:: **PAGOPA**
+.. |STYLE82| replace:: **Esperienza del Cittadino nei servizi pubblici online, Comuni**
 
-.. |STYLE83| replace:: **L'importo del progetto è di euro 294.779.**
+.. |STYLE83| replace:: **Scelta del CMS**
 
-.. |STYLE84| replace:: **Esperienza del Cittadino nei servizi pubblici online, Comuni**
+.. |STYLE84| replace:: **Scelta dei servizi**
 
-.. |STYLE85| replace:: **Scelta del CMS**
+.. |STYLE85| replace:: **Migrazione delle informazioni esistenti**
 
-.. |STYLE86| replace:: **Scelta dei servizi**
+.. |STYLE86| replace:: **L'importo del progetto è di euro 1.277.083.**
 
-.. |STYLE87| replace:: **Migrazione delle informazioni esistenti**
+.. |STYLE87| replace:: **|**
 
-.. |STYLE88| replace:: **L'importo del progetto è di euro 1.277.083.**
+.. |STYLE88| replace:: **Di seguito si riporta l’elenco dei servizi per i quali è stata presentata la candidatura per l’abilitazione al cloud.**
 
-.. |STYLE89| replace:: **|**
+.. |STYLE89| replace:: **L'importo del progetto è di euro 4.975.408**
 
-.. |STYLE90| replace:: **Di seguito si riporta l’elenco dei servizi per i quali è stata presentata la candidatura per l’abilitazione al cloud.**
+.. |STYLE90| replace:: **|**
 
-.. |STYLE91| replace:: **L'importo del progetto è di euro 4.975.408**
+.. |STYLE91| replace:: **potenziamento della resilienza cyber per la PA locale**
 
-.. |STYLE92| replace:: **|**
+.. |STYLE92| replace:: **“COCY" - COnsapevolezza CYber**
 
-.. |STYLE93| replace:: **potenziamento della resilienza cyber per la PA locale**
+.. |STYLE93| replace:: **“RECYPA” REsilienza CYber delle infrastrutture del Comune di Palermo**
 
-.. |STYLE94| replace:: **“COCY" - COnsapevolezza CYber**
+.. |STYLE94| replace:: **Inizio lavori**
 
-.. |STYLE95| replace:: **“RECYPA” REsilienza CYber delle infrastrutture del Comune di Palermo**
+.. |STYLE95| replace:: **Realizzazione**
 
-.. |STYLE96| replace:: **Inizio lavori**
-
-.. |STYLE97| replace:: **Realizzazione**
-
-.. |STYLE98| replace:: **L'importo dei due  progetti è di euro 2.000.000**
+.. |STYLE96| replace:: **L'importo dei due  progetti è di euro 2.000.000**
 
 
 .. |REPLACE1| raw:: html
@@ -1504,93 +1576,89 @@ I progetti presentati (29.09.2022) dal comune di Palermo all'Agenzia per la Cybe
 
 .. |LINK112| raw:: html
 
-    <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=31914" target="_blank">nuovo sito web istituzionale</a>
+    <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/capitolo-1-servizi/cosa-devono-fare-le-pa.html" target="_blank">CAP1.PA.LA15 del Piano triennale AGID per l'informatica 2020-2022</a>
 
 .. |LINK113| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/capitolo-1-servizi/cosa-devono-fare-le-pa.html" target="_blank">CAP1.PA.LA15 del Piano triennale AGID per l'informatica 2020-2022</a>
+    <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=32150" target="_blank">piattaforma informatica accesso atti e sportello digitale superbonus 110%</a>
 
 .. |LINK114| raw:: html
 
-    <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=32150" target="_blank">piattaforma informatica accesso atti e sportello digitale superbonus 110%</a>
+    <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=32801&tipo=1" target="_blank">Switch off credenziali proprietarie per l'accesso ai servizi online dei cittadini</a>
 
 .. |LINK115| raw:: html
 
-    <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?id=32801&tipo=1" target="_blank">Switch off credenziali proprietarie per l'accesso ai servizi online dei cittadini</a>
+    <a href="https://play.google.com/store/apps/details?id=com.heelp.amapsottopassi" target="_blank">https://play.google.com/store/apps/details?id=com.heelp.amapsottopassi</a>
 
 .. |LINK116| raw:: html
 
-    <a href="https://play.google.com/store/apps/details?id=com.heelp.amapsottopassi" target="_blank">https://play.google.com/store/apps/details?id=com.heelp.amapsottopassi</a>
+    <a href="https://www.forumpa.it/citta-territori/icity-rank-2021-firenze-milano-e-bologna-le-citta-piu-digitali-ditalia/" target="_blank">pubblicato da ForumPA</a>
 
 .. |LINK117| raw:: html
 
-    <a href="https://www.forumpa.it/citta-territori/icity-rank-2021-firenze-milano-e-bologna-le-citta-piu-digitali-ditalia/" target="_blank">pubblicato da ForumPA</a>
+    <a href="https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/report_digitalizzazione_enti/raw/main/Report_digitalizzazione__enti_pubblici/2021/2021_RAPPORTO_ICityRank_2021.pdf" target="_blank">I City Rank 2021</a>
 
 .. |LINK118| raw:: html
 
-    <a href="https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/report_digitalizzazione_enti/raw/main/Report_digitalizzazione__enti_pubblici/2021/2021_RAPPORTO_ICityRank_2021.pdf" target="_blank">I City Rank 2021</a>
+    <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=33267" target="_blank">Comunicato stampa del Comune di Palermo</a>
 
 .. |LINK119| raw:: html
 
-    <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=33267" target="_blank">Comunicato stampa del Comune di Palermo</a>
+    <a href="https://www.amat.pa.it/" target="_blank">AMAT SpA</a>
 
 .. |LINK120| raw:: html
 
-    <a href="https://www.amat.pa.it/" target="_blank">AMAT SpA</a>
+    <a href="https://play.google.com/store/apps/details?id=com.cittadigitale" target="_blank">PalerMobilità</a>
 
 .. |LINK121| raw:: html
 
-    <a href="https://play.google.com/store/apps/details?id=com.cittadigitale" target="_blank">PalerMobilità</a>
+    <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=33770" target="_blank">Comunicato stampa del 22 gennaio 2022 del comune di Palermo</a>
 
 .. |LINK122| raw:: html
 
-    <a href="https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=33770" target="_blank">Comunicato stampa del 22 gennaio 2022 del comune di Palermo</a>
+    <a href="https://www.competenzedigitali.gov.it/a-chi-si-rivolge/alle-amministrazioni.html" target="_blank">percorso formativo per le competenze digitali del personale della PA</a>
 
 .. |LINK123| raw:: html
 
-    <a href="https://www.competenzedigitali.gov.it/a-chi-si-rivolge/alle-amministrazioni.html" target="_blank">percorso formativo per le competenze digitali del personale della PA</a>
+    <a href="https://www.competenzedigitali.gov.it/il-programma/la-formazione/catalogo-corsi.html" target="_blank">corsi</a>
 
 .. |LINK124| raw:: html
 
-    <a href="https://www.competenzedigitali.gov.it/il-programma/la-formazione/catalogo-corsi.html" target="_blank">corsi</a>
+    <a href="https://form.agid.gov.it/view/3aed1362-ca0d-484e-bfc1-b7eb44b1be27/" target="_blank">https://form.agid.gov.it/view/3aed1362-ca0d-484e-bfc1-b7eb44b1be27/</a>
 
 .. |LINK125| raw:: html
 
-    <a href="https://form.agid.gov.it/view/3aed1362-ca0d-484e-bfc1-b7eb44b1be27/" target="_blank">https://form.agid.gov.it/view/3aed1362-ca0d-484e-bfc1-b7eb44b1be27/</a>
+    <a href="https://comune.palermo.it/servizi-a-domanda-individuale.php" target="_blank">servizi a domanda individuale</a>
 
 .. |LINK126| raw:: html
 
-    <a href="https://comune.palermo.it/servizi-a-domanda-individuale.php" target="_blank">servizi a domanda individuale</a>
+    <a href="https://innovazione.gov.it/notizie/articoli/cloud-italia-pubblicata-la-metodologia-di-classificazione-di-dati-e-servizi/" target="_blank">disposizioni dell’Agenzia per la Cybersicurezza Nazionale (ACN)</a>
 
 .. |LINK127| raw:: html
 
-    <a href="https://innovazione.gov.it/notizie/articoli/cloud-italia-pubblicata-la-metodologia-di-classificazione-di-dati-e-servizi/" target="_blank">disposizioni dell’Agenzia per la Cybersicurezza Nazionale (ACN)</a>
+    <a href="https://areariservata.padigitale2026.gov.it/Pa_digitale2026_dettagli_avviso?id=a017Q00000c8mFyQAI" target="_blank">Avviso 1.2 del PNRR 2022 (migrazione dei servizi al cloud)</a>
 
 .. |LINK128| raw:: html
 
-    <a href="https://areariservata.padigitale2026.gov.it/Pa_digitale2026_dettagli_avviso?id=a017Q00000c8mFyQAI" target="_blank">Avviso 1.2 del PNRR 2022 (migrazione dei servizi al cloud)</a>
+    <a href="http://comune.palermo.it/" target="_blank">comune.palermo.it</a>
 
 .. |LINK129| raw:: html
 
-    <a href="http://comune.palermo.it/" target="_blank">comune.palermo.it</a>
+    <a href="http://servizionline.comune.palermo.it/" target="_blank">servizionline.comune.palermo.i</a>
 
 .. |LINK130| raw:: html
 
-    <a href="http://servizionline.comune.palermo.it/" target="_blank">servizionline.comune.palermo.i</a>
+    <a href="https://www.forumpa.it/pa-digitale/indagine-sulla-maturita-digitale-dei-comuni-capoluogo-nel-2022-sono-41-le-citta-con-un-buon-livello-di-maturita-25-in-piu-rispetto-al-2021/" target="_blank">report</a>
 
 .. |LINK131| raw:: html
 
-    <a href="https://www.forumpa.it/pa-digitale/indagine-sulla-maturita-digitale-dei-comuni-capoluogo-nel-2022-sono-41-le-citta-con-un-buon-livello-di-maturita-25-in-piu-rispetto-al-2021/" target="_blank">report</a>
+    <a href="https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/report_digitalizzazione_enti/raw/main/Report_digitalizzazione__enti_pubblici/2022/Indagine_maturita_digitale_dei_Comuni_2022.pdf" target="_blank">Link al report completo</a>
 
 .. |LINK132| raw:: html
 
-    <a href="https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/report_digitalizzazione_enti/raw/main/Report_digitalizzazione__enti_pubblici/2022/Indagine_maturita_digitale_dei_Comuni_2022.pdf" target="_blank">Link al report completo</a>
-
-.. |LINK133| raw:: html
-
     <a href="https://areariservata.padigitale2026.gov.it/Pa_digitale2026_dettagli_avviso?id=a017Q00000c8mFyQAI" target="_blank">Abilitazione al cloud per le PA Locali” Comuni Aprile 2022</a>
 
-.. |LINK134| raw:: html
+.. |LINK133| raw:: html
 
     <a href="https://www.acn.gov.it/notizie/contenuti/pubblicato-avviso-3-2022-per-il-potenziamento-della-resilienza-cyber-per-la-PA-locale" target="_blank">Avviso 1.5</a>
 
