@@ -769,21 +769,21 @@ Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indag
 
 |
 
-:guilabel:`PNRR` \ |STYLE92|\  Settembre 2022. E’ stata presentata l’adesione del comune di Palermo al bando PNRR, relativa all’\ |LINK134|\  (potenziamento della resilienza cyber per la PA Locale).
+:guilabel:`PNRR` \ |STYLE92|\  Settembre 2022. E’ stata presentata l’adesione del comune di Palermo al bando PNRR, relativa all’\ |LINK134|\  (\ |STYLE93|\ ).
 
 La misura 1.5 è dedicata dal PNRR ad aumentare la sicurezza informatica, in conformità ai contenuti del Piano triennale Informatica dell'AGID.
 
 I progetti presentati (29.09.2022) dal comune di Palermo all'Agenzia per la Cyber Sicurezza Nazionale sono:
 
-#. \ |STYLE93|\  (CUP D76G22000390006)
+#. \ |STYLE94|\  (CUP D76G22000390006)
 
-#. \ |STYLE94|\  (CUP D76G22000400006)
+#. \ |STYLE95|\  (CUP D76G22000400006)
 
-\ |STYLE95|\ : 30 gg dalla firma dell'Atto d’obbligo con il Ministero Innovazione (a seguito dell’approvazione dei progetti e ammissione a finanziamento con Decreto ministeriale).
+\ |STYLE96|\ : 30 gg dalla firma dell'Atto d’obbligo con il Ministero Innovazione (a seguito dell’approvazione dei progetti e ammissione a finanziamento con Decreto ministeriale).
 
-\ |STYLE96|\ : entro 24 mesi dalla data di sottoscrizione dell'Atto d’obbligo (comunque non oltre il 30.11.2024).
+\ |STYLE97|\ : entro 24 mesi dalla data di sottoscrizione dell'Atto d’obbligo (comunque non oltre il 30.11.2024).
 
-\ |STYLE97|\ 
+\ |STYLE98|\ 
 
 |
 
@@ -977,15 +977,17 @@ I progetti presentati (29.09.2022) dal comune di Palermo all'Agenzia per la Cybe
 
 .. |STYLE92| replace:: **|**
 
-.. |STYLE93| replace:: **“COCY" - COnsapevolezza CYber**
+.. |STYLE93| replace:: **potenziamento della resilienza cyber per la PA Locale**
 
-.. |STYLE94| replace:: **“RECYPA” REsilienza CYber delle infrastrutture del Comune di Palermo**
+.. |STYLE94| replace:: **“COCY" - COnsapevolezza CYber**
 
-.. |STYLE95| replace:: **Inizio lavori**
+.. |STYLE95| replace:: **“RECYPA” REsilienza CYber delle infrastrutture del Comune di Palermo**
 
-.. |STYLE96| replace:: **Realizzazione**
+.. |STYLE96| replace:: **Inizio lavori**
 
-.. |STYLE97| replace:: **L'importo dei due  progetti è di euro 2.000.000**
+.. |STYLE97| replace:: **Realizzazione**
+
+.. |STYLE98| replace:: **L'importo dei due  progetti è di euro 2.000.000**
 
 
 .. |REPLACE1| raw:: html
