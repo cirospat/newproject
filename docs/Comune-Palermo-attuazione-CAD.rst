@@ -819,7 +819,10 @@ PNRR - adesione all’Avviso sull’abilitazione al cloud per le PA locali
 
 |
 
+.. _h73477e595b1449385e1037e7c332854:
+
 PNRR - adesione all’avviso per il potenziamento della resilienza cyber per la PA locale
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 :guilabel:`PNRR` \ |STYLE92|\  Settembre 2022. E’ stata presentata l’adesione del comune di Palermo al bando PNRR, relativa all’\ |LINK134|\  (\ |STYLE93|\ ).
 
