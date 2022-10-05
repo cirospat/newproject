@@ -439,6 +439,11 @@ Ottobre 2021. La Società partecipata AMAP ha reso disponibile sullo store dei d
 2022
 ----
 
+.. _h185b7e7d6826481f1927616147351c3e:
+
+Geolocalizzazione bus urbani
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Avviato operativamente ad inizio 2022 il progetto "City Compass" per la :guilabel:`geolocalizzazione dei bus urbani` gestiti dall'Azienda \ |LINK120|\  per il trasporto pubblico (bus e tram).  Il progetto realizzato consente di avere un archivio storico dei dati sul trasporto pubblico locale, di gestire le attività di turnazione del personale autista, organizzazione e manutenzione dei bus, e di offrire al cittadino un costante aggiornamento della posizione dei bus attraverso l’App \ |LINK121|\ .
 
 |REPLACE3|
@@ -448,6 +453,11 @@ Il progetto rientra tra le azioni del PON METRO 2014-2020.
 \ |LINK122|\ .
 
 |
+
+.. _h736a6a6e38565e283a1079807510a:
+
+Competenze digitali
+~~~~~~~~~~~~~~~~~~~
 
 Febbraio 2022. :guilabel:`Competenze digitali`. L'Amministrazione aderisce al \ |LINK123|\ , organizzato dal Dipartimento della Funzione Pubblica. I \ |LINK124|\  a cui i dipendenti possono partecipare coprono i seguenti argomenti, e per ognuno è previsto un livello base, uno medio ed uno avanzato:
 
@@ -475,13 +485,28 @@ Febbraio 2022. :guilabel:`Competenze digitali`. L'Amministrazione aderisce al \ 
 
 |
 
+.. _h6b7057561d6643123521731d23177d2e:
+
+Obiettivo di accessibilità
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Marzo 2022. Fissato l'obiettivo di :guilabel:`accessibilità` del Comune di Palermo per il 2022 ai sensi del Piano triennale per l'informatica AGID: \ |LINK125|\  - Miglioramento dell'iter di pubblicazione su web e ruoli redazionali. L'obiettivo è coerente con l'obiettivo dirigenziale n. 2 del Piano della Performance 2021: creazione di un'interfaccia unica dei \ |LINK126|\  al quale l'Amministrazione sta lavorando dalla fine del 2021.
 
 |
 
+.. _h3f5c2b311822252c4e1a5ed1c041:
+
+PNRR - classificazione di dati e servizi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 :guilabel:`PNRR` | Maggio 2022. Effettuata la :guilabel:`classificazione di dati e servizi` dell’Amministrazione, in ottemperanza alle \ |LINK127|\  e necessaria per le candidature delle PA all’\ |LINK128|\ .
 
 |
+
+.. _h687f5232b6d28567b5c3281de3132:
+
+PNRR - adesione all’avviso sui servizi da agganciare all’APP IO
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 :guilabel:`PNRR` | Giugno 2022. Adesione del Comune di Palermo agli Avvisi del PNRR, missione 1, componente 1.  
 
@@ -593,6 +618,11 @@ Il criterio adottato per la selezione dei servizi dall’elenco già stabilito d
 
 |
 
+.. _h1c4c6f5f85c1c43f147d1d25713c5d:
+
+PNRR - adesione all’avviso sui servizi da agganciare a PagoPA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 :guilabel:`PNRR` | \ |STYLE82|\ . Sono stati identificati n. 37 servizi PagoPA candidabili su 50 finanziabili, da realizzare, già realizzati o in fase di realizzazione, elencati di seguito: 
 
 #. Tasse sui rifiuti (TARI, TIA, TARSU, TARES, ecc.) - anno in corso
@@ -675,6 +705,11 @@ Il criterio adottato per la selezione dei servizi dall’elenco già stabilito d
 
 |
 
+.. _h63255fc6423b1d30a5279672757:
+
+PNRR - adesione all’avviso “Esperienza del Cittadino nei servizi pubblici online, Comuni”
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 :guilabel:`PNRR` | \ |STYLE84|\ . Per l’avviso 1.4.1 è stato avviato un tavolo tecnico-operativo specifico, con il duplice obiettivo di rifacimento dell’intero sito web per l’adeguamento alle obbligatorie linee guida AGID sui siti web delle PA (c.d. cittadino informato), e la predisposizione di un set massimo di n. 10 servizi digitali da erogare sul portale (c.d. cittadino attivo).  In considerazione dei requisiti posti dal bando ed in funzione dello stato dell'arte dei portali web dell'Amministrazione, sono state analizzate le seguenti attività da porre in essere:  
 
 #. \ |STYLE85|\ : è previsto l'utilizzo di un CMS (content management system) che risponda a precisi requisiti di sicurezza, accessibilità, responsività, etc.. Si è convenuto di restringere le opzioni a due prodotti, rispettivamente Liferay e Drupal ma non si esclude di poter integrare una terza opzione su eventuale suggerimento degli attori coinvolti. Le scelte saranno oggetto di analisi prettamente tecniche da parte di SISPI, da svolgere successivamente all'ammissione al bando; questa attività avrà come oggetto il confronto fra le due soluzioni, tenendo conto del know-how, delle risorse e della compatibilità rispetto alle piattaforme attualmente in uso e/o in fase di rilascio nell'ambito dei progetti in itinere di Agenda Urbana (ad es. l'Identity & Access Manager comunale o la piattaforma KeySuite per la realizzazione del front-end dei servizi digitali alla cittadinanza).  
@@ -707,15 +742,30 @@ Il criterio adottato per la selezione dei servizi dall’elenco già stabilito d
 
 |
 
+.. _h30784a7b16656414731a50394934283e:
+
+Attacco informatico ai sistemi comunali
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 2 Giugno 2022. Il comune di Palermo subisce un :guilabel:`attacco informatico di tipo ransomware`. I servizi online sono stati disattivati per circa 10 giorni. Viene assicurato il funzionamento dell’applicativo per la gestione delle consultazioni elettorali per il rinnovo del Sindaco e del Consiglio comunale. La società in house per i servizi informatici SISPI SpA sin dalla prima settimana successiva all’attacco, avvia la riattivazione degli applicativi gestionali necessari al funzionamento degli Uffici e all'erogazione dei servizi online. A due settimane dall’attacco, quasi tutti gli applicativi gestionali vengono riattivati. Dell’accaduto viene effettuata comunicazione istituzionale all’Agenzia della Cybersicurezza Nazionale, alla Polizia Postale e al Garante della Privacy, come previsto dalla normativa vigente in materia di attacchi informatici.
 
 |
+
+.. _h5b55f675b3b1c3f5f45244e2571e:
+
+Palermo nel rapporto dei comuni con maturità digitale
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indagine 2022 sulla :guilabel:`maturità digitale dei Comuni capoluogo`”. Nel 2022 sono 41 le città con un buon livello di maturità e tra queste figura la città di Palermo. \ |LINK132|\ .
 
 |REPLACE4|
 
 |
+
+.. _h6f2b78285f767377494d6ae626e7018:
+
+PNRR - adesione all’Avviso sull’abilitazione al cloud per le PA locali
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 :guilabel:`PNRR` \ |STYLE89|\  Luglio 2022. E’ stata presentata l’adesione del comune di Palermo al bando PNRR, relativa all’Avviso 1.2 “\ |LINK133|\ ”. 
 
@@ -768,6 +818,8 @@ Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indag
  
 
 |
+
+PNRR - adesione all’avviso per il potenziamento della resilienza cyber per la PA locale
 
 :guilabel:`PNRR` \ |STYLE92|\  Settembre 2022. E’ stata presentata l’adesione del comune di Palermo al bando PNRR, relativa all’\ |LINK134|\  (\ |STYLE93|\ ).
 
@@ -977,7 +1029,7 @@ I progetti presentati (29.09.2022) dal comune di Palermo all'Agenzia per la Cybe
 
 .. |STYLE92| replace:: **|**
 
-.. |STYLE93| replace:: **potenziamento della resilienza cyber per la PA Locale**
+.. |STYLE93| replace:: **potenziamento della resilienza cyber per la PA locale**
 
 .. |STYLE94| replace:: **“COCY" - COnsapevolezza CYber**
 
