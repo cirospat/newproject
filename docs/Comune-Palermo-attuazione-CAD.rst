@@ -769,6 +769,24 @@ Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indag
 
 |
 
+:guilabel:`PNRR` \ |STYLE92|\  Settembre 2022. E’ stata presentata l’adesione del comune di Palermo al bando PNRR, relativa all’\ |LINK134|\  (potenziamento della resilienza cyber per la PA Locale).
+
+La misura 1.5 è dedicata dal PNRR ad aumentare la sicurezza informatica, in conformità ai contenuti del Piano triennale Informatica dell'AGID.
+
+I progetti presentati (29.09.2022) dal comune di Palermo all'Agenzia per la Cyber Sicurezza Nazionale sono:
+
+#. \ |STYLE93|\  (CUP D76G22000390006)
+
+#. \ |STYLE94|\  (CUP D76G22000400006)
+
+\ |STYLE95|\ : 30 gg dalla firma dell'Atto d’obbligo con il Ministero Innovazione (a seguito dell’approvazione dei progetti e ammissione a finanziamento con Decreto ministeriale).
+
+\ |STYLE96|\ : entro 24 mesi dalla data di sottoscrizione dell'Atto d’obbligo (comunque non oltre il 30.11.2024).
+
+\ |STYLE97|\ 
+
+|
+
 
 .. bottom of content
 
@@ -956,6 +974,18 @@ Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indag
 .. |STYLE90| replace:: **Di seguito si riporta l’elenco dei servizi per i quali è stata presentata la candidatura per l’abilitazione al cloud.**
 
 .. |STYLE91| replace:: **L'importo del progetto è di euro 4.975.408**
+
+.. |STYLE92| replace:: **|**
+
+.. |STYLE93| replace:: **“COCY" - COnsapevolezza CYber**
+
+.. |STYLE94| replace:: **“RECYPA” REsilienza CYber delle infrastrutture del Comune di Palermo**
+
+.. |STYLE95| replace:: **Inizio lavori**
+
+.. |STYLE96| replace:: **Realizzazione**
+
+.. |STYLE97| replace:: **L'importo dei due  progetti è di euro 2.000.000**
 
 
 .. |REPLACE1| raw:: html
@@ -1502,4 +1532,8 @@ Giugno 2022. ForumPA e la Società Deda Next elaborano il \ |LINK131|\  “Indag
 .. |LINK133| raw:: html
 
     <a href="https://areariservata.padigitale2026.gov.it/Pa_digitale2026_dettagli_avviso?id=a017Q00000c8mFyQAI" target="_blank">Abilitazione al cloud per le PA Locali” Comuni Aprile 2022</a>
+
+.. |LINK134| raw:: html
+
+    <a href="https://www.acn.gov.it/notizie/contenuti/pubblicato-avviso-3-2022-per-il-potenziamento-della-resilienza-cyber-per-la-PA-locale" target="_blank">Avviso 1.5</a>
 
