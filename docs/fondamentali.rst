@@ -927,9 +927,9 @@ Contribuisci al miglioramento dei servizi pubblici digitali del Paese
 
 --------
 
-.. _h5f1e1f487f15634e93b2355f6f776:
+.. _hb5055477e307b231a61395a49720:
 
-Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e Resilienza (PNRR) e prime misure di rafforzamento delle strutture amministrative e di accelerazione e snellimento delle procedure
+Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e Resilienza [PNRR] e prime misure di rafforzamento delle strutture amministrative e di accelerazione e snellimento delle procedure
 *****************************************************************************************************************************************************************************************************************
 
 \ |LINK202|\  \ |STYLE57|\ .
@@ -1141,6 +1141,28 @@ Contestualmente è stato adottato il Regolamento recante le procedure finalizzat
 * \ |LINK219|\ 
 
 * \ |LINK220|\  
+
+|
+
+--------
+
+.. _h04538385e6836626071314e48732c70:
+
+Documento Italia digitale 2026 [PNRR] (Risultati 2021-2022 e azioni 2023-2026)
+******************************************************************************
+
+Il \ |LINK221|\  sintetizza la strategia digitale e tecnologica per l'Italia, che il Governo ha impresso al Piano Nazionale di Ripresa e Resilienza (PNRR) e poi avviato tra febbraio 2021 e ottobre 2022. Il documento descrive le iniziative intraprese, i risultati conseguiti e le prossime azioni previste per rispettare gli impegni presi in ambito nazionale ed europeo. Nella conclusione, si illustrano delle raccomandazioni per aumentare l'efficacia del coordinamento tecnologico e digitale del Paese
+
+|
+
+--------
+
+.. _h40622e19234b7a7d23635b713f155b61:
+
+PA digitale 2026 [PNRR]: le Linee guida per le PA locali
+********************************************************
+
+\ |LINK222|\ .
 
 |
 
@@ -2241,4 +2263,12 @@ Contestualmente è stato adottato il Regolamento recante le procedure finalizzat
 .. |LINK220| raw:: html
 
     <a href="http://maggioli.newsabbonati.it/nl/link?c=95qle&d=k48&h=2v2ut5jij2b1b2a201ao7l2snq&i=1sb&iw=1&p=H462505552&s=lp&sn=dbl&z=a1d9" target="_blank">Consulta il regolamento relativo ai compiti del Difensore civico per il digitale</a>
+
+.. |LINK221| raw:: html
+
+    <a href="https://innovazione.gov.it/notizie/articoli/documento-italia-digitale-2026/" target="_blank">documento</a>
+
+.. |LINK222| raw:: html
+
+    <a href="https://innovazione.gov.it/notizie/articoli/pa-digitale-2026-pubblicate-le-linee-guida-per-le-pa-locali/" target="_blank">Dai principali step procedurali, al completamento delle attività passando per le verifiche necessarie per ottenere l'erogazione delle risorse</a>
 
