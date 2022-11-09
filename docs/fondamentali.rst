@@ -667,24 +667,19 @@ Le \ |LINK121|\  (su Docs Italia) sono emanate secondo la procedura prevista dal
 
 * Allegato: \ |LINK132|\  (10/09/2020 - 369 kb - pdf) 
 
-.. _h535e126b2431b395e4b6e182a23c7:
-
-\ |LINK133|\  
-==============
-
-(Dal \ |LINK134|\ ). L'obiettivo dell'approfondimento è quello di stimolare un confronto sulle diverse esperienze e dare utili indicazioni e spunti di riflessione agli Enti interessati
+\ |STYLE31|\  \ |LINK133|\ . (Dal \ |LINK134|\ ). L'obiettivo dell'approfondimento è quello di stimolare un confronto sulle diverse esperienze e dare utili indicazioni e spunti di riflessione agli Enti interessati.
 
 \ |LINK135|\ 
 
 .. admonition:: i chiarimenti sulle nuove linee guida
 
-    i \ |LINK136|\  l'entrata in vigore (\ |STYLE31|\ ) e la data di attuazione (\ |STYLE32|\ ), oltre ad alcune correzioni di seguito elencate:
+    i \ |LINK136|\  l'entrata in vigore (\ |STYLE32|\ ) e la data di attuazione (\ |STYLE33|\ ), oltre ad alcune correzioni di seguito elencate:
     
-    * con riferimento allo \ |STYLE33|\  si segnala una errata corrige al paragrafo 4.7 del documento di Linee guida dove per mero errore materiale si indica la versione 2010. Intenzionalmente, al paragrafo 4.2 non è stata specificata la data per significare che la versione dello standard deve riferirsi all'ultima versione corrente, ovvero quella del 2020; 
+    * con riferimento allo \ |STYLE34|\  si segnala una errata corrige al paragrafo 4.7 del documento di Linee guida dove per mero errore materiale si indica la versione 2010. Intenzionalmente, al paragrafo 4.2 non è stata specificata la data per significare che la versione dello standard deve riferirsi all'ultima versione corrente, ovvero quella del 2020; 
     
-    * con riferimento allo \ |STYLE34|\  si comunica una errata corrige all'allegato 4 Standard e Specifiche tecniche dove per mero errore materiale si indica la versione 2011 in luogo di quelle rispettivamente aggiornate del 2020 e del 2019; 
+    * con riferimento allo \ |STYLE35|\  si comunica una errata corrige all'allegato 4 Standard e Specifiche tecniche dove per mero errore materiale si indica la versione 2011 in luogo di quelle rispettivamente aggiornate del 2020 e del 2019; 
     
-    * con riferimento allo \ |STYLE35|\  si comunica una errata corrige all'allegato 4 Standard e Specifiche tecniche dove per mero errore materiale si indica la versione V1.2.1 in luogo della V1.3.1.
+    * con riferimento allo \ |STYLE36|\  si comunica una errata corrige all'allegato 4 Standard e Specifiche tecniche dove per mero errore materiale si indica la versione V1.2.1 in luogo della V1.3.1.
 
  
 
@@ -698,21 +693,21 @@ Le \ |LINK121|\  (su Docs Italia) sono emanate secondo la procedura prevista dal
 |                                                                                                                                                                                                                                                                                                         |
 |* il \ |LINK138|\ , contenente “Regole tecniche in materia di sistema di conservazione”.                                                                                                                                                                                                                 |
 |                                                                                                                                                                                                                                                                                                         |
-|Per quanto concerne il \ |LINK139|\ , a partire dalla data di applicazione delle Linee guida \ |STYLE36|\ :                                                                                                                                                                                              |
+|Per quanto concerne il \ |LINK139|\ , a partire dalla data di applicazione delle Linee guida \ |STYLE37|\ :                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK140|\ \ |STYLE37|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK140|\ \ |STYLE38|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK141|\ \ |STYLE38|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK141|\ \ |STYLE39|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK142|\ \ |STYLE39|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK142|\ \ |STYLE40|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK143|\ \ |STYLE40|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK143|\ \ |STYLE41|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK144|\ \ |STYLE41|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK144|\ \ |STYLE42|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|* \ |LINK145|\ \ |STYLE42|\                                                                                                                                                                                                                                                                              |
+|* \ |LINK145|\ \ |STYLE43|\                                                                                                                                                                                                                                                                              |
 |                                                                                                                                                                                                                                                                                                         |
-|Sempre a far data dalla data di applicazione delle Linee guida, la \ |LINK146|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” \ |STYLE43|\  \ |STYLE44|\  “\ |LINK147|\ ” del presente documento.|
+|Sempre a far data dalla data di applicazione delle Linee guida, la \ |LINK146|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” \ |STYLE44|\  \ |STYLE45|\  “\ |LINK147|\ ” del presente documento.|
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 \ |LINK148|\  - \ |LINK149|\ 
@@ -724,7 +719,7 @@ Le \ |LINK121|\  (su Docs Italia) sono emanate secondo la procedura prevista dal
 
 ..  Important:: 
 
-    \ |STYLE45|\ 
+    \ |STYLE46|\ 
 
 \ |LINK151|\ .
 
@@ -865,23 +860,23 @@ Linea di indirizzo sulla "interoperabilità tecnica". Circolare AGID n. 1/2020 d
 
 \ |LINK190|\ . I documenti individuano le tecnologie e gli standard che le Pubbliche Amministrazioni devono tenere in considerazione nella realizzazione dei propri sistemi informatici, al fine di permettere il coordinamento informatico dei dati tra le amministrazioni nonché tra i gestori di servizi pubblici e i soggetti privati e l’Unione Europea. 
 
-La Linea di indirizzo sull’interoperabilità tecnica contribuisce alla definizione del \ |STYLE46|\  (in breve ModI), in coerenza con il nuovo \ |STYLE47|\  (in breve \ |LINK191|\ ) oggetto della Comunicazione COM (2017) 134 della Commissione Europea del 23 marzo 2017.
+La Linea di indirizzo sull’interoperabilità tecnica contribuisce alla definizione del \ |STYLE47|\  (in breve ModI), in coerenza con il nuovo \ |STYLE48|\  (in breve \ |LINK191|\ ) oggetto della Comunicazione COM (2017) 134 della Commissione Europea del 23 marzo 2017.
 
-La Circolare \ |STYLE48|\  proseguendo nel processo di aggiornamento avviato con la \ |LINK192|\ , \ |STYLE49|\ , ai sensi dell’articolo 71 del CAD, \ |STYLE50|\  \ |LINK193|\ .
+La Circolare \ |STYLE49|\  proseguendo nel processo di aggiornamento avviato con la \ |LINK192|\ , \ |STYLE50|\ , ai sensi dell’articolo 71 del CAD, \ |STYLE51|\  \ |LINK193|\ .
 
 La Linea di indirizzo sull’interoperabilità tecnica è applicabile ai soli servizi digitali realizzati da una Pubblica Amministrazione.
 
 La Linea di indirizzo sull’interoperabilità tecnica provvede a:
 
-* \ |STYLE51|\ , indirizzando le scelte architetturali di interoperabilità delle PA; 
+* \ |STYLE52|\ , indirizzando le scelte architetturali di interoperabilità delle PA; 
 
-* \ |STYLE52|\  che semplifichino e abilitino l’utilizzo dei dati e dei servizi digitali; 
+* \ |STYLE53|\  che semplifichino e abilitino l’utilizzo dei dati e dei servizi digitali; 
 
-* \ |STYLE53|\  per favorire la separazione dei livelli di backend e frontend, con logiche aperte e standard pubblici che garantiscano ad altri attori, pubblici e privati, accessibilità e massima interoperabilità di dati e servizi digitali;
+* \ |STYLE54|\  per favorire la separazione dei livelli di backend e frontend, con logiche aperte e standard pubblici che garantiscano ad altri attori, pubblici e privati, accessibilità e massima interoperabilità di dati e servizi digitali;
 
-* \ |STYLE54|\ ;
+* \ |STYLE55|\ ;
 
-* \ |STYLE55|\ .
+* \ |STYLE56|\ .
 
 Allegati:
 
@@ -910,7 +905,7 @@ Corso online gratuito sull'intelligenza artificiale "Elements of AI" rivolto ai 
 
 Un corso online gratuito rivolto a tutti coloro che sono interessati a imparare cosa sia l'Intelligenza Artificiale, per cosa possa (e non possa) essere utilizzata e come influenzi le nostre vite. Non sono necessarie conoscenze matematiche o di programmazione avanzate. 
 
-\ |STYLE56|\ : incoraggiare più persone possibili a imparare cosa sia l'Intelligenza Artificiale e i suoi campi di applicazione. I corsi combinano teoria ed esercizi pratici e possono essere seguiti ai ritmi e negli orari preferiti.
+\ |STYLE57|\ : incoraggiare più persone possibili a imparare cosa sia l'Intelligenza Artificiale e i suoi campi di applicazione. I corsi combinano teoria ed esercizi pratici e possono essere seguiti ai ritmi e negli orari preferiti.
 
 --------
 
@@ -943,9 +938,9 @@ Contribuisci al miglioramento dei servizi pubblici digitali del Paese
 Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e Resilienza [PNRR] e prime misure di rafforzamento delle strutture amministrative e di accelerazione e snellimento delle procedure
 *****************************************************************************************************************************************************************************************************************
 
-\ |LINK205|\  \ |STYLE57|\ .
+\ |LINK205|\  \ |STYLE58|\ .
 
-* \ |STYLE58|\ : \ |STYLE59|\  
+* \ |STYLE59|\ : \ |STYLE60|\  
 
     * modifica alla piattaforma per le notifiche digitali per semplificare e favorire l'uso del domicilio digitale;
 
@@ -955,7 +950,7 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
     * elezione del domicilio digitale anche attraverso trasmissione di un istanza o di una dichiarazione da parte del cittadino.
 
-* \ |STYLE60|\ : \ |STYLE61|\ 
+* \ |STYLE61|\ : \ |STYLE62|\ 
 
     * integrazione dei registri di stato civile e delle liste elettorali in ANPR per una più semplice fruizione da parte dei Comuni;
 
@@ -965,7 +960,7 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
     * introduzione di ulteriori basi di dati di interesse nazionale.
 
-* \ |STYLE62|\ : \ |STYLE63|\ .
+* \ |STYLE63|\ : \ |STYLE64|\ .
 
     * previsione di una disciplina semplificata per la realizzazione delle infrastrutture necessarie a garantire la copertura delle reti e dei servizi di comunicazione e connettività;
 
@@ -973,7 +968,7 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
     * eliminazione delle autorizzazioni per alcune tipologie di interventi di piccola entità.
 
-* \ |STYLE64|\ : \ |STYLE65|\ .
+* \ |STYLE65|\ : \ |STYLE66|\ .
 
     * introduzione dell'art. 18 bis del CAD che rafforza i poteri sanzionatori di AGID in caso di violazione degli obblighi di transizione digitale (ad esempio norme CAD, linee guida, previsioni Piano triennale ICT);
 
@@ -981,17 +976,17 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
     * introduzione della procedura sanzionatoria relativa alla violazione del Codice di Condotta Tecnologica (\ |LINK206|\  che introduce art. 13-bis del CAD). Il codice di condotta tecnologica disciplina le modalità di progettazione, sviluppo e implementazione dei progetti, sistemi e servizi digitali delle amministrazioni pubbliche. Vedi anche \ |LINK207|\  e leggi un \ |LINK208|\ .
 
-* \ |STYLE66|\ : \ |STYLE67|\ .
+* \ |STYLE67|\ : \ |STYLE68|\ .
 
     * inroduzione della disciplina relativa alla piattaforma nazionale - intesa come sistema informativo nazionale - ("Piattaforma Nazionale - Digital Green Certificate" PN-DGC) per l'emissione, la distribuzione e la validazione della certificazione verde Covid-19;
 
     * realizzazione e gestione della piattaforma da parte della Società SOGEI SpA attraverso l'infrastruttura del Sistema Tessera Sanitaria.
 
-* \ |STYLE68|\ : \ |STYLE69|\ .
+* \ |STYLE69|\ : \ |STYLE70|\ .
 
-\ |LINK209|\   \ |STYLE70|\   
+\ |LINK209|\   \ |STYLE71|\   
 
-* \ |STYLE71|\ : \ |STYLE72|\ .
+* \ |STYLE72|\ : \ |STYLE73|\ .
 
     * previsione dell'affidamento diretto per tutti gli appalti fino al raggiungimento della soglia comunitaria;
 
@@ -1005,11 +1000,11 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 
 .. admonition:: Novità sul digitale
 
-    \ |STYLE73|\  
+    \ |STYLE74|\  
     
-    * \ |STYLE74|\  
+    * \ |STYLE75|\  
     
-    * \ |STYLE75|\ 
+    * \ |STYLE76|\ 
     
         * In tutti i casi di notifica digitale la piattaforma invierà anche un “avviso di cortesia” a chi ha comunicato anche una mail non certificata o un numero di telefono: un messaggio semplice con gli stessi dati contenuti nella notifica via PEC. 
     
@@ -1021,7 +1016,7 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
     
         * Infine, per tutelare i cittadini dagli effetti del digital divide, nel momento in cui sarà completata la transizione e tutte le comunicazioni saranno digitali,si prevede che debba essere attribuito un domicilio digitale per tutti coloro che ancora non lo hanno
     
-    * \ |STYLE76|\ 
+    * \ |STYLE77|\ 
     
         * la certificazione dei dati anagrafici rilasciata in modalità telematica sarà esente da imposta di bollo e diritti di segreteria (limitatamente al 2021); 
     
@@ -1035,7 +1030,7 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
     
         * definisce regole in caso di illecito utilizzo da parte dei fruitori dei dati.
     
-    * \ |STYLE77|\ . L’Agid dovrà monitorare il rispetto delle norme sull’uso del digitale da parte delle Pa, e i dirigenti che si renderanno responsabili di frenare la transizione al digitale pagheranno con sanzioni economiche e fino al licenziamento. Tra i cattivi comportamenti sanzionabili ci sono:  
+    * \ |STYLE78|\ . L’Agid dovrà monitorare il rispetto delle norme sull’uso del digitale da parte delle Pa, e i dirigenti che si renderanno responsabili di frenare la transizione al digitale pagheranno con sanzioni economiche e fino al licenziamento. Tra i cattivi comportamenti sanzionabili ci sono:  
     
         * la mancata ottemperanza alla richiesta di dati, documenti o informazioni o trasmissione di informazioni o dati parziali o non veritieri;  
     
@@ -1062,7 +1057,7 @@ Decreto Legge n. 77 del 31.05.2021, Governance del Piano Nazionale di Ripresa e 
 Cloud Italia: gli indirizzi strategici per la PA dal Ministero innovaz. tecn. e digitalizzazione
 ************************************************************************************************
 
-\ |STYLE78|\  - \ |LINK212|\ .
+\ |STYLE79|\  - \ |LINK212|\ .
 
 * CLASSIFICARE DATI E SERVIZI DELLA PA PER GUIDARE E SUPPORTARE LA MIGRAZIONE AL CLOUD
 
@@ -1070,15 +1065,15 @@ Cloud Italia: gli indirizzi strategici per la PA dal Ministero innovaz. tecn. e 
 
 * REALIZZARE IL PSN DEDICATO AI SERVIZI STRATEGICI, SOTTO CONTROLLO E INDIRIZZO PUBBLICO
 
-Obiettivo del \ |STYLE79|\  è di ospitare i dati ed i servizi critici e strategici di tutte le amministrazioni centrali (circa 200), delle Aziende Sanitarie Locali (ASL) e delle principali amministrazioni locali (Regioni, città metropolitane, comuni con più di 250 mila abitanti).
+Obiettivo del \ |STYLE80|\  è di ospitare i dati ed i servizi critici e strategici di tutte le amministrazioni centrali (circa 200), delle Aziende Sanitarie Locali (ASL) e delle principali amministrazioni locali (Regioni, città metropolitane, comuni con più di 250 mila abitanti).
 
 \ |LINK213|\ :
 
-#. Il primo gruppo è costituito da \ |STYLE80|\  (secondo la classificazione di AgID) e \ |STYLE81|\  (indicate dal PNRR) e include amministrazioni che devono essere migrate con urgenza perché operanti infrastrutture considerate insicure e critiche. Per questo gruppo il percorso di migrazione è prioritario, ed è stata fatta un’ipotesi di dimensionamento del fabbisogno di infrastrutture informatiche.
+#. Il primo gruppo è costituito da \ |STYLE81|\  (secondo la classificazione di AgID) e \ |STYLE82|\  (indicate dal PNRR) e include amministrazioni che devono essere migrate con urgenza perché operanti infrastrutture considerate insicure e critiche. Per questo gruppo il percorso di migrazione è prioritario, ed è stata fatta un’ipotesi di dimensionamento del fabbisogno di infrastrutture informatiche.
 
-#. Il secondo gruppo riguarda \ |STYLE82|\  (secondo la classificazione di AgID) che dispongono di infrastrutture sufficientemente sicure e quindi in grado di erogare servizi strategici in autonomia. Possono utilizzare i servizi erogati dal PSN in funzione delle loro esigenze.
+#. Il secondo gruppo riguarda \ |STYLE83|\  (secondo la classificazione di AgID) che dispongono di infrastrutture sufficientemente sicure e quindi in grado di erogare servizi strategici in autonomia. Possono utilizzare i servizi erogati dal PSN in funzione delle loro esigenze.
 
-#. Il terzo gruppo è composto da \ |STYLE83|\  con una domanda non significativa di infrastrutture informatiche e \ |STYLE84|\ .
+#. Il terzo gruppo è composto da \ |STYLE84|\  con una domanda non significativa di infrastrutture informatiche e \ |STYLE85|\ .
 
 .. _h3c39502e760313376d56651c731b6f:
 
@@ -1113,7 +1108,7 @@ AGID e il regolamento sul cloud della PA di dicembre 2021
 
 20 gennaio 2022
 
-\ |STYLE85|\ :
+\ |STYLE86|\ :
 
 * la \ |LINK217|\  e l'\ |LINK218|\  sul modello per la predisposizione dell'elenco e della classificazione di dati e di servizi;
 
@@ -1128,7 +1123,7 @@ Linee Guida sull’infrastruttura tecnologica della Piattaforma Digitale Naziona
 
 Da ottobre 2021 online le \ |LINK221|\ .
 
-Ai sensi dell’articolo 50-ter, comma 1 del CAD, la \ |STYLE86|\  è finalizzata a favorire la conoscenza e l’utilizzo del patrimonio informativo detenuto per finalità istituzionali dai soggetti di cui all’articolo 2, comma 2 del CAD nonché la condivisione dei dati tra i soggetti che hanno diritto di accedervi ai fini dell’attuazione dell’articolo 50 del CAD e della semplificazione degli adempimenti dei cittadini e delle imprese, in conformità alla disciplina vigente.
+Ai sensi dell’articolo 50-ter, comma 1 del CAD, la \ |STYLE87|\  è finalizzata a favorire la conoscenza e l’utilizzo del patrimonio informativo detenuto per finalità istituzionali dai soggetti di cui all’articolo 2, comma 2 del CAD nonché la condivisione dei dati tra i soggetti che hanno diritto di accedervi ai fini dell’attuazione dell’articolo 50 del CAD e della semplificazione degli adempimenti dei cittadini e delle imprese, in conformità alla disciplina vigente.
 
 Ai sensi dell’articolo 50-ter, comma 2 del CAD, l’Infrastruttura interoperabilità PDND rende possibile l’interoperabilità dei sistemi informativi e delle basi di dati dei soggetti interessati, mediante:
 
@@ -1253,117 +1248,119 @@ PA digitale 2026 [PNRR]: le Linee guida per le PA locali
 
 .. |STYLE30| replace:: **20/10/2020 -**
 
-.. |STYLE31| replace:: **10 settembre 2020**
+.. |STYLE31| replace:: **→ → →**
 
-.. |STYLE32| replace:: **entro il 7 giugno 2021**
+.. |STYLE32| replace:: **10 settembre 2020**
 
-.. |STYLE33| replace:: **standard UNI 11386 - Standard SInCRO**
+.. |STYLE33| replace:: **entro il 7 giugno 2021**
 
-.. |STYLE34| replace:: **standard ISO 30300 e ISO 30301**
+.. |STYLE34| replace:: **standard UNI 11386 - Standard SInCRO**
 
-.. |STYLE35| replace:: **standard ETSI TS 101 511**
+.. |STYLE35| replace:: **standard ISO 30300 e ISO 30301**
 
-.. |STYLE36| replace:: **sono abrogate tutte le disposizioni fatte salve le seguenti**
+.. |STYLE36| replace:: **standard ETSI TS 101 511**
 
-.. |STYLE37| replace:: **, Oggetto e ambito di applicazione;**
+.. |STYLE37| replace:: **sono abrogate tutte le disposizioni fatte salve le seguenti**
 
-.. |STYLE38| replace:: **, Funzionalità;**
+.. |STYLE38| replace:: **, Oggetto e ambito di applicazione;**
 
-.. |STYLE39| replace:: **, Formato della segnatura di protocollo;**
+.. |STYLE39| replace:: **, Funzionalità;**
 
-.. |STYLE40| replace:: **, Modalità di registrazione dei documenti informatici;**
+.. |STYLE40| replace:: **, Formato della segnatura di protocollo;**
 
-.. |STYLE41| replace:: **, Segnatura di protocollo dei documenti trasmessi;**
+.. |STYLE41| replace:: **, Modalità di registrazione dei documenti informatici;**
 
-.. |STYLE42| replace:: **, Informazioni da includere nella segnatura.**
+.. |STYLE42| replace:: **, Segnatura di protocollo dei documenti trasmessi;**
 
-.. |STYLE43| replace:: **è abrogata**
+.. |STYLE43| replace:: **, Informazioni da includere nella segnatura.**
 
-.. |STYLE44| replace:: **e sostituita dall’allegato n.6**
+.. |STYLE44| replace:: **è abrogata**
 
-.. |STYLE45| replace:: **Il 25/06/2021 AGID ha pubblicato il Regolamento sui criteri per la fornitura di servizi di conservazione dei documenti informatici**
+.. |STYLE45| replace:: **e sostituita dall’allegato n.6**
 
-.. |STYLE46| replace:: **Modello di Interoperabilità della PA**
+.. |STYLE46| replace:: **Il 25/06/2021 AGID ha pubblicato il Regolamento sui criteri per la fornitura di servizi di conservazione dei documenti informatici**
 
-.. |STYLE47| replace:: **European Interoperability Framework**
+.. |STYLE47| replace:: **Modello di Interoperabilità della PA**
 
-.. |STYLE48| replace:: **aggiorna il Sistema pubblico di cooperazione (SPCoop)**
+.. |STYLE48| replace:: **European Interoperability Framework**
 
-.. |STYLE49| replace:: **nelle more delle predisposizione**
+.. |STYLE49| replace:: **aggiorna il Sistema pubblico di cooperazione (SPCoop)**
 
-.. |STYLE50| replace:: **delle**
+.. |STYLE50| replace:: **nelle more delle predisposizione**
 
-.. |STYLE51| replace:: **definire le modalità di integrazione tra le PA, e tra queste cittadini e imprese**
+.. |STYLE51| replace:: **delle**
 
-.. |STYLE52| replace:: **individuare le scelte tecnologiche che favoriscano lo sviluppo, da parte delle PA, cittadini e imprese, di soluzioni applicative innovative**
+.. |STYLE52| replace:: **definire le modalità di integrazione tra le PA, e tra queste cittadini e imprese**
 
-.. |STYLE53| replace:: **promuovere l’adozione dell’approccio “API first”**
+.. |STYLE53| replace:: **individuare le scelte tecnologiche che favoriscano lo sviluppo, da parte delle PA, cittadini e imprese, di soluzioni applicative innovative**
 
-.. |STYLE54| replace:: **privilegiare standard tecnologici, de iure e de facto, che soddisfino l’esigenza di rendere sicure le interazioni tra le PA e tra queste, cittadini e imprese**
+.. |STYLE54| replace:: **promuovere l’adozione dell’approccio “API first”**
 
-.. |STYLE55| replace:: **favorire l’interazione tra PA e tra queste, cittadini e imprese, attraverso un approccio Contract-First**
+.. |STYLE55| replace:: **privilegiare standard tecnologici, de iure e de facto, che soddisfino l’esigenza di rendere sicure le interazioni tra le PA e tra queste, cittadini e imprese**
 
-.. |STYLE56| replace:: **Obiettivo**
+.. |STYLE56| replace:: **favorire l’interazione tra PA e tra queste, cittadini e imprese, attraverso un approccio Contract-First**
 
-.. |STYLE57| replace:: **Titolo II - Transizione digitale**
+.. |STYLE57| replace:: **Obiettivo**
 
-.. |STYLE58| replace:: **art. 38**
+.. |STYLE58| replace:: **Titolo II - Transizione digitale**
 
-.. |STYLE59| replace:: **Misure  per  la  diffusione  delle  comunicazioni   digitali   delle pubbliche amministrazioni e divario digitale**
+.. |STYLE59| replace:: **art. 38**
 
-.. |STYLE60| replace:: **art. 39**
+.. |STYLE60| replace:: **Misure  per  la  diffusione  delle  comunicazioni   digitali   delle pubbliche amministrazioni e divario digitale**
 
-.. |STYLE61| replace:: **Semplificazione di dati pubblici**
+.. |STYLE61| replace:: **art. 39**
 
-.. |STYLE62| replace:: **art. 40**
+.. |STYLE62| replace:: **Semplificazione di dati pubblici**
 
-.. |STYLE63| replace:: **Semplificazioni   del    procedimento    di    autorizzazione    per l'installazione di  infrastrutture  di  comunicazione  elettronica  e agevolazione per l'infrastrutturazione digitale degli edifici e delle unità immobiliari**
+.. |STYLE63| replace:: **art. 40**
 
-.. |STYLE64| replace:: **art. 41**
+.. |STYLE64| replace:: **Semplificazioni   del    procedimento    di    autorizzazione    per l'installazione di  infrastrutture  di  comunicazione  elettronica  e agevolazione per l'infrastrutturazione digitale degli edifici e delle unità immobiliari**
 
-.. |STYLE65| replace:: **Violazione degli obblighi di transizione digitale**
+.. |STYLE65| replace:: **art. 41**
 
-.. |STYLE66| replace:: **art. 42**
+.. |STYLE66| replace:: **Violazione degli obblighi di transizione digitale**
 
-.. |STYLE67| replace:: **Implementazione della piattaforma nazionale  per  l'emissione  e  la validazione delle certificazioni verdi COVID-19**
+.. |STYLE67| replace:: **art. 42**
 
-.. |STYLE68| replace:: **art. 43**
+.. |STYLE68| replace:: **Implementazione della piattaforma nazionale  per  l'emissione  e  la validazione delle certificazioni verdi COVID-19**
 
-.. |STYLE69| replace:: **Disposizioni  urgenti  in  materia  di  digitalizzazione  e  servizi informatici del Ministero  delle  infrastrutture  e  della  mobilità sostenibili**
+.. |STYLE69| replace:: **art. 43**
 
-.. |STYLE70| replace:: **Titolo V - Contratti pubblici**
+.. |STYLE70| replace:: **Disposizioni  urgenti  in  materia  di  digitalizzazione  e  servizi informatici del Ministero  delle  infrastrutture  e  della  mobilità sostenibili**
 
-.. |STYLE71| replace:: **art. 53**
+.. |STYLE71| replace:: **Titolo V - Contratti pubblici**
 
-.. |STYLE72| replace:: **Semplificazione  degli  acquisti  di  beni  e  servizi   informatici strumentali alla realizzazione del PNRR e in materia di procedure  di e-procurement e acquisto di beni e servizi informatici**
+.. |STYLE72| replace:: **art. 53**
 
-.. |STYLE73| replace:: **SEMPLIFICAZIONE PER L’INNOVAZIONE TECNOLOGICA E LA TRANSIZIONE DIGITALE**
+.. |STYLE73| replace:: **Semplificazione  degli  acquisti  di  beni  e  servizi   informatici strumentali alla realizzazione del PNRR e in materia di procedure  di e-procurement e acquisto di beni e servizi informatici**
 
-.. |STYLE74| replace:: **Infrastrutture necessarie per la banda ultra larga.**
+.. |STYLE74| replace:: **SEMPLIFICAZIONE PER L’INNOVAZIONE TECNOLOGICA E LA TRANSIZIONE DIGITALE**
 
-.. |STYLE75| replace:: **Diffusione delle comunicazioni digitali delle pubbliche amministrazioni (art. 38).**
+.. |STYLE75| replace:: **Infrastrutture necessarie per la banda ultra larga.**
 
-.. |STYLE76| replace:: **Semplificazione di dati pubblici (art. 39).**
+.. |STYLE76| replace:: **Diffusione delle comunicazioni digitali delle pubbliche amministrazioni (art. 38).**
 
-.. |STYLE77| replace:: **Violazione degli obblighi di transizione digitale (art. 41)**
+.. |STYLE77| replace:: **Semplificazione di dati pubblici (art. 39).**
 
-.. |STYLE78| replace:: **Settembre 2021**
+.. |STYLE78| replace:: **Violazione degli obblighi di transizione digitale (art. 41)**
 
-.. |STYLE79| replace:: **Polo Strategico Nazionale**
+.. |STYLE79| replace:: **Settembre 2021**
 
-.. |STYLE80| replace:: **95 pubbliche amministrazioni centrali di classe B**
+.. |STYLE80| replace:: **Polo Strategico Nazionale**
 
-.. |STYLE81| replace:: **80 ASL**
+.. |STYLE81| replace:: **95 pubbliche amministrazioni centrali di classe B**
 
-.. |STYLE82| replace:: **13 pubbliche amministrazioni centrali di categoria A**
+.. |STYLE82| replace:: **80 ASL**
 
-.. |STYLE83| replace:: **93 pubbliche amministrazioni centrali di categoria B**
+.. |STYLE83| replace:: **13 pubbliche amministrazioni centrali di categoria A**
 
-.. |STYLE84| replace:: **dalle principali amministrazioni locali**
+.. |STYLE84| replace:: **93 pubbliche amministrazioni centrali di categoria B**
 
-.. |STYLE85| replace:: **Consulta gli atti dell'Agenzia per la cybersicurezza nazionale**
+.. |STYLE85| replace:: **dalle principali amministrazioni locali**
 
-.. |STYLE86| replace:: **PDND**
+.. |STYLE86| replace:: **Consulta gli atti dell'Agenzia per la cybersicurezza nazionale**
+
+.. |STYLE87| replace:: **PDND**
 
 
 .. |REPLACE1| raw:: html
