@@ -645,7 +645,10 @@ Le \ |LINK121|\  (su Docs Italia) sono emanate secondo la procedura prevista dal
 
 #. fornire una cornice unica di regolazione sulla materia, in coerenza con la disciplina dei Beni culturali.
 
-(\ |STYLE27|\ ).
+
++----------------+
+|(\ |STYLE27|\ ).|
++----------------+
 
 \ |STYLE28|\ 
 
@@ -1248,7 +1251,7 @@ PA digitale 2026 [PNRR]: le Linee guida per le PA locali
 
 .. |STYLE30| replace:: **→ 20/10/2020 -**
 
-.. |STYLE31| replace:: **→ 4.11.2022.**
+.. |STYLE31| replace:: **→ 4/11/2022 -**
 
 .. |STYLE32| replace:: **10 settembre 2020**
 
