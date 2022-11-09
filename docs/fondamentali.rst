@@ -1244,11 +1244,11 @@ PA digitale 2026 [PNRR]: le Linee guida per le PA locali
 
 .. |STYLE28| replace:: **↓**
 
-.. |STYLE29| replace:: **9/09/2020 -**
+.. |STYLE29| replace:: **→ 9/09/2020 -**
 
-.. |STYLE30| replace:: **20/10/2020 -**
+.. |STYLE30| replace:: **→ 20/10/2020 -**
 
-.. |STYLE31| replace:: **→ → →**
+.. |STYLE31| replace:: **→ 4.11.2022.**
 
 .. |STYLE32| replace:: **10 settembre 2020**
 
