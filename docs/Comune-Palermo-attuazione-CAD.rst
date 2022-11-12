@@ -918,6 +918,19 @@ Completato il questionario AGID sulla spesa ICT dell’Amministrazione, ed. 2022
 
 A settembre 2022 è stato compilato, in collaborazione con la società in house SISPI, il questionario AGID sulla rilevazione della spesa ICT relativo all’annualità 2021.
 
+|
+
+.. _h49137a3e746e9713355b5b1017712f:
+
+PNRR - adesione all’avviso per l’adesione alla Piattaforma Notifiche Digitali
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:guilabel:`PNRR` \ |STYLE97|\  Novembre 2022. E’ stata presentata l’adesione del comune di Palermo al bando PNRR, relativa all’Avviso 1.3.1 (\ |STYLE98|\ ).
+
+\ |STYLE99|\ 
+
+|
+
 
 .. bottom of content
 
@@ -1115,6 +1128,12 @@ A settembre 2022 è stato compilato, in collaborazione con la società in house 
 .. |STYLE95| replace:: **Realizzazione**
 
 .. |STYLE96| replace:: **L'importo dei due  progetti è di euro 2.000.000**
+
+.. |STYLE97| replace:: **|**
+
+.. |STYLE98| replace:: **adesione alla Piattaforma Notifiche Digitali**
+
+.. |STYLE99| replace:: **L'importo del  progetto è di euro 97.247**
 
 
 .. |REPLACE1| raw:: html
