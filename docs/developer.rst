@@ -11,6 +11,9 @@ developer
 
 |REPLACE2|
 
+
+|REPLACE3|
+
 \ |LINK3|\  
 
 Su github creare visualizzazioni di PDF anteponendo questo \ |LINK4|\   all’URL
@@ -45,7 +48,7 @@ Testo modificabile: \ |LINK9|\
 
 
 
-|REPLACE3|
+|REPLACE4|
 
 |
 
@@ -109,7 +112,7 @@ Come si usa il programma Visual Studio Code per lavorare con i repository del pr
 ****************************************************************************************************
 
 
-|REPLACE4|
+|REPLACE5|
 
 \ |LINK23|\ 
 
@@ -373,14 +376,14 @@ IMMAGINI DI "WORDART" DA INCORPORARE IN PAGINE HTML
 ===================================================
 
 
-|REPLACE5|
-
-
 |REPLACE6|
+
+
+|REPLACE7|
 
 immagine singola (non wordart)
 
-|REPLACE7|
+|REPLACE8|
 
 |
 
@@ -662,7 +665,7 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 =========================================================
 
 
-|REPLACE8|
+|REPLACE9|
 
 ⇒ \ |LINK107|\  plug in come componente aggiuntivo da installare su spreadsheet di Google. Sfrutta API di Google e quindi i dati delle coordinate geografiche sono riusabili solo su mappe Google.
 
@@ -675,7 +678,7 @@ GEOCODER PER TROVARE COORDINATE LATITUDINE E LONGITUDINE
 dove A2 è la colonna dove è contenuto l'indirizzo. \ |LINK108|\ .
 
 
-|REPLACE9|
+|REPLACE10|
 
 * \ |LINK109|\  con Openstreetmap tramite OnData
 
@@ -994,13 +997,13 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 --------
 
 
-|REPLACE10|
-
-
 |REPLACE11|
 
 
 |REPLACE12|
+
+
+|REPLACE13|
 
 
 .. bottom of content
@@ -1087,44 +1090,47 @@ si scrive così: ``.. centered:: Questo è un testo centrato.``
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/sviluppo.png"> icona sviluppo
+    <img src="https://ftp.mountaingenius.org/PYRCEOP/webcam.jpg"> Everest webcam vista da Khala Pattar = https://evk2minoprio.org/webcam/
 .. |REPLACE2| raw:: html
+
+    <img src="https://raw.githubusercontent.com/cirospat/newproject/master/docs/img/sviluppo.png"> icona sviluppo
+.. |REPLACE3| raw:: html
 
     Testo normale e poi 
     <span style="text-decoration: line-through;" > Testo barrato </span><br>
     e poi testo normale
     
-.. |REPLACE3| raw:: html
+.. |REPLACE4| raw:: html
 
     <img src="https://img.shields.io/badge/fondamentali-amministrazione_digitale-blue.svg?style=popout&logo=Read%20the%20Docs" />
-.. |REPLACE4| raw:: html
+.. |REPLACE5| raw:: html
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/EmzgUnN39gc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></b>
     Video di Totò Fiandaca
-.. |REPLACE5| raw:: html
-
-    <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/ugd9zzbwpv1n" data-wordart-show-attribution></div>
 .. |REPLACE6| raw:: html
 
-    <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
+    <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/ugd9zzbwpv1n" data-wordart-show-attribution></div>
 .. |REPLACE7| raw:: html
 
-    <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700" /> Art by Lønfeldt
+    <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/v4ejjx85ti99"></div>
 .. |REPLACE8| raw:: html
 
-    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
+    <img src="https://images.unsplash.com/photo-1529666759085-741eefcd3371?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700" /> Art by Lønfeldt
 .. |REPLACE9| raw:: html
 
-    <p><span style="background-color: #105618; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Altri Geocoder</span></p>
+    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Su fogli google spreadsheet</span></p>
 .. |REPLACE10| raw:: html
 
-    polveri sottili monitoraggio zona Fiera Mediterraneo <br>
-    <iframe src="https://italy.maps.sensor.community/#9/37.5285/14.2212" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="700"></iframe>
+    <p><span style="background-color: #105618; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Altri Geocoder</span></p>
 .. |REPLACE11| raw:: html
 
     polveri sottili monitoraggio zona Fiera Mediterraneo <br>
-    <iframe src="https://maps.sensor.community/grafana/d-solo/000000004/single-sensor-view?orgId=1&panelId=2&var-node=821" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="700"></iframe>
+    <iframe src="https://italy.maps.sensor.community/#9/37.5285/14.2212" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="700"></iframe>
 .. |REPLACE12| raw:: html
+
+    polveri sottili monitoraggio zona Fiera Mediterraneo <br>
+    <iframe src="https://maps.sensor.community/grafana/d-solo/000000004/single-sensor-view?orgId=1&panelId=2&var-node=821" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="700"></iframe>
+.. |REPLACE13| raw:: html
 
     mappe storiche by Napo <br>
     <iframe src="https://napo.github.io/trentotimetravelmaps/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="850"></iframe>
