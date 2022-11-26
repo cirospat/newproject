@@ -66,9 +66,11 @@ Pannello di visualizzazione dei dati delle Pubbliche Amministrazioni italiane - 
     #. Il Gestore della PDND pubblica e aggiorna, sul Portale PDND, tutta la documentazione tecnica e amministrativa necessaria per procedere all'accreditamento e allo sviluppo delle interfacce di programmazione (API).
     
     #. La violazione degli obblighi di cui al presente articolo e' punita ai sensi degli articoli \ |LINK16|\  e \ |LINK17|\ 
+    
     \ |STYLE6|\ 
     
     #. Il Gestore della PDND trasmette trimestralmente all'AgID l'elenco dei soggetti aderenti alla PDND, anche ai fini dell'esercizio dei poteri di cui all'art. 18-bis del CAD nei confronti dei soggetti che violano gli obblighi di cui all'art. 3.
+    
     \ |STYLE7|\ 
     
     #. Fermi restando gli obblighi di cui all'art. 3, i soggetti di cui all'art. 2, comma 2, del CAD possono anche aderire alla PDND sin dalla data di pubblicazione del presente decreto.
