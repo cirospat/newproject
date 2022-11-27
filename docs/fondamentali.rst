@@ -1214,6 +1214,17 @@ PA digitale 2026 [PNRR]: le Linee guida per le PA locali
 
 --------
 
+.. _h235e3c1b198019767a323b5312b6838:
+
+Decreto 17.10.2022 Integrazione in ANPR delle liste elettorali
+**************************************************************
+
+Definiti, in prima applicazione, l'\ |LINK238|\  di cui all'art. 5 del decreto del Presidente della Repubblica 223/1967 e dei dati relativi all'iscrizione nelle suddette liste.
+
+|
+
+--------
+
 
 |REPLACE2|
 
@@ -2395,4 +2406,8 @@ PA digitale 2026 [PNRR]: le Linee guida per le PA locali
 .. |LINK237| raw:: html
 
     <a href="https://innovazione.gov.it/notizie/articoli/pa-digitale-2026-pubblicate-le-linee-guida-per-le-pa-locali/" target="_blank">Dai principali step procedurali, al completamento delle attività passando per le verifiche necessarie per ottenere l'erogazione delle risorse</a>
+
+.. |LINK238| raw:: html
+
+    <a href="https://transizionedigitale.gitbook.io/integrazione-nellanpr-delle-liste-elettorali/" target="_blank">adeguamento e l'evoluzione delle caratteristiche tecniche della piattaforma di funzionamento dell'ANPR per la sua integrazione con le liste elettorali</a>
 
