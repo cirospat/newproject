@@ -936,6 +936,9 @@ PNRR - adesione all’avviso per l’adesione alla Piattaforma Notifiche Digital
 Pubblicata la classifica nazionale ICity Rank 2022 sulle città digitali 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+
+|REPLACE5|
+
 :guilabel:`ICityRank 2022` La ricerca, realizzata da oltre 10 anni da FPA, analizza l’indice di trasformazione digitale dei Comuni capoluogo e presenta la classifica complessiva delle città. L’\ |LINK134|\  con una posizionamento al 15° posto.
 
 |
@@ -1157,6 +1160,9 @@ Pubblicata la classifica nazionale ICity Rank 2022 sulle città digitali
 .. |REPLACE4| raw:: html
 
     <img width="500"   src="https://bit.ly/3HFKdB3" frameborder="0";></img>
+.. |REPLACE5| raw:: html
+
+    <img src="https://raw.githubusercontent.com/UO-TransizioneDigitaleComunePalermo/report_digitalizzazione_enti/main/img/palermo-icityrank2022-cittadigitali.png" frameborder="0";></img>
 
 .. |LINK1| raw:: html
 
