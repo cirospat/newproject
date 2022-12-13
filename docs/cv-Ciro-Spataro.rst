@@ -142,37 +142,39 @@ Curriculum Vitae
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                 |
 |                                                                                      |* Redazione del \ |LINK26|\ .                                                                                                                                                                                                                                                                                                                                                    |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                 |
+|                                                                                      |* \ |LINK27|\  del comune di Palermo 2022-2024 (automazione dei processi con gli strumenti dell’ICT).                                                                                                                                                                                                                                                                            |
+|                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                 |
 |                                                                                      |\ |STYLE39|\ :                                                                                                                                                                                                                                                                                                                                                                   |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                 |
-|                                                                                      |* Compa FVG Centro di competenza per la pubblica amministrazione Friuli Venezia Giulia, 22 giugno 2018,  \ |LINK27|\ .                                                                                                                                                                                                                                                           |
+|                                                                                      |* Compa FVG Centro di competenza per la pubblica amministrazione Friuli Venezia Giulia, 22 giugno 2018,  \ |LINK28|\ .                                                                                                                                                                                                                                                           |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                 |
 |                                                                                      |* Redazione FPA, gennaio 2019. Come pubblicare documenti online con il format di 'Read the Docs' per fruire testi/documentazione anche su dispositivi mobili e con efficaci sistema di ricerca multicriterio nel testo.                                                                                                                                                          |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                 |
-|                                                                                      |* FormezPA: webinar periodo marzo-aprile 2021 su \ |LINK28|\ , \ |LINK29|\ , \ |LINK30|\ .                                                                                                                                                                                                                                                                                       |
+|                                                                                      |* FormezPA: webinar periodo marzo-aprile 2021 su \ |LINK29|\ , \ |LINK30|\ , \ |LINK31|\ .                                                                                                                                                                                                                                                                                       |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                 |
-|                                                                                      |* FormezPA: webinar periodo settembre-novembre 2021 su "\ |LINK31|\ ". Vedi \ |LINK32|\ .                                                                                                                                                                                                                                                                                        |
+|                                                                                      |* FormezPA: webinar periodo settembre-novembre 2021 su "\ |LINK32|\ ". Vedi \ |LINK33|\ .                                                                                                                                                                                                                                                                                        |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                 |
 +--------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |\ |STYLE40|\                                                                          |                                                                                                                                                                                                                                                                                                                                                                                 |
 +--------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |interessi / \ |STYLE41|\                                                              |photography, trekking, mtbiking, snorkelling, tutorial, civic hacking                                                                                                                                                                                                                                                                                                            |
 +--------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|attivo in reti                                                                        |* \ |LINK33|\  per l'attuazione dell'Agenda Digitale nella Pubblica Amministrazione                                                                                                                                                                                                                                                                                              |
+|attivo in reti                                                                        |* \ |LINK34|\  per l'attuazione dell'Agenda Digitale nella Pubblica Amministrazione                                                                                                                                                                                                                                                                                              |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                 |
-|\ |STYLE42|\                                                                          |* \ |LINK34|\  open data network - \ |LINK35|\                                                                                                                                                                                                                                                                                                                                   |
+|\ |STYLE42|\                                                                          |* \ |LINK35|\  open data network - \ |LINK36|\                                                                                                                                                                                                                                                                                                                                   |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                 |
-|                                                                                      |* \ |LINK36|\  articoli sulla Pubblica Amministrazione digitale                                                                                                                                                                                                                                                                                                                  |
-|                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                 |
-|                                                                                      |* \ |LINK37|\                                                                                                                                                                                                                                                                                                                                                                    |
+|                                                                                      |* \ |LINK37|\  articoli sulla Pubblica Amministrazione digitale                                                                                                                                                                                                                                                                                                                  |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                 |
 |                                                                                      |* \ |LINK38|\                                                                                                                                                                                                                                                                                                                                                                    |
 |                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                 |
 |                                                                                      |* \ |LINK39|\                                                                                                                                                                                                                                                                                                                                                                    |
+|                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                 |
+|                                                                                      |* \ |LINK40|\                                                                                                                                                                                                                                                                                                                                                                    |
 +--------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|profilo / \ |STYLE43|\                                                                |\ |LINK40|\                                                                                                                                                                                                                                                                                                                                                                      |
+|profilo / \ |STYLE43|\                                                                |\ |LINK41|\                                                                                                                                                                                                                                                                                                                                                                      |
 +--------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Il CV è disponibile a questo \ |LINK41|\  per essere fruito in diversi formati aperti (``pdf``, ``odt``, ``docx``).
+Il CV è disponibile a questo \ |LINK42|\  per essere fruito in diversi formati aperti (``pdf``, ``odt``, ``docx``).
 
 
 .. bottom of content
@@ -373,61 +375,65 @@ Il CV è disponibile a questo \ |LINK41|\  per essere fruito in diversi formati 
 
 .. |LINK27| raw:: html
 
-    <a href="https://compa.fvg.it/Risorse-per-te/Video-Gallery/opendataFVG-2018/Ciro-Spataro" target="_blank">percorso open data del comune di Palermo</a>
+    <a href="https://docs.google.com/presentation/d/e/2PACX-1vQ3n_gwSyf51VwL1NvRrD94NlvFOoeGdEWxn0mtj4hXoQu_IP7HNb-y9PIRfScA0BYQtzrxUe5mS8-L/pub?start=false&loop=false&delayms=3000" target="_blank">Contributi alla redazione del PIAO</a>
 
 .. |LINK28| raw:: html
 
-    <a href="http://eventipa.formez.it/node/294191" target="_blank">Come applicare il Piano Triennale in un Ente Locale</a>
+    <a href="https://compa.fvg.it/Risorse-per-te/Video-Gallery/opendataFVG-2018/Ciro-Spataro" target="_blank">percorso open data del comune di Palermo</a>
 
 .. |LINK29| raw:: html
 
-    <a href="http://eventipa.formez.it/node/294204" target="_blank">Digitalizzare i processi negli Enti Locali</a>
+    <a href="http://eventipa.formez.it/node/294191" target="_blank">Come applicare il Piano Triennale in un Ente Locale</a>
 
 .. |LINK30| raw:: html
 
-    <a href="http://eventipa.formez.it/node/294207" target="_blank">I dati nella Pubblica Amministrazione</a>
+    <a href="http://eventipa.formez.it/node/294204" target="_blank">Digitalizzare i processi negli Enti Locali</a>
 
 .. |LINK31| raw:: html
 
-    <a href="http://eventipa.formez.it/node/321929" target="_blank">L’analisi dei procedimenti in un Ente Locale e i passi per la digitalizzazione</a>
+    <a href="http://eventipa.formez.it/node/294207" target="_blank">I dati nella Pubblica Amministrazione</a>
 
 .. |LINK32| raw:: html
 
-    <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" target="_blank">progetto di documentazione</a>
+    <a href="http://eventipa.formez.it/node/321929" target="_blank">L’analisi dei procedimenti in un Ente Locale e i passi per la digitalizzazione</a>
 
 .. |LINK33| raw:: html
 
-    <a href="https://forum.italia.it/u/cirospat/activity" target="_blank">forum DocsItalia</a>
+    <a href="https://uo-transizionedigitalecomunepalermo.github.io/mappatura-procedimenti-amministrativi/" target="_blank">progetto di documentazione</a>
 
 .. |LINK34| raw:: html
 
-    <a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a>
+    <a href="https://forum.italia.it/u/cirospat/activity" target="_blank">forum DocsItalia</a>
 
 .. |LINK35| raw:: html
 
-    <a href="https://groups.google.com/forum/#!forum/opendatasicilia" target="_blank">mailing list opendatasicilia</a>
+    <a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a>
 
 .. |LINK36| raw:: html
 
-    <a href="https://cirospat.medium.com/" target="_blank">medium.com</a>
+    <a href="https://groups.google.com/forum/#!forum/opendatasicilia" target="_blank">mailing list opendatasicilia</a>
 
 .. |LINK37| raw:: html
 
-    <a href="https://twitter.com/cirospat" target="_blank">twitter.com/cirospat</a>
+    <a href="https://cirospat.medium.com/" target="_blank">medium.com</a>
 
 .. |LINK38| raw:: html
 
-    <a href="https://www.linkedin.com/in/cirospataro/" target="_blank">linkedin.com/in/cirospataro</a>
+    <a href="https://twitter.com/cirospat" target="_blank">twitter.com/cirospat</a>
 
 .. |LINK39| raw:: html
 
-    <a href="https://www.facebook.com/groups/cad.ancitel/" target="_blank">Codice Amministrazione Digitale</a>
+    <a href="https://www.linkedin.com/in/cirospataro/" target="_blank">linkedin.com/in/cirospataro</a>
 
 .. |LINK40| raw:: html
 
-    <a href="https://cirospat.readthedocs.io" target="_blank">cirospat.readthedocs.io</a>
+    <a href="https://www.facebook.com/groups/cad.ancitel/" target="_blank">Codice Amministrazione Digitale</a>
 
 .. |LINK41| raw:: html
+
+    <a href="https://cirospat.readthedocs.io" target="_blank">cirospat.readthedocs.io</a>
+
+.. |LINK42| raw:: html
 
     <a href="https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA" target="_blank">link</a>
 
