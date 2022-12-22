@@ -1132,9 +1132,39 @@ AGID e il regolamento sul cloud della PA di dicembre 2021
 
 * individuare le modalità del procedimento di qualificazione dei servizi cloud per la pubblica amministrazione.
 
-.. _h7d4587e022551638475ad5675862:
+.. _h2c1d74277104e41780968148427e:
 
-\ |LINK228|\ 
+
+
+
+.. _h4c6e5372a804e3a40742c397da612:
+
+Polo Strategico Nazionale
+=========================
+
+Adesione al PSN: \ |LINK228|\ 
+
+​\ |LINK229|\ ​
+
+* Il Polo, strutturato in quattro \ |STYLE94|\ , garantirà affidabilità e sicurezza sugli asset strategici del Paese.
+
+* Dal 2023 le Amministrazioni potranno richiedere i fondi per migrare dati e servizi.
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+Vedi anche \ |LINK230|\  
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+.. _h661a27164e2425543306e445411fa:
+
+\ |LINK231|\ 
 =============
 
 2021 ➔ Pubblicazione del bando di gara per la realizzazione del Polo Strategico Nazionale entro la fine dell’anno
@@ -1143,18 +1173,18 @@ AGID e il regolamento sul cloud della PA di dicembre 2021
 
 2023 ➔ A partire dalla fine del 2022 le amministrazioni avvieranno la migrazione verso il cloud qualificato che dovrà concludersi entro la fine del 2025 (75% della PA in cloud. PNRR)
 
-.. _h465031454c4559176f7d39d1a317530:
+.. _h4ee4e4072446b1b25e43e76513426:
 
-\ |LINK229|\ 
+\ |LINK232|\ 
 =============
 
 20 gennaio 2022
 
-\ |STYLE94|\ :
+\ |STYLE95|\ :
 
-* la \ |LINK230|\  e l'\ |LINK231|\  sul modello per la predisposizione dell'elenco e della classificazione di dati e di servizi;
+* la \ |LINK233|\  e l'\ |LINK234|\  sul modello per la predisposizione dell'elenco e della classificazione di dati e di servizi;
 
-* la \ |LINK232|\  e l'\ |LINK233|\  su le ulteriori caratteristiche dei servizi cloud e requisiti per la qualificazione.
+* la \ |LINK235|\  e l'\ |LINK236|\  su le ulteriori caratteristiche dei servizi cloud e requisiti per la qualificazione.
 
 |
 
@@ -1163,9 +1193,9 @@ AGID e il regolamento sul cloud della PA di dicembre 2021
 Linee Guida sull’infrastruttura tecnologica della Piattaforma Digitale Nazionale Dati (PDND) per l’interoperabilità dei sistemi informativi e delle basi di dati
 ****************************************************************************************************************************************************************
 
-Da ottobre 2021 online le \ |LINK234|\ .
+Da ottobre 2021 online le \ |LINK237|\ .
 
-Ai sensi dell’articolo 50-ter, comma 1 del CAD, la \ |STYLE95|\  è finalizzata a favorire la conoscenza e l’utilizzo del patrimonio informativo detenuto per finalità istituzionali dai soggetti di cui all’articolo 2, comma 2 del CAD nonché la condivisione dei dati tra i soggetti che hanno diritto di accedervi ai fini dell’attuazione dell’articolo 50 del CAD e della semplificazione degli adempimenti dei cittadini e delle imprese, in conformità alla disciplina vigente.
+Ai sensi dell’articolo 50-ter, comma 1 del CAD, la \ |STYLE96|\  è finalizzata a favorire la conoscenza e l’utilizzo del patrimonio informativo detenuto per finalità istituzionali dai soggetti di cui all’articolo 2, comma 2 del CAD nonché la condivisione dei dati tra i soggetti che hanno diritto di accedervi ai fini dell’attuazione dell’articolo 50 del CAD e della semplificazione degli adempimenti dei cittadini e delle imprese, in conformità alla disciplina vigente.
 
 Ai sensi dell’articolo 50-ter, comma 2 del CAD, l’Infrastruttura interoperabilità PDND rende possibile l’interoperabilità dei sistemi informativi e delle basi di dati dei soggetti interessati, mediante:
 
@@ -1186,9 +1216,9 @@ L’Agenzia per l’Italia Digitale ha pubblicato il regolamento relativo alla v
 
 Contestualmente è stato adottato il Regolamento recante le procedure finalizzate allo svolgimento dei compiti del Difensore civico per il Digitale. 
 
-* \ |LINK235|\ 
+* \ |LINK238|\ 
 
-* \ |LINK236|\  
+* \ |LINK239|\  
 
 |
 
@@ -1199,7 +1229,7 @@ Contestualmente è stato adottato il Regolamento recante le procedure finalizzat
 Documento Italia digitale 2026 [PNRR] (Risultati 2021-2022 e azioni 2023-2026)
 ******************************************************************************
 
-Il \ |LINK237|\  sintetizza la strategia digitale e tecnologica per l'Italia, che il Governo ha impresso al Piano Nazionale di Ripresa e Resilienza (PNRR) e poi avviato tra febbraio 2021 e ottobre 2022. Il documento descrive le iniziative intraprese, i risultati conseguiti e le prossime azioni previste per rispettare gli impegni presi in ambito nazionale ed europeo. Nella conclusione, si illustrano delle raccomandazioni per aumentare l'efficacia del coordinamento tecnologico e digitale del Paese
+Il \ |LINK240|\  sintetizza la strategia digitale e tecnologica per l'Italia, che il Governo ha impresso al Piano Nazionale di Ripresa e Resilienza (PNRR) e poi avviato tra febbraio 2021 e ottobre 2022. Il documento descrive le iniziative intraprese, i risultati conseguiti e le prossime azioni previste per rispettare gli impegni presi in ambito nazionale ed europeo. Nella conclusione, si illustrano delle raccomandazioni per aumentare l'efficacia del coordinamento tecnologico e digitale del Paese
 
 |
 
@@ -1210,7 +1240,7 @@ Il \ |LINK237|\  sintetizza la strategia digitale e tecnologica per l'Italia, ch
 PA digitale 2026 [PNRR]: le Linee guida per le PA locali
 ********************************************************
 
-\ |LINK238|\ .
+\ |LINK241|\ .
 
 |
 
@@ -1221,7 +1251,7 @@ PA digitale 2026 [PNRR]: le Linee guida per le PA locali
 Decreto 17.10.2022 Integrazione in ANPR delle liste elettorali
 **************************************************************
 
-Definiti, in prima applicazione, l'\ |LINK239|\  di cui all'art. 5 del decreto del Presidente della Repubblica 223/1967 e dei dati relativi all'iscrizione nelle suddette liste.
+Definiti, in prima applicazione, l'\ |LINK242|\  di cui all'art. 5 del decreto del Presidente della Repubblica 223/1967 e dei dati relativi all'iscrizione nelle suddette liste.
 
 |
 
@@ -1427,9 +1457,11 @@ Definiti, in prima applicazione, l'\ |LINK239|\  di cui all'art. 5 del decreto d
 
 .. |STYLE93| replace:: **dalle principali amministrazioni locali**
 
-.. |STYLE94| replace:: **Consulta gli atti dell'Agenzia per la cybersicurezza nazionale**
+.. |STYLE94| replace:: *data center*
 
-.. |STYLE95| replace:: **PDND**
+.. |STYLE95| replace:: **Consulta gli atti dell'Agenzia per la cybersicurezza nazionale**
+
+.. |STYLE96| replace:: **PDND**
 
 
 .. |REPLACE1| raw:: html
@@ -2371,49 +2403,61 @@ Definiti, in prima applicazione, l'\ |LINK239|\  di cui all'art. 5 del decreto d
 
 .. |LINK228| raw:: html
 
-    <a href="https://assets.innovazione.gov.it/1631016901-strategiaclouditalia2021presentazione.pdf" target="_blank">Tempi della strategia Cloud Italia</a>
+    <a href="https://www.polostrategiconazionale.it​" target="_blank">https://www.polostrategiconazionale.it​</a>
 
 .. |LINK229| raw:: html
 
-    <a href="https://innovazione.gov.it/notizie/articoli/cloud-pa-online-gli-atti-per-classificare-dati-e-servizi-e-qualificare-i-servizi/" target="_blank">Atti per classificare dati e servizi e qualificare i servizi delle PA</a>
+    <a href="https://innovazione.gov.it/notizie/articoli/al-via-il-polo-strategico-nazionale/" target="_blank">Al via il Polo Strategico Nazionale</a>
 
 .. |LINK230| raw:: html
 
-    <a href="https://assets.innovazione.gov.it/1642693979-det_306_cloud_modclass_20220118.pdf" target="_blank">determina n. 306 (PDF)</a>
+    <a href="https://cloud.italia.it" target="_blank">https://cloud.italia.it</a>
 
 .. |LINK231| raw:: html
 
-    <a href="https://assets.innovazione.gov.it/1642694063-det_306_all1_20220118_modello.pdf" target="_blank">allegato (PDF)</a>
+    <a href="https://assets.innovazione.gov.it/1631016901-strategiaclouditalia2021presentazione.pdf" target="_blank">Tempi della strategia Cloud Italia</a>
 
 .. |LINK232| raw:: html
 
-    <a href="https://assets.innovazione.gov.it/1642694131-det_307_cloud_ulteriorilerqc_20220118.pdf" target="_blank">determina n. 307 (PDF)</a>
+    <a href="https://innovazione.gov.it/notizie/articoli/cloud-pa-online-gli-atti-per-classificare-dati-e-servizi-e-qualificare-i-servizi/" target="_blank">Atti per classificare dati e servizi e qualificare i servizi delle PA</a>
 
 .. |LINK233| raw:: html
 
-    <a href="https://assets.innovazione.gov.it/1642754054-all1det307acn.pdf" target="_blank">allegato (PDF)</a>
+    <a href="https://assets.innovazione.gov.it/1642693979-det_306_cloud_modclass_20220118.pdf" target="_blank">determina n. 306 (PDF)</a>
 
 .. |LINK234| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-pdnd-docs/it/bozza/index.html#" target="_blank">Linee Guida PDND per interoperabilità</a>
+    <a href="https://assets.innovazione.gov.it/1642694063-det_306_all1_20220118_modello.pdf" target="_blank">allegato (PDF)</a>
 
 .. |LINK235| raw:: html
 
-    <a href="http://maggioli.newsabbonati.it/nl/link?c=95qle&d=k48&h=2kqlramilaadcop3i4j0hq3iv0&i=1sb&iw=1&p=H462505551&s=lp&sn=dbl&z=a1d8" target="_blank">Consulta il regolamento relativo alla vigilanza sugli obblighi di transizione digitale</a>
+    <a href="https://assets.innovazione.gov.it/1642694131-det_307_cloud_ulteriorilerqc_20220118.pdf" target="_blank">determina n. 307 (PDF)</a>
 
 .. |LINK236| raw:: html
 
-    <a href="http://maggioli.newsabbonati.it/nl/link?c=95qle&d=k48&h=2v2ut5jij2b1b2a201ao7l2snq&i=1sb&iw=1&p=H462505552&s=lp&sn=dbl&z=a1d9" target="_blank">Consulta il regolamento relativo ai compiti del Difensore civico per il digitale</a>
+    <a href="https://assets.innovazione.gov.it/1642754054-all1det307acn.pdf" target="_blank">allegato (PDF)</a>
 
 .. |LINK237| raw:: html
 
-    <a href="https://innovazione.gov.it/notizie/articoli/documento-italia-digitale-2026/" target="_blank">documento</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-pdnd-docs/it/bozza/index.html#" target="_blank">Linee Guida PDND per interoperabilità</a>
 
 .. |LINK238| raw:: html
 
-    <a href="https://innovazione.gov.it/notizie/articoli/pa-digitale-2026-pubblicate-le-linee-guida-per-le-pa-locali/" target="_blank">Dai principali step procedurali, al completamento delle attività passando per le verifiche necessarie per ottenere l'erogazione delle risorse</a>
+    <a href="http://maggioli.newsabbonati.it/nl/link?c=95qle&d=k48&h=2kqlramilaadcop3i4j0hq3iv0&i=1sb&iw=1&p=H462505551&s=lp&sn=dbl&z=a1d8" target="_blank">Consulta il regolamento relativo alla vigilanza sugli obblighi di transizione digitale</a>
 
 .. |LINK239| raw:: html
+
+    <a href="http://maggioli.newsabbonati.it/nl/link?c=95qle&d=k48&h=2v2ut5jij2b1b2a201ao7l2snq&i=1sb&iw=1&p=H462505552&s=lp&sn=dbl&z=a1d9" target="_blank">Consulta il regolamento relativo ai compiti del Difensore civico per il digitale</a>
+
+.. |LINK240| raw:: html
+
+    <a href="https://innovazione.gov.it/notizie/articoli/documento-italia-digitale-2026/" target="_blank">documento</a>
+
+.. |LINK241| raw:: html
+
+    <a href="https://innovazione.gov.it/notizie/articoli/pa-digitale-2026-pubblicate-le-linee-guida-per-le-pa-locali/" target="_blank">Dai principali step procedurali, al completamento delle attività passando per le verifiche necessarie per ottenere l'erogazione delle risorse</a>
+
+.. |LINK242| raw:: html
 
     <a href="https://transizionedigitale.gitbook.io/integrazione-nellanpr-delle-liste-elettorali/" target="_blank">adeguamento e l'evoluzione delle caratteristiche tecniche della piattaforma di funzionamento dell'ANPR per la sua integrazione con le liste elettorali</a>
 
