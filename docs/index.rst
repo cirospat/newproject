@@ -37,7 +37,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 \ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design :guilabel:`Read the Docs`. \ |LINK8|\ . 
 
-:guilabel:`Read the Docs` è un format che si presta ottimamente alla rappresentazione e pubblicazione online di manuali e documentazione dove si rende necessario fornire spiegazioni e approfondimenti. 
+:guilabel:`Read the Docs` è un format che si presta ottimamente alla rappresentazione e pubblicazione online di manuali e documentazione dove si rende necessario fornire spiegazioni e approfondimenti.  
 
 |REPLACE5|
 
