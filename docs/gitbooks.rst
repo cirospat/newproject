@@ -4,6 +4,11 @@
 Gitbooks
 ########
 
+.. _h4a1731b4a53226b436c2d46d512d57:
+
+Comune Palermo
+**************
+
 \ |LINK1|\ 
 
 \ |LINK2|\ 
@@ -19,6 +24,25 @@ Gitbooks
 \ |LINK7|\ 
 
 \ |LINK8|\ 
+
+.. _h631602b50225b72694972d113b5728:
+
+Open data Sicilia
+*****************
+
+\ |LINK9|\ 
+
+\ |LINK10|\ 
+
+.. _h5650722b4d302347472103131505055:
+
+Ciro Spataro
+************
+
+\ |LINK11|\ 
+
+\ |LINK12|\ 
+
 
 .. bottom of content
 
@@ -54,4 +78,20 @@ Gitbooks
 .. |LINK8| raw:: html
 
     <a href="https://comune-palermo.gitbook.io/piao-2022-2024/" target="_blank">Piano Integrato di Attività e organizzazione 2022–2024 del comune di Palermo</a>
+
+.. |LINK9| raw:: html
+
+    <a href="https://opendatasicilia.gitbook.io/capitale-sociale-e-civic-hacking/" target="_blank">Capitale sociale e civic hacking: forme di partecipazione innovative nell'era dei dati</a>
+
+.. |LINK10| raw:: html
+
+    <a href="https://transizione-digitale.gitbook.io/fondamentali-transizione-digitale-pa/" target="_blank">Fondamentali transizione digitale PA</a>
+
+.. |LINK11| raw:: html
+
+    <a href="https://cirospataro.gitbook.io/photo-acchianata-montepellegrino/" target="_blank">photo acchianata Montepellegrino</a>
+
+.. |LINK12| raw:: html
+
+    <a href="https://cirospataro.gitbook.io/useful_tools/" target="_blank">useful_tools</a>
 
