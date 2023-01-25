@@ -1,8 +1,8 @@
 
-.. _h529721b76183e162a47154d4c43121b:
+.. _h791583d127426513b66f2c681f665:
 
-Piano  triennale  per l’Informatica del Comune di Palermo    
-#############################################################
+Piano  triennale  per l’Informatica del Comune di Palermo
+#########################################################
 
 [Piano versione 2020-2022 adottato con \ |LINK1|\ ]
 
