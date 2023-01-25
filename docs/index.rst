@@ -83,7 +83,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     servizi-digitali-comune-palermo
     Comune-Palermo-attuazione-CAD
     lavoro_agile
-    piano_triennale_informatica_comune_palermo_2020-2022_delibera_GC_149_29-06-2020
+    piano_triennale_informatica_comune_palermo
 
 
 .. toctree::  
