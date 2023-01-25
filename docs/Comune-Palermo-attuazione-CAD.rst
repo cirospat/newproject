@@ -946,6 +946,17 @@ Pubblicata la classifica nazionale ICity Rank 2022 sulle città digitali
 
 |
 
+Con Deliberazione di Giunta comunale è stato adottato il \ |LINK135|\ .
+
+|
+
+.. _h55315b7d4816222280ed1e7175f69:
+
+2023
+----
+
+|
+
 
 .. bottom of content
 
@@ -1705,4 +1716,8 @@ Pubblicata la classifica nazionale ICity Rank 2022 sulle città digitali
 .. |LINK134| raw:: html
 
     <a href="https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/report_digitalizzazione_enti/raw/main/Report_digitalizzazione__enti_pubblici/2022/REPORT-ICITYRANK-2022.pdf" target="_blank">edizione del 2022 conferma Palermo nel nucleo delle città in costante crescita digitale</a>
+
+.. |LINK135| raw:: html
+
+    <a href="https://drive.google.com/file/d/1C2XS73nf-2NH-Nx-wQlKL5oEpGpssQZo/view" target="_blank">Piano triennale per l’Informatica del Comune di Palermo 2022-2024</a>
 
