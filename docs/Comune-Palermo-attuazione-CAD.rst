@@ -953,6 +953,11 @@ Piano triennale per l’Informatica del comune di Palermo 2022-2024
 
 Con Deliberazione di Giunta comunale n. 295 del 14 dicembre 2022 è stato adottato il \ |LINK135|\ .
 
+
+.. admonition:: AGID pubblica il Piano triennale per l’Informatica 2022-2024 nel 2023
+
+    L’AGID ha pubblicato il Piano triennale nazionale per l'Informatica nella PA il \ |LINK136|\ . L’aggiornamento 2022-2024 del Piano Triennale recepisce in maniera sempre più estesa i contenuti del Piano Nazionale di Ripresa e Resilienza (PNRR), che rappresenta una straordinaria opportunità di accelerazione della fase di execution della trasformazione digitale della PA: nel Piano Triennale sono infatti presenti il riferimento ai target e alle linee di azione del PNRR, oltre all’indicazione degli Investimenti e degli Avvisi pubblicati, soprattutto nell’ambito della Missione 1.
+
 |
 
 .. _h55315b7d4816222280ed1e7175f69:
@@ -1725,4 +1730,8 @@ Con Deliberazione di Giunta comunale n. 295 del 14 dicembre 2022 è stato adotta
 .. |LINK135| raw:: html
 
     <a href="https://drive.google.com/file/d/1C2XS73nf-2NH-Nx-wQlKL5oEpGpssQZo/view" target="_blank">Piano triennale per l’Informatica del Comune di Palermo 2022-2024</a>
+
+.. |LINK136| raw:: html
+
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2023/01/23/piano-triennale-linformatica-nella-pa-adottato-laggiornamento-2022-2024" target="_blank">23 gennaio 2023</a>
 
