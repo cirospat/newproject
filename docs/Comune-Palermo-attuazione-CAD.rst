@@ -1,8 +1,8 @@
 
-.. _h1f312d631f7c3535211c7b47786f6e38:
+.. _hb16d783f3a3f670683d1f26353fa:
 
-Azioni svolte dal Comune di Palermo per l'attuazione del CAD e del Piano Triennale per l'Informatica nella PA
-#############################################################################################################
+Azioni svolte dal Comune di Palermo per l'attuazione del CAD e del Piano Triennale per l'Informatica
+####################################################################################################
 
 
 .. admonition:: Documenti cardine per l'attuazione dell'agenda digitale nella Pubblica Amministrazione italiana
@@ -946,7 +946,12 @@ Pubblicata la classifica nazionale ICity Rank 2022 sulle città digitali
 
 |
 
-Con Deliberazione di Giunta comunale è stato adottato il \ |LINK135|\ .
+.. _h6b321f292f5e3c2b747c732f59581049:
+
+Piano triennale per l’Informatica del comune di Palermo 2022-2024
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Con Deliberazione di Giunta comunale n. 295 del 14 dicembre 2022 è stato adottato il \ |LINK135|\ .
 
 |
 
