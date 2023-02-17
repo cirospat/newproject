@@ -25,23 +25,27 @@ Comune Palermo
 
 \ |LINK8|\ 
 
-.. _h631602b50225b72694972d113b5728:
-
-Open data Sicilia
-*****************
-
 \ |LINK9|\ 
 
 \ |LINK10|\ 
+
+.. _hc765a74712467d4822e5b151b6c52:
+
+OpendataSicilia
+***************
+
+\ |LINK11|\ 
+
+\ |LINK12|\ 
 
 .. _h5650722b4d302347472103131505055:
 
 Ciro Spataro
 ************
 
-\ |LINK11|\ 
+\ |LINK13|\ 
 
-\ |LINK12|\ 
+\ |LINK14|\ 
 
 
 .. bottom of content
@@ -81,17 +85,25 @@ Ciro Spataro
 
 .. |LINK9| raw:: html
 
-    <a href="https://opendatasicilia.gitbook.io/capitale-sociale-e-civic-hacking/" target="_blank">Capitale sociale e civic hacking: forme di partecipazione innovative nell'era dei dati</a>
+    <a href="https://comune-palermo.gitbook.io/regolamento-unico-controlli-interni/" target="_blank">Regolamento comunale unico sui controlli interni</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://transizione-digitale.gitbook.io/fondamentali-transizione-digitale-pa/" target="_blank">Fondamentali transizione digitale PA</a>
+    <a href="https://comune-palermo.gitbook.io/gestione-documentale-nella-pa-2023/" target="_blank">Gestione documentale nella PA - 2023</a>
 
 .. |LINK11| raw:: html
 
-    <a href="https://cirospataro.gitbook.io/photo-acchianata-montepellegrino/" target="_blank">photo acchianata Montepellegrino</a>
+    <a href="https://opendatasicilia.gitbook.io/capitale-sociale-e-civic-hacking/" target="_blank">Capitale sociale e civic hacking: forme di partecipazione innovative nell'era dei dati</a>
 
 .. |LINK12| raw:: html
+
+    <a href="https://transizione-digitale.gitbook.io/fondamentali-transizione-digitale-pa/" target="_blank">Fondamentali transizione digitale PA</a>
+
+.. |LINK13| raw:: html
+
+    <a href="https://cirospataro.gitbook.io/photo-acchianata-montepellegrino/" target="_blank">photo acchianata Montepellegrino</a>
+
+.. |LINK14| raw:: html
 
     <a href="https://cirospataro.gitbook.io/useful_tools/" target="_blank">useful_tools</a>
 
