@@ -108,12 +108,21 @@ Corsi online su 'competenze e servizi digitali'
 
 |
 
+.. _h19716b51753c4d703377b3450192c23:
+
+Corso online sulla gestione documentale 
+========================================
+
+\ |STYLE9|\ , da un MOOC (2023) del FormezPA rilasciato con licenza CC BY SA 4.0 Internazionale. Vai al \ |LINK31|\ .
+
+|
+
 .. _h4c532ed753b3e587f215a596b72211f:
 
 Webinar sulla costruzione di un 'progetto europeo'
 ==================================================
 
-\ |STYLE9|\ . Un validissimo \ |LINK31|\  e \ |LINK32|\  a cura della Fondazione IFEL - ANCI.
+\ |STYLE10|\ . Un validissimo \ |LINK32|\  e \ |LINK33|\  a cura della Fondazione IFEL - ANCI.
 
 |
 
@@ -122,13 +131,13 @@ Webinar sulla costruzione di un 'progetto europeo'
 Manuali vari 
 =============
 
-➽ \ |LINK33|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni).
+➽ \ |LINK34|\  per la catalogazione e pubblicazione degli eventi pubblici, effettuata tramite l'uso di un ``vocabolario controllato`` (applicativo in uso e riuso nelle Pubbliche Amministrazioni).
 
-➽ \ |LINK34|\  in uso al Comune di Palermo. Vedi anche il \ |LINK35|\  per l’uso dell’applicativo per la gestione delle Determinazioni dirigenziali e Deliberazioni.
+➽ \ |LINK35|\  in uso al Comune di Palermo. Vedi anche il \ |LINK36|\  per l’uso dell’applicativo per la gestione delle Determinazioni dirigenziali e Deliberazioni.
 
-➽ \ |LINK36|\  del comune di Palermo.
+➽ \ |LINK37|\  del comune di Palermo.
 
-➽ \ |LINK37|\  (\ |STYLE10|\ , \ |STYLE11|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK38|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK39|\ ]. Vedi anche la \ |LINK40|\ .
+➽ \ |LINK38|\  (\ |STYLE11|\ , \ |STYLE12|\ ) è un ambiente informatico per la gestione di corsi, basato sull'ideologia \ |LINK39|\  secondo la quale ogni apprendimento sarebbe facilitato dalla produzione di oggetti tangibili. [\ |LINK40|\ ]. Vedi anche la \ |LINK41|\ .
 
 
 |REPLACE3|
@@ -155,11 +164,13 @@ Manuali vari
 
 .. |STYLE8| replace:: **Videocorsi di informatica di base, a cura di Simone Chiarelli**
 
-.. |STYLE9| replace:: **Come si scrive bene un progetto europeo**
+.. |STYLE9| replace:: **Formazione, gestione e conservazione del documento informatico**
 
-.. |STYLE10| replace:: *Modular Object-Oriented Dynamic Learning Environment*
+.. |STYLE10| replace:: **Come si scrive bene un progetto europeo**
 
-.. |STYLE11| replace:: *ambiente per l'apprendimento modulare, dinamico, orientato ad oggetti*
+.. |STYLE11| replace:: *Modular Object-Oriented Dynamic Learning Environment*
+
+.. |STYLE12| replace:: *ambiente per l'apprendimento modulare, dinamico, orientato ad oggetti*
 
 
 .. |REPLACE1| raw:: html
@@ -316,41 +327,45 @@ Manuali vari
 
 .. |LINK31| raw:: html
 
-    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9640-video-come-si-scrive-bene-un-progetto-europeo" target="_blank">Webinar</a>
+    <a href="https://comune-palermo.gitbook.io/gestione-documentale-nella-pa-2023/" target="_blank">corso online</a>
 
 .. |LINK32| raw:: html
 
-    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9639-slide-come-si-scrive-bene-un-progetto-europeo" target="_blank">Materiali didattici</a>
+    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9640-video-come-si-scrive-bene-un-progetto-europeo" target="_blank">Webinar</a>
 
 .. |LINK33| raw:: html
 
-    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
+    <a href="https://www.fondazioneifel.it/documenti-e-pubblicazioni/item/9639-slide-come-si-scrive-bene-un-progetto-europeo" target="_blank">Materiali didattici</a>
 
 .. |LINK34| raw:: html
 
-    <a href="https://manuale-libro-firma-2-0.readthedocs.io/" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
+    <a href="http://manuale-openagenda.readthedocs.io" target="_blank">Manuale d'uso dell'applicativo Open Agenda</a>
 
 .. |LINK35| raw:: html
 
-    <a href="https://drive.google.com/file/d/1fSbB_QVZTznS5V_b2F1gqM73214SrIhU/view" target="_blank">tutorial</a>
+    <a href="https://manuale-libro-firma-2-0.readthedocs.io/" target="_blank">Manuale d'uso dell'applicativo Libro Firma</a>
 
 .. |LINK36| raw:: html
 
-    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
+    <a href="https://drive.google.com/file/d/1fSbB_QVZTznS5V_b2F1gqM73214SrIhU/view" target="_blank">tutorial</a>
 
 .. |LINK37| raw:: html
 
-    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
+    <a href="http://upload-dataset-comunepalermo.readthedocs.io" target="_blank">Manuale per il caricamento dei dataset sul portale open data</a>
 
 .. |LINK38| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
+    <a href="https://cirospat.readthedocs.io/it/latest/come-usare-Moodle.html" target="_blank">Guida in italiano all'uso degli strumenti di Moodle, a cura del FormezPA</a>
 
 .. |LINK39| raw:: html
 
-    <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
+    <a href="https://it.wikipedia.org/wiki/Costruzionismo_(teoria_dell%27apprendimento)" target="_blank">costruzionista</a>
 
 .. |LINK40| raw:: html
+
+    <a href="https://it.wikipedia.org/wiki/Moodle" target="_blank">Definizione di Wikipedia</a>
+
+.. |LINK41| raw:: html
 
     <a href="https://www.html.it/guide/moodle-learning-platform-la-guida/" target="_blank">guida a Moodle Learning Platform</a>
 
