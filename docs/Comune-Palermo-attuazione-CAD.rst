@@ -967,6 +967,15 @@ Con Deliberazione di Giunta comunale n. 295 del 14 dicembre 2022 è stato adotta
 
 |
 
+.. _h7e3e447c432974d233d7e421a7b2c10:
+
+Avvio dei progetti del PNRR missione 1 componente 1, PA DIGITALE. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Giugno 2022. 
+
+:guilabel:`PNRR` \ |LINK137|\ .
+
 
 .. bottom of content
 
@@ -1734,4 +1743,8 @@ Con Deliberazione di Giunta comunale n. 295 del 14 dicembre 2022 è stato adotta
 .. |LINK136| raw:: html
 
     <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2023/01/23/piano-triennale-linformatica-nella-pa-adottato-laggiornamento-2022-2024" target="_blank">23 gennaio 2023</a>
+
+.. |LINK137| raw:: html
+
+    <a href="https://comunepalermo.gitbook.io/pnrr-m1c1-pa-digitale/" target="_blank">Monitoraggio</a>
 
