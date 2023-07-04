@@ -4,15 +4,14 @@
 Piano  triennale  per l’Informatica del Comune di Palermo
 #########################################################
 
-[Piano versione 2020-2022 adottato con \ |LINK1|\ ]
-
 
 ..  Important:: 
 
-    \ |LINK2|\  [adottato con Deliberazione G.C. n. 133 del 12 maggio 2023]
+    \ |LINK1|\  [adottato con Deliberazione G.C. n. 133 del 12 maggio 2023]
     
-    \ |LINK3|\  [adottato con Deliberazione di G.C. n. 295 del 14 dicembre 2022]
+    \ |LINK2|\  [adottato con Deliberazione di G.C. n. 295 del 14 dicembre 2022]
 
+[Piano versione 2020-2022 adottato con \ |LINK3|\ ]
 
 .. admonition:: LA GIUNTA COMUNALE
 
@@ -1487,15 +1486,15 @@ L’Amministrazione, riconoscendo valida l’esperienza del Team nazionale di Tr
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/file/d/1WPdtkRW5poRM4lAFMxPNHDYJtKahbOvt/view?usp=sharing" target="_blank">deliberazione di Giunta Comunale n. 149 del 29.06.2020</a>
+    <a href="https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/piano-triennale-informatica/raw/main/Comune-Palermo-piano-triennale-informatica/aggiornamento-2023-piano-triennale-informatica-2022_2024-comune-palermo/deliberazione_GC_133_12_maggio_2023_adozione_aggiornamento_2023_piano_informatica_2022-2024-completo.pdf" target="_blank">Piano triennale per l’Informatica 2022-2024 con l’aggiornamento delle azioni 2024</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/piano-triennale-informatica/raw/main/Comune-Palermo-piano-triennale-informatica/aggiornamento-2023-piano-triennale-informatica-2022_2024-comune-palermo/deliberazione_GC_133_12_maggio_2023_adozione_aggiornamento_2023_piano_informatica_2022-2024-completo.pdf" target="_blank">Piano triennale per l’Informatica 2022-2024 con l’aggiornamento delle azioni 2024</a>
+    <a href="https://drive.google.com/file/d/1C2XS73nf-2NH-Nx-wQlKL5oEpGpssQZo/view" target="_blank">Piano triennale per l’Informatica del Comune di Palermo 2022-2024</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://drive.google.com/file/d/1C2XS73nf-2NH-Nx-wQlKL5oEpGpssQZo/view" target="_blank">Piano triennale per l’Informatica del Comune di Palermo 2022-2024</a>
+    <a href="https://drive.google.com/file/d/1WPdtkRW5poRM4lAFMxPNHDYJtKahbOvt/view?usp=sharing" target="_blank">deliberazione di Giunta Comunale n. 149 del 29.06.2020</a>
 
 .. |LINK4| raw:: html
 
