@@ -11,7 +11,11 @@ Piano  triennale  per l’Informatica del Comune di Palermo
     
     \ |LINK2|\  [adottato con Deliberazione di G.C. n. 295 del 14 dicembre 2022]
 
-[Piano versione 2020-2022 adottato con \ |LINK3|\ ]
+.. _h1b674d32772e2678202a432060245370:
+
+Piano versione 2020-2022 adottato con \ |LINK3|\ 
+*************************************************
+
 
 .. admonition:: LA GIUNTA COMUNALE
 
@@ -1494,7 +1498,7 @@ L’Amministrazione, riconoscendo valida l’esperienza del Team nazionale di Tr
 
 .. |LINK3| raw:: html
 
-    <a href="https://drive.google.com/file/d/1WPdtkRW5poRM4lAFMxPNHDYJtKahbOvt/view?usp=sharing" target="_blank">deliberazione di Giunta Comunale n. 149 del 29.06.2020</a>
+    <a href="https://drive.google.com/file/d/1WPdtkRW5poRM4lAFMxPNHDYJtKahbOvt/view?usp=sharing" target="_blank">Deliberazione di G.C. n. 149 del 29.06.2020</a>
 
 .. |LINK4| raw:: html
 
