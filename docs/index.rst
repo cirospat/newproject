@@ -185,7 +185,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |LINK1| raw:: html
 
-    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo (Servizio Innovazione, U.O. transizione al digitale)</a>
+    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo (Ufficio Innovazione, U.O. transizione digitale)</a>
 
 .. |LINK2| raw:: html
 
