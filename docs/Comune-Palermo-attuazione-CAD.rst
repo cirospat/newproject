@@ -972,9 +972,20 @@ Con Deliberazione di Giunta comunale n. 295 del 14 dicembre 2022 è stato adotta
 Avvio dei progetti del PNRR missione 1 componente 1, PA DIGITALE. 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Giugno 2022. 
+Giugno 2023. 
 
 :guilabel:`PNRR` \ |LINK137|\ .
+
+|
+
+.. _h721b634183f132d5d3b1b4c6f726c75:
+
+Adesione alla Piattaforma nazionale Notifiche Digitali (\ |LINK138|\ ).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Agosto 2023.  
+
+|
 
 
 .. bottom of content
@@ -1747,4 +1758,8 @@ Giugno 2022.
 .. |LINK137| raw:: html
 
     <a href="https://comunepalermo.gitbook.io/pnrr-m1c1-pa-digitale/" target="_blank">Monitoraggio</a>
+
+.. |LINK138| raw:: html
+
+    <a href="https://notifichedigitali.pagopa.it/" target="_blank">SEND</a>
 
