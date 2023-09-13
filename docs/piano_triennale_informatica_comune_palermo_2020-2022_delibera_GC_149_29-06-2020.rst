@@ -1,8 +1,8 @@
 
-.. _h791583d127426513b66f2c681f665:
+.. _h7d4366363e7f1a15a78b3835383558:
 
-Piano  triennale  per l’Informatica del Comune di Palermo
-#########################################################
+Piano  triennale  Informatica del Comune di Palermo
+###################################################
 
 
 ..  Important:: 
