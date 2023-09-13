@@ -965,6 +965,15 @@ Con Deliberazione di Giunta comunale n. 295 del 14 dicembre 2022 è stato adotta
 2023
 ----
 
+.. _h13a546f1d563a2629111cb1a682a75:
+
+Aggiornamento Piano Triennale Informatica
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+L’aggiornamento del \ |LINK137|\  è stato adottato con Deliberazione G.C. n. 133 del 12 maggio 2023.
+
+:guilabel:`Piano triennale per l’Informatica`
+
 |
 
 .. _h7e3e447c432974d233d7e421a7b2c10:
@@ -974,7 +983,7 @@ Avvio dei progetti del PNRR missione 1 componente 1, PA DIGITALE.
 
 Giugno 2023. 
 
-:guilabel:`PNRR` \ |LINK137|\  dei progetti.
+:guilabel:`PNRR` \ |LINK138|\  dei progetti.
 
 |
 
@@ -983,7 +992,7 @@ Giugno 2023.
 Adesione alla Piattaforma nazionale Notifiche Digitali.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Agosto 2023. Adesione alla piattaforma \ |LINK138|\ .
+Agosto 2023. Adesione alla piattaforma \ |LINK139|\ .
 
 :guilabel:`Piano triennale per l’Informatica`
 
@@ -1772,9 +1781,13 @@ Settembre 2023. Riferimento all’azione del \ |STYLE100|\  del Piano triennale 
 
 .. |LINK137| raw:: html
 
-    <a href="https://comunepalermo.gitbook.io/pnrr-m1c1-pa-digitale/" target="_blank">Monitoraggio</a>
+    <a href="https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/piano-triennale-informatica/raw/main/Comune-Palermo-piano-triennale-informatica/aggiornamento-2023-piano-triennale-informatica-2022_2024-comune-palermo/deliberazione_GC_133_12_maggio_2023_adozione_aggiornamento_2023_piano_informatica_2022-2024-completo.pdf" target="_blank">Piano triennale per l’Informatica 2022-2024 con le azioni per il 2024</a>
 
 .. |LINK138| raw:: html
+
+    <a href="https://comunepalermo.gitbook.io/pnrr-m1c1-pa-digitale/" target="_blank">Monitoraggio</a>
+
+.. |LINK139| raw:: html
 
     <a href="https://notifichedigitali.pagopa.it/" target="_blank">SEND</a>
 
