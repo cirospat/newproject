@@ -67,8 +67,10 @@ extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
 """
 #latex_documents = []
 
-latex_logo = "static/cirospat.jpg"
-html_logo = "static/cirospat.jpg"
+# latex_logo = "static/cirospat.jpg"    
+# html_logo = "static/cirospat.jpg"
+latex_logo = "static/ciro.jpeg"
+html_logo = "static/ciro.jpeg"
 
 
 # Adding Custom CSS or JavaScript to a Sphinx Project: al seguente link ci sono esempi
