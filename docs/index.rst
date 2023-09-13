@@ -8,7 +8,7 @@ Ciro Spataro pro-file
 
 \ |IMG1|\  ``cultura della documentazione`` 
 
-In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, ci aiuta tutti a migliorare l'ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
+In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, ci aiuta tutti a migliorare l'ambiente umano e professionale in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
 
 
 |REPLACE2|
@@ -37,9 +37,11 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 \ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine ``HTML`` con il design :guilabel:`Read the Docs`. 
 
+:guilabel:`Read the Docs` è un format che si presta alla pubblicazione online di manuali e documentazione dove è necessario fornire spiegazioni e approfondimenti su più capitoli/paragrafi. 
+
 \ |LINK8|\ . 
 
-:guilabel:`Read the Docs` è un format che si presta alla pubblicazione online di manuali e documentazione dove è necessario fornire spiegazioni e approfondimenti su più capitoli/paragrafi.  
+ 
 
 |REPLACE5|
 
