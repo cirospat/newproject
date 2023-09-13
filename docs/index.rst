@@ -8,7 +8,7 @@ Ciro Spataro pro-file
 
 \ |IMG1|\  ``cultura della documentazione`` 
 
-In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, credo che ci aiuta, tutti, a migliorare l'ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
+In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, ci aiuta tutti a migliorare l'ambiente in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
 
 
 |REPLACE2|
@@ -109,9 +109,6 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 +--------------------------------------------------------------------------------+
 
 
-|REPLACE7|
-
-
 .. bottom of content
 
 
@@ -146,31 +143,6 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 .. |REPLACE6| raw:: html
 
     <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 1px 9px; border-radius: 4px;">Indice dei contenuti</span></span></strong></h3>
-.. |REPLACE7| raw:: html
-
-    <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
-    
-    <div id="disqus_thread"></div>
-    <script>
-    
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-    /*
-    
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://guida-readthedocs.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 .. |LINK1| raw:: html
 
