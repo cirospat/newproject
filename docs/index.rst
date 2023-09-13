@@ -35,9 +35,11 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 |REPLACE4|
 
-\ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine HTML con il design :guilabel:`Read the Docs`. \ |LINK8|\ . 
+\ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine ``HTML`` con il design :guilabel:`Read the Docs`. 
 
-:guilabel:`Read the Docs` è un format che si presta ottimamente alla rappresentazione e pubblicazione online di manuali e documentazione dove si rende necessario fornire spiegazioni e approfondimenti.  
+\ |LINK8|\ . 
+
+:guilabel:`Read the Docs` è un format che si presta alla pubblicazione online di manuali e documentazione dove è necessario fornire spiegazioni e approfondimenti su più capitoli/paragrafi.  
 
 |REPLACE5|
 
@@ -131,7 +133,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 .. |REPLACE4| raw:: html
 
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Lo stile di questo portale</span></strong> 
-    <br>
+    </br>
     <a href="https://readthedocs.org" target="_blank" rel="noopener" title="Read the Docs"><img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_documentation_online-blue.svg?style=popout&logo=Read%20the%20Docs" /></a>
 .. |REPLACE5| raw:: html
 
