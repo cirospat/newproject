@@ -33,10 +33,13 @@ pygments_style = 'sphinx'
 
 extlinks = {}
 
+
+
 # -- Options for HTML output ---------------------------------------------------
 
-html_theme = 'default'
-
+# html_theme = 'default'
+# 13 ott 2023 provo a copiare da https://github.com/readthedocs/sphinx_rtd_theme/blob/master/docs/conf.py
+html_theme = 'sphinx_rtd_theme'
 
 html_static_path = ['static']
 
