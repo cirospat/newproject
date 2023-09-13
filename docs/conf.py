@@ -58,7 +58,7 @@ source_suffix = ['.rst', '.md']
 
 extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
 
-
+# per le extensions guarda anche https://sphinx-rtd-theme.readthedocs.io/en/stable/configuring.html
 
 
 """
