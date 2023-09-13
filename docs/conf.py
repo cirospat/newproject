@@ -3,9 +3,14 @@
 from __future__ import unicode_literals
 import sys, os
 
+# 13 ott 2023 provo a copiare da https://github.com/readthedocs/sphinx_rtd_theme/blob/master/docs/conf.py
+import re
 
+# 13 ott 2023 provo a copiare da https://github.com/readthedocs/sphinx_rtd_theme/blob/master/docs/conf.py
+from sphinx_rtd_theme import __version__ as theme_version
+from sphinx_rtd_theme import __version_full__ as theme_version_full
 
-#dal conf.py di tansignari #
+# dal conf.py di tansignari #
 import recommonmark
 from recommonmark.transform import AutoStructify
 
