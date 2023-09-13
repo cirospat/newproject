@@ -112,11 +112,6 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 |REPLACE7|
 
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|Per visualizzare e consultare correttamente i contenuti su questo portale sono necessari i seguenti requisiti minimi. \ |STYLE3|\ : PC con scheda video SVGA. Monitor a risoluzione minima di 1024x768 pixel con almeno 65.536 colori. \ |STYLE4|\ : Risoluzione minima di 360 x 640 px (modello di riferimento "Samsung Galaxy S3"). \ |STYLE5|\ : ottimizzazione per Microsoft Internet Explorer vers. 11.0 e successive vers., Microsoft Edge vers. 25.1 e immediatamente successive, Mozilla Firefox vers. 50.0 e successive, Chrome vers. 40.0 o successiva, Opera vers. 48.0 o successiva e Safari vers.9.0 o successiva.|
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-
-
 .. bottom of content
 
 
@@ -125,12 +120,6 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 .. |STYLE1| replace:: **civico**
 
 .. |STYLE2| replace:: **La visualizzazione dei contenuti su questo portale è costruita**
-
-.. |STYLE3| replace:: **Risoluzione video desktop**
-
-.. |STYLE4| replace:: **Navigazione su Mobile**
-
-.. |STYLE5| replace:: **Navigazione su PC**
 
 
 .. |REPLACE1| raw:: html
