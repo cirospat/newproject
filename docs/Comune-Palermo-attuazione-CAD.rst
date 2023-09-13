@@ -974,16 +974,29 @@ Avvio dei progetti del PNRR missione 1 componente 1, PA DIGITALE.
 
 Giugno 2023. 
 
-:guilabel:`PNRR` \ |LINK137|\ .
+:guilabel:`PNRR` \ |LINK137|\  dei progetti.
 
 |
 
-.. _h721b634183f132d5d3b1b4c6f726c75:
+.. _h341be33372b4d462f401763564e785d:
 
-Adesione alla Piattaforma nazionale Notifiche Digitali (\ |LINK138|\ ).
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Adesione alla Piattaforma nazionale Notifiche Digitali.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Agosto 2023.  
+Agosto 2023. Adesione alla piattaforma \ |LINK138|\ .
+
+:guilabel:`Piano triennale per l’Informatica`
+
+|
+
+.. _h37492672206b527565b452230632e12:
+
+Effettuata dichiarazione accessibilità del sito web del comune di Palermo.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Settembre 2023. Riferimento all’azione del \ |STYLE100|\  del Piano triennale per l’Informatica 2022-2024.
+
+:guilabel:`Piano triennale per l’Informatica`
 
 |
 
@@ -1190,6 +1203,8 @@ Agosto 2023.
 .. |STYLE98| replace:: **adesione alla Piattaforma Notifiche Digitali**
 
 .. |STYLE99| replace:: **L'importo del  progetto è di euro 97.247**
+
+.. |STYLE100| replace:: **cap. 1, PA. LA28**
 
 
 .. |REPLACE1| raw:: html
