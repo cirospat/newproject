@@ -4,10 +4,20 @@
 OpendataSicilia & communities
 #############################
 
+.. _hc765a74712467d4822e5b151b6c52:
+
+OpendataSicilia
+===============
+
 .. raw:: html
    :file: opendatasicilia.html
 
 |
+
+.. _h38234ed44446234323682121f3c:
+
+I raduni di OpendataSicilia
+---------------------------
 
 \ |LINK1|\  | \ |LINK2|\  | \ |LINK3|\  | \ |LINK4|\  | \ |LINK5|\  | \ |LINK6|\  
 
