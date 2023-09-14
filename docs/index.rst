@@ -8,16 +8,20 @@ Ciro Spataro pro-file
 
 \ |IMG1|\  ``cultura della documentazione`` 
 
++-------------------------------------------------------------+
+|Immagine tratta da \ |LINK1|\ , rilasciata con lic. CC BY 3.0|
++-------------------------------------------------------------+
+
 In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, ci aiuta tutti a migliorare l'ambiente umano e professionale in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
 
 
 |REPLACE2|
 
-* \ |LINK1|\ ;
+* \ |LINK2|\ ;
 
-* \ |LINK2|\  | \ |LINK3|\  | \ |LINK4|\  | \ |LINK5|\  | \ |LINK6|\ .
+* \ |LINK3|\  | \ |LINK4|\  | \ |LINK5|\  | \ |LINK6|\  | \ |LINK7|\ .
 
-* \ |LINK7|\ .
+* \ |LINK8|\ .
 
 
 |REPLACE3|
@@ -39,7 +43,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 :guilabel:`Read the Docs` è un format che si presta alla pubblicazione online di manuali e documentazione dove è necessario fornire spiegazioni e approfondimenti su più capitoli/paragrafi. 
 
-\ |LINK8|\ . 
+\ |LINK9|\ . 
 
  
 
@@ -108,11 +112,6 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     privacy
 
 
-+--------------------------------------------------------------------------------+
-|[Immagine, in alto, del libro, by \ |LINK9|\ , rilasciata con licenza CC BY 3.0]|
-+--------------------------------------------------------------------------------+
-
-
 .. bottom of content
 
 
@@ -151,39 +150,39 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |LINK1| raw:: html
 
-    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo (Ufficio Innovazione, U.O. transizione digitale)</a>
+    <a href="https://www.deviantart.com/superawesomevectors/gallery/" target="_blank">superawesomevectors</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://opendatasicilia.it/" target="_blank">OpendataSicilia, community civica sulla cultura dei dati</a>
+    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo (Ufficio Innovazione, U.O. transizione digitale)</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://ods2018.opendatasicilia.it/#presentazioni" target="_blank">raduno ODS 2018</a>
+    <a href="http://opendatasicilia.it/" target="_blank">OpendataSicilia, community civica sulla cultura dei dati</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://youtu.be/bTGsnqO1-Tc" target="_blank">raduno ODS 2020</a>
+    <a href="http://ods2018.opendatasicilia.it/#presentazioni" target="_blank">raduno ODS 2018</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://youtu.be/QOd1SKzxRqA" target="_blank">raduno ODS 2021</a>
+    <a href="https://youtu.be/bTGsnqO1-Tc" target="_blank">raduno ODS 2020</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://youtu.be/aUnRy4Rin8Q" target="_blank">raduno ODS 2022</a>
+    <a href="https://youtu.be/QOd1SKzxRqA" target="_blank">raduno ODS 2021</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://forum.italia.it/" target="_blank">Developers Italia, forum nazionale sui servizi pubblici digitali</a>
+    <a href="https://youtu.be/aUnRy4Rin8Q" target="_blank">raduno ODS 2022</a>
 
 .. |LINK8| raw:: html
 
-    <a href="http://googledocs.readthedocs.io/" target="_blank">A questo link un tutorial che spiega in maniera facile come usare questi strumenti</a>
+    <a href="https://forum.italia.it/" target="_blank">Developers Italia, forum nazionale sui servizi pubblici digitali</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://www.deviantart.com/superawesomevectors/gallery/" target="_blank">superawesomevectors</a>
+    <a href="http://googledocs.readthedocs.io/" target="_blank">A questo link un tutorial che spiega in maniera facile come usare questi strumenti</a>
 
 
 .. |IMG1| image:: static/index-cirospat_1.jpeg
