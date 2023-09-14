@@ -22,7 +22,7 @@ Competenze digitali per i dipendenti della PA
 
 è il documento che descrive l’insieme minimo delle conoscenze e abilità che ogni dipendente pubblico, non specialista IT, dovrebbe possedere per partecipare attivamente alla trasformazione digitale della pubblica amministrazione. Rappresenta lo strumento di riferimento sia per l’attività di autoverifica delle competenze digitali che per la definizione di corsi volti a indirizzare i fabbisogni formativi rilevati.
 
-L’obiettivo generale del Syllabus [\ |LINK2|\ ]  è fare in modo che tutti i dipendenti pubblici siano in grado di operare attivamente in modo sicuro, consapevole, collaborativo e orientato al risultato all’interno di una pubblica amministrazione sempre più digitale. Il Syllabus si concentra esclusivamente [\ |LINK3|\ ] sugli aspetti pertinenti alle competenze digitali complementari richieste ad un dipendente pubblico che lavora in ambienti digitali. 
+L’obiettivo generale del Syllabus è fare in modo che tutti i dipendenti pubblici siano in grado di operare attivamente in modo sicuro, consapevole, collaborativo e orientato al risultato all’interno di una pubblica amministrazione sempre più digitale. Il Syllabus si concentra esclusivamente sugli aspetti pertinenti alle competenze digitali complementari richieste ad un dipendente pubblico che lavora in ambienti digitali. 
 
 |
 
@@ -62,7 +62,7 @@ L’obiettivo generale del Syllabus [\ |LINK2|\ ]  è fare in modo che tutti i d
 
 |
 
-La realizzazione del Syllabus è stata curata dall'Ufficio per l'innovazione e la digitalizzazione del Dipartimento della Funzione Pubblica. E' stato, inoltre, oggetto di una \ |LINK4|\  (2019) che ha consentito di raccogliere numerosi contributi e proposte utili alla stesura finale del documento (\ |LINK5|\ ).
+La realizzazione del Syllabus è stata curata dall'Ufficio per l'innovazione e la digitalizzazione del Dipartimento della Funzione Pubblica. E' stato, inoltre, oggetto di una consultazione pubblica (2019) che ha consentito di raccogliere numerosi contributi e proposte utili alla stesura finale del documento.
 
 --------
 
@@ -532,11 +532,11 @@ Riconoscere le principali tecnologie emergenti e come possono o potranno essere 
 Decreto di adozione della «Strategia Nazionale per le Competenze Digitali» del Ministero per l’innovazione tecnologica e la digitalizzazione, del 31 luglio 2020
 ****************************************************************************************************************************************************************
 
-\ |LINK6|\ .
+\ |LINK2|\ .
 
  
 
-\ |LINK7|\ .
+\ |LINK3|\ .
 
 
 .. admonition:: Quattro sono gli assi di intervento della Strategia
@@ -592,7 +592,7 @@ Decreto di adozione della «Strategia Nazionale per le Competenze Digitali» del
 Pubblicato il Piano Operativo della Strategia Nazionale per le competenze digitali, 23 dicembre 2020
 ****************************************************************************************************
 
-Dopo aver realizzato un primo e importante traguardo, adottando la Strategia Nazionale per le Competenze Digitali, l’Italia ha ora il suo \ |LINK8|\ .
+Dopo aver realizzato un primo e importante traguardo, adottando la Strategia Nazionale per le Competenze Digitali, l’Italia ha ora il suo \ |LINK4|\ .
 
 \ |STYLE60|\ 
 
@@ -610,7 +610,7 @@ Tra gli obiettivi del Piano Operativo da realizzare entro il 2025 ne segnaliamo 
 
 \ |STYLE61|\ 
 
-Il Piano indica le azioni di sistema per l’attuazione delle linee di intervento della \ |LINK9|\  e delinea gli obiettivi, misurabili, per ciascuna azione nell’ambito dei quattro assi individuati:
+Il Piano indica le azioni di sistema per l’attuazione delle linee di intervento della \ |LINK5|\  e delinea gli obiettivi, misurabili, per ciascuna azione nell’ambito dei quattro assi individuati:
 
 #. Istruzione e Formazione Superiore - per lo sviluppo delle competenze digitali all’interno dei cicli d’istruzione, con il coordinamento del Ministero dell’Istruzione e del Ministero dell’Università e della Ricerca;
 
@@ -622,21 +622,21 @@ Il Piano indica le azioni di sistema per l’attuazione delle linee di intervent
 
 L’architettura del piano si articola in 4 assi strategici nell’ambito di ciascuno dei quali sono individuate le azioni di breve, medio e lungo termine che attuano le priorità e le linee di intervento definite nella Strategia. Il modello che consente il monitoraggio di tali azioni include un cruscotto di indicatori di impatto generale, suddivisi per ciascun asse, tra fattori abilitanti e risultati da ottenere, nonché indicatori specifici per ciascuna azione.
 
-\ |LINK10|\ 
+\ |LINK6|\ 
 
-\ |LINK11|\ 
+\ |LINK7|\ 
 
-\ |LINK12|\ 
+\ |LINK8|\ 
 
 Gli ALLEGATI con le schede di dettaglio delle azioni del Piano:
 
-* \ |LINK13|\ 
+* \ |LINK9|\ 
 
-* \ |LINK14|\ 
+* \ |LINK10|\ 
 
-* \ |LINK15|\ 
+* \ |LINK11|\ 
 
-* \ |LINK16|\ 
+* \ |LINK12|\ 
 
 .. bottom of content
 
@@ -768,65 +768,49 @@ Gli ALLEGATI con le schede di dettaglio delle azioni del Piano:
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.competenzedigitali.gov.it/syllabus.html" target="_blank">Link al Syllabus</a>
+    <a href="https://www.syllabus.gov.it/syllabus/" target="_blank">Link al Syllabus</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-dfp-uid-maggio-2019.pdf#page=11" target="_blank">vedi pag.11 del documento</a>
+    <a href="https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/" target="_blank">L’Italia ha la sua Strategia Nazionale per le Competenze Digitali</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-dfp-uid-maggio-2019.pdf#page=12" target="_blank">vedi pag.12 del documento</a>
+    <a href="https://innovazione.gov.it/assets/docs/DTD-1277-A-ALL1.pdf#page=24" target="_blank">Link alla pagina del Decreto concernente le iniziative nel settore dei dipendenti pubblici</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://commenta.formez.it/ch/syllabus" target="_blank">consultazione pubblica</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/pubblicato-piano-operativo-strategia-nazionale-competenze-digitali/" target="_blank">Piano Operativo</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://www.competenzedigitali.gov.it/fileadmin/user_upload/syllabus-competenze-digitali-pa-report-consultazione-pubblica-dfp-uid-maggio-2019.pdf" target="_blank">vai agli esiti della consultazione pubblica</a>
+    <a href="https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/" target="_blank">Strategia Nazionale</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/" target="_blank">L’Italia ha la sua Strategia Nazionale per le Competenze Digitali</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Strategia-Nazionale-per-le-competenze-digitali.pdf" target="_blank">IL PIANO COMPLETO</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://innovazione.gov.it/assets/docs/DTD-1277-A-ALL1.pdf#page=24" target="_blank">Link alla pagina del Decreto concernente le iniziative nel settore dei dipendenti pubblici</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Executive-Summary.pdf" target="_blank">LA SINTESI DEL PIANO</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/pubblicato-piano-operativo-strategia-nazionale-competenze-digitali/" target="_blank">Piano Operativo</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Infografica.pdf" target="_blank">LA VERSIONE INFOGRAFICA DEL PIANO</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/" target="_blank">Strategia Nazionale</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice1-Istruzione-e-Formazione-superiore.pdf" target="_blank">APPENDICE 1: ISTRUZIONE E FORMAZIONE SUPERIORE</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Strategia-Nazionale-per-le-competenze-digitali.pdf" target="_blank">IL PIANO COMPLETO</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice2-Forza-lavoro-attiva.pdf" target="_blank">APPENDICE 2: FORZA LAVORO ATTIVA</a>
 
 .. |LINK11| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Executive-Summary.pdf" target="_blank">LA SINTESI DEL PIANO</a>
-
-.. |LINK12| raw:: html
-
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Infografica.pdf" target="_blank">LA VERSIONE INFOGRAFICA DEL PIANO</a>
-
-.. |LINK13| raw:: html
-
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice1-Istruzione-e-Formazione-superiore.pdf" target="_blank">APPENDICE 1: ISTRUZIONE E FORMAZIONE SUPERIORE</a>
-
-.. |LINK14| raw:: html
-
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice2-Forza-lavoro-attiva.pdf" target="_blank">APPENDICE 2: FORZA LAVORO ATTIVA</a>
-
-.. |LINK15| raw:: html
-
     <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice3-Competenze-specialistiche-ICT.pdf" target="_blank">APPENDICE 3: COMPETENZE SPECIALISTICHE ICT</a>
 
-.. |LINK16| raw:: html
+.. |LINK12| raw:: html
 
     <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice4-Cittadini.pdf" target="_blank">APPENDICE 4: CITTADINI</a>
 
