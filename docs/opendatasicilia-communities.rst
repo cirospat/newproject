@@ -4,55 +4,40 @@
 OpendataSicilia & communities
 #############################
 
-
-|REPLACE1|
-
 .. raw:: html
    :file: opendatasicilia.html
 
 |
 
+\ |LINK1|\  | \ |LINK2|\  | \ |LINK3|\  | \ |LINK4|\  | \ |LINK5|\  | \ |LINK6|\  
 
-|REPLACE2|
-
-\ |LINK1|\  (materiali).
-
---------
+|
 
 .. _h5c545a492429339c4615585c52303c:
 
 active citizenship & communities
 ================================
 
-\ |LINK2|\  [articoli sui dati aperti e pubblica amministrazione digitale]
+\ |LINK7|\  [articoli sui dati aperti e pubblica amministrazione digitale]
 
-\ |LINK3|\  [articoli pubblicati sulla community dell'innovazione della pubblica amministrazione]
+\ |LINK8|\  [articoli pubblicati sulla community dell'innovazione della pubblica amministrazione]
 
-\ |LINK4|\  [repository pubblico di dataset in formato aperto]
+\ |LINK9|\  [repository pubblico di dataset in formato aperto]
 
-\ |LINK5|\  [interazioni nel forum del Team Digitale per confronti sui servizi digitali della pubblica amministrazione]
+\ |LINK10|\  [interazioni nel forum del Team Digitale per confronti sui servizi digitali della pubblica amministrazione]
 
-\ |LINK6|\  [articoli sui dati aperti e riuso dei dati]
+\ |LINK11|\  [articoli sui dati aperti e riuso dei dati]
 
 --------
 
 
-|REPLACE3|
+|REPLACE1|
 
 
 .. bottom of content
 
 
 .. |REPLACE1| raw:: html
-
-    <iframe width="100%" height="500" src="https://www.youtube.com/embed/Zj2Kosq-v6k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    <span class="footer_small">Raduno della community di OpendataSicilia del 9 e 10 novembre 2018 a Palermo.</span>
-    
-.. |REPLACE2| raw:: html
-
-    <iframe width="100%" height="500" src="https://www.youtube.com/embed/fWQVfFhEPUA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    <span class="footer_small">Presentazione su open data il 27 ottobre 2018 in occasione del Linux Day ai Cantieri Culturali della Zisa a Palermo. Registrazione video a cura di Free Circle.</span>
-.. |REPLACE3| raw:: html
 
     <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
     
@@ -80,25 +65,45 @@ active citizenship & communities
 
 .. |LINK1| raw:: html
 
-    <a href="https://docs.google.com/presentation/d/e/2PACX-1vRdrd1jFn_aDrUmfOKD0R09rz6CE-N2IIwBCPtZt6bdVAlxaSyxGHZUm8Ijn96D_V1GIQ8J7AL03MQM/pub?start=false&loop=false&delayms=5000" target="_blank">Presentazione</a>
+    <a href="https://ods2022.opendatasicilia.it/" target="_blank">Raduno 2022</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://medium.com/@cirospat/latest" target="_blank">medium</a>
+    <a href="https://ods2021.opendatasicilia.it/" target="_blank">Raduno 2021</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://www.innovatoripa.it/blogs/cirospataro" target="_blank">innovatoripa</a>
+    <a href="https://ods2018.opendatasicilia.it/" target="_blank">Raduno 2018</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://data.world/cirospat" target="_blank">data.world</a>
+    <a href="https://opendatasicilia.it/2017/04/04/opendatafest-2017-caltanissetta-2-4-giugno-2017-odfest17/" target="_blank">Raduno 2017</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://forum.italia.it/u/cirospat/activity" target="_blank">servizi pubblici digitali</a>
+    <a href="https://ods16.opendatasicilia.it/#programma" target="_blank">Raduno 2016</a>
 
 .. |LINK6| raw:: html
+
+    <a href="https://opendatasicilia.it/2015/09/15/ods15-il-primo-grande-raduno-sugli-opendata-in-sicilia-raccontato-dai-protagonisti/" target="_blank">Raduno 2015</a>
+
+.. |LINK7| raw:: html
+
+    <a href="https://medium.com/@cirospat/latest" target="_blank">medium</a>
+
+.. |LINK8| raw:: html
+
+    <a href="http://www.innovatoripa.it/blogs/cirospataro" target="_blank">innovatoripa</a>
+
+.. |LINK9| raw:: html
+
+    <a href="https://data.world/cirospat" target="_blank">data.world</a>
+
+.. |LINK10| raw:: html
+
+    <a href="https://forum.italia.it/u/cirospat/activity" target="_blank">servizi pubblici digitali</a>
+
+.. |LINK11| raw:: html
 
     <a href="http://opendatasicilia.it/author/cirospat/" target="_blank">opendatasicilia</a>
 
