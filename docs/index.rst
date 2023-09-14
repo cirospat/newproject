@@ -104,7 +104,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 
 .. toctree::  
-    :maxdepth: 3
+    :maxdepth: 2
     :caption: Informativa Privacy
 
     privacy
