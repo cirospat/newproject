@@ -94,7 +94,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. toctree::  
     :maxdepth: 2
-    :caption: Amministrazione Digitale
+    :caption: Amministrazione digitale
 
     fondamentali
     responsabile_transizione_digitale
@@ -105,7 +105,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. toctree::  
     :maxdepth: 2
-    :caption: Informativa Privacy
+    :caption: Informativa privacy
 
     privacy
 
