@@ -53,7 +53,7 @@ L’\ |STYLE17|\  \ |STYLE18|\  individua 7 ambiti di azione principali:
 
 #. \ |LINK3|\ 
 
-#. migliorare il contesto per \ |LINK4|\  delle Tecnologie dell’Informazione e della Comunicazione (ICT)
+#. migliorare il contesto per l’interoperabilità tra prodotti e servizi delle Tecnologie dell’Informazione e della Comunicazione (ICT)
 
 #. stimolare la fiducia in internet e la sicurezza online
 
@@ -109,7 +109,7 @@ Le persone, per esercitare al meglio i diritti di cittadinanza digitale, dovrebb
 Un modello europeo per comprendere le competenze digitali dei cittadini
 =======================================================================
 
-E’ stato creato un modello a livello europeo per definire le competenze digitali dei cittadini che si chiama \ |LINK5|\ , organizzato in 5 aree di competenza, 21 competenze, 8 livelli di padronanza.
+E’ stato creato un modello a livello europeo per definire le competenze digitali dei cittadini che si chiama \ |LINK4|\ , organizzato in 5 aree di competenza, 21 competenze, 8 livelli di padronanza.
 
 |
 
@@ -224,9 +224,7 @@ Gli 8 livelli di padronanza delle 21 competenze digitali dei cittadini suddivisi
 
 .. admonition:: Fonte
 
-    \ |LINK6|\ 
-    
-    \ |LINK7|\ 
+    \ |LINK5|\ 
 
 |
 
@@ -666,7 +664,7 @@ Utilizzare gli strumenti e le tecnologie per i processi collaborativi e per la c
 |                                                                                                                           |                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                         |
 |                                                                                                                           |                                                                                                                                                                                                                                                    |Sono in grado di superare situazioni inattese che potrebbero verificarsi nell’ambiente digitale durante la co-creazione del dépliant e del blog (ad es. controllare l’accesso per la modifica di un documento o incapacità di un collega di salvare le modifiche al materiale).                                                          |
 |                                                                                                                           |                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                         |
-|                                                                                                                           |                                                                                                                                                                                                                                                    |02 – Scenario di apprendimento: Preparare un lavoro di gruppo con i compagni di classe\ |LINK8|\                                                                                                                                                                                                                                         |
+|                                                                                                                           |                                                                                                                                                                                                                                                    |02 – Scenario di apprendimento: Preparare un lavoro di gruppo con i compagni di classe\ |LINK6|\                                                                                                                                                                                                                                         |
 |                                                                                                                           |                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                         |
 |                                                                                                                           |                                                                                                                                                                                                                                                    |Sono in grado di utilizzare le risorse digitali più appropriate per creare un video relativo al lavoro sul mio tablet con i miei compagni di classe. Sono inoltre in grado di distinguere le soluzioni digitali più appropriate da quelle meno appropriate per creare questo video e lavorare in un ambiente digitale con altri compagni.|
 |                                                                                                                           |                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                         |
@@ -1254,7 +1252,7 @@ Essere in grado di evitare rischi per la salute e minacce al benessere psico-fis
 |                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                        |
 |                                                                                                                           |* variare l’utilizzo delle tecnologie digitali per il benessere sociale e l’inclusione sociale.                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|7 – Altamente specializzato                                                                                                |* creare soluzioni a problemi complessi con definizione limitata finalizzate a evitare i rischi per la salute e le minacce al benessere psico-fisico quando si utilizzano le tecnologie digitali, proteggere sé stessi e gli altri da pericoli negli ambienti digitali e utilizzare le tecnologie digitali per il benessere sociale e l’inclusione sociale,|01 – Scenario di occupazione: Utilizzo di un account Twitter per condividere informazioni sulla mia azienda\ |LINK9|\                                                                                                                                                                   |
+|7 – Altamente specializzato                                                                                                |* creare soluzioni a problemi complessi con definizione limitata finalizzate a evitare i rischi per la salute e le minacce al benessere psico-fisico quando si utilizzano le tecnologie digitali, proteggere sé stessi e gli altri da pericoli negli ambienti digitali e utilizzare le tecnologie digitali per il benessere sociale e l’inclusione sociale,|01 – Scenario di occupazione: Utilizzo di un account Twitter per condividere informazioni sulla mia azienda\ |LINK7|\                                                                                                                                                                   |
 |                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                        |
 |A un livello altamente specializzato, sono in grado di:                                                                    |* integrare le mie conoscenze per fornire un contributo alle prassi e alle conoscenze professionali e fornire supporto ad altri nella tutela della salute.                                                                                                                                                                                                 |Sono in grado di creare una campagna digitale dei possibili rischi per la salute dell’utilizzo di Twitter per scopi professionali (ad es. bullismo, dipendenze, benessere fisico) che può essere condivisa e utilizzata da altri colleghi e professionisti sui loro smartphone e tablet.|
 |                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                        |
@@ -1596,11 +1594,11 @@ Capire dove occorre migliorare o aggiornare i propri fabbisogni di competenze di
 Decreto di adozione della «Strategia Nazionale per le Competenze Digitali» del Ministero per l’innovazione tecnologica e la digitalizzazione, del 31 luglio 2020
 ****************************************************************************************************************************************************************
 
-\ |LINK10|\ .
+\ |LINK8|\ .
 
  
 
-\ |LINK11|\ .
+\ |LINK9|\ .
 
 
 .. admonition:: Quattro sono gli assi di intervento della Strategia
@@ -1615,9 +1613,9 @@ Decreto di adozione della «Strategia Nazionale per le Competenze Digitali» del
 
 \ |STYLE55|\ 
 
-Molti dei progetti attivi sono raccolti all’interno dell’iniziativa nazionale \ |LINK12|\ , nella relativa Coalizione Nazionale per le competenze digitali, alla quale hanno aderito da maggio 2019 numerosi soggetti (tra cui scuole, Università, amministrazioni, aziende, associazioni ed enti.
+Molti dei progetti attivi sono raccolti all’interno dell’iniziativa nazionale \ |LINK10|\ , nella relativa Coalizione Nazionale per le competenze digitali, alla quale hanno aderito da maggio 2019 numerosi soggetti (tra cui scuole, Università, amministrazioni, aziende, associazioni ed enti.
 
-Molteplici sono anche le iniziative di facilitazione digitale e di formazione diffuse sul territorio promosse da Regioni (come \ |LINK13|\  e \ |LINK14|\ ), amministrazioni comunali, in-house IT, biblioteche e associazioni. 
+Molteplici sono anche le iniziative di facilitazione digitale e di formazione diffuse sul territorio promosse da Regioni (come \ |LINK11|\  e \ |LINK12|\ ), amministrazioni comunali, in-house IT, biblioteche e associazioni. 
 
 Al fine di rafforzare il ruolo dei giovani come facilitatori digitali per favorire l'accesso alle competenze digitali, è in corso di strutturazione un asse sperimentale di "\ |STYLE56|\ " promosso dal Ministro per l'Innovazione tecnologica e la Digitalizzazione e il Ministro per le Politiche giovanili. 
 
@@ -1670,7 +1668,7 @@ In sintesi la situazione attuale:
 Pubblicato il Piano Operativo della Strategia Nazionale per le competenze digitali, 23 dicembre 2020
 ****************************************************************************************************
 
-Dopo aver realizzato un primo e importante traguardo, adottando la Strategia Nazionale per le Competenze Digitali, l’Italia ha ora il suo \ |LINK15|\ .
+Dopo aver realizzato un primo e importante traguardo, adottando la Strategia Nazionale per le Competenze Digitali, l’Italia ha ora il suo \ |LINK13|\ .
 
 \ |STYLE66|\ 
 
@@ -1688,7 +1686,7 @@ Tra gli obiettivi del Piano Operativo da realizzare entro il 2025 ne segnaliamo 
 
 \ |STYLE67|\ 
 
-Il Piano indica le azioni di sistema per l’attuazione delle linee di intervento della \ |LINK16|\  e delinea gli obiettivi, misurabili, per ciascuna azione nell’ambito dei quattro assi individuati:
+Il Piano indica le azioni di sistema per l’attuazione delle linee di intervento della \ |LINK14|\  e delinea gli obiettivi, misurabili, per ciascuna azione nell’ambito dei quattro assi individuati:
 
 #. Istruzione e Formazione Superiore - per lo sviluppo delle competenze digitali all’interno dei cicli d’istruzione, con il coordinamento del Ministero dell’Istruzione e del Ministero dell’Università e della Ricerca;
 
@@ -1700,21 +1698,21 @@ Il Piano indica le azioni di sistema per l’attuazione delle linee di intervent
 
 L’architettura del piano si articola in 4 assi strategici nell’ambito di ciascuno dei quali sono individuate le azioni di breve, medio e lungo termine che attuano le priorità e le linee di intervento definite nella Strategia. Il modello che consente il monitoraggio di tali azioni include un cruscotto di indicatori di impatto generale, suddivisi per ciascun asse, tra fattori abilitanti e risultati da ottenere, nonché indicatori specifici per ciascuna azione.
 
+\ |LINK15|\ 
+
+\ |LINK16|\ 
+
 \ |LINK17|\ 
 
-\ |LINK18|\ 
-
-\ |LINK19|\ 
-
 Gli ALLEGATI con le schede di dettaglio delle azioni del Piano:
+
+* \ |LINK18|\ 
+
+* \ |LINK19|\ 
 
 * \ |LINK20|\ 
 
 * \ |LINK21|\ 
-
-* \ |LINK22|\ 
-
-* \ |LINK23|\ 
 
 
 .. bottom of content
@@ -1875,81 +1873,73 @@ Gli ALLEGATI con le schede di dettaglio delle azioni del Piano:
 
 .. |LINK4| raw:: html
 
-    <a href="https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/master/" target="_blank">l’interoperabilità tra prodotti e servizi</a>
+    <a href="http://www.cittadinanzadigitale.eu/wp-content/uploads/2017/11/DigComp%202.1_Sandra%20Troia.pdf" target="_blank">DIGCOMP</a>
 
 .. |LINK5| raw:: html
 
-    <a href="http://www.cittadinanzadigitale.eu/wp-content/uploads/2017/11/DigComp%202.1_Sandra%20Troia.pdf" target="_blank">DIGCOMP</a>
+    <a href="https://docs.italia.it/italia/designers-italia/lg-competenzedigitali-docs/it/stabile/index.html" target="_blank">docs.italia.it/italia/designers-italia/lg-competenzedigitali-docs</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://competenze-digitali-docs.readthedocs.io/" target="_blank">competenze-digitali-docs.readthedocs.io</a>
+    <a href="https://competenze-digitali-docs.readthedocs.io/it/latest/doc/competenze_di_base/sezione3.html#scenario-di-apprendimento-preparare-un-lavoro-di-gruppo-con-i-compagni-di-classe-3" target="_blank">¶</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://docs.italia.it/italia/designers-italia/lg-competenzedigitali-docs/it/stabile/index.html" target="_blank">docs.italia.it/italia/designers-italia/lg-competenzedigitali-docs</a>
+    <a href="https://competenze-digitali-docs.readthedocs.io/it/latest/doc/competenze_di_base/sezione3.html#scenario-di-occupazione-utilizzo-di-un-account-twitter-per-condividere-informazioni-sulla-mia-azienda-2" target="_blank">¶</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://competenze-digitali-docs.readthedocs.io/it/latest/doc/competenze_di_base/sezione3.html#scenario-di-apprendimento-preparare-un-lavoro-di-gruppo-con-i-compagni-di-classe-3" target="_blank">¶</a>
+    <a href="https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/" target="_blank">L’Italia ha la sua Strategia Nazionale per le Competenze Digitali</a>
 
 .. |LINK9| raw:: html
 
-    <a href="https://competenze-digitali-docs.readthedocs.io/it/latest/doc/competenze_di_base/sezione3.html#scenario-di-occupazione-utilizzo-di-un-account-twitter-per-condividere-informazioni-sulla-mia-azienda-2" target="_blank">¶</a>
+    <a href="https://innovazione.gov.it/assets/docs/DTD-1277-A-ALL1.pdf#page=38" target="_blank">Link alla pagina del Decreto concernente le competenze digitali dei cittadini</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/" target="_blank">L’Italia ha la sua Strategia Nazionale per le Competenze Digitali</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/it/" target="_blank">Repubblica Digitale</a>
 
 .. |LINK11| raw:: html
 
-    <a href="https://innovazione.gov.it/assets/docs/DTD-1277-A-ALL1.pdf#page=38" target="_blank">Link alla pagina del Decreto concernente le competenze digitali dei cittadini</a>
+    <a href="https://www.paneeinternet.it/" target="_blank">Pane e internet in Emilia-Romagna</a>
 
 .. |LINK12| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/it/" target="_blank">Repubblica Digitale</a>
+    <a href="https://digipass.regione.umbria.it/" target="_blank">DigiPASS in Umbria</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://www.paneeinternet.it/" target="_blank">Pane e internet in Emilia-Romagna</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/pubblicato-piano-operativo-strategia-nazionale-competenze-digitali/" target="_blank">Piano Operativo</a>
 
 .. |LINK14| raw:: html
 
-    <a href="https://digipass.regione.umbria.it/" target="_blank">DigiPASS in Umbria</a>
+    <a href="https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/" target="_blank">Strategia Nazionale</a>
 
 .. |LINK15| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/pubblicato-piano-operativo-strategia-nazionale-competenze-digitali/" target="_blank">Piano Operativo</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Strategia-Nazionale-per-le-competenze-digitali.pdf" target="_blank">IL PIANO COMPLETO</a>
 
 .. |LINK16| raw:: html
 
-    <a href="https://innovazione.gov.it/strategia-nazionale-per-le-competenze-digitali/" target="_blank">Strategia Nazionale</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Executive-Summary.pdf" target="_blank">LA SINTESI DEL PIANO</a>
 
 .. |LINK17| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Strategia-Nazionale-per-le-competenze-digitali.pdf" target="_blank">IL PIANO COMPLETO</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Infografica.pdf" target="_blank">LA VERSIONE INFOGRAFICA DEL PIANO</a>
 
 .. |LINK18| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Executive-Summary.pdf" target="_blank">LA SINTESI DEL PIANO</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice1-Istruzione-e-Formazione-superiore.pdf" target="_blank">APPENDICE 1: ISTRUZIONE E FORMAZIONE SUPERIORE</a>
 
 .. |LINK19| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Piano-Operativo-Infografica.pdf" target="_blank">LA VERSIONE INFOGRAFICA DEL PIANO</a>
+    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice2-Forza-lavoro-attiva.pdf" target="_blank">APPENDICE 2: FORZA LAVORO ATTIVA</a>
 
 .. |LINK20| raw:: html
 
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice1-Istruzione-e-Formazione-superiore.pdf" target="_blank">APPENDICE 1: ISTRUZIONE E FORMAZIONE SUPERIORE</a>
-
-.. |LINK21| raw:: html
-
-    <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice2-Forza-lavoro-attiva.pdf" target="_blank">APPENDICE 2: FORZA LAVORO ATTIVA</a>
-
-.. |LINK22| raw:: html
-
     <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice3-Competenze-specialistiche-ICT.pdf" target="_blank">APPENDICE 3: COMPETENZE SPECIALISTICHE ICT</a>
 
-.. |LINK23| raw:: html
+.. |LINK21| raw:: html
 
     <a href="https://repubblicadigitale.innovazione.gov.it/assets/docs/Appendice4-Cittadini.pdf" target="_blank">APPENDICE 4: CITTADINI</a>
 
