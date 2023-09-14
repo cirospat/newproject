@@ -6,25 +6,20 @@
 Ciro Spataro pro-file
 *********************
 
-
-|REPLACE2|
-
 \ |IMG1|\  ``cultura della documentazione``  
 
-+-------------------------------------------------------------+
-|Immagine tratta da \ |LINK1|\ , rilasciata con lic. CC BY 3.0|
-+-------------------------------------------------------------+
+|REPLACE2|
 
 In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, ci aiuta tutti a migliorare l'ambiente umano e professionale in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
 
 
 |REPLACE3|
 
-* \ |LINK2|\ ;
+* \ |LINK1|\ ;
 
-* \ |LINK3|\  | \ |LINK4|\  | \ |LINK5|\  | \ |LINK6|\  | \ |LINK7|\ .
+* \ |LINK2|\  | \ |LINK3|\  | \ |LINK4|\  | \ |LINK5|\  | \ |LINK6|\ .
 
-* \ |LINK8|\ .
+* \ |LINK7|\ .
 
 
 |REPLACE4|
@@ -46,7 +41,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 :guilabel:`Read the Docs` è un format che si presta alla pubblicazione online di manuali e documentazione dove è necessario fornire spiegazioni e approfondimenti su più capitoli/paragrafi. 
 
-\ |LINK9|\ . 
+\ |LINK8|\ . 
 
  
 
@@ -130,18 +125,14 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <img src="https://img.shields.io/github/last-commit/cirospat/newproject.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />   
 .. |REPLACE2| raw:: html
 
-    <p><span class="footer_small"></span></p>
-    <table style="width: 508px; background-color: #ffffff; border-color: #ffffff; height: 96px;">
+    <table>
     <tbody>
-    <tr style="height: 9px;">
-    <td style="width: 498px; height: 9px;"><img src="https://cirospat.readthedocs.io/it/latest/_images/index-cirospat_1.jpeg" alt="" width="101" height="71" /><span class="footer_small"><span><code>cultura della documentazione<code></code></code></span></span></td>
-    </tr>
-    <tr style="height: 5px;">
-    <td style="width: 498px; height: 5px;"><span class="footer_small">Immagine tratta da&nbsp;<a href="https://www.deviantart.com/superawesomevectors/gallery/" target="_blank" rel="noopener">superawesomevectors</a>&nbsp;e rilasciata con lic. CC BY</span></td>
+    <tr>
+    <td><span class="footer_small">Immagine tratta da&nbsp;<a href="https://www.deviantart.com/superawesomevectors/gallery/" target="_blank" rel="noopener">superawesomevectors</a>&nbsp;e rilasciata con lic. CC BY</span></td>
     </tr>
     </tbody>
     </table>
-    <p><span class="footer_small"><span style="font-weight: 400;">&nbsp;&nbsp;</span></span></p>
+    <p><br />&nbsp;&nbsp;<br /><span class="footer_small"></span></p>
     <p><span class="footer_small"></span></p>
     <p><span class="footer_small">&nbsp;</span></p>
 .. |REPLACE3| raw:: html
@@ -169,37 +160,33 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.deviantart.com/superawesomevectors/gallery/" target="_blank">superawesomevectors</a>
+    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo (Ufficio Innovazione, U.O. transizione digitale)</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://opendata.comune.palermo.it/" target="_blank">Comune di Palermo (Ufficio Innovazione, U.O. transizione digitale)</a>
+    <a href="http://opendatasicilia.it/" target="_blank">OpendataSicilia, community civica sulla cultura dei dati</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://opendatasicilia.it/" target="_blank">OpendataSicilia, community civica sulla cultura dei dati</a>
+    <a href="http://ods2018.opendatasicilia.it/#presentazioni" target="_blank">raduno ODS 2018</a>
 
 .. |LINK4| raw:: html
 
-    <a href="http://ods2018.opendatasicilia.it/#presentazioni" target="_blank">raduno ODS 2018</a>
+    <a href="https://youtu.be/bTGsnqO1-Tc" target="_blank">raduno ODS 2020</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://youtu.be/bTGsnqO1-Tc" target="_blank">raduno ODS 2020</a>
+    <a href="https://youtu.be/QOd1SKzxRqA" target="_blank">raduno ODS 2021</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://youtu.be/QOd1SKzxRqA" target="_blank">raduno ODS 2021</a>
+    <a href="https://youtu.be/aUnRy4Rin8Q" target="_blank">raduno ODS 2022</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://youtu.be/aUnRy4Rin8Q" target="_blank">raduno ODS 2022</a>
-
-.. |LINK8| raw:: html
-
     <a href="https://forum.italia.it/" target="_blank">Developers Italia, forum nazionale sui servizi pubblici digitali</a>
 
-.. |LINK9| raw:: html
+.. |LINK8| raw:: html
 
     <a href="http://googledocs.readthedocs.io/" target="_blank">A questo link un tutorial che spiega in maniera facile come usare questi strumenti</a>
 
