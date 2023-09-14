@@ -3,14 +3,14 @@
 from __future__ import unicode_literals
 import sys, os
 
-# 13 ott 2023 provo a copiare da https://github.com/readthedocs/sphinx_rtd_theme/blob/master/docs/conf.py
+# il 13 sett 2023 copiando da https://github.com/readthedocs/sphinx_rtd_theme/blob/master/docs/conf.py ho dato questa configurazione
 import re
 
-# 13 ott 2023 provo a copiare da https://github.com/readthedocs/sphinx_rtd_theme/blob/master/docs/conf.py
+# il 13 sett 2023 copiando da https://github.com/readthedocs/sphinx_rtd_theme/blob/master/docs/conf.py ho dato questa configurazione
 from sphinx_rtd_theme import __version__ as theme_version
 from sphinx_rtd_theme import __version_full__ as theme_version_full
 
-# dal conf.py di tansignari #
+# dal conf.py di tansignari 
 import recommonmark
 from recommonmark.transform import AutoStructify
 
@@ -20,6 +20,8 @@ on_rtd = os.environ.get('READTHEDOCS') == 'True'
 sys.path.append(os.path.abspath(os.pardir))
 
 __version__ = '1.0'
+
+
 
 # -- General configuration -----------------------------------------------------
 
@@ -37,8 +39,8 @@ extlinks = {}
 
 # -- Options for HTML output ---------------------------------------------------
 
-# html_theme = 'default'
-# 13 ott 2023 provo a copiare da https://github.com/readthedocs/sphinx_rtd_theme/blob/master/docs/conf.py
+# html_theme = 'default'   (eliminato il 13 sett 2023 in quanto la parte grafica di RTD si era rotta
+# il 13 sett 2023 copiando da https://github.com/readthedocs/sphinx_rtd_theme/blob/master/docs/conf.py ho dato questa configurazione
 html_theme = 'sphinx_rtd_theme'
 
 html_static_path = ['static']
@@ -47,7 +49,7 @@ def setup(app):
     # overrides for wide tables in RTD theme
     app.add_stylesheet('theme_overrides.css') # path relative to static
   
-#dal conf.py di tansignari #
+# dal conf.py di tansignari 
 from recommonmark.parser import CommonMarkParser
 
 source_parsers = {
@@ -71,6 +73,7 @@ extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
 # html_logo = "static/cirospat.jpg"
 latex_logo = "static/ciro.jpeg"
 html_logo = "static/ciro.jpeg"
+
 
 
 # Adding Custom CSS or JavaScript to a Sphinx Project: al seguente link ci sono esempi
