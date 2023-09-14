@@ -59,7 +59,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
 
 .. toctree::  
-    :maxdepth: 2
+    :maxdepth: 1
     :caption: Profile
 
     social-profile
