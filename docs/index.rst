@@ -132,9 +132,6 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     </tr>
     </tbody>
     </table>
-    <p><br />&nbsp;&nbsp;<br /><span class="footer_small"></span></p>
-    <p><span class="footer_small"></span></p>
-    <p><span class="footer_small">&nbsp;</span></p>
 .. |REPLACE3| raw:: html
 
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Reti di impegno</span></strong>
