@@ -176,8 +176,6 @@ Formazione RTD da la #PAdigitale (2020)
 
 Da \ |LINK33|\  + \ |LINK34|\  ogni martedì di ottobre e novembre 2020, un webinar gratuito per approfondire, con taglio pratico, i temi caldi della digitalizzazione, visti dalla prospettiva di un \ |LINK35|\ . I webinar sono consultabili anche registrati.
 
-\ |LINK36|\ .
-
 |
 
 .. _h11624e11424447a5b3341172774521f:
@@ -185,7 +183,7 @@ Da \ |LINK33|\  + \ |LINK34|\  ogni martedì di ottobre e novembre 2020, un webi
 Formazione RTD da AGID (2020)
 *****************************
 
-\ |LINK37|\ . Temi trattati:
+\ |LINK36|\ . Temi trattati:
 
 * Accessibilità
 
@@ -199,13 +197,13 @@ Formazione RTD da AGID (2020)
 
 * Riuso e open source
 
-1° webinar (\ |STYLE2|\  - 10 novembre 2020) - \ |LINK38|\  - \ |LINK39|\ .
+1° webinar (\ |STYLE2|\  - 10 novembre 2020) - \ |LINK37|\  - \ |LINK38|\ .
 
-2° webinar (\ |STYLE3|\  – 17 novembre 2020) - \ |LINK40|\  - \ |LINK41|\ .
+2° webinar (\ |STYLE3|\  – 17 novembre 2020) - \ |LINK39|\  - \ |LINK40|\ .
 
-3° webinar (\ |STYLE4|\  –  24 novembre 2020) - \ |LINK42|\ .
+3° webinar (\ |STYLE4|\  –  24 novembre 2020) - \ |LINK41|\ .
 
-4° webinar (\ |STYLE5|\  – 1 dicembre 2020) - \ |LINK43|\ .
+4° webinar (\ |STYLE5|\  – 1 dicembre 2020) - \ |LINK42|\ .
 
 
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -221,7 +219,7 @@ Formazione RTD da AGID (2020)
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |\ |STYLE8|\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|Fare riferimento a quanto in proposito chiarito dalle linee guida AGID su Firme multiple e campi testo a questo link \ |LINK44|\                                                                                                                                                                                                                                                                                                                                                                 |
+|Fare riferimento a quanto in proposito chiarito dalle linee guida AGID su Firme multiple e campi testo a questo link \ |LINK43|\                                                                                                                                                                                                                                                                                                                                                                 |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |\ |STYLE9|\                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
@@ -268,9 +266,9 @@ Formazione RTD da AGID (2020)
 |L’immodificabilità dei documenti – meglio spiegata nella Linee guida sul documento informatico – è assicurata dalla sottoscrizione elettronica. Più che il trasferimento di file si raccomanda la condivisione o pubblicazione dello stesso.                                                                                                                                                                                                                                                     |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-5° webinar (\ |STYLE20|\  – 9 dicembre 2020) - \ |LINK45|\ .
+5° webinar (\ |STYLE20|\  – 9 dicembre 2020) - \ |LINK44|\ .
 
-6° webinar (\ |STYLE21|\  – 15 dicembre 2020) - \ |LINK46|\ .
+6° webinar (\ |STYLE21|\  – 15 dicembre 2020) - \ |LINK45|\ .
 
 |
 
@@ -279,25 +277,25 @@ Formazione RTD da AGID (2020)
 Formazione RTD dal FormezPA (2021)
 **********************************
 
-Un utile e interessante ciclo di webinar formativi sull'attività del responsabile della Transizione Digitale negli enti pubblici, organizzato dal FormezPA. I materiali (video e presentazioni pdf) dei webinar sono consultabili al seguente link: \ |LINK47|\ . Si accede con le credenziali personali per la fruizione dei contenuti formativi del FormezPA (accedi con :class:`DFPAuth`).
+Un utile e interessante ciclo di webinar formativi sull'attività del responsabile della Transizione Digitale negli enti pubblici, organizzato dal FormezPA. I materiali (video e presentazioni pdf) dei webinar sono consultabili al seguente link: \ |LINK46|\ . Si accede con le credenziali personali per la fruizione dei contenuti formativi del FormezPA (accedi con :class:`DFPAuth`).
 
-* 17/02/21 - \ |LINK48|\ 
+* 17/02/21 - \ |LINK47|\ 
 
-* 24/02/21 - \ |LINK49|\ 
+* 24/02/21 - \ |LINK48|\ 
 
-* 03/03/21 - \ |LINK50|\ 
+* 03/03/21 - \ |LINK49|\ 
 
-* 10/03/21 - \ |LINK51|\ 
+* 10/03/21 - \ |LINK50|\ 
 
-* 17/03/21 - \ |LINK52|\ 
+* 17/03/21 - \ |LINK51|\ 
 
-* 24/03/21 - \ |LINK53|\ 
+* 24/03/21 - \ |LINK52|\ 
 
-* 31/03/21 - \ |LINK54|\ 
+* 31/03/21 - \ |LINK53|\ 
 
-* 07/04/21 - \ |LINK55|\ 
+* 07/04/21 - \ |LINK54|\ 
 
-* 14/04/21 - \ |LINK56|\ 
+* 14/04/21 - \ |LINK55|\ 
 
 |
 
@@ -533,85 +531,81 @@ Un utile e interessante ciclo di webinar formativi sull'attività del responsabi
 
 .. |LINK36| raw:: html
 
-    <a href="https://www.lapadigitale.it/rtd-academy/" target="_blank">Link al sito RTD Accademy</a>
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/11/02/rtd-al-il-primo-ciclo-formazione-agid-crui" target="_blank">Formazione dal 10 novembre al 15 dicembre 2020 da AGID + CRUI</a>
 
 .. |LINK37| raw:: html
 
-    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2020/11/02/rtd-al-il-primo-ciclo-formazione-agid-crui" target="_blank">Formazione dal 10 novembre al 15 dicembre 2020 da AGID + CRUI</a>
+    <a href="https://www.crui.it/archivio-notizie/i%C2%B0-ciclo-di-formazione-agid-%E2%80%93-crui-per-rtd-202011021047.html" target="_blank">link ai materiali</a>
 
 .. |LINK38| raw:: html
 
-    <a href="https://www.crui.it/archivio-notizie/i%C2%B0-ciclo-di-formazione-agid-%E2%80%93-crui-per-rtd-202011021047.html" target="_blank">link ai materiali</a>
+    <a href="https://www.youtube.com/watch?v=Sc-EDRnWlSY" target="_blank">link alla videoregistrazione</a>
 
 .. |LINK39| raw:: html
 
-    <a href="https://www.youtube.com/watch?v=Sc-EDRnWlSY" target="_blank">link alla videoregistrazione</a>
+    <a href="https://www.fondazionecrui.it/wp-content/uploads/2020/11/3_Il-ruolo-e-la-valorizzazione-dei-dati-nella-PA_Slide.pdf" target="_blank">link ai materiali</a>
 
 .. |LINK40| raw:: html
 
-    <a href="https://www.fondazionecrui.it/wp-content/uploads/2020/11/3_Il-ruolo-e-la-valorizzazione-dei-dati-nella-PA_Slide.pdf" target="_blank">link ai materiali</a>
+    <a href="https://youtu.be/Bl0SfUgWg-s" target="_blank">link alla videoregistrazione</a>
 
 .. |LINK41| raw:: html
 
-    <a href="https://youtu.be/Bl0SfUgWg-s" target="_blank">link alla videoregistrazione</a>
+    <a href="https://youtu.be/wqnFGG-f8-U" target="_blank">link alla videoregistrazione</a>
 
 .. |LINK42| raw:: html
 
-    <a href="https://youtu.be/wqnFGG-f8-U" target="_blank">link alla videoregistrazione</a>
+    <a href="https://youtu.be/A_smdqx0NZU" target="_blank">link alla video registrazione</a>
 
 .. |LINK43| raw:: html
 
-    <a href="https://youtu.be/A_smdqx0NZU" target="_blank">link alla video registrazione</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/linee_guida/firme_multiple_1.pdf" target="_blank">https://www.agid.gov.it/sites/default/files/repository_files/linee_guida/firme_multiple_1.pdf</a>
 
 .. |LINK44| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/linee_guida/firme_multiple_1.pdf" target="_blank">https://www.agid.gov.it/sites/default/files/repository_files/linee_guida/firme_multiple_1.pdf</a>
+    <a href="https://youtu.be/TBnz6P9EZ98" target="_blank">link alla video registrazione</a>
 
 .. |LINK45| raw:: html
 
-    <a href="https://youtu.be/TBnz6P9EZ98" target="_blank">link alla video registrazione</a>
+    <a href="https://youtu.be/sDP9c6tobpM" target="_blank">link alla video registrazione</a>
 
 .. |LINK46| raw:: html
 
-    <a href="https://youtu.be/sDP9c6tobpM" target="_blank">link alla video registrazione</a>
+    <a href="http://learn.formez.it/course/view.php?id=196" target="_blank">I Responsabili per la Transizione al Digitale e l'Innovazione negli Enti Locali</a>
 
 .. |LINK47| raw:: html
 
-    <a href="http://learn.formez.it/course/view.php?id=196" target="_blank">I Responsabili per la Transizione al Digitale e l'Innovazione negli Enti Locali</a>
+    <a href="http://eventipa.formez.it/node/293144" target="_blank">"Il Responsabile per la transizione al digitale tra Piano Triennale per l’informatica nella PA e DL Semplificazioni"</a>
 
 .. |LINK48| raw:: html
 
-    <a href="http://eventipa.formez.it/node/293144" target="_blank">"Il Responsabile per la transizione al digitale tra Piano Triennale per l’informatica nella PA e DL Semplificazioni"</a>
+    <a href="http://eventipa.formez.it/node/294186" target="_blank">"Il Piano Triennale per l’informatica nella PA: dalla strategia all’applicazione"</a>
 
 .. |LINK49| raw:: html
 
-    <a href="http://eventipa.formez.it/node/294186" target="_blank">"Il Piano Triennale per l’informatica nella PA: dalla strategia all’applicazione"</a>
+    <a href="http://eventipa.formez.it/node/294191" target="_blank">"Come applicare il Piano Triennale in un Ente Locale"</a>
 
 .. |LINK50| raw:: html
 
-    <a href="http://eventipa.formez.it/node/294191" target="_blank">"Come applicare il Piano Triennale in un Ente Locale"</a>
+    <a href="http://eventipa.formez.it/node/294192" target="_blank">"Formazione, gestione e conservazione dei documenti informatici"</a>
 
 .. |LINK51| raw:: html
 
-    <a href="http://eventipa.formez.it/node/294192" target="_blank">"Formazione, gestione e conservazione dei documenti informatici"</a>
+    <a href="http://eventipa.formez.it/node/294204" target="_blank">"Digitalizzare i processi negli Enti Locali"</a>
 
 .. |LINK52| raw:: html
 
-    <a href="http://eventipa.formez.it/node/294204" target="_blank">"Digitalizzare i processi negli Enti Locali"</a>
+    <a href="http://eventipa.formez.it/node/294205" target="_blank">"La sicurezza informatica: proteggere il patrimonio informativo dell’Amministrazione"</a>
 
 .. |LINK53| raw:: html
 
-    <a href="http://eventipa.formez.it/node/294205" target="_blank">"La sicurezza informatica: proteggere il patrimonio informativo dell’Amministrazione"</a>
+    <a href="http://eventipa.formez.it/node/294206" target="_blank">"Il sito web: comunicare con i cittadini rispettando le normative"</a>
 
 .. |LINK54| raw:: html
 
-    <a href="http://eventipa.formez.it/node/294206" target="_blank">"Il sito web: comunicare con i cittadini rispettando le normative"</a>
-
-.. |LINK55| raw:: html
-
     <a href="http://eventipa.formez.it/node/294207" target="_blank">"I dati nella Pubblica Amministrazione"</a>
 
-.. |LINK56| raw:: html
+.. |LINK55| raw:: html
 
     <a href="http://eventipa.formez.it/node/294210" target="_blank">"L’Open Government"</a>
 
