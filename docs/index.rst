@@ -6,7 +6,7 @@
 Ciro Spataro pro-file
 *********************
 
-\ |IMG1|\  ``cultura della documentazione`` 
+\ |IMG1|\  ``cultura della documentazione``  
 
 +-------------------------------------------------------------+
 |Immagine tratta da \ |LINK1|\ , rilasciata con lic. CC BY 3.0|
