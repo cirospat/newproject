@@ -6,6 +6,9 @@
 Ciro Spataro pro-file
 *********************
 
+
+|REPLACE2|
+
 \ |IMG1|\  ``cultura della documentazione``  
 
 +-------------------------------------------------------------+
@@ -15,7 +18,7 @@ Ciro Spataro pro-file
 In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per ``lavoro`` e per ``passione civica``. Lo faccio per condividere conoscenza, ci aiuta tutti a migliorare l'ambiente umano e professionale in cui operiamo. Descrivo le attività lavorative in cui sono coinvolto tenendo traccia delle diverse iniziative avviate e dei risultati raggiunti nel tempo.
 
 
-|REPLACE2|
+|REPLACE3|
 
 * \ |LINK2|\ ;
 
@@ -24,7 +27,7 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 * \ |LINK8|\ .
 
 
-|REPLACE3|
+|REPLACE4|
 
 * i ``dati`` che resi ``pubblici`` valorizzano il patrimonio informativo della Pubblica Amministrazione, e ne consentono un riuso creativo anche a fini economici;
 
@@ -37,7 +40,7 @@ In questo spazio descrivo le principali \ |STYLE0|\  in cui sono impegnato per `
 Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insieme ad altre persone, contribuiscono a migliorare le competenze digitali, utili nell'ambiente di lavoro al comune di Palermo.
 
 
-|REPLACE4|
+|REPLACE5|
 
 \ |STYLE2|\  → su pagine di ``Google Doc``, che grazie al plugin ``GGeditor`` vengono pubblicate automaticamente in formato ``RST`` → su un repository dentro ``Github``, che a sua volta espone i contenuti → su pagine ``HTML`` con il design :guilabel:`Read the Docs`. 
 
@@ -47,12 +50,12 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
 
  
 
-|REPLACE5|
+|REPLACE6|
 
 --------
 
 
-|REPLACE6|
+|REPLACE7|
 
 .. toctree::
   :maxdepth: 2
@@ -127,16 +130,32 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     <img src="https://img.shields.io/github/last-commit/cirospat/newproject.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />   
 .. |REPLACE2| raw:: html
 
-    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Reti di impegno</span></strong>
+    <p><span class="footer_small"></span></p>
+    <table style="width: 508px; background-color: #ffffff; border-color: #ffffff; height: 96px;">
+    <tbody>
+    <tr style="height: 9px;">
+    <td style="width: 498px; height: 9px;"><img src="https://cirospat.readthedocs.io/it/latest/_images/index-cirospat_1.jpeg" alt="" width="101" height="71" /><span class="footer_small"><span><code>cultura della documentazione<code></code></code></span></span></td>
+    </tr>
+    <tr style="height: 5px;">
+    <td style="width: 498px; height: 5px;"><span class="footer_small">Immagine tratta da&nbsp;<a href="https://www.deviantart.com/superawesomevectors/gallery/" target="_blank" rel="noopener">superawesomevectors</a>&nbsp;e rilasciata con lic. CC BY</span></td>
+    </tr>
+    </tbody>
+    </table>
+    <p><span class="footer_small"><span style="font-weight: 400;">&nbsp;&nbsp;</span></span></p>
+    <p><span class="footer_small"></span></p>
+    <p><span class="footer_small">&nbsp;</span></p>
 .. |REPLACE3| raw:: html
 
-    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Ambiti principali</span></strong>
+    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Reti di impegno</span></strong>
 .. |REPLACE4| raw:: html
+
+    <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Ambiti principali</span></strong>
+.. |REPLACE5| raw:: html
 
     <strong><span style="background-color: #63796d; color: #ffffff; display: inline-block; padding: 1px 9px; border-radius: 4px;">Lo stile di questo portale</span></strong> 
     </br>
     <a href="https://readthedocs.org" target="_blank" rel="noopener" title="Read the Docs"><img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_documentation_online-blue.svg?style=popout&logo=Read%20the%20Docs" /></a>
-.. |REPLACE5| raw:: html
+.. |REPLACE6| raw:: html
 
     <img src="https://img.shields.io/badge/%22Google_doc%22-for_text_editing-green.svg?style=popout&logo=google%20drive&logoColor=green" />
     </br>
@@ -144,7 +163,7 @@ Le iniziative di carattere \ |STYLE1|\ , vissute in spirito collaborativo insiem
     </br>
     <img src="https://img.shields.io/badge/%22Read_the_Docs%22-for_publishing_online-blue.svg?style=popout&logo=Read%20the%20Docs" />
     <p><a href="http://googledocs.readthedocs.io" target="_blank" rel="noopener" title="tutorial: Google docs to Read the Docs"><img src="https://googledocs.readthedocs.io/it/latest/_images/gdocs-rtd_1.png" /></a></p>
-.. |REPLACE6| raw:: html
+.. |REPLACE7| raw:: html
 
     <h3><strong><span style="color: #ffffff;"><span style="background-color: #63796d; display: inline-block; padding: 1px 9px; border-radius: 4px;">Indice dei contenuti</span></span></strong></h3>
 
