@@ -18,3 +18,7 @@ Licenza dei contenuti di questo repository: CC BY
 
 https://sourcerer.io/cirospat
 
+
+***
+### Changelog <code> importante </code> dal 13 settembre 2023
+Nei proeggetti READ TH EDOCS -> sul file  **`conf.py`** cambiare da   `html_theme = 'default'`  a     `html_theme = 'sphinx_rtd_theme'`
