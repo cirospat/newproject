@@ -20,5 +20,5 @@ https://sourcerer.io/cirospat
 
 
 ***
-### Changelog <code> importante </code> dal 13 settembre 2023
+### <code> Changelog importante dal 13 settembre 2023 </code>
 Nei proeggetti READ THE DOCS -> sul file  **`conf.py`** cambiare da   `html_theme = 'default'`  a     `html_theme = 'sphinx_rtd_theme'`
