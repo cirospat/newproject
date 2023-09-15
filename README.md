@@ -1,5 +1,4 @@
 # cirospat
-
 [**cirospat.readthedocs.io**](http://cirospat.readthedocs.io)  
 <p><img class="imageLeft" style="width: 200px; " src="https://cirospat.readthedocs.io/it/latest/_static/cirospat.jpg"></p>
 
@@ -11,4 +10,4 @@ Licenza dei contenuti di questo repository: `CC BY`
 
 ***
 ### <code> Changelog importante dal 13 settembre 2023 </code>
-Nei proeggetti READ THE DOCS -> sul file  **`conf.py`** cambiare da   `html_theme = 'default'`  a     `html_theme = 'sphinx_rtd_theme'`
+Nei progetti **READ THE DOCS** → sul file  **`conf.py`** cambiare da  →  `html_theme = 'default'`  a   →  `html_theme = 'sphinx_rtd_theme'`
