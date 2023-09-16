@@ -10,5 +10,5 @@ La licenza per il rilascio dei contenuti di questo repository è `CC BY` (attrib
 
 ***
 ## <code> Changelog </code>
-### dal 13 settembre 2023 
-Nei progetti **READ THE DOCS** → sul file  **`conf.py`** cambiare da  →  `html_theme = 'default'`  a   →  `html_theme = 'sphinx_rtd_theme'`
+### Dal 13 settembre 2023: 
+- importante → nei progetti **READ THE DOCS** → sul file  **`conf.py`** cambiare da  →  `html_theme = 'default'`  a   →  `html_theme = 'sphinx_rtd_theme'`
