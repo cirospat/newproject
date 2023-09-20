@@ -1009,6 +1009,15 @@ Settembre 2023. Riferimento all’azione del \ |STYLE100|\  del Piano triennale 
 
 |
 
+.. _h611136e16384041227c6f651b362d5e:
+
+Adesione alla Piattaforma Digitale Nazionale DATI (PDND)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Settembre 2023. Adesione alla \ |LINK140|\ , la piattaforma digitale che abilita lo scambio di informazioni tra gli enti pubblici.
+
+:guilabel:`Piano triennale per l’Informatica`
+
 
 .. bottom of content
 
@@ -1790,4 +1799,8 @@ Settembre 2023. Riferimento all’azione del \ |STYLE100|\  del Piano triennale 
 .. |LINK139| raw:: html
 
     <a href="https://notifichedigitali.pagopa.it/" target="_blank">SEND</a>
+
+.. |LINK140| raw:: html
+
+    <a href="https://www.interop.pagopa.it/" target="_blank">piattaforma nazionale Interoperabilità</a>
 
