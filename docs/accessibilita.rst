@@ -6,7 +6,7 @@ Accessibilità web
 
 \ |STYLE0|\ 
 
-.. admonition:: Materiali didattici curati da Roberto Scano
+.. admonition:: Materiali didattici curati da Roberto Scano 
 
     \ |LINK1|\ .
     I materiali sono stati prodotti da \ |LINK2|\  in occasione del raduno dei Responsabili della Transizione al Digitale, a Matera l’8 aprile 2019, organizzato nell’ambito dell’iniziativa LaPaDigitale.
