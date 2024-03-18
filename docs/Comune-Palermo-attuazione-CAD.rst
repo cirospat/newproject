@@ -998,6 +998,11 @@ Agosto 2023. Adesione alla piattaforma \ |LINK139|\ .
 
 |
 
+.. _h77f1d3a3c22334c1d6a915c2a271:
+
+2024
+----
+
 .. _h37492672206b527565b452230632e12:
 
 Effettuata dichiarazione accessibilità del sito web del comune di Palermo.
