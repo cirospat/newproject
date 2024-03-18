@@ -1025,9 +1025,7 @@ Settembre 2023. Adesione alla \ |LINK140|\ , la piattaforma digitale che abilita
 Integrazioni delle liste elettorali comunali nell’ANPR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Febbraio 2024. I cittadini residenti nel Comune di Palermo possono generare autonomamente la certificazione di godimento dei diritti politici e di iscrizione alle liste elettorali nel portale \ |LINK141|\  
-
-in quanto è stata completata l'integrazione delle liste elettorali comunali in \ |LINK142|\ !
+Febbraio 2024. I cittadini residenti nel Comune di Palermo possono generare autonomamente la certificazione di godimento dei diritti politici e di iscrizione alle liste elettorali nel portale \ |LINK141|\   in quanto è stata completata l'integrazione delle liste elettorali comunali in \ |LINK142|\ !
 
 :guilabel:`Piano triennale per l’Informatica`
 
