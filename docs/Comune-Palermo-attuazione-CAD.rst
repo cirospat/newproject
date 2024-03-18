@@ -1018,6 +1018,21 @@ Settembre 2023. Adesione alla \ |LINK140|\ , la piattaforma digitale che abilita
 
 :guilabel:`Piano triennale per l’Informatica`
 
+|
+
+.. _h1a181f1a1f281558547a45699613d49:
+
+Integrazioni delle liste elettorali comunali nell’ANPR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Febbraio 2024. I cittadini residenti nel Comune di Palermo possono generare autonomamente la certificazione di godimento dei diritti politici e di iscrizione alle liste elettorali nel portale \ |LINK141|\  
+
+in quanto è stata completata l'integrazione delle liste elettorali comunali in \ |LINK142|\ !
+
+:guilabel:`Piano triennale per l’Informatica`
+
+|
+
 
 .. bottom of content
 
@@ -1803,4 +1818,12 @@ Settembre 2023. Adesione alla \ |LINK140|\ , la piattaforma digitale che abilita
 .. |LINK140| raw:: html
 
     <a href="https://www.interop.pagopa.it/" target="_blank">piattaforma nazionale Interoperabilità</a>
+
+.. |LINK141| raw:: html
+
+    <a href="https://t.co/Z3Gez84NGe" target="_blank">https://anagrafenazionale.interno.it</a>
+
+.. |LINK142| raw:: html
+
+    <a href="https://twitter.com/hashtag/ANPR?src=hashtag_click" target="_blank">#ANPR</a>
 
