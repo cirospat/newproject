@@ -15,9 +15,9 @@ L'\ |STYLE0|\  consente a chiunque di accedere a dati, documenti e informazioni 
 FOIA POP
 ********
 
-[\ |LINK2|\ : Freedom Of Information Act]
+[FOIA: Freedom Of Information Act]
 
-\ |LINK3|\  
+\ |LINK2|\  
 
 Cerca tra più di 20000 Pubbliche Amministrazioni italiane. Crea passo passo la tua richiesta di accesso civico semplice e generalizzato a partire dagli opendata. Scopri come le PA spendono i soldi e come si finanziano. Diventa un cittadino attivo.
 
@@ -30,7 +30,7 @@ Cerca tra più di 20000 Pubbliche Amministrazioni italiane. Crea passo passo la 
 Anticorruzione, FOIA e trasparenza nella PA
 *******************************************
 
-\ |LINK4|\  a cura di \ |LINK5|\ .
+\ |LINK3|\  a cura di \ |LINK4|\ .
 
 
 .. bottom of content
@@ -54,17 +54,13 @@ Anticorruzione, FOIA e trasparenza nella PA
 
 .. |LINK2| raw:: html
 
-    <a href="http://www.funzionepubblica.gov.it/foia-7" target="_blank">FOIA</a>
+    <a href="http://www.foiapop.it/" target="_blank">http://www.foiapop.it</a>
 
 .. |LINK3| raw:: html
 
-    <a href="http://www.foiapop.it/" target="_blank">http://www.foiapop.it</a>
-
-.. |LINK4| raw:: html
-
     <a href="http://www.francescoaddante.eu/anticorruzione/anticorruzione.html" target="_blank">Raccolta di norme, analisi di norme e articoli</a>
 
-.. |LINK5| raw:: html
+.. |LINK4| raw:: html
 
     <a href="https://www.facebook.com/francesco.addante.52" target="_blank">Francesco Addante</a>
 
