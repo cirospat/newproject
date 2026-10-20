@@ -6,7 +6,7 @@ Accessibilità web
 
 \ |STYLE0|\ 
 
-.. admonition:: Materiali didattici curati da Roberto Scano 
+.. admonition:: Materiali didattici curati da Roberto Scano
 
     \ |LINK1|\ .
     I materiali sono stati prodotti da \ |LINK2|\  in occasione del raduno dei Responsabili della Transizione al Digitale, a Matera l’8 aprile 2019, organizzato nell’ambito dell’iniziativa LaPaDigitale.
@@ -420,22 +420,6 @@ I dati che presentano le seguenti caratteristiche:
 
 #. .....
 
-.. _hb62c3f17633b36652147365d68152b:
-
-PDF «scansionato» e trasparenza amministrativa
-==============================================
-
-Un PDF generato da una PA e scansionato non è una buona soluzione né per la gestione quotidiana, né per la pubblicazione all’albo o in amministrazione trasparente. 
-
-\ |LINK31|\ .
-
-.. _h605283363127101f4916686062782d:
-
-Faq AgID su Accessibilità
-=========================
-
-\ |LINK32|\ .
-
 .. _h162a1c527340644075241e6506d745a:
 
 Evitiamo questi «orrori» di accessibilità
@@ -446,42 +430,35 @@ Evitiamo questi «orrori» di accessibilità
 
 --------
 
-.. _h4f221d66632925451d5c12f7e714a6:
-
-Check the Accessibility of a PDF Document - controlla l'accessibilità di un documento PDF
-=========================================================================================
-
-\ |LINK33|\  servizio online di verifica.
-
 .. _h171259274967202c6f5e52136554626b:
 
 Strumenti open source per le verifiche di accessibilità:
 ========================================================
 
-\ |LINK34|\  (a cura di AgID):
+\ |LINK31|\  (a cura di AgID):
+
+* \ |LINK32|\ 
+
+* \ |LINK33|\ : (tool da scaricare)
+
+* \ |LINK34|\ 
 
 * \ |LINK35|\ 
 
-* \ |LINK36|\ : (tool da scaricare)
+* Web Developer Toolbar: \ |LINK36|\ ; \ |LINK37|\ ;
 
-* \ |LINK37|\ 
+* \ |LINK38|\ : estensione per il browser Chrome
 
-* \ |LINK38|\ 
+* \ |LINK39|\ 
 
-* Web Developer Toolbar: \ |LINK39|\ ; \ |LINK40|\ ;
-
-* \ |LINK41|\ : estensione per il browser Chrome
-
-* \ |LINK42|\ 
-
-* \ |LINK43|\  sono elencati all’interno del sito del \ |LINK44|\ 
+* \ |LINK40|\  sono elencati all’interno del sito del \ |LINK41|\ 
 
 .. _h6f3f6d3c14b78734f3e48262a48261a:
 
 Linee guida sull’accessibilità degli strumenti informatici
 ==========================================================
 
-\ |LINK45|\  comprendono i seguenti documenti:
+\ |LINK42|\  comprendono i seguenti documenti:
 
 * Allegato 1. Modello di dichiarazione di accessibilità sito Web e applicazione mobile
 
@@ -491,9 +468,9 @@ Linee guida sull’accessibilità degli strumenti informatici
 
 .. admonition:: Determinazione AGID n. 437 del 20 dicembre 2019
 
-    \ |LINK46|\ 
+    \ |LINK43|\ 
 
-\ |LINK47|\  (\ |LINK48|\ ).
+\ |LINK44|\  (\ |LINK45|\ ).
 
 
 .. bottom of content
@@ -652,73 +629,61 @@ Linee guida sull’accessibilità degli strumenti informatici
 
 .. |LINK31| raw:: html
 
-    <a href="https://www.anticorruzione.it/portal/rest/jcr/repository/collaboration/Digital%20Assets/anacdocs/Attivita/Trasparenza/Vigilanza/VigilanzaUfficio/2014/AziendeSanitarie/Rapporti/Azienda-USL-2-di-LuccaRapporto.pdf" target="_blank">Vedi documento ANAC</a>
+    <a href="https://drive.google.com/file/d/1SPwrcoGE5f4AiSuX3C9lMJ-zWFQ0bCqb/view" target="_blank">Strumenti open source per le verifiche di accessibilità</a>
 
 .. |LINK32| raw:: html
 
-    <a href="https://www.agid.gov.it/it/domande-frequenti/accessibilit%C3%A0" target="_blank">Vedi le domande frequenti su accessibilità, sul portale AgID</a>
+    <a href="http://validator.w3.org/" target="_blank">Validatore W3C</a>
 
 .. |LINK33| raw:: html
 
-    <a href="http://checkers.eiii.eu/en/pdfcheck/" target="_blank">http://checkers.eiii.eu/en/pdfcheck</a>
+    <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank">Colour Contrast Analyzer</a>
 
 .. |LINK34| raw:: html
 
-    <a href="https://drive.google.com/file/d/1SPwrcoGE5f4AiSuX3C9lMJ-zWFQ0bCqb/view" target="_blank">Strumenti open source per le verifiche di accessibilità</a>
+    <a href="https://contrastchecker.com/" target="_blank">Contrastchecker</a>
 
 .. |LINK35| raw:: html
 
-    <a href="http://validator.w3.org/" target="_blank">Validatore W3C</a>
+    <a href="https://webaim.org/resources/contrastchecker/" target="_blank">WebAIM</a>
 
 .. |LINK36| raw:: html
 
-    <a href="https://developer.paciellogroup.com/resources/contrastanalyser/" target="_blank">Colour Contrast Analyzer</a>
+    <a href="https://addons.mozilla.org/it/firefox/addon/web-developer/" target="_blank">Firefox</a>
 
 .. |LINK37| raw:: html
 
-    <a href="https://contrastchecker.com/" target="_blank">Contrastchecker</a>
+    <a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=it" target="_blank">Chrome</a>
 
 .. |LINK38| raw:: html
 
-    <a href="https://webaim.org/resources/contrastchecker/" target="_blank">WebAIM</a>
+    <a href="https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc" target="_blank">Siteimprove Browser Extensions</a>
 
 .. |LINK39| raw:: html
 
-    <a href="https://addons.mozilla.org/it/firefox/addon/web-developer/" target="_blank">Firefox</a>
+    <a href="https://www.freedomscientific.com/products/software/jaws/" target="_blank">JAWS Screen Reader</a>
 
 .. |LINK40| raw:: html
 
-    <a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=it" target="_blank">Chrome</a>
+    <a href="https://www.w3.org/WAI/ER/tools/" target="_blank">Ulteriori strumenti</a>
 
 .. |LINK41| raw:: html
 
-    <a href="https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc" target="_blank">Siteimprove Browser Extensions</a>
+    <a href="https://www.w3.org/WAI/ER/tools/" target="_blank">W3C</a>
 
 .. |LINK42| raw:: html
 
-    <a href="https://www.freedomscientific.com/products/software/jaws/" target="_blank">JAWS Screen Reader</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html" target="_blank">Le linee guida sull'accessibilità degli strumenti informatici</a>
 
 .. |LINK43| raw:: html
 
-    <a href="https://www.w3.org/WAI/ER/tools/" target="_blank">Ulteriori strumenti</a>
+    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_122158_725_1.html" target="_blank">Adozione delle Linee Guida sull’accessibilità degli strumenti informatici</a>
 
 .. |LINK44| raw:: html
 
-    <a href="https://www.w3.org/WAI/ER/tools/" target="_blank">W3C</a>
-
-.. |LINK45| raw:: html
-
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html" target="_blank">Le linee guida sull'accessibilità degli strumenti informatici</a>
-
-.. |LINK46| raw:: html
-
-    <a href="https://trasparenza.agid.gov.it/archivio28_provvedimenti-amministrativi_0_122158_725_1.html" target="_blank">Adozione delle Linee Guida sull’accessibilità degli strumenti informatici</a>
-
-.. |LINK47| raw:: html
-
     <a href="https://form.agid.gov.it/" target="_blank">Piattaforma online per la verifica del rispetto dei requisiti per l'accessibilità dei siti e servizi web della PA</a>
 
-.. |LINK48| raw:: html
+.. |LINK45| raw:: html
 
     <a href="https://form.agid.gov.it/" target="_blank">https://form.agid.gov.it</a>
 
