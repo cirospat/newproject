@@ -82,10 +82,6 @@ territorial mini guide
     -cirospat-lightgray
     .svg?style=popout&amp;logo=medium&amp;logoColor=yellow" />&nbsp;</a> [articoli sui dati aperti e pubblica amministrazione digitale]&nbsp;<span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
     
-    <p><img src="https://img.shields.io/badge/skype
-    -cirospat-lightgray
-    .svg?style=popout&amp;logo=skype&amp;logoColor=9cf" /></p>
-    
 .. |REPLACE3| raw:: html
 
     <p><a href="https://www.flickr.com/photos/cirospat/albums" target="_blank" rel="noopener" title="flickr cirospat"><img src="https://img.shields.io/badge/flickr-cirospat-red.svg?style=popout&logo=flickr&logoColor=red" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
@@ -94,9 +90,6 @@ territorial mini guide
     
     <p><a href="https://it.pinterest.com/cirospat" target="_blank" rel="noopener" title="pinterest cirospat"><img src="https://img.shields.io/badge/pinterest-cirospat-red.svg?style=popout&logo=pinterest&logoColor=red" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
     
-    <p><a href="http://bit.ly/inmypalermo" target="_blank" rel="noopener" title="in_my_palermo by cirospat"><img src="https://img.shields.io/badge/in_my_palermo-cirospat-red.svg?style=popout&logo=google&logoColor=red" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
-    
-    <p><a href="http://bit.ly/inbaltikforest" target="_blank" rel="noopener" title="in_baltik_forest by cirospat"><img src="https://img.shields.io/badge/in_baltik_forest-cirospat-red.svg?style=popout&logo=google&logoColor=red" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
     
     <p><a href="http://cirospat.aminus3.com/portfolio" target="_blank" rel="noopener" title="a_view_of_world_children by cirospat"><img src="https://img.shields.io/badge/a_view_of_world_children-cirospat-blueviolet.svg" /></a><span style="color: #ff0000;"><code>licenza CC BY</code></span></p>
 .. |REPLACE4| raw:: html
