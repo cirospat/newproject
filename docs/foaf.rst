@@ -66,13 +66,8 @@ Da un \ |LINK5|\ .
 
 |REPLACE1|
 
-\ |STYLE0|\ : visualizza il \ |LINK6|\ .
-
 
 .. bottom of content
-
-
-.. |STYLE0| replace:: **Curiosità**
 
 
 .. |REPLACE1| raw:: html
@@ -98,8 +93,4 @@ Da un \ |LINK5|\ .
 .. |LINK5| raw:: html
 
     <a href="https://twitter.com/gpirrotta/status/1055845619019980801" target="_blank">input didattico di Giovanni Pirrotta</a>
-
-.. |LINK6| raw:: html
-
-    <a href="http://visualdataweb.de/webvowl/?fbclid=IwAR3sCncjweQDHVyJ2IhFfHM4O1OJSav66-qdr9AxZd6jy77V9ZrT8JB9k64" target="_blank">grafo dell'ontologia FOAF</a>
 
